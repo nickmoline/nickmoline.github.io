@@ -20,30 +20,37 @@
 		a:hover { color: #990000; border-bottom: 1px solid rgba(255,255,255,1); }
 		#monogram { width: 50px; padding: 50px 0 0 0; margin: 0 auto 0 50px; }
 		#about { width: 30%; padding: 25px; margin: -35px 50px 0 auto !important; background-color:rgba(255,255,255,0.5); }
+		#photo { display: none; }
 		@media (max-width: 767px) {
 			#monogram { position: relative; width: auto; padding: 20px; margin: 0; }
 			#about { position: relative; width: auto; padding: 20px; margin: 0 !important; }
+			#photo { display: block; }
+			#photo img { width: 100%; }
 			background-image { opacity: 0.2; }
 		}
 	</style>
 </head>	
     
-<body>
+<body itemscope itemtype="http://schema.org/Person">
 
 <!-- swap out for a logo -->
 <div id="monogram">
 	<img src="monogram.png" width="180" />
 </div>
 
+<div id="photo">
+	<img src="portraitleft.jpg" width="500" itemprop="image" />
+</div>
+
 <!-- swap out for information about yourself -->
 <div id="about">
-	<p>Nick Moline is a senior software engineer at <a href="http://www.justia.com/">Justia.com</a>, a company in Mountain View, California dedicated to making the law free and available for everyone.  At Justia Nick works on a variety of free legal information projects with the rest of the talented engineering team there.</p>
+	<p><span itemprop="name"><span itemprop="givenName">Nick</span> <span itemprop="familyName">Moline</span></span> is a <span itemprop="jobTitle">senior software engineer</span> at <span itemprop="worksFor" itemtype="http://schema.org/ProfessionalService" itemscope><a href="http://www.justia.com/" itemprop="url"><span itemprop="name">Justia</span></a>, a company in <span itemprop="location" itemtype="http://schema.org/City" itemscope><span itemprop="name">Mountain View</span>, <span itemprop="containedIn" itemtype="http://schema.org/State" itemscope><span itemprop="name">California</span></span></span> dedicated to making the law free and available for everyone</span>.  At Justia Nick works on a variety of free legal information projects with the rest of the talented engineering team there.</p>
 
 	<p>Unfortunately he struggled with being overweight all his life.  In January, 2011 enough was enough and Nick decided to start losing weight.  He <a href="https://www.nick.pro/2012/06/01/weight-loss-update-and-transparency/">weighed in at 490.2 pounds</a>.  After 2 years of diet, exercise and surgery, Nick currently (as of April 7, 2013) weighs in at 309.5 pounds, 180.7 pounds lost.  He still has a long way to go, but he's proud of his progress and looks forward to breaking the 300 pound barrier very soon.  Track his health progress on <a href="http://www.fitbit.com/user/223FZ9" rel="me">fitbit</a> or on <a href="http://www.nick.pro/" rel="me">his blog</a> in the <a href="https://www.nick.pro/category/health/weight-loss/">Weight Loss category</a></p>
 
 	<p>Nick writes on his blog at <a href="http://www.nick.pro/" rel="me">Nick.pro</a>.  He can also be found on <a href="http://twitter.com/nickmoline" rel="me">twitter @nickmoline</a>, as well as on <a href="https://plus.google.com/100038801356570551641/posts" rel="me">Google+</a>, <a href="https://www.facebook.com/nickmoline" rel="me">Facebook</a> and <a href="http://www.linkedin.com/in/nickmoline" rel="me">LinkedIn</a>.</p>
 
-	<p>Nick currently lives in Sunnyvale, California with his wife <a href="http://www.barbara.pro/" rel="spouse sweetheart date met">Barbara</a>, their best friend and roommate <a href="http://www.goosite.net/" rel="friend met">Mike</a>, and their two cats <a href="http://www.snugglekitty.com/" rel="pet met">Jax and Joules</a>.</p>
+	<p>Nick currently lives in <span itemprop="homeLocation" itemtype="http://schema.org/City" itemscope><span itemprop="name">Sunnyvale</span>, <span itemprop="containedIn" itemtype="http://schema.org/State" itemscope><span itemprop="name">California</span></span></span> with his wife <span itemprop="spouse" itemtype="http://schema.org/Person" itemscope><a href="http://www.barbara.pro/" rel="spouse sweetheart date met" itemprop="url"><span itemprop="givenName">Barbara</span></a></span>, their best friend and roommate <span itemprop="knows" itemtype="http://schema.org/Person" itemscope><a href="http://www.goosite.net/" rel="friend met" itemprop="url"><span itemprop="givenName">Mike</span> <span itemprop="familyName">Johnson</span></a></span>, and their two cats <a href="http://www.snugglekitty.com/" rel="pet met">Jax and Joules</a>.</p>
 
 </div>
 
