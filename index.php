@@ -38,28 +38,7 @@
 	<!--[if lt IE 9]>
 	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->	
-	<style>
-		* { padding: 0; margin: 0; }
-		body { background-color: #EEE; }
-		p { font-family: Helvetica; font-size: 16px; line-height: 24px; margin-bottom: 22px; -webkit-font-smoothing: antialiased; }
-		a { color: rgb(8, 8, 146); font-weight: bold; text-decoration: none; border-bottom: 1px solid rgba(1, 1, 111,0.3); }
-		a:hover { color: #990000; border-bottom: 1px solid rgba(8, 8, 146,1); }
-		#monogram { width: 50px; padding: 50px 0 0 0; margin: 0 auto 0 50px; }
-		.about { color: rgb(1, 1, 111); width: 30%; padding: 25px; margin: -35px 50px 0 auto !important; background-color:rgba(255,255,255,0.5); }
-		#photo { display: none; }
-		#social-icons { font-size: 28px; }
-		#social-icons a { border-bottom: none; }
-		#social-icons a:hover { border-bottom: none; }
-		#disclaimer { font-size :0.8em; font-style: italic; }
-		@media (max-width: 767px) {
-			#monogram { position: relative; width: auto; padding: 20px; margin: 0; }
-			.about { position: relative; width: auto; padding: 20px; margin: 0 !important; }
-			#photo { display: block; }
-			#photo img { width: 100%; }
-			background-image { opacity: 0.2; }
-		}
-	</style>
-	<link rel="stylesheet" href="foundation_icons_social/stylesheets/social_foundicons.css">
+	<link rel="stylesheet" href="/nickmoline.min.css?build=<?=filemtime('nickmoline.min.css');?>">
 </head>	
     
 <body>
@@ -77,9 +56,9 @@
 <div id="about" class="about">
 	<p><span itemprop="name"><span itemprop="givenName">Nicholas</span> <span itemprop="additionalName">Scott</span> <span itemprop="familyName">Moline</span></span> is a <span itemprop="jobTitle">senior software engineer</span> at <span itemprop="worksFor" itemtype="http://schema.org/ProfessionalService" itemscope><a href="http://www.justia.com/" itemprop="url"><span itemprop="name">Justia</span></a>, a company in <span itemprop="location" itemtype="http://schema.org/City" itemscope><span itemprop="name">Mountain View</span>, <span itemprop="containedIn" itemtype="http://schema.org/State" itemscope><span itemprop="name">California</span></span></span> dedicated to making the law free and available for everyone</span>.  At Justia Nick works on a variety of free legal information projects with the rest of the talented engineering team there.</p>
 
-	<p>Unfortunately he struggled with being overweight all his life.  In January, 2011 enough was enough and Nick decided to start losing weight.  He weighed in at 490.2 pounds.  After 2 years of diet, exercise and surgery, Nick currently (as of April 7, 2013) weighs in at <strong>309.5 pounds, 180.7 pounds lost</strong>.  He still has a long way to go, but he's proud of his progress and looks forward to breaking the 300 pound barrier very soon.  Track his health progress on <a href="http://www.fitbit.com/user/223FZ9" rel="me">fitbit</a> or on <a href="http://www.nick.pro/" rel="me"><i class="foundicon-wordpress"></i> Nicholas Moline</a>'s blog in the <a href="https://www.nick.pro/category/health/weight-loss/">Weight Loss category</a></p>
+	<p>Unfortunately he struggled with being overweight all his life.  In January, 2011 enough was enough and Nick decided to start losing weight.  He weighed in at 490.2 pounds.  After 2 years of diet, exercise and surgery, Nick currently (as of April 7, 2013) weighs in at <strong>309.5 pounds, 180.7 pounds lost</strong>.  He still has a long way to go, but he's proud of his progress and looks forward to breaking the 300 pound barrier very soon.  Track his health progress on <a href="http://www.fitbit.com/user/223FZ9" rel="me">fitbit</a> or on his blog's <a href="https://www.nick.pro/category/health/weight-loss/">Weight Loss category</a></p>
 
-	<p>Check out <a href="http://www.nick.pro/" rel="me"><i class="foundicon-wordpress"></i> Nick Moline</a>'s blog to find out more about him.  He occasionally also writes on <a href="http://onward.justia.com/author/nickmoline" rel="me">Justia's Blog</a>.  He can also be found on <a href="http://twitter.com/nickmoline" rel="me"><i class="foundicon-twitter"></i> twitter as @nickmoline</a>, as well as on <a href="https://plus.google.com/100038801356570551641/posts" rel="me"><i class="foundicon-google-plus"></i> Google+</a>, <a href="https://www.facebook.com/nickmoline" rel="me"><i class="foundicon-facebook"></i> Facebook</a> and <a href="http://www.linkedin.com/in/nickmoline" rel="me"><i class="foundicon-linkedin"></i> LinkedIn</a>.</p>
+	<p>Check out <a href="http://www.nick.pro/" rel="me"><i class="foundicon-wordpress"></i> Nick Moline's blog</a> to find out more about him.  He occasionally also writes on <a href="http://onward.justia.com/author/nickmoline" rel="me">Justia's Blog</a>.  He can also be found on <a href="http://twitter.com/nickmoline" rel="me"><i class="foundicon-twitter"></i> twitter as @nickmoline</a>, as well as on <a href="https://plus.google.com/100038801356570551641/posts" rel="me"><i class="foundicon-google-plus"></i> Google+</a>, <a href="https://www.facebook.com/nickmoline" rel="me"><i class="foundicon-facebook"></i> Facebook</a> and <a href="http://www.linkedin.com/in/nickmoline" rel="me"><i class="foundicon-linkedin"></i> LinkedIn</a>.</p>
 
 	<p>Nick currently lives in <span itemprop="homeLocation" itemtype="http://schema.org/City" itemscope><span itemprop="name">Sunnyvale</span>, <span itemprop="containedIn" itemtype="http://schema.org/State" itemscope><span itemprop="name">California</span></span></span> with his wife <span itemprop="spouse" itemtype="http://schema.org/Person" itemscope><a href="http://www.barbara.pro/" rel="spouse sweetheart date met" itemprop="url"><span itemprop="givenName">Barbara</span> <span itemprop="familyName">Moline</span></a></span>, their best friend and roommate <span itemprop="knows" itemtype="http://schema.org/Person" itemscope><a href="http://www.goosite.net/" rel="friend met" itemprop="url"><span itemprop="givenName">Mike</span> <span itemprop="familyName">Johnson</span></a></span>, and their two cats <a href="http://www.snugglekitty.com/" rel="pet met">Jax and Joules</a>.</p>
 
@@ -99,21 +78,7 @@
 
 </div>
 
-
-
-<!--include jquery & backstretch-->
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script type="text/javascript" src="jquery.backstretch.min.js"></script>
-<script type="text/javascript">
-$(function(){
-     $(window).resize(function(){
-         if($(this).width() >= 767){
-             $.backstretch("portraitleft.jpg", {speed: 150});
-         }
-      })
-      .resize();//trigger resize on page load
-});
-</script>
+<script type="text/javascript" src="/nickmoline.min.js?build=<?=filemtime('nickmoline.min.js');?>"></script>
 
 <!-- Piwik -->
 <script type="text/javascript">
