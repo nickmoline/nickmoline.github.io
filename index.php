@@ -3,7 +3,7 @@
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# profile: http://ogp.me/ns/profile#">
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<title>Nick Moline</title>
-	<link rel="Shortcut Icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="Shortcut Icon" href="//nickmoline.com/favicon.ico" type="image/x-icon" />
 	<meta http-equiv="pragma" content="no-cache" />
 	<meta name="robots" content="index, follow" />
 	<meta name="MSSmartTagsPreventParsing" content="true" />
@@ -38,18 +38,18 @@
 	<!--[if lt IE 9]>
 	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->	
-	<link rel="stylesheet" href="/nickmoline.min.css?build=<?=filemtime('nickmoline.min.css');?>">
+	<link rel="stylesheet" href="//nickmoline.com/nickmoline.min.css?build=<?=filemtime('nickmoline.min.css');?>">
 </head>	
     
 <body>
 
 <!-- swap out for a logo -->
 <div id="monogram">
-	<img src="monogram.png" width="180" alt="Nick Moline" title="Nick Moline" border="0" />
+	<img src="//nickmoline.com/monogram.png" width="180" alt="Nick Moline" title="Nick Moline" border="0" />
 </div>
 
 <div id="photo">
-	<img src="square-avatar.jpg" width="500" itemprop="image" />
+	<img src="//nickmoline.com/square-avatar.jpg" width="500" itemprop="image" />
 </div>
 
 <!-- swap out for information about yourself -->
@@ -78,7 +78,7 @@
 
 </div>
 
-<script type="text/javascript" src="/nickmoline.min.js?build=<?=filemtime('nickmoline.min.js');?>"></script>
+<script type="text/javascript" src="//nickmoline.com/nickmoline.min.js?build=<?=filemtime('nickmoline.min.js');?>"></script>
 
 <!-- Piwik -->
 <script type="text/javascript">
