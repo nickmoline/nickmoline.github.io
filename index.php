@@ -39,7 +39,7 @@
 	<!--[if lt IE 9]>
 	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->	
-	<link rel="stylesheet" href="//nickmoline.com/nickmoline.min.css?build=<?=filemtime('nickmoline.min.css');?>">
+	<link rel="stylesheet" href="//nickmoline.com/nickmoline.source.css">
 </head>	
     
 <body>
@@ -79,7 +79,10 @@
 
 </div>
 
-<script type="text/javascript" src="//nickmoline.com/nickmoline.min.js?build=<?=filemtime('nickmoline.min.js');?>"></script>
+
+<script type="text/javascript" src="//nickmoline.com/jquery.js"></script>
+<script type="text/javascript" src="//nickmoline.com/jquery.backstretch.js"></script>
+<script type="text/javascript" src="//nickmoline.com/nickmoline.source.js"></script>
 
 <!-- Piwik -->
 <script type="text/javascript">
