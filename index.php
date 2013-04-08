@@ -12,6 +12,7 @@
 
 	<meta name="description" content="A senior software engineer at Justia.com who works on free legal information projects, and a man proud to have lost 180 pounds (and still losing)" />
 
+	<link rel="canonical" href="http://nickmoline.com/" />
 	<link rel="author" href="https://plus.google.com/100038801356570551641/posts" />
 
 	<meta property="og:type" content="profile" />
