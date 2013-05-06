@@ -30,7 +30,8 @@ a:hover {
 }
 .about { 
 	color: rgb(1, 1, 111); 
-	width: 30%; 
+	width: 30%;
+	min-width: 320px;
 	padding: 25px; 
 	margin: -35px 50px 0 auto !important; 
 	background-color:rgba(255,255,255,0.5); 
@@ -63,7 +64,8 @@ a:hover {
 	}
 	.about { 
 		position: relative; 
-		width: auto; 
+		width: auto;
+		min-width: auto;
 		padding: 20px; 
 		margin: 0 !important; 
 	}
