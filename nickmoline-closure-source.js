@@ -8,7 +8,7 @@
 $(function(){
      $(window).resize(function(){
          if($(this).width() >= 767){
-             $.backstretch("/background-jellybean.jpg", {speed: 150});
+             $.backstretch("/optimized/background-jellybean.jpg", {speed: 150});
          }
       })
       .resize();//trigger resize on page load
