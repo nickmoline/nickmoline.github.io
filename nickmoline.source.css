@@ -30,11 +30,11 @@ a:hover {
 }
 .about { 
 	color: rgb(1, 1, 111); 
-	width: 30%;
+	width: 50%;
 	min-width: 320px;
 	padding: 25px;
 	margin: -35px 50px 0 auto !important;
-	background-color:rgba(255,255,255,0.5);
+	background-color:rgba(255,255,255,0.75);
 }
 #photo { 
 	display: none; 
