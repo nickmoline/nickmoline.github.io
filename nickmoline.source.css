@@ -21,7 +21,7 @@ a {
 }
 a:hover { 
 	color: #990000; 
-	border-bottom: 1px solid rgba(8, 8, 146,1); 
+	border-bottom: 1px solid rgba(8, 8, 146,1);
 }
 #monogram { 
 	width: 50px; 
@@ -32,9 +32,9 @@ a:hover {
 	color: rgb(1, 1, 111); 
 	width: 30%;
 	min-width: 320px;
-	padding: 25px; 
-	margin: -35px 50px 0 auto !important; 
-	background-color:rgba(255,255,255,0.5); 
+	padding: 25px;
+	margin: -35px 50px 0 auto !important;
+	background-color:rgba(255,255,255,0.5);
 }
 #photo { 
 	display: none; 
