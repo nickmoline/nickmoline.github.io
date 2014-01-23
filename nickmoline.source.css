@@ -41,10 +41,11 @@ a:hover {
 	display: none; 
 }
 #social-icons { 
-	font-size: 28px; 
+	font-size: 48px; 
 }
 #social-icons a { 
 	border-bottom: none; 
+	padding-right:5px;
 }
 #social-icons a:hover { 
 	border-bottom: none; 
