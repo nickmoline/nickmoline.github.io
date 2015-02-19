@@ -36,6 +36,7 @@ RewriteEngine on
     AddType video/mpeg .mpeg .mpg .mpe
     AddType application/vnd.ms-project .mpp
     AddType application/x-font-otf .otf
+    AddType application/x-woff .woff
     AddType application/vnd.oasis.opendocument.database .odb
     AddType application/vnd.oasis.opendocument.chart .odc
     AddType application/vnd.oasis.opendocument.formula .odf
@@ -95,6 +96,7 @@ RewriteEngine on
     ExpiresByType video/mpeg A31536000
     ExpiresByType application/vnd.ms-project A31536000
     ExpiresByType application/x-font-otf A31536000
+    ExpiresByType application/x-woff A31536000
     ExpiresByType application/vnd.oasis.opendocument.database A31536000
     ExpiresByType application/vnd.oasis.opendocument.chart A31536000
     ExpiresByType application/vnd.oasis.opendocument.formula A31536000
