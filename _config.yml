@@ -4,7 +4,7 @@ cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
 baseurl: "/"
-url: https://www.nickmoline.com
+url: https://nickmoline.github.io
 name: nickmoline.com
 
 pagination:
@@ -12,9 +12,9 @@ pagination:
   debug: false
   per_page: 10
 
-facebook: https://www.facebook.com/nickmoline
-twitter: https://twitter.com/NickMoline
-github: https://www.github.com/nickmoline/
+facebook: nickmoline
+twitter: NickMoline
+github: nickmoline
 
 about: about
 contact: contact
@@ -37,7 +37,7 @@ lsi: false
 username: nickmoline
 repo: nickmoline.github.io
 branch: master
-production_url: https://www.nickmoline.com
+production_url: https://nickmoline.github.io
 source_url: https://github.com/nickmoline/nickmoline.github.io
 
 exclude:
