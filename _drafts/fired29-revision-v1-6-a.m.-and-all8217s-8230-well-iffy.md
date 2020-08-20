@@ -2,7 +2,7 @@
 id: 2016
 title: '6 a.m. and all&#8217;s &#8230; well iffy'
 date: 2020-05-13T12:04:24-07:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2020/05/13/29-revision-v1/
 permalink: /2020/05/13/29-revision-v1/

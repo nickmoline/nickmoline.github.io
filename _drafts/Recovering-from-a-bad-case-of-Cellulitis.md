@@ -2,7 +2,7 @@
 id: 513
 title: Recovering from a bad case of Cellulitis
 date: 2011-10-17T17:57:41-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=513
 permalink: /?p=513

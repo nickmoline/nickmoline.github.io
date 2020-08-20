@@ -2,7 +2,7 @@
 id: 1293
 title: The Continuing Decline of Viacom
 date: 2016-10-09T22:52:59-07:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2016/10/09/129-revision-v1/
 permalink: /2016/10/09/129-revision-v1/

@@ -2,7 +2,7 @@
 id: 1133
 title: 'You can&#8217;t see where you are going&#8230;'
 date: 2014-11-13T17:02:46-08:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2014/11/13/44-autosave-v1/
 permalink: /2014/11/13/44-autosave-v1/

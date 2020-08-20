@@ -2,7 +2,7 @@
 id: 1315
 title: What you need to worry about with HTTPS Everywhere
 date: 2017-04-25T21:32:47-07:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2017/04/25/1314-revision-v1/
 permalink: /2017/04/25/1314-revision-v1/

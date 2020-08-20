@@ -2,7 +2,7 @@
 id: 1320
 title: A Good Day
 date: 2017-05-03T17:00:21-07:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2017/05/03/82-autosave-v1/
 permalink: /2017/05/03/82-autosave-v1/

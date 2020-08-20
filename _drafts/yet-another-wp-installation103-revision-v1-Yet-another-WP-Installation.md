@@ -2,7 +2,7 @@
 id: 1421
 title: Yet another WP Installation
 date: 2018-04-30T13:56:38-07:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2018/04/30/103-revision-v1/
 permalink: /2018/04/30/103-revision-v1/

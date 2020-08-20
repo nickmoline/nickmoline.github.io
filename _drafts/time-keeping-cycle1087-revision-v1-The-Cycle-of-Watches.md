@@ -2,7 +2,7 @@
 id: 1114
 title: The Cycle of Watches
 date: 2014-09-21T02:50:48-07:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2014/09/21/1087-revision-v1/
 permalink: /2014/09/21/1087-revision-v1/

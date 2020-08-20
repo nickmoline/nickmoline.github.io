@@ -2,7 +2,7 @@
 id: 1650
 title: Wearing a computer at MIT, a 2 decade dream realized
 date: 2019-04-11T12:09:13-07:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2019/04/11/1047-autosave-v1/
 permalink: /2019/04/11/1047-autosave-v1/

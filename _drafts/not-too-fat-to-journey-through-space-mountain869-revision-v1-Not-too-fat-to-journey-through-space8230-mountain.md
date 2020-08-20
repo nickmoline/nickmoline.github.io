@@ -2,7 +2,7 @@
 id: 1068
 title: 'Not too fat to journey through space&#8230; mountain!'
 date: 2014-08-20T16:49:15-07:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: http://nick.holodeck3.com/2014/08/20/869-revision-v1/
 permalink: /2014/08/20/869-revision-v1/

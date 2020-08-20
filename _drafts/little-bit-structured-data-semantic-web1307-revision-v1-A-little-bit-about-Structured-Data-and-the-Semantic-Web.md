@@ -2,7 +2,7 @@
 id: 1308
 title: A little bit about Structured Data and the Semantic Web
 date: 2016-11-01T16:08:22-07:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2016/11/01/1307-revision-v1/
 permalink: /2016/11/01/1307-revision-v1/

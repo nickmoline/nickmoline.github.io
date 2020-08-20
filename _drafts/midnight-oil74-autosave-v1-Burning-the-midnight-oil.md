@@ -2,7 +2,7 @@
 id: 1163
 title: Burning the midnight oil
 date: 2014-11-13T17:26:29-08:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2014/11/13/74-autosave-v1/
 permalink: /2014/11/13/74-autosave-v1/

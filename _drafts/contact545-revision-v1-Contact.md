@@ -2,7 +2,7 @@
 id: 1359
 title: Contact
 date: 2017-07-10T21:33:09-07:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2017/07/10/545-revision-v1/
 permalink: /2017/07/10/545-revision-v1/

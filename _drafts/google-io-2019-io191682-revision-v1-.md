@@ -1,7 +1,7 @@
 ---
 id: 1685
 date: 2019-05-29T13:16:45-07:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2019/05/29/1682-revision-v1/
 permalink: /2019/05/29/1682-revision-v1/

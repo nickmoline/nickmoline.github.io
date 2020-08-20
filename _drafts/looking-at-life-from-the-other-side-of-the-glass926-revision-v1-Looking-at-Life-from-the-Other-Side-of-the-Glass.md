@@ -2,7 +2,7 @@
 id: 1131
 title: Looking at Life from the Other Side of the Glass
 date: 2014-11-13T16:58:28-08:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2014/11/13/926-revision-v1/
 permalink: /2014/11/13/926-revision-v1/

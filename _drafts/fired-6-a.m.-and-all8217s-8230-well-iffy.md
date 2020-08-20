@@ -2,7 +2,7 @@
 id: 29
 title: '6 a.m. and all&#8217;s &#8230; well iffy'
 date: 2004-02-25T06:36:40-08:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://1410545042
 permalink: /?p=29

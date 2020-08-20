@@ -2,7 +2,7 @@
 id: 1699
 title: My Google I/O 2019 Experience
 date: 2019-05-30T13:47:36-07:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2019/05/30/1682-revision-v1/
 permalink: /2019/05/30/1682-revision-v1/

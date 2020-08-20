@@ -2,7 +2,7 @@
 id: 1318
 title: On Ben’s view on how to fix the Legislature
 date: 2017-05-03T16:54:51-07:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2017/05/03/81-autosave-v1/
 permalink: /2017/05/03/81-autosave-v1/

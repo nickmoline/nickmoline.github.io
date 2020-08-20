@@ -2,7 +2,7 @@
 id: 1582
 title: 'The Geek&#8217;s Night Before Christmas'
 date: 2019-03-11T10:15:24-07:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2019/03/11/533-revision-v1/
 permalink: /2019/03/11/533-revision-v1/

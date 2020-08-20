@@ -2,7 +2,7 @@
 id: 1172
 title: Common Sense
 date: 2014-11-13T17:39:37-08:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2014/11/13/80-revision-v1/
 permalink: /2014/11/13/80-revision-v1/

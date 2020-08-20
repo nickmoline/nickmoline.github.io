@@ -2,7 +2,7 @@
 id: 1139
 title: Google Developer Day 2007
 date: 2014-11-13T17:14:11-08:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2014/11/13/143-revision-v1/
 permalink: /2014/11/13/143-revision-v1/

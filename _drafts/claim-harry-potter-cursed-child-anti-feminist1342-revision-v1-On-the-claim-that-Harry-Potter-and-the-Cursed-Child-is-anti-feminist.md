@@ -2,7 +2,7 @@
 id: 1345
 title: On the claim that Harry Potter and the Cursed Child is anti-feminist
 date: 2017-06-03T16:42:42-07:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2017/06/03/1342-revision-v1/
 permalink: /2017/06/03/1342-revision-v1/

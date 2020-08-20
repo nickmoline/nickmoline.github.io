@@ -2,7 +2,7 @@
 id: 1375
 title: 'Deals I&#8217;m watching'
 date: 2017-07-27T14:52:38-07:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2017/07/27/1371-revision-v1/
 permalink: /2017/07/27/1371-revision-v1/

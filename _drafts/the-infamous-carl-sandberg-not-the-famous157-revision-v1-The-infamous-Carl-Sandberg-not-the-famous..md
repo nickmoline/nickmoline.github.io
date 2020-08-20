@@ -2,7 +2,7 @@
 id: 1734
 title: The infamous Carl Sandberg, not the famous.
 date: 2019-07-16T09:54:04-07:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2019/07/16/157-revision-v1/
 permalink: /2019/07/16/157-revision-v1/

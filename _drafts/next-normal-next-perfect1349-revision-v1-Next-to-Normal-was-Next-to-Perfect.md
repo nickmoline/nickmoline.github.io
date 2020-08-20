@@ -2,7 +2,7 @@
 id: 1635
 title: Next to Normal was Next to Perfect
 date: 2019-04-08T02:13:14-07:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2019/04/08/1349-revision-v1/
 permalink: /2019/04/08/1349-revision-v1/

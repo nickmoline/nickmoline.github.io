@@ -2,7 +2,7 @@
 id: 1268
 title: Videos
 date: 2015-06-26T02:05:17-07:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2015/06/26/1267-revision-v1/
 permalink: /2015/06/26/1267-revision-v1/

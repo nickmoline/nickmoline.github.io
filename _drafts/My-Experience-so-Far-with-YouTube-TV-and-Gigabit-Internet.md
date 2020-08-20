@@ -2,7 +2,7 @@
 id: 1368
 title: My Experience so Far with YouTube TV and Gigabit Internet
 date: 2017-08-12T23:29:11-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: https://www.nick.pro/?p=1368
 permalink: /?p=1368

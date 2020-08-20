@@ -2,7 +2,7 @@
 id: 1069
 title: One Year Post-Op
 date: 2014-08-20T16:49:42-07:00
-author: Nick Moline
+author: nickmoline
 excerpt: "It has been 1 year since my weight-loss surgery, here's how I'm doing and how I celebrated."
 layout: revision
 guid: http://nick.holodeck3.com/2014/08/20/969-revision-v1/

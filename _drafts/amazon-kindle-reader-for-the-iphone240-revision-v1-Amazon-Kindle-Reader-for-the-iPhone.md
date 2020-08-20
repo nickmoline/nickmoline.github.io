@@ -2,7 +2,7 @@
 id: 1347
 title: Amazon Kindle Reader for the iPhone
 date: 2017-06-16T15:52:17-07:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2017/06/16/240-revision-v1/
 permalink: /2017/06/16/240-revision-v1/

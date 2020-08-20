@@ -2,7 +2,7 @@
 id: 1169
 title: Evermore
 date: 2014-11-13T17:36:53-08:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2014/11/13/40-revision-v1/
 permalink: /2014/11/13/40-revision-v1/

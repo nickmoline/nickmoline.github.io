@@ -2,7 +2,7 @@
 id: 1317
 title: 'How To: Hide content from search engines, and why you would do it'
 date: 2017-05-03T16:47:47-07:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2017/05/03/1316-revision-v1/
 permalink: /2017/05/03/1316-revision-v1/

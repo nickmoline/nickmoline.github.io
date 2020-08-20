@@ -2,7 +2,7 @@
 id: 1177
 title: Cleaning Up and Clearing Out
 date: 2014-11-24T17:26:19-08:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2014/11/24/31-autosave-v1/
 permalink: /2014/11/24/31-autosave-v1/

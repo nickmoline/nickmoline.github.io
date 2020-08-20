@@ -2,7 +2,7 @@
 id: 1073
 title: Google I/O 2012 starts tomorrow morning
 date: 2014-08-20T16:53:04-07:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: http://nick.holodeck3.com/2014/08/20/757-revision-v1/
 permalink: /2014/08/20/757-revision-v1/

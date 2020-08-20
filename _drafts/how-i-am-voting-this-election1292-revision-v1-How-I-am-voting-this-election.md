@@ -2,7 +2,7 @@
 id: 1334
 title: How I am voting this election
 date: 2017-05-12T10:59:06-07:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2017/05/12/1292-revision-v1/
 permalink: /2017/05/12/1292-revision-v1/

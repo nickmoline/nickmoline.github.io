@@ -2,7 +2,7 @@
 id: 1585
 title: Seven Blog Posts in Three Days
 date: 2019-03-13T10:36:33-07:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2019/03/13/1336-revision-v1/
 permalink: /2019/03/13/1336-revision-v1/

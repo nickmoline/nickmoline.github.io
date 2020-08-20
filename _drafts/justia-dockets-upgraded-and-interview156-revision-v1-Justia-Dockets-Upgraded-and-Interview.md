@@ -2,7 +2,7 @@
 id: 1150
 title: Justia Dockets Upgraded and Interview
 date: 2014-11-13T17:19:25-08:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2014/11/13/156-revision-v1/
 permalink: /2014/11/13/156-revision-v1/

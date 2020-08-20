@@ -2,7 +2,7 @@
 id: 1174
 title: Image Editing Fool
 date: 2014-11-13T17:40:39-08:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2014/11/13/97-revision-v1/
 permalink: /2014/11/13/97-revision-v1/

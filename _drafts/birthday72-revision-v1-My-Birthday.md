@@ -2,7 +2,7 @@
 id: 1574
 title: My Birthday
 date: 2019-03-11T09:46:37-07:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2019/03/11/72-revision-v1/
 permalink: /2019/03/11/72-revision-v1/

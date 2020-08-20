@@ -2,7 +2,7 @@
 id: 1270
 title: 'Extra Extra &#8211; Read all about it!'
 date: 2015-08-28T12:05:47-07:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2015/08/28/848-autosave-v1/
 permalink: /2015/08/28/848-autosave-v1/

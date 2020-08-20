@@ -2,7 +2,7 @@
 id: 1173
 title: Trend Started
 date: 2014-11-13T17:40:17-08:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2014/11/13/96-revision-v1/
 permalink: /2014/11/13/96-revision-v1/

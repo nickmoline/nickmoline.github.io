@@ -2,7 +2,7 @@
 id: 1380
 title: Phones and Headsets
 date: 2017-08-04T12:12:06-07:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2017/08/04/1377-revision-v1/
 permalink: /2017/08/04/1377-revision-v1/

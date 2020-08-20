@@ -2,7 +2,7 @@
 id: 1630
 title: 35 Years of Nicks Life, by the Numbers
 date: 2019-04-08T01:31:30-07:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2019/04/08/1383-revision-v1/
 permalink: /2019/04/08/1383-revision-v1/

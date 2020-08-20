@@ -2,7 +2,7 @@
 id: 1641
 title: Nick Moline
 date: 2019-04-08T02:23:02-07:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2019/04/08/1602-revision-v1/
 permalink: /2019/04/08/1602-revision-v1/

@@ -2,7 +2,7 @@
 id: 1384
 title: 'Turning 35 today, let&#8217;s do some math'
 date: 2017-08-10T15:23:05-07:00
-author: Nick Moline
+author: nickmoline
 layout: revision
 guid: https://www.nick.pro/2017/08/10/1383-revision-v1/
 permalink: /2017/08/10/1383-revision-v1/
