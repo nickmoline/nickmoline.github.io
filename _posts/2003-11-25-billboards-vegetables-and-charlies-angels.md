@@ -1,0 +1,52 @@
+---
+id: 21
+title: 'Billboards, Vegetables, and The Final Fantasy Equivalent of Charlie&#8217;s Angels'
+date: 2003-11-25T14:47:03-08:00
+author: Nick Moline
+layout: post
+guid: http://1436560538
+permalink: /2003/11/25/billboards-vegetables-and-charlies-angels/
+Views:
+  - "2"
+  - "2"
+dsq_thread_id:
+  - "968511676"
+  - "968511676"
+readability_ARI:
+  - "11.1"
+  - "11.1"
+readability_CLI:
+  - "7.1"
+  - "7.1"
+readability_LIX:
+  - "29.4"
+  - "29.4"
+word_stats_word_count:
+  - "740"
+  - "740"
+word_stats_keywords:
+  - 's:196:"a:11:{s:5:"night";i:3;s:9:"excessive";i:3;s:4:"time";i:4;s:10:"previously";i:3;s:4:"zach";i:3;s:4:"game";i:8;s:10:"characters";i:5;s:8:"together";i:3;s:4:"like";i:3;s:4:"high";i:3;s:4:"post";i:3;}";'
+  - 's:196:"a:11:{s:5:"night";i:3;s:9:"excessive";i:3;s:4:"time";i:4;s:10:"previously";i:3;s:4:"zach";i:3;s:4:"game";i:8;s:10:"characters";i:5;s:8:"together";i:3;s:4:"like";i:3;s:4:"high";i:3;s:4:"post";i:3;}";'
+word_stats_cached:
+  - "1"
+  - "1"
+categories:
+  - Games
+  - Music
+  - Work
+---
+Well I&#8217;m slowly recovering from the flu. Last night after being caught in traffic for an excessive amount of time on I-20, I stopped at the Parks mall before heading home for the night. While there I paid up and picked up my previously reserved copy of **Final Fantasy X-2** for PS2. I then went downstairs and found my way to a cart that I had seen previously that sells personalized Veggitales CDs and picked one up in which the Veggitales will sing to my nephew Zach, figuring that will be a good christmas present for him. The lady at the card was nice enough to let me listen to it before purchasing it, and I chuckled as I heard _&#8220;If Zach likes to talk with Tomatoes, if a Squash can make you smile, if Zach likes to waltz with potatoes, up and down the produce aisle&#8230;&#8221;_. It was very funny and I&#8217;m sure my nephew will love it.
+
+I then got a cheesesteak sandwhich before driving home to try my long anticipated video game. I had seen japanese videos of the opening scene but the english version was slightly different. It was indeed a pop concert, but what struck me was how very _Charlie&#8217;s Angels_ the opening sequence was. When each of the 3 female lead characters were introduced we are taken to a screen showing just that character on a colorful background with their name, then when all 3 characters were together they strike attack poses and all 3 of them go over the colored background with Y R P on the bottom. The only thing missing was the Charlie&#8217;s Angels theme song, although the music at that point in the game was of a similar style. Fortunately from that point on the only symbalance to CA was the fact that the 3 main characters are female and they kick some butt.
+
+I must say however if Brother and Yuna end up together by the end of the game I&#8217;m going to be pretty ticked! Brother has a very obvious crush on Yuna which he shows by excessive concern for her safety and a crazy desire to see her dance.
+
+When my characters returned to Besaid (where the quest of FFX started) I was surprised to find out that Wakka and Lulu (2 main characters from FFX) had gotten together and that Lulu was pregnant, I wasn&#8217;t expecting that at all.
+
+At the end of my 5 hours of gameplay last night the mini game of FFX-2 was introduced. It is not a card game like FF 7-9, nor is it a sporting event like FFX, instead it is a pretty complex number game that looks like it will be an interesting distraction throughout the game.
+
+Anyway enough on the game for now, I&#8217;ll write more when I know more of the story.
+
+On to today, when I got to work this morning there was a CD waiting for me from <a target="_blank" href="http://www.lamar.com/">Lamar Advertising</a> containing the locations and specs (including height) of every billboard they own, something we have been waiting for, for a while now as it will help us plot which billboards we will use as repeater locations. I was able to find out that me and my partner have absolutely no ability to estimate how high things are. A billboard we estimated as 75 feet high was really 105 feet high, and one that we thought was 50 was 72, while one we thought was 60 was only 45, so our ability to estimate heights is incredibly inaccurate. I&#8217;ve spent the last several hours replotting some billboards we had previously estimated to see what the fresnal zones will cross at. Tedius work because when I run the LOS analysis I have to get it started and then sit and wait for an excessive amount of time for the computer to render a color coded map of what areas will have LOS and what areas will not. This is why I decided to write a BLOG entry while it was doing these renderings. Hopefully by the time I post this, the rendered map will be ready for viewing, if it isn&#8217;t, perhaps it is a good time to take a lunch break (it is 2:46 p.m. after all and I haven&#8217;t eaten a thing all day).
+
+So that&#8217;s all for now, I shall post more, when there is more to post.
