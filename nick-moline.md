@@ -18,9 +18,6 @@ amp_status:
       Nick Moline
     </h3>
     
-    <h5>
-    </h5>
-    
     <p>
       Nicholas Scott Moline is a senior software engineer at Justia, a company in Mountain View, California dedicated to making the law free and available for everyone. At Justia Nick works on a variety of free legal information projects with the rest of the talented engineering team there.
     </p>
@@ -31,4 +28,4 @@ amp_status:
   </div>
 </div>
 
-Check out [Nick&#8217;s blog](https://www.nick.pro/blog/) to find out more about him. He occasionally writes on [Justia&#8217;s Blog](http://onward.justia.com/author/nickmoline).
+Check out [Nick&#8217;s blog](https://www.nick.pro/) to find out more about him. He occasionally writes on [Justia&#8217;s Blog](http://onward.justia.com/author/nickmoline).

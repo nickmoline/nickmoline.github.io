@@ -1,3 +1,51 @@
-url: http://nick.holodeck3.com
-name: Nick Moline
-description: ""
+title: Nick Moline
+description: Personal website of Nicholas Moline, Senior Software Engineer at Justia
+cover: assets/images/radhakrishna.jpg
+logo: assets/images/logo.png
+favicon: assets/images/favicon.png
+baseurl: "/"
+url: https://www.nickmoline.com
+name: nickmoline.com
+
+pagination:
+  enabled: true
+  debug: false
+  per_page: 10
+
+facebook: https://www.facebook.com/nickmoline
+twitter: https://twitter.com/NickMoline
+github: https://www.github.com/nickmoline/
+
+about: about
+contact: contact
+privacy-policy: privacy-policy
+
+permalink: /:year/:month/:day/:title/
+
+analytics_id: UA-1093504-1
+
+markdown: kramdown
+
+kramdown:
+  parse_block_html: true
+
+plugins:
+ - jekyll-paginate-v2
+
+safe: false
+lsi: false
+username: nickmoline
+repo: nickmoline.github.io
+branch: master
+production_url: https://www.nickmoline.com
+source_url: https://github.com/nickmoline/nickmoline.github.io
+
+exclude:
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - changelog.md
+  - "*.Rmd"
+  - vendor
+  - .travis.yml
+  - .gitignore
