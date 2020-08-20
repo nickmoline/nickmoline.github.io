@@ -6,8 +6,6 @@ date: 2019-04-08T00:32:02-07:00
 author: nickmoline
 layout: page
 guid: https://www.nick.pro/?page_id=1602
-amp_status:
-  - enabled
 ---
 <h3> Nick Moline</h3>
 
