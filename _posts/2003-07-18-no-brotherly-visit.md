@@ -2,7 +2,7 @@
 id: 9
 title: No brotherly visit
 date: 2003-07-18T18:32:44-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://1090209951
 permalink: /2003/07/18/no-brotherly-visit/

@@ -2,7 +2,7 @@
 id: 80
 title: Common Sense
 date: 2004-09-04T04:10:35-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://1760465845
 permalink: /2004/09/04/common-sense/

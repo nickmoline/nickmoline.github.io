@@ -2,7 +2,7 @@
 id: 39
 title: Microsoft, ACTD, and cell phones
 date: 2004-03-25T01:37:17-08:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://1908509778
 permalink: /2004/03/25/microsoft-actd-phone/

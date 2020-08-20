@@ -2,7 +2,7 @@
 id: 24
 title: Breakdown
 date: 2004-02-21T23:36:05-08:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://172158296
 permalink: /2004/02/21/breakdown/

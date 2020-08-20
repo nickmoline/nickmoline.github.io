@@ -2,7 +2,7 @@
 id: 27
 title: New Blog Client
 date: 2004-02-22T15:40:01-08:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://2041853875
 permalink: /2004/02/22/new-blog-client/

@@ -2,7 +2,7 @@
 id: 112
 title: Nick Moline is on the air
 date: 2006-08-31T19:31:18-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/2006/08/31/nick-moline-is-on-the-air/
 permalink: /2006/08/31/nick-moline-is-on-the-air/

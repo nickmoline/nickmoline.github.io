@@ -2,7 +2,7 @@
 id: 38
 title: Say a little prayer
 date: 2004-03-22T20:15:56-08:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://148452404
 permalink: /2004/03/22/a-little-prayer/

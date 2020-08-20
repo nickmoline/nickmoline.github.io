@@ -2,7 +2,7 @@
 id: 611
 title: 'Pottermore to finally open up on April 1st, unless it&#8217;s a cruel joke'
 date: 2012-03-20T13:58:29-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=611
 permalink: /2012/03/20/pottermore-to-finally-open-up-on-april-1st-unless-its-a-cruel-joke/

@@ -2,7 +2,7 @@
 id: 794
 title: 'Just over a week to go&#8230;'
 date: 2012-07-18T01:39:43-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=794
 permalink: /2012/07/18/just-week-go/

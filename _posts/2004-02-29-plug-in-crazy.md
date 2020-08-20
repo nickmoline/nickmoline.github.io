@@ -2,7 +2,7 @@
 id: 33
 title: Plug-in Crazy
 date: 2004-02-29T03:29:11-08:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://1891761452
 permalink: /2004/02/29/plug-in-crazy/

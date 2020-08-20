@@ -2,7 +2,7 @@
 id: 47
 title: The Week from Hell
 date: 2004-04-22T21:00:56-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://998608114
 permalink: /2004/04/22/week-from-hell/

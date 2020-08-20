@@ -2,7 +2,7 @@
 id: 811
 title: Midnight, T-10 hours to go, time to stop drinking water
 date: 2012-07-26T00:06:17-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=811
 permalink: /2012/07/26/midnight-t-10-hours-go-time-stop-drinking-water/

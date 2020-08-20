@@ -2,7 +2,7 @@
 id: 122
 title: Family in the Bay
 date: 2007-01-16T17:46:25-08:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/2007/01/16/family-in-the-bay/
 permalink: /2007/01/16/family-in-the-bay/

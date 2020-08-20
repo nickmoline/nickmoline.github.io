@@ -2,7 +2,7 @@
 id: 982
 title: MoviePass Insults and screws its customers
 date: 2013-11-01T21:18:04-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: https://www.nick.pro/?p=982
 permalink: /2013/11/01/moviepass-insults-screws-customers/

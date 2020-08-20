@@ -2,7 +2,7 @@
 id: 17
 title: Internet Fads
 date: 2003-09-05T00:20:34-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://1390621959
 permalink: /2003/09/05/internet-fads/

@@ -2,7 +2,7 @@
 id: 12
 title: Birthday Shopping and Play watching
 date: 2003-08-17T23:23:34-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://1408699924
 permalink: /2003/08/17/birthday-shopping-and-play-watching/

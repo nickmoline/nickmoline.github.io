@@ -2,7 +2,7 @@
 id: 548
 title: Conference, Visits, and Cuba
 date: 2003-09-21T22:57:12-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://1075495203
 permalink: /2003/09/21/conference-visits-cuba/

@@ -2,7 +2,7 @@
 id: 73
 title: Generosity of Others
 date: 2004-08-15T03:00:42-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://779627279
 permalink: /2004/08/15/generosity/

@@ -2,7 +2,7 @@
 id: 443
 title: Want to post to lists in Facebook like you can post to a Circle in Google+? You can!
 date: 2011-07-07T11:37:02-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=443
 permalink: /2011/07/07/want-to-post-to-lists-in-facebook-like-you-can-post-to-a-circle-in-google-you-can/

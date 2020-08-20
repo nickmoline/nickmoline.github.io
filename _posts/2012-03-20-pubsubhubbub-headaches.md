@@ -2,7 +2,7 @@
 id: 606
 title: 'What&#8217;s all the Hubbub about anyway?'
 date: 2012-03-20T08:40:25-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=606
 permalink: /2012/03/20/pubsubhubbub-headaches/

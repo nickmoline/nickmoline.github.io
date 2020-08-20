@@ -2,7 +2,7 @@
 id: 466
 title: 'Rachel Beckwith&#8217;s Amazing Gift'
 date: 2011-08-19T12:16:43-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=466
 permalink: /2011/08/19/world-humanitarian-day-2011/

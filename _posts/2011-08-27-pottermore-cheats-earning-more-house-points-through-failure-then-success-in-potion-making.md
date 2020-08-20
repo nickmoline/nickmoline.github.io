@@ -2,7 +2,7 @@
 id: 473
 title: 'Pottermore Cheats: Earning more house points through failure then success in potion making'
 date: 2011-08-27T12:28:45-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=473
 permalink: /2011/08/27/pottermore-cheats-earning-more-house-points-through-failure-then-success-in-potion-making/

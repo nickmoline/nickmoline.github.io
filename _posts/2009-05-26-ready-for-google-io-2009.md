@@ -2,7 +2,7 @@
 id: 321
 title: Ready for Google I/O 2009
 date: 2009-05-26T22:12:41-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=321
 permalink: /2009/05/26/ready-for-google-io-2009/

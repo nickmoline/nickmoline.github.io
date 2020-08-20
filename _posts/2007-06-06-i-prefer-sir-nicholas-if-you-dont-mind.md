@@ -2,7 +2,7 @@
 id: 144
 title: 'I prefer &#8220;Sir Nicholas&#8221; if you don&#8217;t mind.'
 date: 2007-06-06T20:58:02-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/2007/06/06/i-prefer-sir-nicholas-if-you-dont-mind/
 permalink: /2007/06/06/i-prefer-sir-nicholas-if-you-dont-mind/

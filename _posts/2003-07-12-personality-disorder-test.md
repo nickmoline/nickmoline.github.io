@@ -2,7 +2,7 @@
 id: 6
 title: Boredom, Insane ACTD Characters, and a Personality Disorder test
 date: 2003-07-12T21:15:15-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://1074022023
 permalink: /2003/07/12/personality-disorder-test/

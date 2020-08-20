@@ -2,7 +2,7 @@
 id: 77
 title: How do you measure its worth
 date: 2004-08-27T16:18:19-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://833103836
 permalink: /2004/08/27/blogshares/

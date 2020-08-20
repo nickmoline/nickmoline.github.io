@@ -2,7 +2,7 @@
 id: 110
 title: A Funeral (and almost another)
 date: 2006-06-03T00:30:51-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/2006/07/19/a-funeral-and-almost-another/
 permalink: /2006/06/03/a-funeral-and-almost-another/

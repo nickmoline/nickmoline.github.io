@@ -2,7 +2,7 @@
 id: 128
 title: Justia Regulation Tracker
 date: 2007-03-06T18:00:24-08:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/2007/03/06/justia-federal-register-regulations/
 permalink: /2007/03/06/justia-regulation-tracker/

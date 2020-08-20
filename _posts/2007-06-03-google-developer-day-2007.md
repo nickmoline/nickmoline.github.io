@@ -2,7 +2,7 @@
 id: 143
 title: Google Developer Day 2007
 date: 2007-06-03T21:34:02-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/2007/06/03/google-developer-day-2007/
 permalink: /2007/06/03/google-developer-day-2007/

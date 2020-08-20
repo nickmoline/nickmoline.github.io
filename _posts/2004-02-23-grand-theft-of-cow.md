@@ -2,7 +2,7 @@
 id: 28
 title: Grand Theft of Cow
 date: 2004-02-23T19:12:20-08:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://976651908
 permalink: /2004/02/23/grand-theft-of-cow/

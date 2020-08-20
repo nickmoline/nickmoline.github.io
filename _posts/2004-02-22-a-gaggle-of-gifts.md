@@ -2,7 +2,7 @@
 id: 25
 title: A Gaggle of Gifts
 date: 2004-02-22T02:23:45-08:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://1424419908
 permalink: /2004/02/22/a-gaggle-of-gifts/

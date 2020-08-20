@@ -2,7 +2,7 @@
 id: 1039
 title: Have I mentioned lately how much I hate Comcast?
 date: 2014-06-04T23:56:24-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: https://www.nick.pro/?p=1039
 permalink: /2014/06/04/mentioned-lately-much-hate-comcast/

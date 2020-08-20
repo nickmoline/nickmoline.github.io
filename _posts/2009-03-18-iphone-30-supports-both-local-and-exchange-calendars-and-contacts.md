@@ -2,7 +2,7 @@
 id: 300
 title: iPhone 3.0 Supports Both Local AND Exchange Calendars and Contacts
 date: 2009-03-18T15:47:27-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=300
 permalink: /2009/03/18/iphone-30-supports-both-local-and-exchange-calendars-and-contacts/

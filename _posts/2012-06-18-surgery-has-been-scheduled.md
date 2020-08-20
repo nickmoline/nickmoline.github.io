@@ -2,7 +2,7 @@
 id: 716
 title: Surgery has been scheduled
 date: 2012-06-18T14:09:30-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=716
 permalink: /2012/06/18/surgery-has-been-scheduled/

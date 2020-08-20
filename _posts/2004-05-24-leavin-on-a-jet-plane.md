@@ -2,7 +2,7 @@
 id: 53
 title: 'Leavin&#8230; on a jet plane..'
 date: 2004-05-24T05:35:09-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://454516135
 permalink: /2004/05/24/leavin-on-a-jet-plane/

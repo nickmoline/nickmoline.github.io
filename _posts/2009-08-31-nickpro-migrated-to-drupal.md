@@ -2,7 +2,7 @@
 id: 341
 title: Nick.pro Migrated to Drupal
 date: 2009-08-31T02:14:49-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://old.nick.pro/?p=341
 permalink: /2009/08/31/nickpro-migrated-to-drupal/

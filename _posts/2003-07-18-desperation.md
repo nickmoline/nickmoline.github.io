@@ -2,7 +2,7 @@
 id: 8
 title: Desperation of having to go back to TX
 date: 2003-07-18T14:47:48-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://180130546
 permalink: /2003/07/18/desperation/

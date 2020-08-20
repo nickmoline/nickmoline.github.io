@@ -2,7 +2,7 @@
 id: 280
 title: Google Chrome Extensions Coming Out by May!
 date: 2009-02-04T15:31:37-08:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/2009/02/04/google-chrome-extensions-coming-out-by-may/
 permalink: /2009/02/04/google-chrome-extensions-coming-out-by-may/

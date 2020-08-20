@@ -2,7 +2,7 @@
 id: 81
 title: On Ben’s view on how to fix the Legislature
 date: 2004-10-30T01:41:58-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://1738883332
 permalink: /2004/10/30/ben-fix-legislature/

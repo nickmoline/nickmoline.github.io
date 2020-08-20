@@ -2,7 +2,7 @@
 id: 10
 title: Birthday updates
 date: 2003-08-13T23:18:08-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://1872336562
 permalink: /2003/08/13/birthday-vacation/

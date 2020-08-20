@@ -2,7 +2,7 @@
 id: 352
 title: Memories of Spelling Bees gone by.
 date: 2010-03-05T00:35:51-08:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://old.nick.pro/?p=352
 permalink: /2010/03/05/memories-of-spelling-bees-gone/

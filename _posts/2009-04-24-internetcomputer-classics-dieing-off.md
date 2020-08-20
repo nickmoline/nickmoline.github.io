@@ -2,7 +2,7 @@
 id: 315
 title: 'Internet/Computer Classics Dieing off&#8230;'
 date: 2009-04-24T17:21:45-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=315
 permalink: /2009/04/24/internetcomputer-classics-dieing-off/

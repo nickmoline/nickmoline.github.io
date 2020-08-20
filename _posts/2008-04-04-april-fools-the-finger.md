@@ -2,7 +2,7 @@
 id: 168
 title: '7-11 Gave me the Finger&#8230; and other stories&#8230;'
 date: 2008-04-04T01:35:32-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/2008/04/04/april-fools-the-finger/
 permalink: /2008/04/04/april-fools-the-finger/

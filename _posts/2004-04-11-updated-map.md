@@ -2,7 +2,7 @@
 id: 46
 title: Updated map
 date: 2004-04-11T23:53:59-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://89944042
 permalink: /2004/04/11/updated-map/

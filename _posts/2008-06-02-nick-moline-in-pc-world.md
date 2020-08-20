@@ -2,7 +2,7 @@
 id: 173
 title: Interview with Nick Moline published in PC World Magazine!
 date: 2008-06-02T09:41:46-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=173
 permalink: /2008/06/02/nick-moline-in-pc-world/

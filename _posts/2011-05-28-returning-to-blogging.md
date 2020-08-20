@@ -2,7 +2,7 @@
 id: 363
 title: Returning to Blogging
 date: 2011-05-28T19:17:57-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://old.nick.pro/?p=363
 permalink: /2011/05/28/returning-to-blogging/

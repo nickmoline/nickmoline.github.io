@@ -2,7 +2,7 @@
 id: 15
 title: Meetings, A/V and my new Laptop
 date: 2003-08-28T22:47:26-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://1905119603
 permalink: /2003/08/28/meetings-av-laptop/

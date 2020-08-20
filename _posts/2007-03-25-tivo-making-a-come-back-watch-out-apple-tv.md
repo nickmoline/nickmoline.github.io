@@ -2,7 +2,7 @@
 id: 131
 title: 'TiVo making a come back?  Watch out Apple TV.'
 date: 2007-03-25T20:18:10-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/2007/03/25/tivo-making-a-come-back-watch-out-apple-tv/
 permalink: /2007/03/25/tivo-making-a-come-back-watch-out-apple-tv/

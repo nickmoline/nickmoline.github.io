@@ -2,7 +2,7 @@
 id: 107
 title: Testimony
 date: 2006-06-21T00:53:01-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/2006/06/21/testimony/
 permalink: /2006/06/21/testimony/

@@ -2,7 +2,7 @@
 id: 1383
 title: 35 Years of Nicks Life, by the Numbers
 date: 2017-08-10T18:26:51-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: https://www.nick.pro/?p=1383
 permalink: /2017/08/10/35-years-nicks-life-numbers/

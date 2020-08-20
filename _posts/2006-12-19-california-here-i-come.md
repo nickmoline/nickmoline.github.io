@@ -2,7 +2,7 @@
 id: 116
 title: Life Changes
 date: 2006-12-19T21:54:42-08:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/2006/12/19/california-here-i-come/
 permalink: /2006/12/19/california-here-i-come/

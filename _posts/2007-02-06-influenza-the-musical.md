@@ -2,7 +2,7 @@
 id: 126
 title: Influenza, the Musical
 date: 2007-02-06T11:04:46-08:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/2007/02/06/influenza-the-musical/
 permalink: /2007/02/06/influenza-the-musical/

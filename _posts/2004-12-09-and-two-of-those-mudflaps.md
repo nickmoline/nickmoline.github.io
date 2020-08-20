@@ -2,7 +2,7 @@
 id: 85
 title: 'And two of those mudflaps&#8230;'
 date: 2004-12-09T17:29:39-08:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://736138802
 permalink: /2004/12/09/and-two-of-those-mudflaps/

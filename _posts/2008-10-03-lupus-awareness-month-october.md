@@ -2,7 +2,7 @@
 id: 251
 title: 'Lupus Awareness Month &#8211; October'
 date: 2008-10-03T11:23:25-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=251
 permalink: /2008/10/03/lupus-awareness-month-october/

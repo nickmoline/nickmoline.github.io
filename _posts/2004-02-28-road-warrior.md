@@ -2,7 +2,7 @@
 id: 32
 title: Road Warrior
 date: 2004-02-28T14:11:15-08:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://1105738934
 permalink: /2004/02/28/road-warrior/

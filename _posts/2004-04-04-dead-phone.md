@@ -2,7 +2,7 @@
 id: 45
 title: Dead Phone
 date: 2004-04-04T22:08:31-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://927362009
 permalink: /2004/04/04/dead-phone/

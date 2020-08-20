@@ -2,7 +2,7 @@
 id: 227
 title: 'All Primed Up &#8211; Amazon is Brilliant'
 date: 2008-08-27T21:28:56-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=227
 permalink: /2008/08/27/all-primed-up-amazon-is-brilliant/

@@ -2,7 +2,7 @@
 id: 460
 title: Saved Chrome Profiles Feature moves to Beta Build
 date: 2011-08-12T16:10:00-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=460
 permalink: /2011/08/12/saved-chrome-profiles-feature-moves-to-beta-build/

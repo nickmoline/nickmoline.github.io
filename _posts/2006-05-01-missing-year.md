@@ -2,7 +2,7 @@
 id: 92
 title: 521,600 minutes, how do you measure a year
 date: 2006-05-01T00:30:15-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://cap.portalkeeper.info/2006/05/15/missing-year/
 permalink: /2006/05/01/missing-year/

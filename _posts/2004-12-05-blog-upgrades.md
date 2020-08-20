@@ -2,7 +2,7 @@
 id: 84
 title: Blog Updated
 date: 2004-12-05T02:49:11-08:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://756838929
 permalink: /2004/12/05/blog-upgrades/

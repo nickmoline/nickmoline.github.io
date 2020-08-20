@@ -2,7 +2,7 @@
 id: 5
 title: Pop into Internet Pop Culture
 date: 2003-07-11T02:10:17-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://1010066572
 permalink: /2003/07/11/pop-into-internet-pop-culture/

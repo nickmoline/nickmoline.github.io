@@ -2,7 +2,7 @@
 id: 63
 title: Busily Updating
 date: 2004-07-22T05:28:00-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://1704597731
 permalink: /2004/07/22/busy-updating/

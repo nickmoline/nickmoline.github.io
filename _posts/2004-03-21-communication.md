@@ -2,7 +2,7 @@
 id: 36
 title: Communication
 date: 2004-03-21T15:02:07-08:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://818299827
 permalink: /2004/03/21/communication/

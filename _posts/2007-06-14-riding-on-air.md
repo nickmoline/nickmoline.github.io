@@ -2,7 +2,7 @@
 id: 150
 title: Riding on air
 date: 2007-06-14T12:33:03-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/2007/06/14/riding-on-air/
 permalink: /2007/06/14/riding-on-air/

@@ -2,7 +2,7 @@
 id: 89
 title: On Blogs and Suffering
 date: 2005-02-11T11:18:39-08:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://1688733567
 permalink: /2005/02/11/blogs-and-suffering/

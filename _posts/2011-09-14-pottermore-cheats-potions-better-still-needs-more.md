@@ -2,7 +2,7 @@
 id: 484
 title: 'Pottermore Cheats Update: Potions are Better now, but the site still has a way to go'
 date: 2011-09-14T00:22:17-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=484
 permalink: /2011/09/14/pottermore-cheats-potions-better-still-needs-more/

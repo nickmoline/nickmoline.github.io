@@ -2,7 +2,7 @@
 id: 86
 title: 'I&#8217;m still here!'
 date: 2004-12-11T16:47:34-08:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://786196022
 permalink: /2004/12/11/still-here/

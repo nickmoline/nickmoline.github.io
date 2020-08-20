@@ -2,7 +2,7 @@
 id: 696
 title: Weight Loss Update and transparency
 date: 2012-06-01T20:51:13-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=696
 permalink: /2012/06/01/weight-loss-update-and-transparency/

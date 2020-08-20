@@ -2,7 +2,7 @@
 id: 160
 title: Nick.Pro Finally in control
 date: 2007-11-11T01:54:13-08:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/2007/11/11/nickpro-finally-in-control/
 permalink: /2007/11/11/nickpro-finally-in-control/

@@ -2,7 +2,7 @@
 id: 926
 title: Looking at Life from the Other Side of the Glass
 date: 2013-04-16T01:58:28-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: https://www.nick.pro/?p=926
 permalink: /2013/04/16/looking-at-life-from-the-other-side-of-the-glass/

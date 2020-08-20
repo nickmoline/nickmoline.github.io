@@ -2,7 +2,7 @@
 id: 823
 title: A Month after Surgery, 21.2 pounds down since Surgery, 107.4 pounds lost total so far
 date: 2012-08-21T23:00:21-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=823
 permalink: /2012/08/21/a-month-surgery-21-2-pounds-since-surgery-107-4-pounds-lost-total-far/

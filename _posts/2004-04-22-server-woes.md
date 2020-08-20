@@ -2,7 +2,7 @@
 id: 48
 title: Server woes
 date: 2004-04-22T21:40:50-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://2105275628
 permalink: /2004/04/22/server-woes/

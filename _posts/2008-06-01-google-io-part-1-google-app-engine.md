@@ -2,7 +2,7 @@
 id: 171
 title: 'Google I/O &#8211; Part I &#8211; Google App Engine'
 date: 2008-06-01T15:34:50-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=171
 permalink: /2008/06/01/google-io-part-1-google-app-engine/

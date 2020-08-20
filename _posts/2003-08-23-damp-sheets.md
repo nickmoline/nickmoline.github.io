@@ -2,7 +2,7 @@
 id: 13
 title: Damp Sheets and late night writing
 date: 2003-08-23T06:33:55-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://1617844776
 permalink: /2003/08/23/damp-sheets/

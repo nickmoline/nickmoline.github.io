@@ -2,7 +2,7 @@
 id: 212
 title: GMail Down
 date: 2008-08-11T14:03:46-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=212
 permalink: /2008/08/11/gmail-down/

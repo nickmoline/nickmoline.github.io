@@ -2,7 +2,7 @@
 id: 642
 title: 'Perhaps it isn&#8217;t April Fools day after all!  Pottermore Shop now open'
 date: 2012-03-27T22:26:55-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=642
 permalink: /2012/03/27/perhaps-it-isnt-april-fools-day-after-all-pottermore-shop-now-open/

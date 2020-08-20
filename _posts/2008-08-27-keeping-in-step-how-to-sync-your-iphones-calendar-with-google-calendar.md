@@ -2,7 +2,7 @@
 id: 219
 title: 'Keeping in Step, how to Sync your iPhone&#8217;s Calendar with Google Calendar'
 date: 2008-08-27T14:10:03-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=219
 permalink: /2008/08/27/keeping-in-step-how-to-sync-your-iphones-calendar-with-google-calendar/

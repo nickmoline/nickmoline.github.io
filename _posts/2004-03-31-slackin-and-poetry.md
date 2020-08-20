@@ -2,7 +2,7 @@
 id: 43
 title: Slackin and Poetry
 date: 2004-03-31T22:43:37-08:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://1608034592
 permalink: /2004/03/31/slackin-and-poetry/

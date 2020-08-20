@@ -2,7 +2,7 @@
 id: 30
 title: Blog Surfing
 date: 2004-02-25T15:11:26-08:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://966213008
 permalink: /2004/02/25/blog-surfing/

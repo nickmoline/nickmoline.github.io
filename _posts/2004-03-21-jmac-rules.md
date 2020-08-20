@@ -2,7 +2,7 @@
 id: 37
 title: JMac Rules
 date: 2004-03-21T22:40:35-08:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://265336902
 permalink: /2004/03/21/jmac-rules/

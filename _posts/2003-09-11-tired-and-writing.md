@@ -2,7 +2,7 @@
 id: 547
 title: Tired and writing
 date: 2003-09-11T03:27:31-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://1177913619
 permalink: /2003/09/11/tired-and-writing/

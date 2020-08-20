@@ -2,7 +2,7 @@
 id: 14
 title: New Latop, Freeside, and more
 date: 2003-08-27T23:40:28-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://581736279
 permalink: /2003/08/27/laptop-freeside-andmore/

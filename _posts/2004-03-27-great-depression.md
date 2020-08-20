@@ -2,7 +2,7 @@
 id: 41
 title: '&#8220;The Great Depression&#8221;, No not mine'
 date: 2004-03-27T05:11:44-08:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://1173733523
 permalink: /2004/03/27/great-depression/

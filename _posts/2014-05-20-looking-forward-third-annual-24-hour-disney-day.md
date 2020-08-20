@@ -2,7 +2,7 @@
 id: 1033
 title: Looking forward to the Third annual 24 hour Disney Day
 date: 2014-05-20T12:28:20-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: https://www.nick.pro/?p=1033
 permalink: /2014/05/20/looking-forward-third-annual-24-hour-disney-day/

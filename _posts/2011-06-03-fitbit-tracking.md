@@ -2,7 +2,7 @@
 id: 383
 title: Fitbit Tracking
 date: 2011-06-03T00:06:00-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=383
 permalink: /2011/06/03/fitbit-tracking/

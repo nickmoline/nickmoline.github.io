@@ -2,7 +2,7 @@
 id: 651
 title: 'Google&#8217;s Code Mistake, and what they did to make it right'
 date: 2012-04-19T17:37:29-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=651
 permalink: /2012/04/19/googles-code-mistake-and-what-they-did-to-make-it-right/

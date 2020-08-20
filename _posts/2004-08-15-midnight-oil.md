@@ -2,7 +2,7 @@
 id: 74
 title: Burning the midnight oil
 date: 2004-08-15T04:43:02-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://1810861429
 permalink: /2004/08/15/midnight-oil/

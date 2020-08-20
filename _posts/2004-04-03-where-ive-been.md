@@ -2,7 +2,7 @@
 id: 44
 title: 'You can&#8217;t see where you are going&#8230;'
 date: 2004-04-03T22:40:20-08:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://1755469803
 permalink: /2004/04/03/where-ive-been/

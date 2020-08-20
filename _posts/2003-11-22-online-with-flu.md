@@ -2,7 +2,7 @@
 id: 20
 title: Back online and battling the flu
 date: 2003-11-22T12:37:12-08:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://1257629864
 permalink: /2003/11/22/online-with-flu/

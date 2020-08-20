@@ -2,7 +2,7 @@
 id: 533
 title: 'The Geek&#8217;s Night Before Christmas'
 date: 2011-12-24T21:24:59-08:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=533
 permalink: /2011/12/24/the-geeks-night-before-christmas/

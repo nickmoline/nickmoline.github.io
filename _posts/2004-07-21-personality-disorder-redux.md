@@ -2,7 +2,7 @@
 id: 62
 title: My Situation compared to a year ago
 date: 2004-07-21T23:59:51-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://1946819809
 permalink: /2004/07/21/personality-disorder-redux/

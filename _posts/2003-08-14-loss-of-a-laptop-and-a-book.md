@@ -2,7 +2,7 @@
 id: 11
 title: Loss of a laptop and a book
 date: 2003-08-14T20:17:24-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://1025281119
 permalink: /2003/08/14/loss-of-a-laptop-and-a-book/

@@ -2,7 +2,7 @@
 id: 90
 title: 'It&#8217;s the Simple Things'
 date: 2005-02-15T05:43:19-08:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://1838029497
 permalink: /2005/02/15/its-the-simple-things/

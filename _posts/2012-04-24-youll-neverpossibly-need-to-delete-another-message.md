@@ -2,7 +2,7 @@
 id: 666
 title: 'You&#8217;ll (never/possibly) need to delete another message'
 date: 2012-04-24T13:38:39-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: https://www.nick.pro/?p=666
 permalink: /2012/04/24/youll-neverpossibly-need-to-delete-another-message/

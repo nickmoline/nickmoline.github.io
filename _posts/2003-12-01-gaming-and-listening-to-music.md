@@ -2,7 +2,7 @@
 id: 22
 title: Gaming and listening to music
 date: 2003-12-01T02:16:37-08:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://1369564262
 permalink: /2003/12/01/gaming-and-listening-to-music/

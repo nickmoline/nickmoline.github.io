@@ -2,7 +2,7 @@
 id: 515
 title: Thank you Veterans
 date: 2011-11-11T23:04:56-08:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=515
 permalink: /2011/11/11/thank-you-veterans/

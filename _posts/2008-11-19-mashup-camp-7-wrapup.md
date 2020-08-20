@@ -2,7 +2,7 @@
 id: 263
 title: Mashup Camp 7 Wrapup
 date: 2008-11-19T19:35:51-08:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=263
 permalink: /2008/11/19/mashup-camp-7-wrapup/

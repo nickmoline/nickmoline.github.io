@@ -2,7 +2,7 @@
 id: 172
 title: 'Google I/O &#8211; Part II &#8211; The Opening Keynote'
 date: 2008-06-01T20:51:41-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=172
 permalink: /2008/06/01/google-io-part-ii-the-opening-keynote/

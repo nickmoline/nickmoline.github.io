@@ -2,7 +2,7 @@
 id: 189
 title: 'iPhone 3G&#8230; Um, guess I&#8217;m gonna wait&#8230;'
 date: 2008-07-11T18:28:59-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=189
 permalink: /2008/07/11/iphone-3g-not-today/

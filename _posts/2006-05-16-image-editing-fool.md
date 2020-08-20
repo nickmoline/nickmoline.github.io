@@ -2,7 +2,7 @@
 id: 97
 title: Image Editing Fool
 date: 2006-05-16T00:43:59-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://cap.portalkeeper.info/2006/05/16/image-editing-fool/
 permalink: /2006/05/16/image-editing-fool/

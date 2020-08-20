@@ -2,7 +2,7 @@
 id: 96
 title: Trend Started
 date: 2006-05-15T12:25:49-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://cap.portalkeeper.info/2006/05/15/trend-started/
 permalink: /2006/05/15/trend-started/

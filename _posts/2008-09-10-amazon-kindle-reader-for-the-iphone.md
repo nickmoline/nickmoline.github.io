@@ -2,7 +2,7 @@
 id: 240
 title: Amazon Kindle Reader for the iPhone
 date: 2008-09-10T15:52:11-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=240
 permalink: /2008/09/10/amazon-kindle-reader-for-the-iphone/

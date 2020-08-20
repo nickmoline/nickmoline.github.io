@@ -2,7 +2,7 @@
 id: 118
 title: Justia Superstar
 date: 2007-01-04T14:48:26-08:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/2007/01/04/justia-superstar/
 permalink: /2007/01/04/justia-superstar/

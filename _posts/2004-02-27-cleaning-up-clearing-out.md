@@ -2,7 +2,7 @@
 id: 31
 title: Cleaning Up and Clearing Out
 date: 2004-02-27T01:42:39-08:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://966049634
 permalink: /2004/02/27/cleaning-up-clearing-out/

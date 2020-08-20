@@ -1,32 +1,30 @@
 ---
-layout: page
+id: 1602
 title: About
 permalink: /about/
+date: 2019-04-08T00:32:02-07:00
+author: nickmoline
+layout: page
+guid: https://www.nick.pro/?page_id=1602
+amp_status:
+  - enabled
 ---
 
-<amp-img width="600" height="300" layout="responsive" src="http://lorempixel.com/600/300/sports"></amp-img>
+<amp-img src="https://i0.wp.com/nick.holodeck3.com/wp-content/uploads/sites/4/2018/10/nick-square.jpg" width="500" height="500" alt="Photo of Nick Moline"/>
+  
+  <div class="organic-profile-content" style="text-align:center">
+    <h3>
+      Nick Moline
+    </h3>
+    
+    <p>
+      Nicholas Scott Moline is a senior software engineer at Justia, a company in Mountain View, California dedicated to making the law free and available for everyone. At Justia Nick works on a variety of free legal information projects with the rest of the talented engineering team there.
+    </p>
+    
+    <div class="organic-profile-social">
+      <a class="social-link" href="https://www.facebook.com/nickmoline" target="_blank"><i class="fa fa-facebook"></i></a><a class="social-link" href="https://twitter.com/NickMoline" target="_blank"><i class="fa fa-twitter"></i></a><a class="social-link" href="https://www.instagram.com/nickmoline" target="_blank"><i class="fa fa-instagram"></i></a><a class="social-link broken_link" href="https://www.linkedin.com/in/nickmoline" target="_blank"><i class="fa fa-linkedin"></i></a>
+    </div>
+  </div>
+</div>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac augue libero.
-Fusce ac tempor dolor. Ut est dui, gravida a consequat aliquet, fermentum
-sodales risus. Suspendisse eu arcu id mi ornare facilisis non id nisl. Maecenas
-nec congue arcu, non semper neque. Proin mollis nisl diam, eu ultrices diam
-facilisis et. Integer fringilla lorem quis semper venenatis.
-
-Aliquam vestibulum purus enim. Sed rhoncus interdum erat id consequat. Nulla
-cursus venenatis massa, quis convallis lacus condimentum vel. Etiam mollis,
-orci ac pharetra commodo, diam lectus hendrerit eros, ac elementum magna augue
-sed tellus. Maecenas molestie, nisi ut sodales scelerisque, purus neque
-imperdiet dui, mollis elementum sem augue vel ipsum. Nulla lacinia arcu at quam
-lobortis, vitae interdum tellus fermentum. Cum sociis natoque penatibus et
-magnis dis parturient montes, nascetur ridiculus mus. Fusce sodales semper erat,
-eu fringilla ligula vulputate id. Maecenas quis libero pellentesque lacus
-egestas vehicula sit amet et neque. Nulla nec facilisis sem. Pellentesque rutrum
-elementum molestie. Quisque eget dui ac quam placerat dictum. Suspendisse quis
-ante placerat, efficitur enim ut, commodo tortor. Etiam consequat, eros quis
-consequat congue, augue mauris molestie libero, sed iaculis lectus enim eu magna.
-
-Etiam sapien dolor, mattis vel feugiat nec, egestas eget risus. Lorem ipsum
-dolor sit amet, consectetur adipiscing elit. Aenean aliquam massa a est porta
- vehicula. Cras eu gravida massa. Integer non sem ac mi ultrices posuere a
- pretium tortor. Mauris vitae varius sem. Praesent faucibus nec felis et dictum.
- Vestibulum lorem velit, laoreet nec vestibulum in, varius nec enim.
+Check out [Nick's blog](https://www.nick.pro/) to find out more about him. He occasionally writes on [Justia's Blog](https://onward.justia.com/author/nickmoline).

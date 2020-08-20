@@ -2,7 +2,7 @@
 id: 614
 title: Google I/O 2012 Here I come
 date: 2012-03-13T14:19:35-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=614
 permalink: /2012/03/13/google-io-2012-here-i-come/

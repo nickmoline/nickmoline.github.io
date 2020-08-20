@@ -2,7 +2,7 @@
 id: 1023
 title: Walk with me to End Lupus
 date: 2014-04-18T15:54:02-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: https://www.nick.pro/?p=1023
 permalink: /2014/04/18/walk-end-lupus/

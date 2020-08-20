@@ -2,7 +2,7 @@
 id: 79
 title: Corporate worlds
 date: 2004-09-01T02:10:49-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://1561346958
 permalink: /2004/09/01/corporate-worlds/

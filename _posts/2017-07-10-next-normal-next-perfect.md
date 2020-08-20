@@ -2,7 +2,7 @@
 id: 1349
 title: Next to Normal was Next to Perfect
 date: 2017-07-10T20:59:59-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: https://www.nick.pro/?p=1349
 permalink: /2017/07/10/next-normal-next-perfect/

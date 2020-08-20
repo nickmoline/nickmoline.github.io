@@ -2,7 +2,7 @@
 id: 103
 title: Yet another WP Installation
 date: 2006-05-21T02:53:37-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/2006/05/21/yet-another-wp-installation/
 permalink: /2006/05/21/yet-another-wp-installation/

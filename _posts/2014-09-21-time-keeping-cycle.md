@@ -2,7 +2,7 @@
 id: 1087
 title: The Time Keeping Cycle
 date: 2014-09-21T02:56:11-07:00
-author: Nick Moline
+author: nickmoline
 excerpt: 'From our pockets, to our wrists, and back again.  A history of how watches move in and out of our pockets.'
 layout: post
 guid: https://www.nick.pro/?p=1087

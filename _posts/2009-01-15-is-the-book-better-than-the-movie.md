@@ -2,7 +2,7 @@
 id: 275
 title: Is the book better than the movie?
 date: 2009-01-15T16:32:39-08:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=275
 permalink: /2009/01/15/is-the-book-better-than-the-movie/

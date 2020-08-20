@@ -2,7 +2,7 @@
 id: 848
 title: 'Extra Extra &#8211; Read all about it!'
 date: 2012-10-13T00:54:30-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=848
 permalink: /2012/10/13/newsies-on-broadway/

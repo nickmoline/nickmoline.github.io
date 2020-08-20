@@ -2,7 +2,7 @@
 id: 174
 title: Amazon down but not out
 date: 2008-06-06T09:59:59-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=174
 permalink: /2008/06/06/amazon-down-but-not-out/

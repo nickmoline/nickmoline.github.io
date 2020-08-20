@@ -2,7 +2,7 @@
 id: 217
 title: Hours away from Vacation
 date: 2008-08-19T19:17:02-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=217
 permalink: /2008/08/19/hours-away-from-vacation/

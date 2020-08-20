@@ -2,7 +2,7 @@
 id: 60
 title: Camping on the Rocks
 date: 2004-07-09T15:22:55-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://294052689
 permalink: /2004/07/09/camping-on-the-rocks/

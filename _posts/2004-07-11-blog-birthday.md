@@ -2,7 +2,7 @@
 id: 61
 title: Bloggie BDay
 date: 2004-07-11T23:28:12-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: http://521044659
 permalink: /2004/07/11/blog-birthday/

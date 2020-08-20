@@ -2,7 +2,7 @@
 id: 1336
 title: Seven Blog Posts in Three Days
 date: 2017-05-22T17:15:58-07:00
-author: Nick Moline
+author: nickmoline
 layout: post
 guid: https://www.nick.pro/?p=1336
 permalink: /2017/05/22/seven-blog-posts-three-days/
