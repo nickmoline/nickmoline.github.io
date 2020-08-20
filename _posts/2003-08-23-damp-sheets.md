@@ -6,35 +6,12 @@ author: nickmoline
 layout: post
 guid: http://1617844776
 permalink: /2003/08/23/damp-sheets/
-Views:
-  - "3"
-  - "3"
-readability_ARI:
-  - "15.8"
-  - "15.8"
-readability_CLI:
-  - "6"
-  - "6"
-readability_LIX:
-  - "24.7"
-  - "24.7"
-word_stats_word_count:
-  - "764"
-  - "764"
-word_stats_keywords:
-  - 's:198:"a:12:{s:5:"night";i:4;s:6:"wanted";i:3;s:6:"online";i:3;s:7:"chapter";i:3;s:5:"ended";i:3;s:4:"week";i:5;s:4:"went";i:4;s:4:"spam";i:3;s:4:"like";i:4;s:4:"work";i:6;s:5:"hours";i:3;s:5:"blast";i:3;}";'
-  - 's:198:"a:12:{s:5:"night";i:4;s:6:"wanted";i:3;s:6:"online";i:3;s:7:"chapter";i:3;s:5:"ended";i:3;s:4:"week";i:5;s:4:"went";i:4;s:4:"spam";i:3;s:4:"like";i:4;s:4:"work";i:6;s:5:"hours";i:3;s:5:"blast";i:3;}";'
-word_stats_cached:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "5662083970"
 categories:
   - Events
   - Televison
   - Work
 ---
-oh look 5 a.m., I had washed my sheets last night and then I forgot to put them in the dryer so at 3:30 when I realized I wanted to go to bed, I didn&#8217;t have any sheets, so I put them in the dryer and then chatted online for a while and then wrote another chapter of my fanfic (Miles Apart), I had meant this chapter 12 to be my last, but I was writing and it ended up longer then any of my prefious chapters and I wasn&#8217;t ready to end yet, so I ended it at a logical place and will write a chapter 13, not sure if that will wrap it up either, but it might.
+oh look 5 a.m., I had washed my sheets last night and then I forgot to put them in the dryer so at 3:30 when I realized I wanted to go to bed, I didn&#8217;t have any sheets, so I put them in the dryer and then chatted online for a while and then wrote another chapter of my fanfic (_Miles Apart_), I had meant this chapter 12 to be my last, but I was writing and it ended up longer then any of my prefious chapters and I wasn&#8217;t ready to end yet, so I ended it at a logical place and will write a chapter 13, not sure if that will wrap it up either, but it might.
 
 Anyway it&#8217;s been a week since I last posted, I&#8217;ve had a crummy workweek, a really crummy one.
 

@@ -6,30 +6,6 @@ author: nickmoline
 layout: post
 guid: http://180130546
 permalink: /2003/07/18/desperation/
-Views:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "959647630"
-  - "959647630"
-readability_ARI:
-  - "7.8"
-  - "7.8"
-readability_CLI:
-  - "5.4"
-  - "5.4"
-readability_LIX:
-  - "22.4"
-  - "22.4"
-word_stats_word_count:
-  - "806"
-  - "806"
-word_stats_keywords:
-  - 's:304:"a:18:{s:4:"well";i:3;s:4:"boss";i:4;s:5:"going";i:7;s:4:"move";i:3;s:4:"able";i:3;s:6:"afford";i:3;s:6:"really";i:3;s:4:"work";i:4;s:4:"come";i:3;s:7:"working";i:5;s:5:"thing";i:3;s:4:"time";i:9;s:5:"asked";i:4;s:6:"worked";i:3;s:11:"continually";i:3;s:6:"things";i:3;s:9:"customers";i:3;s:4:"home";i:3;}";'
-  - 's:304:"a:18:{s:4:"well";i:3;s:4:"boss";i:4;s:5:"going";i:7;s:4:"move";i:3;s:4:"able";i:3;s:6:"afford";i:3;s:6:"really";i:3;s:4:"work";i:4;s:4:"come";i:3;s:7:"working";i:5;s:5:"thing";i:3;s:4:"time";i:9;s:5:"asked";i:4;s:6:"worked";i:3;s:11:"continually";i:3;s:6:"things";i:3;s:9:"customers";i:3;s:4:"home";i:3;}";'
-word_stats_cached:
-  - "1"
-  - "1"
 categories:
   - Injustice
   - Stress

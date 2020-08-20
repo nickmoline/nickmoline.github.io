@@ -6,30 +6,6 @@ author: nickmoline
 layout: post
 guid: http://1075495203
 permalink: /2003/09/21/conference-visits-cuba/
-Views:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "945350377"
-  - "945350377"
-readability_ARI:
-  - "11.1"
-  - "11.1"
-readability_CLI:
-  - "6.9"
-  - "6.9"
-readability_LIX:
-  - "25.6"
-  - "25.6"
-word_stats_word_count:
-  - "216"
-  - "216"
-word_stats_keywords:
-  - 's:22:"a:1:{s:5:"movie";i:3;}";'
-  - 's:22:"a:1:{s:5:"movie";i:3;}";'
-word_stats_cached:
-  - "1"
-  - "1"
 categories:
   - Events
   - Games

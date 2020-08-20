@@ -6,26 +6,6 @@ author: nickmoline
 layout: post
 guid: http://1090209951
 permalink: /2003/07/18/no-brotherly-visit/
-readability_ARI:
-  - "14.5"
-  - "14.5"
-readability_CLI:
-  - "8.2"
-  - "8.2"
-readability_LIX:
-  - "35.1"
-  - "35.1"
-word_stats_word_count:
-  - "223"
-  - "223"
-word_stats_keywords:
-  - s:2:"N;";
-  - s:2:"N;";
-word_stats_cached:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "3259848886"
 categories:
   - Stress
   - Writing

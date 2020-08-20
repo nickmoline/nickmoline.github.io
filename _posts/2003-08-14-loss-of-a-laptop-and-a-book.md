@@ -6,30 +6,6 @@ author: nickmoline
 layout: post
 guid: http://1025281119
 permalink: /2003/08/14/loss-of-a-laptop-and-a-book/
-Views:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "970845931"
-  - "970845931"
-readability_ARI:
-  - "9"
-  - "9"
-readability_CLI:
-  - "5.9"
-  - "5.9"
-readability_LIX:
-  - "21.6"
-  - "21.6"
-word_stats_word_count:
-  - "217"
-  - "217"
-word_stats_keywords:
-  - 's:53:"a:3:{s:4:"well";i:4;s:6:"laptop";i:4;s:4:"just";i:3;}";'
-  - 's:53:"a:3:{s:4:"well";i:4;s:6:"laptop";i:4;s:4:"just";i:3;}";'
-word_stats_cached:
-  - "1"
-  - "1"
 categories:
   - Work
   - Writing

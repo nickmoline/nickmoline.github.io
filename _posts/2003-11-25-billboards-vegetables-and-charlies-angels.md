@@ -6,30 +6,6 @@ author: nickmoline
 layout: post
 guid: http://1436560538
 permalink: /2003/11/25/billboards-vegetables-and-charlies-angels/
-Views:
-  - "2"
-  - "2"
-dsq_thread_id:
-  - "968511676"
-  - "968511676"
-readability_ARI:
-  - "11.1"
-  - "11.1"
-readability_CLI:
-  - "7.1"
-  - "7.1"
-readability_LIX:
-  - "29.4"
-  - "29.4"
-word_stats_word_count:
-  - "740"
-  - "740"
-word_stats_keywords:
-  - 's:196:"a:11:{s:5:"night";i:3;s:9:"excessive";i:3;s:4:"time";i:4;s:10:"previously";i:3;s:4:"zach";i:3;s:4:"game";i:8;s:10:"characters";i:5;s:8:"together";i:3;s:4:"like";i:3;s:4:"high";i:3;s:4:"post";i:3;}";'
-  - 's:196:"a:11:{s:5:"night";i:3;s:9:"excessive";i:3;s:4:"time";i:4;s:10:"previously";i:3;s:4:"zach";i:3;s:4:"game";i:8;s:10:"characters";i:5;s:8:"together";i:3;s:4:"like";i:3;s:4:"high";i:3;s:4:"post";i:3;}";'
-word_stats_cached:
-  - "1"
-  - "1"
 categories:
   - Games
   - Music

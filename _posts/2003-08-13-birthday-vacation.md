@@ -6,26 +6,6 @@ author: nickmoline
 layout: post
 guid: http://1872336562
 permalink: /2003/08/13/birthday-vacation/
-readability_ARI:
-  - "14.7"
-  - "14.7"
-readability_CLI:
-  - "6.6"
-  - "6.6"
-readability_LIX:
-  - "23.9"
-  - "23.9"
-word_stats_word_count:
-  - "1715"
-  - "1715"
-word_stats_keywords:
-  - |
-    s:682:"a:42:{s:8:"actually";i:3;s:4:"blog";i:3;s:4:"took";i:5;s:4:"21st";i:3;s:8:"birthday";i:4;s:5:"vegas";i:4;s:4:"luck";i:3;s:5:"hotel";i:6;s:4:"room";i:10;s:5:"night";i:6;s:6:"stayed";i:3;s:5:"found";i:9;s:4:"well";i:7;s:6:"brunch";i:6;s:4:"look";i:3;s:6:"played";i:3;s:4:"went";i:7;s:6:"french";i:3;s:5:"check";i:6;s:4:"like";i:5;s:4:"know";i:4;s:4:"ride";i:5;s:4:"i'll";i:4;s:4:"just";i:3;s:4:"time";i:4;s:7:"picture";i:4;s:5:"items";i:4;s:4:"meal";i:3;s:6:"burger";i:3;s:4:"love";i:5;s:5:"spend";i:4;s:6:"bottle";i:3;s:5:"small";i:3;s:6:"casino";i:5;s:6:"better";i:3;s:5:"place";i:8;s:5:"movie";i:4;s:6:"anyway";i:3;s:5:"theme";i:3;s:6:"buffet";i:4;s:4:"left";i:3;s:6:"server";i:3;}";
-  - |
-    s:682:"a:42:{s:8:"actually";i:3;s:4:"blog";i:3;s:4:"took";i:5;s:4:"21st";i:3;s:8:"birthday";i:4;s:5:"vegas";i:4;s:4:"luck";i:3;s:5:"hotel";i:6;s:4:"room";i:10;s:5:"night";i:6;s:6:"stayed";i:3;s:5:"found";i:9;s:4:"well";i:7;s:6:"brunch";i:6;s:4:"look";i:3;s:6:"played";i:3;s:4:"went";i:7;s:6:"french";i:3;s:5:"check";i:6;s:4:"like";i:5;s:4:"know";i:4;s:4:"ride";i:5;s:4:"i'll";i:4;s:4:"just";i:3;s:4:"time";i:4;s:7:"picture";i:4;s:5:"items";i:4;s:4:"meal";i:3;s:6:"burger";i:3;s:4:"love";i:5;s:5:"spend";i:4;s:6:"bottle";i:3;s:5:"small";i:3;s:6:"casino";i:5;s:6:"better";i:3;s:5:"place";i:8;s:5:"movie";i:4;s:6:"anyway";i:3;s:5:"theme";i:3;s:6:"buffet";i:4;s:4:"left";i:3;s:6:"server";i:3;}";
-word_stats_cached:
-  - "1"
-  - "1"
 categories:
   - Blogging
   - Events

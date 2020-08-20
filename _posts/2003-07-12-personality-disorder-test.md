@@ -6,31 +6,6 @@ author: nickmoline
 layout: post
 guid: http://1074022023
 permalink: /2003/07/12/personality-disorder-test/
-Views:
-  - "1"
-  - "1"
-readability_ARI:
-  - "7.5"
-  - "7.5"
-readability_CLI:
-  - "7.2"
-  - "7.2"
-readability_LIX:
-  - "29.7"
-  - "29.7"
-word_stats_word_count:
-  - "908"
-  - "908"
-word_stats_keywords:
-  - 's:408:"a:23:{s:8:"possible";i:3;s:6:"really";i:3;s:4:"just";i:3;s:10:"incredibly";i:3;s:4:"time";i:7;s:7:"chapter";i:3;s:6:"anyway";i:3;s:7:"working";i:3;s:7:"minutes";i:3;s:4:"actd";i:4;s:7:"mission";i:3;s:5:"years";i:4;s:9:"character";i:5;s:7:"instead";i:3;s:5:"spent";i:3;s:4:"moon";i:4;s:8:"insanity";i:4;s:8:"quarters";i:4;s:4:"room";i:4;s:7:"gravity";i:8;s:8:"disorder";i:3;s:8:"moderate";i:3;s:4:"high";i:3;}";'
-  - 's:408:"a:23:{s:8:"possible";i:3;s:6:"really";i:3;s:4:"just";i:3;s:10:"incredibly";i:3;s:4:"time";i:7;s:7:"chapter";i:3;s:6:"anyway";i:3;s:7:"working";i:3;s:7:"minutes";i:3;s:4:"actd";i:4;s:7:"mission";i:3;s:5:"years";i:4;s:9:"character";i:5;s:7:"instead";i:3;s:5:"spent";i:3;s:4:"moon";i:4;s:8:"insanity";i:4;s:8:"quarters";i:4;s:4:"room";i:4;s:7:"gravity";i:8;s:8:"disorder";i:3;s:8:"moderate";i:3;s:4:"high";i:3;}";'
-word_stats_cached:
-  - "1"
-  - "1"
-bitly_url:
-  - http://wiz.fm/19ITrba
-dsq_thread_id:
-  - "981795586"
 categories:
   - Blogging
   - Stress

@@ -6,29 +6,6 @@ author: nickmoline
 layout: post
 guid: http://1408699924
 permalink: /2003/08/17/birthday-shopping-and-play-watching/
-Views:
-  - "3"
-  - "3"
-readability_ARI:
-  - "16.8"
-  - "16.8"
-readability_CLI:
-  - "6.9"
-  - "6.9"
-readability_LIX:
-  - "22.7"
-  - "22.7"
-word_stats_word_count:
-  - "663"
-  - "663"
-word_stats_keywords:
-  - 's:270:"a:16:{s:5:"party";i:3;s:6:"friday";i:3;s:4:"time";i:8;s:4:"went";i:6;s:5:"movie";i:7;s:6:"freaky";i:3;s:4:"good";i:3;s:7:"version";i:4;s:7:"lindsay";i:3;s:10:"convincing";i:4;s:4:"teen";i:5;s:4:"body";i:5;s:4:"anna";i:3;s:6:"anyway";i:3;s:6:"church";i:3;s:4:"week";i:3;}";'
-  - 's:270:"a:16:{s:5:"party";i:3;s:6:"friday";i:3;s:4:"time";i:8;s:4:"went";i:6;s:5:"movie";i:7;s:6:"freaky";i:3;s:4:"good";i:3;s:7:"version";i:4;s:7:"lindsay";i:3;s:10:"convincing";i:4;s:4:"teen";i:5;s:4:"body";i:5;s:4:"anna";i:3;s:6:"anyway";i:3;s:6:"church";i:3;s:4:"week";i:3;}";'
-word_stats_cached:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "5979858720"
 categories:
   - Events
   - Movies

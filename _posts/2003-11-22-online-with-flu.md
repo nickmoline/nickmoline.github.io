@@ -6,29 +6,6 @@ author: nickmoline
 layout: post
 guid: http://1257629864
 permalink: /2003/11/22/online-with-flu/
-Views:
-  - "1"
-  - "1"
-readability_ARI:
-  - "10.3"
-  - "10.3"
-readability_CLI:
-  - "5.8"
-  - "5.8"
-readability_LIX:
-  - "27.6"
-  - "27.6"
-word_stats_word_count:
-  - "378"
-  - "378"
-word_stats_keywords:
-  - 's:102:"a:6:{s:4:"well";i:4;s:5:"month";i:3;s:7:"because";i:3;s:4:"part";i:3;s:5:"worst";i:3;s:5:"thing";i:3;}";'
-  - 's:102:"a:6:{s:4:"well";i:4;s:5:"month";i:3;s:7:"because";i:3;s:4:"part";i:3;s:5:"worst";i:3;s:5:"thing";i:3;}";'
-word_stats_cached:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "3576434185"
 categories:
   - Love
   - Stress
@@ -46,6 +23,4 @@ The Joint Venture I&#8217;m a part of is starting to come together nicely, I sho
 
 Well I&#8217;m gonna end this post for now, I&#8217;ll post more later when I can remember more that has happened in the last month worth posting.
 
-<div class="media">
-  [Listening to: I can only imagine &#8211; MercyMe &#8211; the worship project (04:09)]
-</div>
+[Listening to: I can only imagine &#8211; MercyMe &#8211; the worship project (04:09)]

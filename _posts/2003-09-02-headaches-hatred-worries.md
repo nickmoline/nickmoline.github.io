@@ -6,29 +6,6 @@ author: nickmoline
 layout: post
 guid: http://629393097
 permalink: /2003/09/02/headaches-hatred-worries/
-Views:
-  - "1"
-  - "1"
-readability_ARI:
-  - "11.6"
-  - "11.6"
-readability_CLI:
-  - "6.3"
-  - "6.3"
-readability_LIX:
-  - "23.7"
-  - "23.7"
-word_stats_word_count:
-  - "377"
-  - "377"
-word_stats_keywords:
-  - 's:112:"a:6:{s:6:"really";i:4;s:6:"lately";i:3;s:7:"working";i:3;s:11:"complaining";i:3;s:5:"major";i:5;s:4:"hope";i:3;}";'
-  - 's:112:"a:6:{s:6:"really";i:4;s:6:"lately";i:3;s:7:"working";i:3;s:11:"complaining";i:3;s:5:"major";i:5;s:4:"hope";i:3;}";'
-word_stats_cached:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "991238274"
 categories:
   - Stress
   - Work
