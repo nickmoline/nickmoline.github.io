@@ -16,7 +16,7 @@ tags:
 ---
 This past weekend I had the absolute privilege of running sound for [The Refuge](https://www.therefugetheater.com/)&#8216;s first show, Next to Normal. When the opportunity was sent to me, I hesitated, it was going to be a real challenge, no lengthy week of tech/dress rehearsals to get sound right, unknown sound equipment in an unknown space, and no orchestra pit meaning the band is on stage which makes controlling the audio levels much more difficult. On top of this, the show was in San Francisco, meaning I&#8217;d have a long commute to and from the show each day.
 
-<!--more -->
+<!--more-->
 
 I&#8217;m so glad I decided to take the opportunity. The Refuge is an interesting concept of a theater company. Daniel Shaindlin has tried to come up with a way that the best college actors can get an experience to act in a professionally produced show. The group of students that he brought together for this show is absolutely incredible. If these young men and women don&#8217;t end up on Broadway or in Hollywood, the arts will have lost out on some real talent.
 
