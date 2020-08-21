@@ -41,7 +41,7 @@ Yesterday however, I learned something while trying to fill in the holes in my f
 <!--more-->
 
 <div class="wp-block-image">
-  <figure class="alignright"><a href="https://i1.wp.com/www.nick.pro/wp-content/uploads/2007/09/n2335901172_6580.jpg?ssl=1"><img src="https://i0.wp.com/www.nick.pro/wp-content/uploads/2007/09/n2335901172_6580.thumbnail.jpg?w=760&#038;ssl=1" alt="Carl Sandberg" data-recalc-dims="1" /></a></figure>
+  <figure class="alignright"><a href="{{ site.baseurl }}/wp-content/uploads/2007/09/n2335901172_6580.jpg?ssl=1"><img src="{{ site.baseurl }}/wp-content/uploads/2007/09/n2335901172_6580.thumbnail.jpg?w=760&#038;ssl=1" alt="Carl Sandberg" data-recalc-dims="1" /></a></figure>
 </div>
 
 On the right hand side of the group page, I noticed that the first &#8220;Related Group&#8221; was entitled <span class="removed_link" title="http://www.facebook.com/group.php?gid=2335901172">The infamous Carl Sandburg, not the famous.</span>&nbsp; The name was spelled slightly wrong (his name was actually spelled Sandberg), but he was one of the greatest men I ever knew.

@@ -35,7 +35,7 @@ categories:
   - Tech
 ---
 <div id="attachment_301" style="width: 210px" class="wp-caption alignright">
-  <a href="https://i2.wp.com/www.nick.pro/wp-content/uploads/2009/03/img_0001.png?ssl=1"><img aria-describedby="caption-attachment-301" class="size-medium wp-image-301" title="What would you like to do?" src="https://i2.wp.com/www.nick.pro/wp-content/uploads/2009/03/img_0001-200x300.png?resize=200%2C300&#038;ssl=1" alt="What would you like to do with the existing calendars information on your iPhone?" width="200" height="300" data-recalc-dims="1" /></a>
+  <a href="{{ site.baseurl }}/wp-content/uploads/2009/03/img_0001.png?ssl=1"><img aria-describedby="caption-attachment-301" class="size-medium wp-image-301" title="What would you like to do?" src="{{ site.baseurl }}/wp-content/uploads/2009/03/img_0001-200x300.png" alt="What would you like to do with the existing calendars information on your iPhone?" width="200" height="300" data-recalc-dims="1" /></a>
   
   <p id="caption-attachment-301" class="wp-caption-text">
     What would you like to do with the existing calendars information on your iPhone?
@@ -55,7 +55,7 @@ This is still good news, however, for anyone who needs their corporate calendars
 <div id='gallery-1' class='gallery galleryid-300 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='https://www.nick.pro/2009/03/18/iphone-30-supports-both-local-and-exchange-calendars-and-contacts/rp_img_0001-200x300-png/'><img width="150" height="150" src="https://i0.wp.com/nick.holodeck3.com/wp-content/uploads/sites/4/2009/03/img_0001-200x3001.png?resize=150%2C150" alt="img_0001-200x3001-150x150" class="attachment-thumbnail size-thumbnail" srcset="https://i0.wp.com/nick.holodeck3.com/wp-content/uploads/sites/4/2009/03/img_0001-200x3001.png?resize=150%2C150 150w, https://i0.wp.com/nick.holodeck3.com/wp-content/uploads/sites/4/2009/03/img_0001-200x3001.png?resize=50%2C50 50w" sizes="(max-width: 150px) 100vw, 150px" data-recalc-dims="1" /></a>
+      <a href='https://www.nick.pro/2009/03/18/iphone-30-supports-both-local-and-exchange-calendars-and-contacts/rp_img_0001-200x300-png/'><img width="150" height="150" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2009/03/img_0001-200x3001.png?resize=150%2C150" alt="img_0001-200x3001-150x150" class="attachment-thumbnail size-thumbnail" srcset="{{ site.baseurl }}/wp-content/uploads/sites/4/2009/03/img_0001-200x3001.png?resize=150%2C150 150w, {{ site.baseurl }}/wp-content/uploads/sites/4/2009/03/img_0001-200x3001.png?resize=50%2C50 50w" sizes="(max-width: 150px) 100vw, 150px" data-recalc-dims="1" /></a>
     </dt>
   </dl>
   

@@ -39,7 +39,7 @@ _
 Twas the Night before Christmas, and in the Geek&#8217;s House  
 The only thing stirring was the Geek&#8217;s mouse_
 
-[<img class="alignright size-medium wp-image-534" title="The Stocking was hung by the Plasma with care" alt="The Stocking was hung by the Plasma with care" src="https://i0.wp.com/www.nick.pro/wp-content/uploads/2011/12/IMAG0124-168x300.jpg?resize=168%2C300&#038;ssl=1" width="168" height="300" data-recalc-dims="1" />](https://i2.wp.com/www.nick.pro/wp-content/uploads/2011/12/IMAG0124.jpg?ssl=1)_The stocking was hung by the Plasma with care,_  
+[<img class="alignright size-medium wp-image-534" title="The Stocking was hung by the Plasma with care" alt="The Stocking was hung by the Plasma with care" src="{{ site.baseurl }}/wp-content/uploads/2011/12/IMAG0124-168x300.jpg" width="168" height="300" data-recalc-dims="1" />]({{ site.baseurl }}/wp-content/uploads/2011/12/IMAG0124.jpg?ssl=1)_The stocking was hung by the Plasma with care,_  
 _In hopes that [UPS](http://www.ups.com/) soon would be there;_
 
 _He was busy coding, no time for bed_  

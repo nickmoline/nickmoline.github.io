@@ -36,7 +36,7 @@ categories:
 ---
 Last Sunday I posted [the following message on my facebook](http://www.facebook.com/nickmoline?v=feed&story_fbid=366770667619&ref=mf):
 
-[<img class="aligncenter size-full wp-image-358" title="The Biggest Decision of our Lives" alt="The Biggest Decision of our Lives" src="https://i1.wp.com/www.nick.pro/wp-content/uploads/2011/05/adoptionfbpost.png?resize=492%2C92&#038;ssl=1" width="492" height="92" data-recalc-dims="1" />](http://www.facebook.com/nickmoline?v=feed&story_fbid=366770667619&ref=mf)
+[<img class="aligncenter size-full wp-image-358" title="The Biggest Decision of our Lives" alt="The Biggest Decision of our Lives" src="{{ site.baseurl }}/wp-content/uploads/2011/05/adoptionfbpost.png" width="492" height="92" data-recalc-dims="1" />](http://www.facebook.com/nickmoline?v=feed&story_fbid=366770667619&ref=mf)
 
 Naturally, many of my family and friends are curious just what this &#8220;huge decision&#8221; is. After consulting with both of our families, and some other trusted advisors, we have made our decision, and I can now share what the decision was about with you.
 

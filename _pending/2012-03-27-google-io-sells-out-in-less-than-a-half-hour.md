@@ -35,7 +35,7 @@ categories:
   - Google
 ---
 <div id="attachment_634" style="width: 270px" class="wp-caption alignright">
-  <img aria-describedby="caption-attachment-634" class="size-full wp-image-634" title="Sold Out in less than 30 minutes" src="https://i2.wp.com/www.nick.pro/wp-content/uploads/2012/03/Region-capture-16.png?resize=260%2C236&#038;ssl=1" alt="Sold Out in less than 30 minutes" width="260" height="236" data-recalc-dims="1" />
+  <img aria-describedby="caption-attachment-634" class="size-full wp-image-634" title="Sold Out in less than 30 minutes" src="{{ site.baseurl }}/wp-content/uploads/2012/03/Region-capture-16.png" alt="Sold Out in less than 30 minutes" width="260" height="236" data-recalc-dims="1" />
   
   <p id="caption-attachment-634" class="wp-caption-text">
     Google I/O sold out in Less than 30 minutes

@@ -35,4 +35,4 @@ categories:
 ---
 The Blog Mobile Site creator service [Mofuse](http://mofuse.mobi/) is down today with a MySQL Error.
 
-<img class="aligncenter size-medium wp-image-344" title="Mofuse.mobi down with MySQL Errors" alt="Mofuse.mobi down with MySQL Errors" src="https://i0.wp.com/www.nick.pro/wp-content/uploads/2011/05/mofusedown-300x245.png?resize=300%2C245&#038;ssl=1" width="300" height="245" data-recalc-dims="1" />
+<img class="aligncenter size-medium wp-image-344" title="Mofuse.mobi down with MySQL Errors" alt="Mofuse.mobi down with MySQL Errors" src="{{ site.baseurl }}/wp-content/uploads/2011/05/mofusedown-300x245.png" width="300" height="245" data-recalc-dims="1" />

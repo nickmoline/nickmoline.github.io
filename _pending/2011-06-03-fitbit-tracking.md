@@ -34,7 +34,7 @@ categories:
   - Gadgets
   - Health
 ---
-[<img class="alignleft" src="https://i1.wp.com/ecx.images-amazon.com/images/I/214dffo-VQL._SL160_.jpg?resize=67%2C160&#038;ssl=1" alt="Fitbit" width="67" height="160" data-recalc-dims="1" />](http://www.amazon.com/Fitbit-Wireless-Personal-Trainer/dp/B0031P3HY2%3FSubscriptionId%3D0P20NKJGP78BQ061KR02%26tag%3Dcapslog-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB0031P3HY2 "View product details at Amazon"){.broken_link}Several months ago I got a [Fitbit](http://www.amazon.com/Fitbit-Wireless-Personal-Trainer/dp/B0031P3HY2%3FSubscriptionId%3D0P20NKJGP78BQ061KR02%26tag%3Dcapslog-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB0031P3HY2 "View product details at Amazon"){.broken_link} tracker as a prize for a contest.  While I generally dislike exercise (as much as I know I should), I love gadgets, and this thing is as geeky as a pedometer can get (note, the @fitbit folks are very adamant that this is not a pedometer, but it accomplishes the same goals).
+[<img class="alignleft" src="https://i1.wp.com/ecx.images-amazon.com/images/I/214dffo-VQL._SL160_.jpg" alt="Fitbit" width="67" height="160" data-recalc-dims="1" />](http://www.amazon.com/Fitbit-Wireless-Personal-Trainer/dp/B0031P3HY2%3FSubscriptionId%3D0P20NKJGP78BQ061KR02%26tag%3Dcapslog-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB0031P3HY2 "View product details at Amazon"){.broken_link}Several months ago I got a [Fitbit](http://www.amazon.com/Fitbit-Wireless-Personal-Trainer/dp/B0031P3HY2%3FSubscriptionId%3D0P20NKJGP78BQ061KR02%26tag%3Dcapslog-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB0031P3HY2 "View product details at Amazon"){.broken_link} tracker as a prize for a contest.  While I generally dislike exercise (as much as I know I should), I love gadgets, and this thing is as geeky as a pedometer can get (note, the @fitbit folks are very adamant that this is not a pedometer, but it accomplishes the same goals).
 
 I find myself constantly looking at it to see how many steps I&#8217;ve made during the day and checking the flower to see if it is healthy or wilted.
 
@@ -44,4 +44,4 @@ My favorite feature is the activity mode.  When I do actual exercise and I hit 
 
 Here are some stats from tonight&#8217;s walk on the treadmill:
 
-[<img class="aligncenter size-full wp-image-384" title="Treadmill Walk Statistics" alt="Treadmill Walk Statistics" src="https://i0.wp.com/www.nick.pro/wp-content/uploads/2011/06/Region-capture-6.png?resize=547%2C321&#038;ssl=1" width="547" height="321" data-recalc-dims="1" />](http://www.fitbit.com/user/223FZ9)
+[<img class="aligncenter size-full wp-image-384" title="Treadmill Walk Statistics" alt="Treadmill Walk Statistics" src="{{ site.baseurl }}/wp-content/uploads/2011/06/Region-capture-6.png" width="547" height="321" data-recalc-dims="1" />](http://www.fitbit.com/user/223FZ9)

@@ -60,6 +60,6 @@ image: http://nick.holodeck3.com/wp-content/uploads/sites/4/2012/11/1186278_6343
 categories:
   - Weight Loss
 ---
-[<img class="alignright size-medium wp-image-806" title="31965874" alt="31965874" src="https://i1.wp.com/www.nick.pro/wp-content/uploads/2012/07/31965874-199x300.jpg?resize=199%2C300&#038;ssl=1" width="199" height="300" data-recalc-dims="1" />](https://i2.wp.com/www.nick.pro/wp-content/uploads/2012/07/31965874.jpg?ssl=1)It&#8217;s midnight, it is now officially the day of surgery, and the latest phase takes effect, as of this moment, nothing more to drink (or eat, though I haven&#8217;t been allowed to eat in weeks anyway) until after the surgery, even water.
+[<img class="alignright size-medium wp-image-806" title="31965874" alt="31965874" src="{{ site.baseurl }}/wp-content/uploads/2012/07/31965874-199x300.jpg" width="199" height="300" data-recalc-dims="1" />]({{ site.baseurl }}/wp-content/uploads/2012/07/31965874.jpg?ssl=1)It&#8217;s midnight, it is now officially the day of surgery, and the latest phase takes effect, as of this moment, nothing more to drink (or eat, though I haven&#8217;t been allowed to eat in weeks anyway) until after the surgery, even water.
 
 Surgery is tomorrow at 10 am Pacific time (just 10 hours away).

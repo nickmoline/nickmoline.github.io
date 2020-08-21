@@ -63,7 +63,7 @@ image: http://nick.holodeck3.com/wp-content/uploads/sites/4/2012/11/1186278_6343
 categories:
   - Weight Loss
 ---
-[<img class="alignright size-thumbnail wp-image-774" title="7410067L" alt="7410067L" src="https://i1.wp.com/www.nick.pro/wp-content/uploads/2012/07/7410067L-150x150.jpg?resize=150%2C150&#038;ssl=1" width="150" height="150" data-recalc-dims="1" />](https://i2.wp.com/www.nick.pro/wp-content/uploads/2012/07/7410067L.jpg?ssl=1)Today was my pre-op appointment with the surgeon to make sure I&#8217;m all set for surgery.  When I stepped on the scale (which looked just like the one pictured on the right) today I was pleasantly surprised to find out that I&#8217;m down to **406.7**.  This means I&#8217;ve lost **83.5** pounds total so far and I haven&#8217;t even had the surgery yet.
+[<img class="alignright size-thumbnail wp-image-774" title="7410067L" alt="7410067L" src="{{ site.baseurl }}/wp-content/uploads/2012/07/7410067L-150x150.jpg" width="150" height="150" data-recalc-dims="1" />]({{ site.baseurl }}/wp-content/uploads/2012/07/7410067L.jpg?ssl=1)Today was my pre-op appointment with the surgeon to make sure I&#8217;m all set for surgery.  When I stepped on the scale (which looked just like the one pictured on the right) today I was pleasantly surprised to find out that I&#8217;m down to **406.7**.  This means I&#8217;ve lost **83.5** pounds total so far and I haven&#8217;t even had the surgery yet.
 
 Surgery is scheduled for Thursday, July 26, 2012.
 

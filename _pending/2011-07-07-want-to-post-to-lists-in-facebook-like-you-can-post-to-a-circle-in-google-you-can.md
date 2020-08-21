@@ -38,12 +38,12 @@ So I really like Google+ and happily post away to my [Google+ Profile](http://gp
 
 It turns out, facebook does have this feature, but it only works from the Facebook Website (not from the mobile apps or through the API) and it&#8217;s a lot more kludgy to use then it is in Google+.  <!--more-->Step 1) Write your post in the normal &#8220;What&#8217;s on your mind?&#8221; box as usual, but don&#8217;t click Share yet.
 
-<img class="aligncenter size-full wp-image-444" title="Posting to a social group (step 1)" alt="Posting to a social group (step 1)" src="https://i0.wp.com/www.nick.pro/wp-content/uploads/2011/07/Region-capture-1.png?resize=522%2C104&#038;ssl=1" width="522" height="104" data-recalc-dims="1" /> 
+<img class="aligncenter size-full wp-image-444" title="Posting to a social group (step 1)" alt="Posting to a social group (step 1)" src="{{ site.baseurl }}/wp-content/uploads/2011/07/Region-capture-1.png" width="522" height="104" data-recalc-dims="1" /> 
 
 Step 2) Instead of clicking the Share button, click the little lock next to it bringing up a drop down of Privacy options.  Select Customize from this dropdown.
 
-<img class="aligncenter size-full wp-image-445" title="Facebook Selective Sharing Step 2" alt="Facebook Selective Sharing Step 2" src="https://i1.wp.com/www.nick.pro/wp-content/uploads/2011/07/Region-capture-2.png?resize=518%2C270&#038;ssl=1" width="518" height="270" data-recalc-dims="1" /> Step 3) In the &#8220;These people:&#8221; drop down, select &#8220;Specific People&#8230;&#8221; and in the text box that pops up, begin typing the name of the facebook list you want to share with.
+<img class="aligncenter size-full wp-image-445" title="Facebook Selective Sharing Step 2" alt="Facebook Selective Sharing Step 2" src="{{ site.baseurl }}/wp-content/uploads/2011/07/Region-capture-2.png" width="518" height="270" data-recalc-dims="1" /> Step 3) In the &#8220;These people:&#8221; drop down, select &#8220;Specific People&#8230;&#8221; and in the text box that pops up, begin typing the name of the facebook list you want to share with.
 
-<img class="aligncenter size-full wp-image-446" title="Facebook Selective Sharing Step 3" alt="Facebook Selective Sharing Step 3" src="https://i0.wp.com/www.nick.pro/wp-content/uploads/2011/07/Region-capture-4.png?resize=555%2C368&#038;ssl=1" width="555" height="368" data-recalc-dims="1" /> 
+<img class="aligncenter size-full wp-image-446" title="Facebook Selective Sharing Step 3" alt="Facebook Selective Sharing Step 3" src="{{ site.baseurl }}/wp-content/uploads/2011/07/Region-capture-4.png" width="555" height="368" data-recalc-dims="1" /> 
 
 Step 4) Click on Save Setting, and then click on the Share button and your post will go only to the specific list(s) you selected, just like Google+ (just more time consuming)

@@ -42,7 +42,7 @@ categories:
   - Movies
 ---
 <div id="attachment_274" style="width: 207px" class="wp-caption alignright">
-  <a href="http://www.narniafans.com/archives/2921" class="broken_link"><img aria-describedby="caption-attachment-274" class="size-full wp-image-274" title="caspian-book-dvd" src="https://i2.wp.com/www.nick.pro/wp-content/uploads/2009/01/caspian-book-dvd.jpg?resize=197%2C131&#038;ssl=1" alt="Is the book better than the movie?" width="197" height="131" data-recalc-dims="1" /></a>
+  <a href="http://www.narniafans.com/archives/2921" class="broken_link"><img aria-describedby="caption-attachment-274" class="size-full wp-image-274" title="caspian-book-dvd" src="{{ site.baseurl }}/wp-content/uploads/2009/01/caspian-book-dvd.jpg" alt="Is the book better than the movie?" width="197" height="131" data-recalc-dims="1" /></a>
   
   <p id="caption-attachment-274" class="wp-caption-text">
     Is the book better than the movie?

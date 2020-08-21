@@ -38,7 +38,7 @@ categories:
   - Law
   - Work
 ---
-<img src='https://i2.wp.com/www.nick.pro/wp-content/uploads/2007/06/31965874.thumbnail.jpg?w=760&#038;ssl=1' alt='Brain Surgery' align="left" style="margin-top:5px;margin-right:10px;margin-bottom:10px" data-recalc-dims="1" />  
+<img src='{{ site.baseurl }}/wp-content/uploads/2007/06/31965874.thumbnail.jpg?w=760&#038;ssl=1' alt='Brain Surgery' align="left" style="margin-top:5px;margin-right:10px;margin-bottom:10px" data-recalc-dims="1" />  
 Often when someone wants to indicate that a task doesn&#8217;t take a genious, they relate the task to one of two professions, and so two common phrases you will hear on a regular basis are &#8220;Hey, it&#8217;s not Rocket Science&#8221; and similarly &#8220;Hey, it&#8217;s not Brain Surgery.&#8221; This seems a strange way to start a blog post, but trust me, you&#8217;ll understand in a moment.  
 <!--more-->
 

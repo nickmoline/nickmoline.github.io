@@ -42,7 +42,7 @@ Since the very beginning, when met with an Atom or RSS feed, Google Chrome respo
 In the recently released stable Chrome 19, one of the new features is that instead of displaying the XML as unformatted xml, it fires off a <a href="http://webintents.org/view" target="_blank" class="broken_link">view web intent</a> instead.  This may be a good first step towards making feeds friendlier to use.  Instead of seeing a page the average reader doesn&#8217;t understand, they could be shown their own apps that they&#8217;ve installed.<!--more-->
 
 <div id="attachment_686" style="width: 310px" class="wp-caption alignright">
-  <a href="https://i2.wp.com/www.nick.pro/wp-content/uploads/2012/05/Region-capture-5.png?ssl=1"><img aria-describedby="caption-attachment-686" class="size-medium wp-image-686 " title="No Results found" alt="No Results found" src="https://i2.wp.com/www.nick.pro/wp-content/uploads/2012/05/Region-capture-5-300x158.png?resize=300%2C158&#038;ssl=1" width="300" height="158" data-recalc-dims="1" /></a>
+  <a href="{{ site.baseurl }}/wp-content/uploads/2012/05/Region-capture-5.png?ssl=1"><img aria-describedby="caption-attachment-686" class="size-medium wp-image-686 " title="No Results found" alt="No Results found" src="{{ site.baseurl }}/wp-content/uploads/2012/05/Region-capture-5-300x158.png" width="300" height="158" data-recalc-dims="1" /></a>
   
   <p id="caption-attachment-686" class="wp-caption-text">
     Searching the chrome web store for a feed reader gives you squat

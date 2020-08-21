@@ -38,7 +38,7 @@ categories:
   - Justia
   - Places
 ---
-[<img src='https://i1.wp.com/www.nick.pro/wp-content/uploads/2007/06/main-stage.thumbnail.jpg?w=760&#038;ssl=1' alt='The Main Stage' align="right" style="margin-left:5px;margin-top:5px;margin-bottom:5px" border="0" data-recalc-dims="1" />](https://i1.wp.com/www.nick.pro/wp-content/uploads/2007/06/main-stage.jpg?ssl=1 "The Main Stage")
+[<img src='{{ site.baseurl }}/wp-content/uploads/2007/06/main-stage.thumbnail.jpg?w=760&#038;ssl=1' alt='The Main Stage' align="right" style="margin-left:5px;margin-top:5px;margin-bottom:5px" border="0" data-recalc-dims="1" />]({{ site.baseurl }}/wp-content/uploads/2007/06/main-stage.jpg?ssl=1 "The Main Stage")
 
 This thursday I went over to my second Tech Conference since moving to the San Francisco Bay area, the first being MacWorld back in January, this time, I went to the San Jose convention Center for the 2nd annual <a href="http://code.google.com/events/developerday/mv-home.html" target="_blank">Google Developer Day</a>. I must say I hope that <a href="http://www.apple.com/pr/library/2006/aug/29bod.html" target="_blank">Google&#8217;s CEO tells the Apple Board of Directors</a> a thing or two about how to hold a Tech Conference.
 
@@ -49,7 +49,7 @@ Google Developer Day 2007 was fantastic fun, and Google made a lot of fantastic 
 I really didn&#8217;t know what to expect, nothing on the website had mentioned anything about a cost or anything, and while I was reasonably sure that the sessions were free and my registration was free, I thought for sure that food would cost money, and that there would be things to buy at the event (shirts and trinkets and such), but I was wrong. I didn&#8217;t spend a dime, the entire day. When I registered, they handed me an info pamphlet, a namebadge, and a coupon to walk over to the left and pick up a free Google Developer Day 2007 t-shirt.
 
 <div align="center">
-  <a href='https://i1.wp.com/www.nick.pro/wp-content/uploads/2007/06/google-day-lounge.jpg?ssl=1' title='Blogging Lounge'><img src='https://i2.wp.com/www.nick.pro/wp-content/uploads/2007/06/google-day-lounge.thumbnail.jpg?w=760&#038;ssl=1' alt='Blogging Lounge' border="0" data-recalc-dims="1" /></a>
+  <a href='{{ site.baseurl }}/wp-content/uploads/2007/06/google-day-lounge.jpg?ssl=1' title='Blogging Lounge'><img src='{{ site.baseurl }}/wp-content/uploads/2007/06/google-day-lounge.thumbnail.jpg?w=760&#038;ssl=1' alt='Blogging Lounge' border="0" data-recalc-dims="1" /></a>
 </div>
 
 The event began with a keynote by Jeff Huber, VP of Engineering at Google. He announced several new features and tools for developers. He focused on 3 particular new announcements, Maplets, the <a href="http://code.google.com/gme/" target="_blank">Google Mashup Editor</a>, and <a href="http://code.google.com/apis/gears/" target="_blank">Google Gears</a>. But throughout the rest of the day there would be announcements of several other new features for coders. Google has put up the keynote (and many other sessions up on YouTube. Click play below to watch the keynote.

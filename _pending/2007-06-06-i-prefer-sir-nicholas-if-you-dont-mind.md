@@ -37,7 +37,7 @@ categories:
   - Blogging
   - General
 ---
-<img src='https://i2.wp.com/www.nick.pro/wp-content/uploads/2007/06/32264243.thumbnail.jpg?w=760&#038;ssl=1' alt="As for me, I'll be a Knight" title="As for me... I'll be a Knight" align="right" style="margin-top:5px;margin-left:5px;margin-bottom:5px" data-recalc-dims="1" />Just a little bit of Google humor today, I decided to do something I do every so often and do a google search for my name, [Nicholas Moline](http://www.google.com/search?q=Nicholas+Moline). I was pleased to see that 8 out of the first 10 results were indeed about me (a few of which were by me), but I happened across a listing that made me smile.
+<img src='{{ site.baseurl }}/wp-content/uploads/2007/06/32264243.thumbnail.jpg?w=760&#038;ssl=1' alt="As for me, I'll be a Knight" title="As for me... I'll be a Knight" align="right" style="margin-top:5px;margin-left:5px;margin-bottom:5px" data-recalc-dims="1" />Just a little bit of Google humor today, I decided to do something I do every so often and do a google search for my name, [Nicholas Moline](http://www.google.com/search?q=Nicholas+Moline). I was pleased to see that 8 out of the first 10 results were indeed about me (a few of which were by me), but I happened across a listing that made me smile.
 
 Google Book Search found my name in a very old book: [The Egerton Papers: A Collection of Public and Private Documents, Chiefly Illustrative of the &#8230;](http://books.google.com/books?id=rb0sAAAAMAAJ&pg=PA403&lpg=PA403&dq=nicholas+moline&source=web) contains an interesting mention on [Page 403](http://books.google.com/books?id=rb0sAAAAMAAJ&pg=PA403&lpg=PA403&dq=nicholas+moline&source=web)
 

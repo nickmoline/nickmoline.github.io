@@ -30,4 +30,4 @@ word_stats_cached:
 categories:
   - Places
 ---
-[<img align="left" id="image106" alt="Updated State Map June, 2006" src="https://i1.wp.com/www.nick.pro/wp-content/uploads/2006/06/statemap-2006-06.thumbnail.gif?w=760&#038;ssl=1" data-recalc-dims="1" />](https://i0.wp.com/www.nick.pro/wp-content/uploads/2006/06/statemap-2006-06.gif?ssl=1)[Long ago](/2004/04/11/updated-map/) I used to update a World66 Map any time I had been somewhere I hadn&#8217;t been before, well since then I have been to 2 other states. The reason I think about this now is because I returned to those states a week ago to see my sister get married.
+[<img align="left" id="image106" alt="Updated State Map June, 2006" src="{{ site.baseurl }}/wp-content/uploads/2006/06/statemap-2006-06.thumbnail.gif?w=760&#038;ssl=1" data-recalc-dims="1" />]({{ site.baseurl }}/wp-content/uploads/2006/06/statemap-2006-06.gif?ssl=1)[Long ago](/2004/04/11/updated-map/) I used to update a World66 Map any time I had been somewhere I hadn&#8217;t been before, well since then I have been to 2 other states. The reason I think about this now is because I returned to those states a week ago to see my sister get married.

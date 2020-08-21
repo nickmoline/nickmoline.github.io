@@ -34,7 +34,7 @@ categories:
   - Pottermore
 ---
 <div id="attachment_624" style="width: 310px" class="wp-caption alignright">
-  <img aria-describedby="caption-attachment-624" class="size-medium wp-image-624 " title="When will the Beta END!!!!!" alt="When will the Beta END!!!!!" src="https://i1.wp.com/www.nick.pro/wp-content/uploads/2012/03/Region-capture-14-300x258.png?resize=300%2C258&#038;ssl=1" width="300" height="258" data-recalc-dims="1" />
+  <img aria-describedby="caption-attachment-624" class="size-medium wp-image-624 " title="When will the Beta END!!!!!" alt="When will the Beta END!!!!!" src="{{ site.baseurl }}/wp-content/uploads/2012/03/Region-capture-14-300x258.png" width="300" height="258" data-recalc-dims="1" />
   
   <p id="caption-attachment-624" class="wp-caption-text">
     When will the Beta END?!

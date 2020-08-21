@@ -35,7 +35,7 @@ categories:
   - Tech
 ---
 <div id="attachment_524" style="width: 222px" class="wp-caption alignright">
-  <a href="http://www.sxc.hu/photo/1159613"><img aria-describedby="caption-attachment-524" class="size-medium wp-image-524 " title="Happy Binary Day (Enjoy it, it is probably your last)" alt="Happy Binary Day (Enjoy it, it is probably your last)" src="https://i2.wp.com/www.nick.pro/wp-content/uploads/2011/11/binary1-212x300.jpg?resize=212%2C300&#038;ssl=1" width="212" height="300" data-recalc-dims="1" /></a>
+  <a href="http://www.sxc.hu/photo/1159613"><img aria-describedby="caption-attachment-524" class="size-medium wp-image-524 " title="Happy Binary Day (Enjoy it, it is probably your last)" alt="Happy Binary Day (Enjoy it, it is probably your last)" src="{{ site.baseurl }}/wp-content/uploads/2011/11/binary1-212x300.jpg" width="212" height="300" data-recalc-dims="1" /></a>
   
   <p id="caption-attachment-524" class="wp-caption-text">
     Happy Binary Day

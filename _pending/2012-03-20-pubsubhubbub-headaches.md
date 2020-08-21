@@ -34,7 +34,7 @@ categories:
   - Blogging
   - Work
 ---
-<img class="alignleft size-medium wp-image-627" title="pubsubhubbub" alt="pubsubhubbub" src="https://i1.wp.com/www.nick.pro/wp-content/uploads/2012/03/pubsubhubbub-300x140.png?resize=300%2C140&#038;ssl=1" width="300" height="140" data-recalc-dims="1" />I&#8217;ve been fighting with the [PubSubHubbub](http://code.google.com/p/pubsubhubbub/) protocol over the last few days.  I apologize for the test posts which have been causing annoyances to what few readers I actually have.  For those of you who have no idea what PubSubHubbub is, it is a method of allowing people to get updates about new blog posts in real time (or near real time).
+<img class="alignleft size-medium wp-image-627" title="pubsubhubbub" alt="pubsubhubbub" src="{{ site.baseurl }}/wp-content/uploads/2012/03/pubsubhubbub-300x140.png" width="300" height="140" data-recalc-dims="1" />I&#8217;ve been fighting with the [PubSubHubbub](http://code.google.com/p/pubsubhubbub/) protocol over the last few days.  I apologize for the test posts which have been causing annoyances to what few readers I actually have.  For those of you who have no idea what PubSubHubbub is, it is a method of allowing people to get updates about new blog posts in real time (or near real time).
 
 <!--more-->RSS and Atom Feeds have been around for a long time, and they are great at dispensing the content of a blog or site in an easy to consume format.  However just like the home page of the blog, they are just files, sitting on a website waiting for someone to fetch them.  When I write a new post, or change an existing post, people who subscribe to my feed must fetch the feed again in order to know something has changed.
 
