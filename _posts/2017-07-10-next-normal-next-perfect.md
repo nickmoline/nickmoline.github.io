@@ -6,31 +6,28 @@ author: nickmoline
 layout: post
 guid: https://www.nick.pro/?p=1349
 permalink: /2017/07/10/next-normal-next-perfect/
-ampforwp_custom_content_editor:
-  - ""
-ampforwp_custom_content_editor_checkbox:
-  - null
-ampforwp-amp-on-off:
-  - default
-dsq_thread_id:
-  - "5979637252"
-image: http://nick.holodeck3.com/wp-content/uploads/sites/4/2017/07/IMG_20170709_182134.jpg
+cover: /wp-content/uploads/sites/4/2017/07/IMG_20170709_182134.jpg
 categories:
-  - Plays
+    - Theatre
+tags:
+    - Sound
+    - The Refuge
+    - Next to Normal
 ---
-<div class="wp-block-image">
-  <figure class="alignright"><a href="https://www.nick.pro/2017/07/10/next-normal-next-perfect/img_20170709_182134/" rel="attachment wp-att-1350"><img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2017/07/IMG_20170709_182134.jpg?resize=300%2C225" alt="Next to Normal Sound Setup" class="wp-image-1350" srcset="{{ site.baseurl }}/wp-content/uploads/sites/4/2017/07/IMG_20170709_182134.jpg?resize=300%2C225 300w, {{ site.baseurl }}/wp-content/uploads/sites/4/2017/07/IMG_20170709_182134.jpg?resize=768%2C576 768w, {{ site.baseurl }}/wp-content/uploads/sites/4/2017/07/IMG_20170709_182134.jpg?resize=1024%2C768 1024w, {{ site.baseurl }}/wp-content/uploads/sites/4/2017/07/IMG_20170709_182134.jpg?w=1520 1520w, {{ site.baseurl }}/wp-content/uploads/sites/4/2017/07/IMG_20170709_182134.jpg?w=2280 2280w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a><figcaption>My Sound Setup for the show</figcaption></figure>
-</div>
-
 This past weekend I had the absolute privilege of running sound for [The Refuge](https://www.therefugetheater.com/)&#8216;s first show, Next to Normal. When the opportunity was sent to me, I hesitated, it was going to be a real challenge, no lengthy week of tech/dress rehearsals to get sound right, unknown sound equipment in an unknown space, and no orchestra pit meaning the band is on stage which makes controlling the audio levels much more difficult. On top of this, the show was in San Francisco, meaning I&#8217;d have a long commute to and from the show each day.
+
+<!--more -->
 
 I&#8217;m so glad I decided to take the opportunity. The Refuge is an interesting concept of a theater company. Daniel Shaindlin has tried to come up with a way that the best college actors can get an experience to act in a professionally produced show. The group of students that he brought together for this show is absolutely incredible. If these young men and women don&#8217;t end up on Broadway or in Hollywood, the arts will have lost out on some real talent.
 
-If you didn&#8217;t read that these were college students and just came to the show, you would believe these were old pros who have been belting it out on the Broadway stage for years. Heck, they are better than many of the actors I&#8217;ve actually seen on Broadway and other professional productions.<figure class="wp-block-embed-youtube alignwide wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+If you didn&#8217;t read that these were college students and just came to the show, you would believe these were old pros who have been belting it out on the Broadway stage for years. Heck, they are better than many of the actors I&#8217;ve actually seen on Broadway and other professional productions.
 
-<div class="wp-block-embed__wrapper">
-  <span class="embed-youtube" style="text-align:center; display: block;"></span>
-</div></figure> 
+<amp-youtube
+  data-videoid="zfdsYB8Oa-I"
+  layout="responsive"
+  width="480"
+  height="270"
+></amp-youtube>
 
 On top of this, to make the show as amazing as possible, our extremely talented Music Director Kevin Surace told Daniel that this show needed professional musicians. This show is an extremely challenging one to play and the timeline to produce it was going to be extremely short. Kevin knew that this group of actors deserved to be backed by an Orchestra that was ready and able to play this music. The musicians they hired for this show have toured, they&#8217;ve played concert halls and stages around the world and it shows.
 
