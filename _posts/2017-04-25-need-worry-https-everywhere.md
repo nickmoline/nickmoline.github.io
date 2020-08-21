@@ -14,4 +14,4 @@ tags:
     - Onward Blog
     - HTTPS
 ---
-If you&#8217;ve been thinking about switching to HTTPS as part of the HTTPS Everywhere initiative from Google and Mozilla, you should make sure you know what you are doing.  Check out [my post](https://onward.justia.com/2017/04/03/https-is-still-hard-but-necessary-for-your-success/) on Justia&#8217;s blog to learn what you need to pay attention to before you go HTTPS.
+If you&#8217;ve been thinking about switching to HTTPS as part of the HTTPS Everywhere initiative from Google and Mozilla, you should make sure you know what you are doing. Check out [my post](https://onward.justia.com/2017/04/03/https-is-still-hard-but-necessary-for-your-success/) on Justia&#8217;s blog to learn what you need to pay attention to before you go HTTPS.

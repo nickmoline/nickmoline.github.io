@@ -1,6 +1,6 @@
 ---
 id: 1047
-title: Wearing a computer at MIT
+title: Wearing a Computer at MIT, a Two Decade Dream Realized
 date: 2014-06-22T21:59:08-07:00
 author: nickmoline
 layout: post
