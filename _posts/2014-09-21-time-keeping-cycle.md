@@ -30,7 +30,7 @@ Why did everyone stop wearing watches?  Because pretty much everyone started car
 
 It is interesting though that timepieces have moved from inside the pocket, to the wrist, back into the pocket, and now back to the wrist again.  For the enjoyment of anyone who cares, I&#8217;m including a brief history of the watch, ending with my personal history with watches after the break.
 
-<a href="{{ site.baseurl }}/wp-content/uploads/sites/4/2014/09/German_-_Spherical_Table_Watch_Melanchthons_Watch_-_Walters_5817_-_View_C.jpg" rel="attachment wp-att-1088"><amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2014/09/German_-_Spherical_Table_Watch_Melanchthons_Watch_-_Walters_5817_-_View_C.jpg" alt="German - Spherical Table Watch (Melanchthon's Watch) - Walters 5817 - View C" class="wp-image-1088" width="1800" height="1184" layout="responsive" title="German &#8211; Spherical Table Watch (Melanchthon&#8217;s Watch) &#8211; Walters 5817"></amp-img></a>
+<a href="{{ site.baseurl }}/wp-content/uploads/sites/4/2014/09/German_-_Spherical_Table_Watch_Melanchthons_Watch_-_Walters_5817_-_View_C.jpg" rel="attachment wp-att-1088"><amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2014/09/German_-_Spherical_Table_Watch_Melanchthons_Watch_-_Walters_5817_-_View_C.jpg" alt="German - Spherical Table Watch (Melanchthon's Watch) - Walters 5817 - View C"  width="1800" height="1184" layout="responsive" title="German &#8211; Spherical Table Watch (Melanchthon&#8217;s Watch) &#8211; Walters 5817"></amp-img></a>
 
 
 The invention of the watch is usually credited to German clockmaker <a title="Peter Henlein" href="http://en.wikipedia.org/wiki/Peter_Henlein" target="_blank" rel="noopener noreferrer">Peter Henlein</a> in the early 1500s.  Henlein was one of the first to make what was known as _taschenuhr_ or &#8220;clock-watches,&#8221; which was a clock worn as a pendant around the neck.
@@ -39,7 +39,7 @@ These early timepieces generally only had an hour hand, but often did include ch
 
 The earliest dated known watch is the one seen here which is dated 1530.  It had a metal cover to protect the delicate hour hand.
 
-<a href="{{ site.baseurl }}/wp-content/uploads/sites/4/2014/09/1015824_56041469.jpg"><amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2014/09/1015824_56041469.jpg" alt="Pocket Watch" class="wp-image-1112" width="2549" height="2098" layout="responsive" title="100 Years ago, people kept their timepieces in their pockets"></amp-img></a>
+<a href="{{ site.baseurl }}/wp-content/uploads/sites/4/2014/09/1015824_56041469.jpg"><amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2014/09/1015824_56041469.jpg" alt="Pocket Watch"  width="2549" height="2098" layout="responsive" title="100 Years ago, people kept their timepieces in their pockets"></amp-img></a>
 
 In the late 17th century, the watch got smaller and <a title="The History of Watches" href="http://en.wikipedia.org/wiki/History_of_watches#Pocketwatches" target="_blank" rel="noopener noreferrer">began to be kept in pockets</a>, rather than as pendants.  The pocketwatch remained in fashion for quite some time, being the chosen timepiece for men until the 20th century.
 
@@ -47,7 +47,7 @@ Women started wearing wrist watches much earlier than men, Elizabeth the 1st was
 
 Men chose to stick with pocketwatches for quite some time, not just because of fashion, but because watches of the time had a tendancy to be damaged by exposure to the elements, so by keeping the watch sealed and in a pocket, they would last longer.
 
-<a href="http://www.amazon.com/gp/product/B000GB1R7S/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000GB1R7S&linkCode=as2&tag=nickdotpro-20&linkId=3H5BV2UTT233QMK7"><amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2014/09/6a00d83452989a69e201156f35715b970b-800wi.jpg" alt="Casio Calculator Watch" title="Believe it or not, Casio still makes these!" class="wp-image-1096" width="342" height="539" layout="intrinsic"></amp-img></a>
+<a href="http://www.amazon.com/gp/product/B000GB1R7S/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000GB1R7S&linkCode=as2&tag=nickdotpro-20&linkId=3H5BV2UTT233QMK7"><amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2014/09/6a00d83452989a69e201156f35715b970b-800wi.jpg" alt="Casio Calculator Watch" title="Believe it or not, Casio still makes these!"  width="342" height="539" layout="intrinsic"></amp-img></a>
 
 Like many advancements, it is because of the military that men started wearing watches on their wrists.  At the end of the 19th century, the importance of synchronizing maneuvers (&#8220;Synchronize your watches!&#8221;) made constantly pulling a watch out of your pocket to be impractical, and so officers of the British Army began using wistwatches during military campaigns in the 1880s.
 
@@ -55,7 +55,7 @@ Wristwatches became even more popular during World War I.  The British War Depar
 
 By the time I got my first watch in the late &#8217;80s or early &#8217;90s, digital watches were available.  As I mentioned in the beginning of this post, I favored a Casio Calculator watch to help me be lazy with arithmetic while also telling me just how behind schedule I was.
 
-<amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2014/09/Screen-shot-2013-03-27-at-7.00.48-AM.png" alt="Cellphones, the new pocketwatch" class="wp-image-1101" title="Cell-phones, the new pocketwatch" width="384" height="360" layout="intrinsic"></amp-img>
+<amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2014/09/Screen-shot-2013-03-27-at-7.00.48-AM.png" alt="Cellphones, the new pocketwatch"  title="Cell-phones, the new pocketwatch" width="384" height="360" layout="intrinsic"></amp-img>
 
 I wore a wristwatch through pretty much all of my childhood and teen years, but in early adulthood, at some point after I got my first easily pocketable cell-phone, I stopped wearing it.
 
@@ -65,7 +65,7 @@ I dabbled on and off with wearing a watch in the years since going cellular, but
 
 When I got the first iPhone back in late 2007 it became an indispensable part of my life.  I haven&#8217;t been without a smartphone since.  But something was missing.  I have long found myself missing text message chimes, and I missed the convenience factor of being able to just glance at my wrist when I wanted to know the time.
 
-<a href="{{ site.baseurl }}/wp-content/uploads/sites/4/2013/04/MG_7150-2346688102-O.jpg"><amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2013/04/MG_7150-2346688102-O.jpg" alt="Nick Moline, Glass Explorer" title="Nick Moline, Glass Explorer" class="wp-image-934" width="864" height="1296" layout="responsive"></amp-img></a>
+<a href="{{ site.baseurl }}/wp-content/uploads/sites/4/2013/04/MG_7150-2346688102-O.jpg"><amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2013/04/MG_7150-2346688102-O.jpg" alt="Nick Moline, Glass Explorer" title="Nick Moline, Glass Explorer"  width="864" height="1296" layout="responsive"></amp-img></a>
 
 Because of this I&#8217;ve been following the wearables trend very closely for the last few years.  I was very tempted a few years ago to get the <a href="http://www.cnet.com/products/fossil-caller-id-wristwatch-w-bluetooth/" target="_blank" rel="noopener noreferrer">Fossil Caller ID Wristwatch</a> which was one of the early attempts at merging data from your phone to a watch, but the price was high and the feature set was minimal.  It just didn&#8217;t seem to be worth it.  So I waited.
 
@@ -88,6 +88,6 @@ I was definitely interested when the Android Wear announcement came and waited w
 
 For the couple months following I/O before we got our 360 watches, I wore the LG, and Barbara the Samsung.  Both were great watches, but I liked the way the LG fit on my wrist better than the Samsung.  We were both (and still are) incredibly happy with Android Wear.  All the notification functionality of Glass, with easier controls.
 
-<a href="{{ site.baseurl }}/wp-content/uploads/sites/4/2014/09/IMG_20140920_160725-e1411275704172.jpg"><amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2014/09/IMG_20140920_160725-e1411275704172.jpg" alt="Moto 360 on my wrist" title="Yes that is a Moto 360 on my wrist, and I am happy to see it." class="wp-image-1109" width="1852" height="1852" layout="responsive"></amp-img></a>
+<a href="{{ site.baseurl }}/wp-content/uploads/sites/4/2014/09/IMG_20140920_160725-e1411275704172.jpg"><amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2014/09/IMG_20140920_160725-e1411275704172.jpg" alt="Moto 360 on my wrist" title="Yes that is a Moto 360 on my wrist, and I am happy to see it."  width="1852" height="1852" layout="responsive"></amp-img></a>
 
 Barbara and I have both switched to Moto 360 now and are very happy with it.  The round watch feels so much more natural on our wrists.  Of course now that I look at my circular watch on my wrist, I realize that _The Time Keeping Cycle_ has come full circle.  I&#8217;m guessing in another 20 &#8211; 30 years we&#8217;ll once again find a reason to put time back in our pockets again.

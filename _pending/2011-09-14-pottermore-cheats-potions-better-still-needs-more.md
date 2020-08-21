@@ -38,7 +38,7 @@ I don&#8217;t know if the people from <a title="TH_NK - Strategic Digital Agency
 Today [_Sara_ Moton commented](https://www.nick.pro/2011/08/27/pottermore-cheats-earning-more-house-points-through-failure-then-success-in-potion-making/#comment-309152302 "*Sarah* Moton's comment") on my previous post to say that they stopped giving a point for failing.  I have logged in tonight to test it and indeed, it is true.  TH_NK has fixed this logic flaw, and it&#8217;s great.<!--more-->
 
 <div id="attachment_490" style="width: 610px" class="wp-caption aligncenter">
-  <img aria-describedby="caption-attachment-490" class="size-full wp-image-490" title="Owl from Pottermore saying &quot;No point for you!&quot;" src="{{ site.baseurl }}/wp-content/uploads/2011/09/Region-capture-3-e1315985708703.png" alt="Owl from Pottermore saying &quot;No point for you!&quot;" width="600" height="80" data-recalc-dims="1" />
+  <img aria-describedby="caption-attachment-490"  title="Owl from Pottermore saying &quot;No point for you!&quot;" src="{{ site.baseurl }}/wp-content/uploads/2011/09/Region-capture-3-e1315985708703.png" alt="Owl from Pottermore saying &quot;No point for you!&quot;" width="600" height="80" data-recalc-dims="1" />
   
   <p id="caption-attachment-490" class="wp-caption-text">
     Owl from Pottermore saying "No point for you!"

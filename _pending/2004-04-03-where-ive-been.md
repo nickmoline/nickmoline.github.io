@@ -37,14 +37,14 @@ Unless you know where you&#8217;ve been.
 
 I generated a map of the states I&#8217;ve been in as well. <!--more-->
 
-<img class="alignnone wp-image-1132 size-full" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2004/04/2004-whereivebeen-states.gif" alt="2004-whereivebeen-states" width="580" height="300" data-recalc-dims="1" />  
+<img  src="{{ site.baseurl }}/wp-content/uploads/sites/4/2004/04/2004-whereivebeen-states.gif" alt="2004-whereivebeen-states" width="580" height="300" data-recalc-dims="1" />  
 [create your own personalized map of the USA](http://www.world66.com/myworld66){.broken_link}  
 or [write about it on the open travel guide](http://www.world66.com){.broken_link}  
 I&#8217;ve also generated one of the maps showing the one Canadian Province I&#8217;ve been in
 
 &nbsp;
 
-[<img class="alignnone size-full wp-image-1134" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2004/04/2004-whereivebeen-canada.gif" alt="2004-whereivebeen-canada" width="580" height="300" data-recalc-dims="1" />]({{ site.baseurl }}/wp-content/uploads/sites/4/2004/04/2004-whereivebeen-canada.gif?ssl=1)  
+[<img  src="{{ site.baseurl }}/wp-content/uploads/sites/4/2004/04/2004-whereivebeen-canada.gif" alt="2004-whereivebeen-canada" width="580" height="300" data-recalc-dims="1" />]({{ site.baseurl }}/wp-content/uploads/sites/4/2004/04/2004-whereivebeen-canada.gif?ssl=1)  
 [create your own personalized map of Canada](http://www.world66.com/myworld66/visitedCanadianStates){.broken_link}  
 or [write about it on the open travel guide](http://www.world66.com){.broken_link}
 
@@ -58,6 +58,6 @@ or [write about it on the open travel guide](http://www.world66.com){.broken_lin
   </div>
 </div>
 
-[<img class="alignnone size-full wp-image-1135" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2004/04/2004-whereivebeen-countries.gif" alt="2004-whereivebeen-countries" width="600" height="300" data-recalc-dims="1" />]({{ site.baseurl }}/wp-content/uploads/sites/4/2004/04/2004-whereivebeen-countries.gif?ssl=1)  
+[<img  src="{{ site.baseurl }}/wp-content/uploads/sites/4/2004/04/2004-whereivebeen-countries.gif" alt="2004-whereivebeen-countries" width="600" height="300" data-recalc-dims="1" />]({{ site.baseurl }}/wp-content/uploads/sites/4/2004/04/2004-whereivebeen-countries.gif?ssl=1)  
 [create your own visited country map](http://www.world66.com/myworld66){.broken_link}  
 or [write about it on the open travel guide](http://www.world66.com){.broken_link}

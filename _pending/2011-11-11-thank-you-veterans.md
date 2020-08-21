@@ -34,7 +34,7 @@ categories:
   - Events
   - General
 ---
-[<img class="alignright size-medium wp-image-519" title="Veteran's Day" src="{{ site.baseurl }}/wp-content/uploads/2011/11/295794083_aa714407fa_z-200x300.jpg" alt="Image Copyright flickr.com/look4u" width="200" height="300" data-recalc-dims="1" />](http://www.flickr.com/photos/look4u/295794083/in/photostream/)This Veteran&#8217;s Day, I would like to honor family members who have served this country.
+[<img  title="Veteran's Day" src="{{ site.baseurl }}/wp-content/uploads/2011/11/295794083_aa714407fa_z-200x300.jpg" alt="Image Copyright flickr.com/look4u" width="200" height="300" data-recalc-dims="1" />](http://www.flickr.com/photos/look4u/295794083/in/photostream/)This Veteran&#8217;s Day, I would like to honor family members who have served this country.
 
 I would like to honor my Father, Richard V. Moline III, who served this country in the US Navy before I was born.
 

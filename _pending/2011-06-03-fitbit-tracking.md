@@ -44,4 +44,4 @@ My favorite feature is the activity mode.  When I do actual exercise and I hit 
 
 Here are some stats from tonight&#8217;s walk on the treadmill:
 
-[<img class="aligncenter size-full wp-image-384" title="Treadmill Walk Statistics" alt="Treadmill Walk Statistics" src="{{ site.baseurl }}/wp-content/uploads/2011/06/Region-capture-6.png" width="547" height="321" data-recalc-dims="1" />](http://www.fitbit.com/user/223FZ9)
+[<img  title="Treadmill Walk Statistics" alt="Treadmill Walk Statistics" src="{{ site.baseurl }}/wp-content/uploads/2011/06/Region-capture-6.png" width="547" height="321" data-recalc-dims="1" />](http://www.fitbit.com/user/223FZ9)

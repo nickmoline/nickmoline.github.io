@@ -44,7 +44,7 @@ My hope is that by posting this publicly on my blog, the Pottermore devs will 
 If you successfully brew a potion, you earn 5 house points, but successfully brewing a potion takes a minimum of 85 minutes (different potions take longer, 80 seems to be the minimum wait time between the 2 steps and even if you are fast your additional time of actually doing the steps will take you an extra 5 minutes). While a potion is brewing for the 80 minutes, you cannot brew any other potions (even if you own multiple cauldrons), you simply have to wait out the 80 minutes and then come back.
 
 <div id="attachment_476" style="width: 310px" class="wp-caption alignright">
-  <a href="{{ site.baseurl }}/wp-content/uploads/2011/08/Screen-Shot-2011-08-27-at-2.30.12-PM.png?ssl=1"><img aria-describedby="caption-attachment-476" class="size-medium wp-image-476" title="Earning a point from failure" src="{{ site.baseurl }}/wp-content/uploads/2011/08/Screen-Shot-2011-08-27-at-2.30.12-PM-300x142.png" alt="Earning a point from failure" width="300" height="142" data-recalc-dims="1" /></a>
+  <a href="{{ site.baseurl }}/wp-content/uploads/2011/08/Screen-Shot-2011-08-27-at-2.30.12-PM.png?ssl=1"><img aria-describedby="caption-attachment-476"  title="Earning a point from failure" src="{{ site.baseurl }}/wp-content/uploads/2011/08/Screen-Shot-2011-08-27-at-2.30.12-PM-300x142.png" alt="Earning a point from failure" width="300" height="142" data-recalc-dims="1" /></a>
   
   <p id="caption-attachment-476" class="wp-caption-text">
     If you fail to brew a potion, you earn 1 house point

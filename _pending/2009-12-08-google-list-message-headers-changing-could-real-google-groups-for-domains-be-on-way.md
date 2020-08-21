@@ -37,11 +37,11 @@ categories:
 
 This morning I noticed a change in the way emails sent to a group (formerly known as list) email address on google apps for domains appear. Below is an example of the bottom of the email headers on an email sent to one of my groups on nick.pro:
 
-[<img class="aligncenter size-medium wp-image-347" title="Old Mailing List MIME Headers" alt="Old Mailing List MIME Headers" src="{{ site.baseurl }}/wp-content/uploads/2011/05/oldmailinglist-300x58.png" width="300" height="58" data-recalc-dims="1" />]({{ site.baseurl }}/wp-content/uploads/2011/05/oldmailinglist.png?ssl=1)
+[<img  title="Old Mailing List MIME Headers" alt="Old Mailing List MIME Headers" src="{{ site.baseurl }}/wp-content/uploads/2011/05/oldmailinglist-300x58.png" width="300" height="58" data-recalc-dims="1" />]({{ site.baseurl }}/wp-content/uploads/2011/05/oldmailinglist.png?ssl=1)
 
 On the other hand here is the bottom of the email headers on an email sent to that same group today:
 
-[<img class="aligncenter size-medium wp-image-348" title="New Mailing List MIME Headers" alt="New Mailing List MIME Headers" src="{{ site.baseurl }}/wp-content/uploads/2011/05/newmailinglist-300x80.png" width="300" height="80" data-recalc-dims="1" />]({{ site.baseurl }}/wp-content/uploads/2011/05/newmailinglist.png?ssl=1)
+[<img  title="New Mailing List MIME Headers" alt="New Mailing List MIME Headers" src="{{ site.baseurl }}/wp-content/uploads/2011/05/newmailinglist-300x80.png" width="300" height="80" data-recalc-dims="1" />]({{ site.baseurl }}/wp-content/uploads/2011/05/newmailinglist.png?ssl=1)
 
 As you can see in these images, a few new list specific header lines have been added that make lists appear more like they were handled by more traditional mailing list software, rather then a simple email forwarder.
 

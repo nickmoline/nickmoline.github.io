@@ -37,7 +37,7 @@ categories:
 That&#8217;s right, I said it, and so far I&#8217;m the only one who has. Google [has announced](http://news.cnet.com/8301-17939_109-10110247-2.html){.broken_link} that extensions are coming to Google Chrome but have been mum on when. However I saw something today, that indicates the timetable may be short. Google officially [opened up registration](http://code.google.com/events/io/){.broken_link} for Google I/O 2009, their third annual (first one was just called Google Developer Day) Developer&#8217;s Conference.
 
 <div id="attachment_281" style="width: 160px" class="wp-caption alignright">
-  <a href="{{ site.baseurl }}/wp-content/uploads/2009/02/region-capture-2.png?ssl=1"><img aria-describedby="caption-attachment-281" class="size-thumbnail wp-image-281" title="Google Chrome Extensions Session at Google I/O 2009" src="{{ site.baseurl }}/wp-content/uploads/2009/02/region-capture-2-150x61.png" alt="Google Chrome Extensions Session at Google I/O 2009" width="150" height="61" data-recalc-dims="1" /></a>
+  <a href="{{ site.baseurl }}/wp-content/uploads/2009/02/region-capture-2.png?ssl=1"><img aria-describedby="caption-attachment-281"  title="Google Chrome Extensions Session at Google I/O 2009" src="{{ site.baseurl }}/wp-content/uploads/2009/02/region-capture-2-150x61.png" alt="Google Chrome Extensions Session at Google I/O 2009" width="150" height="61" data-recalc-dims="1" /></a>
   
   <p id="caption-attachment-281" class="wp-caption-text">
     Google Chrome Extensions Session at Google I/O 2009

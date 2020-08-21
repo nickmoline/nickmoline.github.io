@@ -35,7 +35,7 @@ categories:
   - Tech
 ---
 <div id="attachment_301" style="width: 210px" class="wp-caption alignright">
-  <a href="{{ site.baseurl }}/wp-content/uploads/2009/03/img_0001.png?ssl=1"><img aria-describedby="caption-attachment-301" class="size-medium wp-image-301" title="What would you like to do?" src="{{ site.baseurl }}/wp-content/uploads/2009/03/img_0001-200x300.png" alt="What would you like to do with the existing calendars information on your iPhone?" width="200" height="300" data-recalc-dims="1" /></a>
+  <a href="{{ site.baseurl }}/wp-content/uploads/2009/03/img_0001.png?ssl=1"><img aria-describedby="caption-attachment-301"  title="What would you like to do?" src="{{ site.baseurl }}/wp-content/uploads/2009/03/img_0001-200x300.png" alt="What would you like to do with the existing calendars information on your iPhone?" width="200" height="300" data-recalc-dims="1" /></a>
   
   <p id="caption-attachment-301" class="wp-caption-text">
     What would you like to do with the existing calendars information on your iPhone?

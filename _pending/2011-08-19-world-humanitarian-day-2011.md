@@ -30,7 +30,7 @@ word_stats_cached:
 categories:
   - General
 ---
-[<img class="alignright size-full wp-image-468" title="Rachel Beckwith's 9th Birthday Wish" alt="Rachel Beckwith's 9th Birthday Wish" src="{{ site.baseurl }}/wp-content/uploads/2011/08/090a37248b294max.jpg" width="294" height="196" data-recalc-dims="1" />](http://mycharitywater.org/rachels9thbirthday)For her 9th birthday, Rachel Beckwith asked people to donate to charity:water rather then give her presents. Sadly when her birthday arrived she was $80 short of her goal of raising just $300 for charity:water.
+[<img  title="Rachel Beckwith's 9th Birthday Wish" alt="Rachel Beckwith's 9th Birthday Wish" src="{{ site.baseurl }}/wp-content/uploads/2011/08/090a37248b294max.jpg" width="294" height="196" data-recalc-dims="1" />](http://mycharitywater.org/rachels9thbirthday)For her 9th birthday, Rachel Beckwith asked people to donate to charity:water rather then give her presents. Sadly when her birthday arrived she was $80 short of her goal of raising just $300 for charity:water.
 
 A month after her birthday she died in a car crash, in the month since her death, donations on her page have reached $1.1 million for bringing water to children in Africa.
 

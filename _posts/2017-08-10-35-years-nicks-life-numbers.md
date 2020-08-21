@@ -51,7 +51,7 @@ Of the **12,785 days** I&#8217;ve been alive, I&#8217;ve lived in the following 
     </tr>
 </table>
 
-<a href="{{ site.baseurl }}/wp-content/uploads/sites/4/2017/08/nickslifebystate-e1502403863541.png" rel="attachment wp-att-1386"><amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2017/08/nickslifebystate-e1502403863541.png" alt="My Life by State" class="wp-image-1386" width="546" height="362" layout="responsive"></amp-img></a>
+<a href="{{ site.baseurl }}/wp-content/uploads/sites/4/2017/08/nickslifebystate-e1502403863541.png" rel="attachment wp-att-1386"><amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2017/08/nickslifebystate-e1502403863541.png" alt="My Life by State"  width="546" height="362" layout="responsive"></amp-img></a>
 
 <small><em><sup>*</sup> Note, when I was very young I spent 6 months each in Texas and Florida.  Since I do not have the precise move in and out days for those locations, I&#8217;m estimating under the assumption that I spent half a year in each location (182 days, giving the extra 1 day back to California).  I likely did not spend exactly 182 days in each of Florida and Texas, so the exact number of days for California, Texas and Florida may be slightly off.</em></small>
 
@@ -81,8 +81,8 @@ According to the [You&#8217;re Getting Old](http://you.regettingold.com/10/08/19
 
 ## About that Picture
 
-<a href="{{ site.baseurl }}/wp-content/uploads/sites/4/2017/08/IMG_20170730_184705.jpg" rel="attachment wp-att-1389"><amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2017/08/IMG_20170730_184705.jpg" alt="Nick's Birthday Dessert from my recent trip to Disneyland" class="wp-image-1389" width="4048" height="3036" layout="responsive"></amp-img></a>
+<a href="{{ site.baseurl }}/wp-content/uploads/sites/4/2017/08/IMG_20170730_184705.jpg" rel="attachment wp-att-1389"><amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2017/08/IMG_20170730_184705.jpg" alt="Nick's Birthday Dessert from my recent trip to Disneyland"  width="4048" height="3036" layout="responsive"></amp-img></a>
 
 The Featured photo for this post was one of the birthday desserts Disneyland gave me while I was there celebrating last week.  This chocolate mousse was incredibly delicious and it was super cute too.  The dessert itself comes with the _Fantasmic_ Dining Package at the Blue Bayou.  The meal was delicious and the reserved viewing area for people who ate at the Blue Bayou had a fantastic vantage point to watch the newly revamped _Fantasmic_ show.
 
-<a href="{{ site.baseurl }}/wp-content/uploads/sites/4/2017/08/IMG_20170730_205939.jpg"><amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2017/08/IMG_20170730_205939.jpg" alt="Our view for Fantasmic" class="wp-image-1397" width="4048" height="3036" layout="responsive"></amp-img></a>
+<a href="{{ site.baseurl }}/wp-content/uploads/sites/4/2017/08/IMG_20170730_205939.jpg"><amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2017/08/IMG_20170730_205939.jpg" alt="Our view for Fantasmic"  width="4048" height="3036" layout="responsive"></amp-img></a>

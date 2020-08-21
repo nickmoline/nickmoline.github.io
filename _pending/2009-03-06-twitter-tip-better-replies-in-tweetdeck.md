@@ -34,20 +34,20 @@ categories:
   - General
 ---
 <div id="attachment_289" style="width: 160px" class="wp-caption alignright">
-  <a href="http://twitter.com/replies"><img aria-describedby="caption-attachment-289" class="size-thumbnail wp-image-289" title="@Replies tab on Twitter" src="{{ site.baseurl }}/wp-content/uploads/2009/03/region-capture-2-150x40.png" alt="@Replies tab on Twitter" width="150" height="40" data-recalc-dims="1" /></a>
+  <a href="http://twitter.com/replies"><img aria-describedby="caption-attachment-289"  title="@Replies tab on Twitter" src="{{ site.baseurl }}/wp-content/uploads/2009/03/region-capture-2-150x40.png" alt="@Replies tab on Twitter" width="150" height="40" data-recalc-dims="1" /></a>
   
   <p id="caption-attachment-289" class="wp-caption-text">
     @Replies tab on Twitter
   </p>
 </div>
 
-Both Twitter and TweetDeck (as well as most other Twitter Clients) give you an easy way to get a list of responses people sent you.  On Twitter itself, this is the @Replies tab off of your home page. TweetDeck gives you a Replies column by default, and if you delete it, you can get it back by clicking on the replies button<img class="alignnone size-full wp-image-290" title="Replies button in TweetDeck" src="{{ site.baseurl }}/wp-content/uploads/2009/03/region-capture-3.png" alt="Replies button in TweetDeck" width="30" height="28" data-recalc-dims="1" /> on the top of the screen.  TweetDeck&#8217;s replies button uses the replies twitter feed feature from the Twitter API to work, so it returns the exact same list that you get on the home page.
+Both Twitter and TweetDeck (as well as most other Twitter Clients) give you an easy way to get a list of responses people sent you.  On Twitter itself, this is the @Replies tab off of your home page. TweetDeck gives you a Replies column by default, and if you delete it, you can get it back by clicking on the replies button<img  title="Replies button in TweetDeck" src="{{ site.baseurl }}/wp-content/uploads/2009/03/region-capture-3.png" alt="Replies button in TweetDeck" width="30" height="28" data-recalc-dims="1" /> on the top of the screen.  TweetDeck&#8217;s replies button uses the replies twitter feed feature from the Twitter API to work, so it returns the exact same list that you get on the home page.
 
 I&#8217;ve found however, that I often want to track everything that is said to or about me, even if they are not technically @replies.  Because of this I&#8217;ve ditched the replies column in my TweetDeck and instead have created my own @replies list of sorts using the Search feature in TweetDeck which uses the Twitter Search API. To do this yourself follow the simple instructions after the break.  
 <!--more-->
 
-  1. Click on the Search icon in TweetDeck [<img class="alignnone size-full wp-image-291" title="Search Button in TweetDeck" src="{{ site.baseurl }}/wp-content/uploads/2009/03/region-capture-4.png" alt="Search Button in TweetDeck" width="26" height="30" data-recalc-dims="1" />]({{ site.baseurl }}/wp-content/uploads/2009/03/region-capture-4.png?ssl=1)
-  2. [<img class="alignright size-thumbnail wp-image-292" title="Tweet Deck: What are you Searching for?" src="{{ site.baseurl }}/wp-content/uploads/2009/03/region-capture-5-150x23.png" alt="Tweet Deck: What are you Searching for?" width="150" height="23" data-recalc-dims="1" />]({{ site.baseurl }}/wp-content/uploads/2009/03/region-capture-5.png?ssl=1)When you receive the prompt on the right to enter in what you are searching for, enter in a search where you put in all of the possibilities that someone could find a tweet about you separated by OR and end it with **-from:_YourTwitterName_**
+  1. Click on the Search icon in TweetDeck [<img  title="Search Button in TweetDeck" src="{{ site.baseurl }}/wp-content/uploads/2009/03/region-capture-4.png" alt="Search Button in TweetDeck" width="26" height="30" data-recalc-dims="1" />]({{ site.baseurl }}/wp-content/uploads/2009/03/region-capture-4.png?ssl=1)
+  2. [<img  title="Tweet Deck: What are you Searching for?" src="{{ site.baseurl }}/wp-content/uploads/2009/03/region-capture-5-150x23.png" alt="Tweet Deck: What are you Searching for?" width="150" height="23" data-recalc-dims="1" />]({{ site.baseurl }}/wp-content/uploads/2009/03/region-capture-5.png?ssl=1)When you receive the prompt on the right to enter in what you are searching for, enter in a search where you put in all of the possibilities that someone could find a tweet about you separated by OR and end it with **-from:_YourTwitterName_**
 
 The -from:_YourTwitterName_ will filter out messages that come from you, this is important especially if you write a lot of tweets and don&#8217;t want to dominate the feed of tweets that are supposed to be ABOUT you rather then BY you.
 
