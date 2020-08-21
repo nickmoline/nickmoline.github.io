@@ -6,40 +6,48 @@ author: nickmoline
 layout: post
 guid: https://www.nick.pro/?p=926
 permalink: /2013/04/16/looking-at-life-from-the-other-side-of-the-glass/
-readability_ARI:
-  - "11.9"
-readability_CLI:
-  - "9"
-readability_LIX:
-  - "26.8"
-word_stats_word_count:
-  - "1302"
-word_stats_keywords:
-  - |
-    s:823:"a:48:{s:4:"just";i:5;s:4:"week";i:3;s:6:"google";i:15;s:5:"video";i:3;s:7:"project";i:4;s:7:"working";i:3;s:6:"called";i:4;s:5:"glass";i:26;s:4:"life";i:4;s:9:"answering";i:3;s:5:"later";i:3;s:6:"device";i:9;s:4:"like";i:7;s:10:"developers";i:8;s:5:"early";i:3;s:4:"look";i:3;s:10:"technology";i:4;s:4:"line";i:3;s:7:"waiting";i:6;s:6:"future";i:4;s:4:"rest";i:4;s:4:"news";i:3;s:5:"great";i:4;s:8:"question";i:3;s:4:"know";i:3;s:5:"write";i:4;s:6:"mirror";i:3;s:8:"google's";i:5;s:8:"specific";i:3;s:5:"hands";i:4;s:5:"start";i:4;s:5:"event";i:5;s:7:"foundry";i:3;s:9:"developer";i:3;s:4:"days";i:3;s:11:"information";i:4;s:4:"time";i:4;s:8:"possible";i:3;s:5:"phone";i:3;s:7:"looking";i:3;s:6:"answer";i:4;s:5:"ready";i:5;s:6:"people";i:4;s:4:"need";i:3;s:6:"living";i:3;s:6:"moment";i:4;s:5:"email";i:3;s:5:"batch";i:3;}";
-word_stats_cached:
-  - "1"
-dsq_thread_id:
-  - "1214709812"
-image: http://nick.holodeck3.com/wp-content/uploads/sites/4/2013/04/cropped-672x372.jpg
+dsq_thread_id: 1214709812
+cover: /wp-content/uploads/sites/4/2013/04/cropped.jpg
 categories:
-  - Events
-  - Gadgets
-  - Glass
-  - Google
-  - Tech
+    - Tech
+    - Wearables
+tags:
+    - Google
+    - Google Glass
+    - Google I/O
 ---
-It is hard to believe that it was just 1 year and 1 week ago, Google uploaded to its YouTube channel, a <a title="Project Glass: One day..." href="http://youtu.be/9c6W4CCU9M4" target="_blank">teaser video</a> for a project they had been working out of from their top-secret &#8220;moonshot&#8221; [x] Labs called Project Glass.
+It is hard to believe that it was just 1 year and 1 week ago, Google uploaded to its YouTube channel, a <a title="Project Glass: One day..." href="http://youtu.be/9c6W4CCU9M4" target="_blank">teaser video</a> for a project they had been working out of from their top-secret &#8220;moonshot&#8221; [x Labs](https://x.company/) called Project Glass.
+
+<!--more-->
+
+<amp-youtube
+    data-videoid="9c6W4CCU9M4"
+    layout="responsive"
+    width="480"
+    height="270"
+></amp-youtube>
 
 The project was ambitious, an augmented reality layer over your very life, answering questions before you even asked, and all around simplifying your life.
 
 2 Months later at Google I/O 2012, Google staged a &#8220;<a title="Project Glass: Live Demo at Google I/O" href="http://youtu.be/D7TB8b2t3QE" target="_blank">demonstration</a>&#8221; involving a blimp, skydivers, BMX Trick bikers and more to show off the device as what seemed like little more than a network connected GoPro camera.  They then asked Developers who are interested in getting an early look at the technology if they would be willing to fork over $1,500 for the chance to be one of the first non-Google employees with this whole new class of Technology.
 
+<amp-youtube
+    data-videoid="D7TB8b2t3QE"
+    layout="responsive"
+    width="480"
+    height="270"
+></amp-youtube>
+
 I and 2,000 other attendees happily stood in a long line to put down our commitment to try it out.  Then, months of agonizing waiting began.  Waiting for a future that was so close we could taste it.
 
-<!--more-->Over the rest of the summer, news came slowly, but I and the rest of the Glass Explorers (that is what they call us) waited with great anticipation.  Finally in January, another video was uploaded 
+Over the rest of the summer, news came slowly, but I and the rest of the Glass Explorers (that is what they call us) waited with great anticipation.  Finally in January, another video was uploaded <a title="Glass Developer Update" href="http://youtu.be/047lMUJMo8Y" target="_blank">answering the one question</a> that Developers at I/O most wanted to know, what sort of <a title="Application Programming Interface" href="http://en.wikipedia.org/wiki/Application_programming_interface" target="_blank">API</a>s would there be so that I and other developers could write applications for Glass.  It was called the Mirror API, and it was <a title="Representational State Transfer" href="https://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank">REST</a> based, which means that rather than writing software that you install on the device itself, you write web software that runs on a web server, and it communicates with the device through Google&#8217;s servers.
 
-<a title="Glass Developer Update" href="http://youtu.be/047lMUJMo8Y" target="_blank">answering the one question</a> that Developers at I/O most wanted to know, what sort of <a title="Application Programming Interface" href="http://en.wikipedia.org/wiki/Application_programming_interface" target="_blank">API</a>s would there be so that I and other developers could write applications for Glass.  It was called the Mirror API, and it was <a title="Representational State Transfer" href="https://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank">REST</a> based, which means that rather than writing software that you install on the device itself, you write web software that runs on a web server, and it communicates with the device through Google&#8217;s servers.
+<amp-youtube
+    data-videoid="047lMUJMo8Y"
+    layout="responsive"
+    width="480"
+    height="270"
+></amp-youtube>
 
 This was great news for developers, especially for web developers like myself, in that REST APIs are inherently language agnostic.  This means that I can write in any programming language, instead of a specific one for a specific device as is the case with traditional mobile development.  I was eager to get my hands dirty and start coding, and fortunately for me.  Google gave me that chance.
 
@@ -57,17 +65,11 @@ In the meantime, while I waited, the detractors started coming out.
 
 > Maybe you’ve seen these people around San Francisco or Mountain View, inevitably staring off into space while swiping the sides of their glasses during conversation, ignoring those around them while surfing the web or scrolling through images they’ve captured with the device. I like to call them “Glassholes.” &#8212; <a title="Get Ready For Even More Google Glasshole Sightings" href="http://techcrunch.com/2013/01/28/glassholes/" target="_blank">TechCrunch</a>
 
-<div id="attachment_934" style="width: 210px" class="wp-caption alignleft">
-  <a href="https://www.nick.pro/2013/04/16/looking-at-life-from-the-other-side-of-the-glass/_mg_7150-2346688102-o/" rel="attachment wp-att-934"><img aria-describedby="caption-attachment-934" class="size-medium wp-image-934" src="{{ site.baseurl }}/wp-content/uploads/2013/04/MG_7150-2346688102-O-200x300.jpg" alt="Nick Moline is proud to be a &quot;Glasshole&quot;" width="200" height="300" srcset="{{ site.baseurl }}/wp-content/uploads/sites/4/2013/04/MG_7150-2346688102-O.jpg?resize=200%2C300 200w, {{ site.baseurl }}/wp-content/uploads/sites/4/2013/04/MG_7150-2346688102-O.jpg?resize=682%2C1024 682w, {{ site.baseurl }}/wp-content/uploads/sites/4/2013/04/MG_7150-2346688102-O.jpg?w=864 864w" sizes="(max-width: 200px) 100vw, 200px" data-recalc-dims="1" /></a>
-  
-  <p id="caption-attachment-934" class="wp-caption-text">
-    Nick Moline is proud to be a &#8220;Glasshole&#8221;
-  </p>
-</div>
-
 Articles like this bugged me because they inherently did not get the point.  Google Glass is not about continuing the trend of people who stare at their phones and don&#8217;t participate in the world.  Google Glass is about giving you the information you need without you looking away from what you are doing.  Google Glass is about integrating the information you need into your life.  It&#8217;s about taking someone who was looking down at their phone, and encouraging to tilt their heads up and look at the world.
 
 The small floating image is purposely in your peripheral vision, not in your line of sight.  It is specifically designed to keep your attention on your surroundings.  This is why many of the videos and demonstrations Google has shown us, don&#8217;t focus on the information Glass can give you, they focus on people <a title="How it Feels [through Glass]" href="http://youtu.be/v1uyQZNg2vE" target="_blank">living their lives</a>, <a title="DVF [through Glass]" href="http://youtu.be/30Pjl31cyDY" target="_blank">doing their jobs</a>, <a title="Glass Session: Madame & Bébé Gayno" href="http://youtu.be/GZDirHMEmXk" target="_blank">spending time with their families</a>, and <a title="Project Glass: Skydiving Demo" href="http://youtu.be/uh-liQDE3cM" target="_blank">having way more fun</a> then I ever do.
+
+<a href="{{ site.baseurl }}/wp-content/uploads/2013/04/MG_7150-2346688102-O.jpg" rel="attachment wp-att-934"><amp-img aria-describedby="caption-attachment-934" class="size-medium wp-image-934" src="{{ site.baseurl }}/wp-content/uploads/2013/04/MG_7150-2346688102-O.jpg" alt="Nick Moline is proud to be a &quot;Glasshole&quot;" width="864" height="1296" layout="responsive"></amp-img></a>
 
 Will having Glass make me take up skydiving, or encourage me to trek to Thailand to have authentic Thai food?  Probably not, but when I&#8217;m in the moment, living my life, and there&#8217;s a question I need answering, Google Glass will be there, ready with that answer.  When that moment I&#8217;m living in, becomes that perfect moment, Google Glass will be there, ready to capture it.  No fumbling for a phone to look up an answer, taking me away, no pulling out the camera and starting it up in hopes that I can get it on in time to capture that moment.
 

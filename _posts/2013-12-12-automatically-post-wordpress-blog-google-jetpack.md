@@ -7,29 +7,18 @@ excerpt: "Automattic's Jetpack Wordpress plugin now lets you automatically post 
 layout: post
 guid: https://www.nick.pro/?p=996
 permalink: /2013/12/12/automatically-post-wordpress-blog-google-jetpack/
-readability_ARI:
-  - "10.7"
-readability_CLI:
-  - "9.7"
-readability_LIX:
-  - "30.4"
-word_stats_word_count:
-  - "316"
-word_stats_keywords:
-  - 's:232:"a:13:{s:7:"twitter";i:3;s:8:"facebook";i:3;s:8:"services";i:4;s:6:"google";i:11;s:4:"post";i:8;s:7:"posting";i:3;s:5:"pages";i:3;s:7:"feature";i:5;s:9:"wordpress";i:4;s:7:"jetpack";i:3;s:4:"blog";i:7;s:4:"time";i:3;s:5:"posts";i:5;}";'
-word_stats_cached:
-  - "1"
-bitly_url:
-  - http://wiz.fm/1damfIm
-dsq_thread_id:
-  - "2046965126"
-image: http://nick.holodeck3.com/wp-content/uploads/sites/4/2013/12/Region-capture-3-672x372.png
+dsq_thread_id: 2046965126
+cover: /wp-content/uploads/sites/4/2013/12/Region-capture-3.png
 categories:
-  - Blogging
-  - Google
-  - Tech
+    - Tech
+tags:
+    - Google+
+    - WordPress
+    - Social Media
 ---
-Many people have long lamented that unlike Twitter, Facebook, LinkedIn, Tumblr, and many other services, Google+ does not let you use an API to post.  There is an API for posting to Google+ Pages, but Google is [restricting this feature](https://developers.google.com/+/api/pages-signup){.broken_link} to approved services.  Apparently WordPress.com is one of those services, and in the latest 2.7 version of the <a href="http://jetpack.me/" target="_blank">Jetpack plugin</a> for self-hosted WordPress blogs released yesterday, they are [extending that service to your own self hosted WordPress blog](http://jetpack.me/2013/12/11/jetpack-2-7-publicize/).
+Many people have long lamented that unlike Twitter, Facebook, LinkedIn, Tumblr, and many other services, Google+ does not let you use an API to post.  There is an API for posting to Google+ Pages, but Google is restricting this feature to approved services.  Apparently WordPress.com is one of those services, and in the latest 2.7 version of the <a href="http://jetpack.me/" target="_blank">Jetpack plugin</a> for self-hosted WordPress blogs released yesterday, they are [extending that service to your own self hosted WordPress blog](http://jetpack.me/2013/12/11/jetpack-2-7-publicize/).
+
+<!--more-->
 
 It is interesting to note that the blog post on Jetpack&#8217;s blog indicates that this feature works both for Pages _**and**_ individual profiles as well, which the Google+ Platform API documentation specifically says you cannot do.
 
