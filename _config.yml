@@ -4,7 +4,7 @@ cover: /background-jellybean.jpg
 logo: /monogram.png
 favicon: /favicon.ico
 baseurl: ""
-url: https://nickmoline.github.io
+url: https://www.nickmoline.com
 name: nickmoline.com
 excerpt_separator: <!--more-->
 
@@ -60,7 +60,7 @@ lsi: false
 username: nickmoline
 repo: nickmoline.github.io
 branch: master
-production_url: https://nickmoline.github.io
+production_url: https://www.nickmoline.com
 source_url: https://github.com/nickmoline/nickmoline.github.io
 
 sass:
