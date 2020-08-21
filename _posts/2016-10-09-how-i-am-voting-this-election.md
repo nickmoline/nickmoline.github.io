@@ -14,15 +14,13 @@ categories:
 tags:
     - Election
 ---
-If you pay attention to my various streams, you&#8217;ll note I purposely stay away from posting about politics or other hot-button issues. I haven&#8217;t posted in the [Politics category](https://www.nick.pro/category/politics/) of this blog since 2004, and that wasn&#8217;t so much about politics as it was about the [way the Legislative Branch of the government is organized](https://www.nick.pro/2004/10/30/ben-fix-legislature/).
-
-I have friends and colleagues from both parties, and I just choose to keep my opinions on political matters private as there are so many people who are much better than me at articulating the political issues.
-
-Choosing to talk about my beliefs would normally incite arguments, and my time on social media is better spent talking about things that people would only tease me for rather than argue with me.
-
-Every election I exercise my right to vote and express my political beliefs through that medium. This election, however, has become such a sham that I feel I can remain silent no longer.
+I have friends and colleagues from both parties, and I just choose to keep my opinions on political matters private as there are so many people who are much better than me at articulating the political issues. Choosing to talk about my beliefs would normally incite arguments, and my time on social media is better spent talking about things that people would only tease me for rather than argue with me.
 
 <!--more-->
+
+If you pay attention to my various streams, you&#8217;ll note I purposely stay away from posting about politics or other hot-button issues. I haven&#8217;t posted in the [Politics category](https://www.nick.pro/category/politics/) of this blog since 2004, and that wasn&#8217;t so much about politics as it was about the [way the Legislative Branch of the government is organized](https://www.nick.pro/2004/10/30/ben-fix-legislature/).
+
+Every election I exercise my right to vote and express my political beliefs through that medium. This election, however, has become such a sham that I feel I can remain silent no longer.
 
 Since before I even had the right to vote, I&#8217;ve identified myself as Republican. My primary reason for this is that as I was growing up, it was the Republican candidates who agreed most with me on issues that are of particular importance to me. I&#8217;m not going to talk about these issues here because they very well would incite some of those arguments I was talking about, and I agree to disagree with some my friends.
 
