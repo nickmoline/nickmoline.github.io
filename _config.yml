@@ -1,8 +1,8 @@
 title: Nick Moline
-description: Personal website of Nicholas Moline, Senior Software Engineer at Justia
+description: Senior Software Engineer at Justia, Tech Wizard for Harry Potter Lexicon, Theatre Sound Designer.
 cover: /background-jellybean.jpg
 logo: /monogram.png
-favicon: assets/images/favicon.png
+favicon: /favicon.png
 baseurl: ""
 url: https://nickmoline.github.io
 name: nickmoline.com
@@ -30,7 +30,6 @@ facebook: nickmoline
 twitter: NickMoline
 github: nickmoline
 linkedin: nickmoline
-
 
 about: about
 contact: contact
