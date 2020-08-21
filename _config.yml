@@ -1,20 +1,36 @@
 title: Nick Moline
 description: Personal website of Nicholas Moline, Senior Software Engineer at Justia
-cover: assets/images/radhakrishna.jpg
-logo: assets/images/logo.png
+cover: /background-jellybean.jpg
+logo: /monogram.png
 favicon: assets/images/favicon.png
-baseurl: "/"
+baseurl: ""
 url: https://nickmoline.github.io
 name: nickmoline.com
+excerpt_separator: <!--more-->
 
-pagination:
-  enabled: true
-  debug: false
-  per_page: 10
+defaults:
+  - 
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "nickmoline"
+
+paginate: 10
+paginate_path: "/blog/page:num/"
 
 facebook: nickmoline
 twitter: NickMoline
 github: nickmoline
+linkedin: nickmoline
+
 
 about: about
 contact: contact
@@ -30,7 +46,14 @@ kramdown:
   parse_block_html: true
 
 plugins:
- - jekyll-paginate-v2
+ - jekyll-paginate
+ - jekyll-gist
+ - jekyll-github-metadata
+ - jekyll-feed
+ - jekyll-mentions
+ - jekyll-redirect-from
+ - jekyll-sitemap
+ - jemoji
 
 safe: false
 lsi: false
@@ -39,6 +62,9 @@ repo: nickmoline.github.io
 branch: master
 production_url: https://nickmoline.github.io
 source_url: https://github.com/nickmoline/nickmoline.github.io
+
+sass:
+  style: compressed
 
 exclude:
   - Rakefile

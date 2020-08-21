@@ -13,6 +13,6 @@ Nicholas Scott Moline is a senior software engineer at Justia, a company in Moun
 
 <a class="social-link" href="https://www.facebook.com/nickmoline" target="_blank"><i class="fa fa-facebook"></i></a><a class="social-link" href="https://twitter.com/NickMoline" target="_blank"><i class="fa fa-twitter"></i></a><a class="social-link" href="https://www.instagram.com/nickmoline" target="_blank"><i class="fa fa-instagram"></i></a><a class="social-link broken_link" href="https://www.linkedin.com/in/nickmoline" target="_blank"><i class="fa fa-linkedin"></i></a>
 
-<amp-img src="https://i0.wp.com/nick.holodeck3.com/wp-content/uploads/sites/4/2018/10/nick-square.jpg" width="500" height="500" alt="Photo of Nick Moline"></amp-img>
+<amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2018/10/nick-square.jpg" width="500" height="500" alt="Photo of Nick Moline"></amp-img>
 
 Check out [Nick's blog](https://www.nick.pro/) to find out more about him. He occasionally writes on [Justia's Blog](https://onward.justia.com/author/nickmoline).
