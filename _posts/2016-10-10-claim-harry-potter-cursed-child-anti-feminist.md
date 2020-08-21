@@ -6,18 +6,15 @@ author: nickmoline
 layout: post
 guid: https://www.nick.pro/?p=1342
 permalink: /2016/10/10/claim-harry-potter-cursed-child-anti-feminist/
-ampforwp_custom_content_editor:
-  - ""
-ampforwp_custom_content_editor_checkbox:
-  - null
-ampforwp-amp-on-off:
-  - default
 dsq_thread_id:
-  - "5877812093"
-image: http://nick.holodeck3.com/wp-content/uploads/sites/4/2017/06/14188353_10108109530502740_481279193677981512_o-e1496532419588.jpg
+    - "5877812093"
+cover: /wp-content/uploads/sites/4/2017/06/14188353_10108109530502740_481279193677981512_o-e1496532419588.jpg
 categories:
-  - Book
-  - Plays
+    - Book
+    - Theater
+tags:
+    - Harry Potter
+    - Harry Potter Lexicon
 ---
 _Harry Potter and the Cursed Child_ is a bit of an unusual entry into the Harry Potter canon.  Not being a novel makes it a completely different reading experience than the core 7 books that we love, being written by multiple people (rather than just J.K. Rowling) makes some of the characters have a slightly different feel, and centering the story on a character other than Harry makes it inherently feel different.
 

@@ -11,5 +11,6 @@ categories:
 tags:
     - Justia
     - Onward Blog
+    - Robots Exclusion Protocol
 ---
 My [latest overview post](https://onward.justia.com/2017/05/02/robots-exclusion-standard/) on Justia&#8217;s [Legal Marketing and Technology Blog](https://onward.justia.com/) is all about the Robots Exclusion Standard.  I explain reasons why you may need to block certain content from search engines, as well as explain the different mechanisms available to you to do so.  [Check it out](https://onward.justia.com/2017/05/02/robots-exclusion-standard/)!
