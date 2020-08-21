@@ -1,52 +1,41 @@
 ---
 id: 1047
-title: Wearing a computer at MIT, a 2 decade dream realized
+title: Wearing a computer at MIT
 date: 2014-06-22T21:59:08-07:00
 author: nickmoline
 layout: post
 guid: https://www.nick.pro/?p=1047
 permalink: /2014/06/22/wearing-computer-mit-2-decade-dream-realized/
-readability_ARI:
-  - "8.6"
-readability_CLI:
-  - "7.1"
-readability_LIX:
-  - "29.7"
-word_stats_word_count:
-  - "467"
-word_stats_keywords:
-  - 's:163:"a:9:{s:7:"wearing";i:4;s:8:"computer";i:4;s:6:"future";i:3;s:7:"college";i:4;s:6:"making";i:3;s:10:"technology";i:3;s:5:"glass";i:4;s:4:"work";i:3;s:4:"real";i:3;}";'
-word_stats_cached:
-  - "1"
-bitly_url:
-  - http://wiz.fm/T2n8y0
 dsq_thread_id:
-  - "2787744384"
-image: http://nick.holodeck3.com/wp-content/uploads/sites/4/2014/06/IMG_20140619_202224.jpg
+    - "2787744384"
+cover: /wp-content/uploads/sites/4/2014/06/IMG_20140619_202224.jpg
 categories:
-  - Glass
-  - Places
+    - Tech
+    - Travel
+tags:
+    - Google Glass
+    - Wearables
+    - MIT
+    - Justia
+    - Conference
+    - CALICon
 ---
-When I was young (somewhere in the early/mid &#8217;90s), I saw some program (I don&#8217;t know which) on PBS and they were talking about some guy (I can&#8217;t find the program, and don&#8217;t remember names, but I presume it was either [Thad Starner](http://www.media.mit.edu/wearables/lizzy/timeline.html#1993a)&nbsp;or [Steve Mann](http://www.media.mit.edu/wearables/lizzy/timeline.html#1994d)) at MIT who is wearing a computer with a Head Mounted Display and a single hand keyboard, and a computer kept in some sort of backpack. &nbsp;At that point I knew 2 things.
+When I was young (somewhere in the early/mid &#8217;90s), I saw some program (I don&#8217;t know which) on PBS and they were talking about some guy (I can&#8217;t find the program, and don&#8217;t remember names, but I presume it was either [Thad Starner](http://www.media.mit.edu/wearables/lizzy/timeline.html#1993a) or [Steve Mann](http://www.media.mit.edu/wearables/lizzy/timeline.html#1994d)) at MIT who is wearing a computer with a Head Mounted Display and a single hand keyboard, and a computer kept in some sort of backpack.  At that point I knew 2 things.
 
 <!--more-->
 
-  1. Wearable Computing is a future I want to be a part of.
-  2. MIT was where I wanted to go to college.
+1. Wearable Computing is a future I want to be a part of.
+2. MIT was where I wanted to go to college.
 
-Now sadly I never got to attend MIT, in fact other than a little time at Tarrant County College (formerly Tarrant County Junior College) in which I didn&#8217;t even earn&nbsp;an associates degree, I didn&#8217;t get to go to college at all. &nbsp;But I wanted to go to MIT
+Now sadly I never got to attend MIT, in fact other than a little time at Tarrant County College (formerly Tarrant County Junior College) in which I didn&#8217;t even earn an associates degree, I didn&#8217;t get to go to college at all.  But I wanted to go to MIT
 
-<div class="wp-block-image">
-  <figure class="alignright"><a href="/wp-content/uploads/sites/4/2014/06/image1.jpg"><img src="/wp-content/uploads/sites/4/2014/06/image1-300x220.jpg" alt="A free law coalition sign at #CALICon14" class="wp-image-1057" srcset="{{ site.baseurl }}/wp-content/uploads/sites/4/2014/06/image1.jpg?resize=300%2C220 300w, {{ site.baseurl }}/wp-content/uploads/sites/4/2014/06/image1.jpg?resize=1024%2C752 1024w, {{ site.baseurl }}/wp-content/uploads/sites/4/2014/06/image1.jpg?w=2048 2048w, {{ site.baseurl }}/wp-content/uploads/sites/4/2014/06/image1.jpg?w=1520 1520w" sizes="(max-width: 300px) 100vw, 300px" /></a></figure>
-</div>
+<a href="{{ site.baseurl }}/wp-content/uploads/sites/4/2014/06/image1.jpg"><amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2014/06/image1.jpg" alt="A free law coalition sign at #CALICon14" class="wp-image-1057" width="2048" height="1504" layout="responsive"></amp-img></a>
 
 This past week I&#8217;ve been attending the [24th Annual CALI Conference for Law School Computing](http://conference.cali.org/2014/){.broken_link} at Harvard Law School. As usual the conference was a blast and I have enjoyed checking out Harvard.
 
 But what was especially exciting for me was getting a chance to visit MIT. That PBS special 20 years ago is a big part of what set me on my path towards becoming a programmer. As well as making me as fascinated as I was towards technology and the future.
 
-<div class="wp-block-image">
-  <figure class="alignleft"><a href="/wp-content/uploads/sites/4/2014/06/image.jpg"><img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2014/06/IMG_20140619_202224-300x225.jpg" alt="Nick at MIT" class="wp-image-1651" srcset="{{ site.baseurl }}/wp-content/uploads/sites/4/2014/06/IMG_20140619_202224.jpg?resize=300%2C225 300w, {{ site.baseurl }}/wp-content/uploads/sites/4/2014/06/IMG_20140619_202224.jpg?resize=768%2C576 768w, {{ site.baseurl }}/wp-content/uploads/sites/4/2014/06/IMG_20140619_202224.jpg?resize=1024%2C768 1024w, {{ site.baseurl }}/wp-content/uploads/sites/4/2014/06/IMG_20140619_202224.jpg?resize=1200%2C900 1200w, {{ site.baseurl }}/wp-content/uploads/sites/4/2014/06/IMG_20140619_202224.jpg?w=1520 1520w, {{ site.baseurl }}/wp-content/uploads/sites/4/2014/06/IMG_20140619_202224.jpg?w=2280 2280w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a></figure>
-</div>
+<a href="{{ site.baseurl }}/wp-content/uploads/sites/4/2014/06/IMG_20140619_202224.jpg"><amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2014/06/IMG_20140619_202224.jpg" alt="Nick at MIT" class="wp-image-1651" width="3264" height="2448" layout="responsive"></amp-img></a>
 
 As I stood in front of the main building of MIT, wearing Google Glass and posing for pictures with Tim and Mayra, it struck me that I was there. I was wearing a computer at MIT. True, I was never a student of the esteemed university, and also true that I wasn&#8217;t on a team making that wearable computer, but as a glass explorer, I have been working with the team that did over the past year, providing feedback, testing it, going to events, developing apps.
 
@@ -56,8 +45,6 @@ And as a software engineer at Justia, I work with technology every day, and I ge
 
 Couple quick closing thoughts&#8230; First, If the man in the video I watched 2 decades ago was indeed Thad Starner, than it is extra cool because he is a [Technical Lead/Manager on Google&#8217;s Project Glass](http://www.cc.gatech.edu/home/thad/) which means in the above picture I am literally wearing the culmination of his work from the project I was watching the video about in the first place.
 
-<div class="wp-block-image">
-  <figure class="aligncenter"><a href="/wp-content/uploads/sites/4/2014/06/image2.jpg"><img src="/wp-content/uploads/sites/4/2014/06/image2-300x220.jpg" alt="This place was made for Tim" class="wp-image-1061" srcset="{{ site.baseurl }}/wp-content/uploads/sites/4/2014/06/image2.jpg?resize=300%2C220 300w, {{ site.baseurl }}/wp-content/uploads/sites/4/2014/06/image2.jpg?resize=1024%2C752 1024w, {{ site.baseurl }}/wp-content/uploads/sites/4/2014/06/image2.jpg?w=2048 2048w, {{ site.baseurl }}/wp-content/uploads/sites/4/2014/06/image2.jpg?w=1520 1520w" sizes="(max-width: 300px) 100vw, 300px" /></a></figure>
-</div>
+<a href="{{ site.baseurl }}/wp-content/uploads/sites/4/2014/06/image2.jpg"><amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2014/06/image2.jpg" alt="This place was made for Tim" class="wp-image-1061" width="2048" height="1504" layout="responsive"></amp-img></a>
 
 And finally. If you walk around a frosted glass with MIT on it and look at it from behind. It says &#8220;Tim.&#8221; My boss approves.
