@@ -20,7 +20,7 @@ The Saturday before last however, I went to the San Jose Center for the Performi
 
 <!--more-->
 
-<amp-img  title="Beauty and the Beast" alt="Beauty and the Beast" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2012/03/Top1-e1332466623625.jpg" width="280" height="249" layout="intrinsic"></amp-img>
+<amp-img  title="Beauty and the Beast" alt="Beauty and the Beast" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2012/03/Top1-e1332466623625.jpg" width="280" height="249" layout="intrinsic" lightbox></amp-img>
 
 The play was good overall.  I like what they did to explain the characters appearing more &#8220;human.&#8221;  In order to excuse the fact that the characters are played by humans instead of animated candlesticks and teapots, is changed the story slightly so that the change from human to inanimate object is a gradual one.  A short time into the play the winder appeared on the back of Cogsworth, where previously he didn&#8217;t have it.
 

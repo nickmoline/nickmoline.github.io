@@ -6,7 +6,6 @@ author: nickmoline
 layout: post
 guid: https://www.nick.pro/?p=1039
 permalink: /2014/06/04/mentioned-lately-much-hate-comcast/
-cover: /wp-content/uploads/sites/4/2014/06/bsd_google_fiber_firststep_an5_sunnyvale.png
 dsq_thread_id:
     - "2737737456"
 categories:
@@ -21,7 +20,7 @@ Just had a very frustrating chat with Comcast Customer service.  My TiVo Premie
 
 Barbara left the DVR for me to setup when I got home, which because of a GDG meetup I had tonight, wasn&#8217;t until about 9:30 pm.  After getting home I spent a good 20-30 minutes reconfiguring our entertainment system to replace the new defunct TiVo with the Comcast DVR.  Once I got everything hooked up, I went to comcast.com/activate to activate the DVR.  I didn&#8217;t even get to the point where I could enter in the serial number of the new DVR before I was given the following error message.<!--more-->
 
-<a href="{{ site.baseurl }}/wp-content/uploads/sites/4/2014/06/Screenshot-2014-06-04-23.25.29.png"><amp-img   src="{{ site.baseurl }}/wp-content/uploads/sites/4/2014/06/Screenshot-2014-06-04-23.25.29.png" alt="We're sorry, we were unable to complete your activation. Order service returned an OPEN Service Request with ScheduleDate before TECH activation." width="1039" height="755" layout="responsive"></amp-img></a>
+<amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2014/06/Screenshot-2014-06-04-23.25.29.png" alt="We're sorry, we were unable to complete your activation. Order service returned an OPEN Service Request with ScheduleDate before TECH activation." width="1039" height="755" layout="responsive" lightbox></amp-img>
   
 > We&#8217;re sorry, we were unable to complete your activation.
 > Order service returned an OPEN Service Request with ScheduleDate before TECH activation.

@@ -19,7 +19,7 @@ I&#8217;ve been fighting with the [PubSubHubbub](http://code.google.com/p/pubsub
 
 <!--more-->
 
-<amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2012/03/pubsubhubbub.png" width="450" height="211" layout="intrinsic" alt="PubSubHubbub Logo" title="PubSubHubbub"></amp-img>
+<amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2012/03/pubsubhubbub.png" width="450" height="211" layout="intrinsic" alt="PubSubHubbub Logo" title="PubSubHubbub" lightbox></amp-img>
 
 RSS and Atom Feeds have been around for a long time, and they are great at dispensing the content of a blog or site in an easy to consume format.  However just like the home page of the blog, they are just files, sitting on a website waiting for someone to fetch them.  When I write a new post, or change an existing post, people who subscribe to my feed must fetch the feed again in order to know something has changed.
 
