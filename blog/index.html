@@ -25,13 +25,13 @@ paginate_path: "/blog/page:num/"
                     {% endif %}
                 {% endfor %}
 
-                {% if post.tags.size > 0 %}
-                    Tagged:
-                    {% for tag in post.tags %}
-                        {% if forloop.index == post.tags.size %}
-                            <a href='{{site.baseurl}}tags/#{{tag}}'>{{ tag | capitalize }}</a>
+                {% if post.categories.size > 0 %}
+                    in
+                    {% for category in post.categories %}
+                        {% if forloop.index == post.categories.size %}
+                            <a href='{{site.baseurl}}categories/#{{tag}}'>{{ category | capitalize }}</a>
                         {% else %}
-                            <a href='{{site.baseurl}}tags/#{{tag}}'>{{ tag | capitalize }}</a>,
+                            <a href='{{site.baseurl}}categories/#{{tag}}'>{{ category | capitalize }}</a>,
                         {% endif %}
                     {% endfor %}
                 {% endif %}
