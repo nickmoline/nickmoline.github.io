@@ -18,6 +18,6 @@ Even though Google doubled the price (paid $450 last year, this year $900), Goog
 
 <!--more-->
 
-<amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2012/03/Region-capture-16.png" width="260" height="236" layout="intrinsic"></amp-img>
+<amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2012/03/Region-capture-16.png" width="260" height="236" layout="intrinsic" lightbox></amp-img>
 
 I&#8217;m glad to say I [will be at I/O](https://www.nick.pro/2012/03/13/google-io-2012-here-i-come/ "Google I/O 2012 Here I come") this year once again, but all but one of my colleagues who tried to buy tickets were unable to acquire them.  Will I see you at Google I/O?
