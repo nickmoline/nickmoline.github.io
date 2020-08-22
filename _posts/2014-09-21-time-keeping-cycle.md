@@ -79,7 +79,7 @@ I unfortunately cannot get prescription frames for Glass due to the fact that th
 I needed something that would give me the information that Glass gives me, and is just as convenient and accessible, but in a form factor that I can conceivably wear all of the time.  So I returned to the waiting game, waiting for a smartwatch that would fit my needs perfectly.  I read reviews with interest of the [Samsung Galaxy Gear](http://www.amazon.com/gp/product/B00JBJ3I4Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00JBJ3I4Q&linkCode=as2&tag=nickdotpro-20&linkId=6UWU3J3JKFP4CXGZ){.broken_link}, but it still just didn&#8217;t seem right.  It only worked properly with samsung phones, and the developer ecosystem seemed too specific, too niche.  If I was going to buy a smartwatch, it was clear to me that I needed the right platform.
 
 <amp-youtube
-    data-videoid="QrqZl2QIz0c"
+    data-videoid="TIDsvfRUZ6U"
     layout="responsive"
     width="480"
     height="270"

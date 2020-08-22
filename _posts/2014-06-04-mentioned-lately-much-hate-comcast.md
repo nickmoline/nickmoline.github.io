@@ -6,13 +6,12 @@ author: nickmoline
 layout: post
 guid: https://www.nick.pro/?p=1039
 permalink: /2014/06/04/mentioned-lately-much-hate-comcast/
-dsq_thread_id:
-    - "2737737456"
+dsq_thread_id: 2737737456
 categories:
     - Stress
 tags:
     - Comcast
-    - Customer Service
+    - Bad Customer Service
 ---
 Just had a very frustrating chat with Comcast Customer service.  My TiVo Premier has been on the fritz for the last several months.  Rather than buy a new one, I decided to give Comcast&#8217;s X1 a try.  So Barbara took our cable card into the Comcast service office this morning and asked for an X1.  They told Barbara that the X1 would have to be professionally installed, so they scheduled an appointment to have the X1 installed on the 10th, and gave us a regular Comcast DVR to use in the mean time.  She was told that this DVR would cost us $10/month (as opposed to the $1/month we were paying for our cable card) and that when the X1 is installed it would go up to $20/month because apparently it&#8217;s twice as good.
 

@@ -5,14 +5,14 @@ date: 2013-11-01T21:18:04-07:00
 author: nickmoline
 layout: post
 guid: https://www.nick.pro/?p=982
-excerpt: MoviePass has introduced changes to their service that screws over their customers, they call it a "feature"
+excerpt: MoviePass has introduced changes to their service that screws over their customers, they call it a &quot;feature&quot;
 permalink: /2013/11/01/moviepass-insults-screws-customers/
 dsq_thread_id: 1928818529
-cover: /wp-content/uploads/sites/4/2013/11/Region-capture-12.png
 categories:
     - Tech
 tags:
     - MoviePass
+    - Bad Customer Service
 ---
 For Many months now I&#8217;ve been recommending MoviePass to everyone I talk to who likes movies. It always had several restrictions that made it hard to justify:
 
@@ -26,6 +26,8 @@ For Many months now I&#8217;ve been recommending MoviePass to everyone I talk to
 These were annoying restrictions but overall I still considered the pass to be a good enough deal to lock myself into a year contract at $34.99/month each (Me and <a href="http://www.barbara.pro/" target="_blank">Barbara</a>) and do it. It gave me the opportunity to budget my love of going to the movies to a set amount per month and not have to think about &#8220;Do I really want to pay to see this movie in theaters or should I wait for BluRay?&#8221; If I was remotely interested in a movie I went to see it, and if it turned out to suck, I didn&#8217;t care because I&#8217;ll just see another movie the next day for no additional cost.
 
 Unfortunately yesterday MoviePass made a sudden change with no warning that I find absolutely unacceptable, and to make it worse they tried to pass it off as if it was some exciting new feature for their customers.  Yesterday I received an email from MoviePass with a subject line of &#8220;New Features.&#8221;  This is what MoviePass had to say
+
+<amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2013/11/Region-capture-12.png" alt="Screenshot of Moviepass Email" title="Screenshot of Moviepass Email" width="819" height="820" layout="responsive" lightbox></amp-img>
 
 > Dear Nicholas,
 > 

@@ -6,7 +6,6 @@ author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=642
 permalink: /2012/03/27/perhaps-it-isnt-april-fools-day-after-all-pottermore-shop-now-open/
-cover: /wp-content/uploads/sites/4/2012/03/Region-capture-17.png
 dsq_thread_id: 626704372
 categories:
     - Book
@@ -19,6 +18,8 @@ I mentioned last week that _Pottermore_ is set to open to the public on April 1
 <!--more-->
 
 I do almost all of my reading these days on a Kindle or Kindle related app because I love the portability of it.  It has been extremely annoying for years that my favorite book series isn&#8217;t available on Kindle, because they are the books I&#8217;d most like to have with me at all times.
+
+<amp-img  src="{{ site.baseurl }}/wp-content/uploads/sites/4/2012/03/Region-capture-17.png" alt="Pottermore Shop" title="Pottermore Shop" width="720" height="620" layout="responsive" lightbox></amp-img>
 
 When I travel, I tend to need to bring several books with me because with all the extra reading time I tend to plow through a few books, and I just can&#8217;t carry the entire Harry Potter series in my carryon, so you can be sure I will be picking up the Complete Harry Potter Collection (for $57.54) very soon.
 

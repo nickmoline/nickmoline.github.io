@@ -7,7 +7,6 @@ excerpt: "Web Intents in Google Chrome 19+ changed what happens when you view an
 layout: post
 guid: http://www.nick.pro/?p=685
 permalink: /2012/05/30/web-intents-atom-annoyance/
-cover: /wp-content/uploads/sites/4/2012/05/Region-capture-5.png
 dsq_thread_id: 708759183
 categories:
     - Tech
@@ -22,6 +21,7 @@ Since the very beginning, when met with an Atom or RSS feed, Google Chrome respo
 In the recently released stable Chrome 19, one of the new features is that instead of displaying the XML as unformatted xml, it fires off a <a href="http://webintents.org/view" target="_blank" class="broken_link">view web intent</a> instead.  This may be a good first step towards making feeds friendlier to use.  Instead of seeing a page the average reader doesn&#8217;t understand, they could be shown their own apps that they&#8217;ve installed.
 
 <!--more-->
+<amp-img  src="{{ site.baseurl }}/wp-content/uploads/sites/4/2012/05/Region-capture-5.png" alt="No Feed Reader Apps" title="No Feed Reader Apps" width="509" height="269" layout="intrinsic" lightbox></amp-img>
 
 Unfortunately the default does not suggest any feed reader apps, and clicking on the link to search the chrome web store for an app gives you an unfortunately inconvenient &#8220;No Results Found.&#8221;  Google really should have anticipated the release of their own new browser with a full web app for Google Reader with support for web intents, but it appears they didn&#8217;t.  In fact, there still does not appear to be an official google reader web app for chrome.
 
