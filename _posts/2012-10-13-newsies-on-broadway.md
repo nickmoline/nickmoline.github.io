@@ -16,6 +16,10 @@ tags:
     - Disney
     - Newsies
     - New York
+amp-facebook: true
+amp-twitter: true
+amp-youtube: true
+amp-carousel: true
 ---
 <a title="Newsies: The Musical on Broadway" href="http://www.newsiesthemusical.com/" target="_blank" rel="noopener">_Newsies_</a> is a relatively new (hit Broadway in March, 2012) Broadway Play by Disney based on the <a title="Newsies (1992) on IMDB" href="http://www.imdb.com/title/tt0104990/" target="_blank" rel="noopener">1992 live-action Disney movie musical of the same name</a>, which in turn was based on the historical <a href="http://en.wikipedia.org/wiki/Newsboys_Strike_of_1899" target="_blank" rel="noopener">Newsboys Strike of 1899</a>. It is currently playing at the <a href="http://www.nederlandertheatre.com/" target="_blank" rel="noopener">Nederlander Theatre</a> on 42nd Street in the Broadway theatre district of Manhattan.
 

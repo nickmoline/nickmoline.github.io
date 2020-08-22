@@ -15,6 +15,7 @@ tags:
     - Google
     - Google Glass
     - Google I/O
+amp-youtube: true
 ---
 It is hard to believe that it was just 1 year and 1 week ago, Google uploaded to its YouTube channel, a <a title="Project Glass: One day..." href="http://youtu.be/9c6W4CCU9M4" target="_blank">teaser video</a> for a project they had been working out of from their top-secret &#8220;moonshot&#8221; [x Labs](https://x.company/) called Project Glass.
 
@@ -67,13 +68,40 @@ In the meantime, while I waited, the detractors started coming out.
 
 Articles like this bugged me because they inherently did not get the point.  Google Glass is not about continuing the trend of people who stare at their phones and don&#8217;t participate in the world.  Google Glass is about giving you the information you need without you looking away from what you are doing.  Google Glass is about integrating the information you need into your life.  It&#8217;s about taking someone who was looking down at their phone, and encouraging to tilt their heads up and look at the world.
 
-The small floating image is purposely in your peripheral vision, not in your line of sight.  It is specifically designed to keep your attention on your surroundings.  This is why many of the videos and demonstrations Google has shown us, don&#8217;t focus on the information Glass can give you, they focus on people <a title="How it Feels [through Glass]" href="http://youtu.be/v1uyQZNg2vE" target="_blank">living their lives</a>, <a title="DVF [through Glass]" href="http://youtu.be/30Pjl31cyDY" target="_blank">doing their jobs</a>, <a title="Glass Session: Madame & Bébé Gayno" href="http://youtu.be/GZDirHMEmXk" target="_blank">spending time with their families</a>, and <a title="Project Glass: Skydiving Demo" href="http://youtu.be/uh-liQDE3cM" target="_blank">having way more fun</a> then I ever do.
+The small floating image is purposely in your peripheral vision, not in your line of sight.  It is specifically designed to keep your attention on your surroundings.  This is why many of the videos and demonstrations Google has shown us, don&#8217;t focus on the information Glass can give you, they focus on people:
 
-<amp-img aria-describedby="caption-attachment-934"  src="{{ site.baseurl }}/wp-content/uploads/2013/04/MG_7150-2346688102-O.jpg" alt="Nick Moline is proud to be a &quot;Glasshole&quot;" width="864" height="1296" layout="responsive" lightbox></amp-img>
+* doing their jobs
+<amp-youtube
+    data-videoid="30Pjl31cyDY"
+    layout="responsive"
+    width="480"
+    height="270"></amp-youtube>
+* spending time with their families
+<amp-youtube
+    data-videoid="GZDirHMEmXk"
+    layout="responsive"
+    width="480"
+    height="270"></amp-youtube>
+* having way more fun than I ever do
+<amp-youtube
+    data-videoid="uh-liQDE3cM"
+    layout="responsive"
+    width="480"
+    height="270"></amp-youtube>
 
 Will having Glass make me take up skydiving, or encourage me to trek to Thailand to have authentic Thai food?  Probably not, but when I&#8217;m in the moment, living my life, and there&#8217;s a question I need answering, Google Glass will be there, ready with that answer.  When that moment I&#8217;m living in, becomes that perfect moment, Google Glass will be there, ready to capture it.  No fumbling for a phone to look up an answer, taking me away, no pulling out the camera and starting it up in hopes that I can get it on in time to capture that moment.
 
+<amp-img aria-describedby="caption-attachment-934"  src="{{ site.baseurl }}/wp-content/uploads/sites/4/2013/04/MG_7150-2346688102-O.jpg" alt="Nick Moline is proud to be a &quot;Glasshole&quot;" width="864" height="1296" layout="responsive" lightbox></amp-img>
+
 At the Glass Foundry, Timothy Jordan described it in one sentence better than I have in the last several paragraphs when he said &#8220;By bringing technology closer, we can get it out of the way.&#8221;  A statement he and others have <a title="Building New Experiences with Glass" href="http://youtu.be/JpWmGX55a40?t=35s" target="_blank">repeated</a> at other events.
+
+<amp-youtube
+    data-videoid="JpWmGX55a40"
+    layout="responsive"
+    width="480"
+    height="270"
+    data-param-start=35
+></amp-youtube>
 
 So when will I have my Glass?  Very soon.  Last Night Google <a title="First Google Glass Devices Are Coming Off The Production Line Now, Will Ship In Batches" href="http://techcrunch.com/2013/04/15/first-google-glass-devices-are-coming-off-the-production-line-now-will-ship-in-batches/" target="_blank">sent an email</a> to those of us joined the Explorer Program back at Google I/O 2012 saying that the first batch of Glass is off the production line, and they are ready to start getting them into the hands of the Explorers.  They don&#8217;t have enough for all of us yet, but they have some, and that&#8217;s Exciting news.
 

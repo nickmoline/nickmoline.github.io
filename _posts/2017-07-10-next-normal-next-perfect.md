@@ -13,6 +13,7 @@ tags:
     - Sound
     - The Refuge
     - Next to Normal
+amp-youtube: true
 ---
 This past weekend I had the absolute privilege of running sound for [The Refuge](https://www.therefugetheater.com/)&#8216;s first show, Next to Normal. When the opportunity was sent to me, I hesitated, it was going to be a real challenge, no lengthy week of tech/dress rehearsals to get sound right, unknown sound equipment in an unknown space, and no orchestra pit meaning the band is on stage which makes controlling the audio levels much more difficult. On top of this, the show was in San Francisco, meaning I&#8217;d have a long commute to and from the show each day.
 

@@ -19,6 +19,7 @@ tags:
     - Android Wear
     - Google Glass
     - Wearables
+amp-youtube: true
 ---
 As I sit here today checking the time on my <a title="Moto 360" href="https://moto360.motorola.com/" target="_blank" rel="noopener noreferrer">Moto 360</a> <a title="Android Wear" href="http://www.android.com/wear/" target="_blank" rel="noopener noreferrer">Android Wear</a> smartwatch, I&#8217;m amused by a concept I&#8217;m calling &#8220;_The Time Keeping Cycle_.&#8221;  When I was in high school college I wore watches all of the time (usually a Casio calculator watch, yes I was &#8220;that guy&#8221;), and pretty much everyone I knew wore wrist watches at the time as well.  They were simple and useful.
 
