@@ -9,6 +9,7 @@ tags:
     - Jekyll
     - Liquid
     - HTML5
+    - Guides
 amp-gist: true
 ---
 As I mentioned yesterday [I'm moving posts over to Jekyll]({% post_url 2020-08-20-migrating-to-jekyll %}) from my WordPress blog.  To get started, I used a wordpress plugin called simply [Jekyll Exporter](https://wordpress.org/plugins/jekyll-exporter/) to export all of my posts and pages into markdown files.  This worked pretty well, but since I want my site to be 100% [AMP](https://amp.dev) Only, I decided that rather than just publishing them all I should make sure that none of the old markup (much of which has been migrated between 3 different platforms) ends up causing pages not to validate in the AMP Validator.

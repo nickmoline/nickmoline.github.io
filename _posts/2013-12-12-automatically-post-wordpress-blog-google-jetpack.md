@@ -15,6 +15,7 @@ tags:
     - Google+
     - WordPress
     - Social Media
+    - Guides
 ---
 Many people have long lamented that unlike Twitter, Facebook, LinkedIn, Tumblr, and many other services, Google+ does not let you use an API to post.  There is an API for posting to Google+ Pages, but Google is restricting this feature to approved services.  Apparently WordPress.com is one of those services, and in the latest 2.7 version of the <a href="http://jetpack.me/" target="_blank">Jetpack plugin</a> for self-hosted WordPress blogs released yesterday, they are [extending that service to your own self hosted WordPress blog](http://jetpack.me/2013/12/11/jetpack-2-7-publicize/).
 

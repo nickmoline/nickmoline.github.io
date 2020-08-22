@@ -6,37 +6,19 @@ author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=500
 permalink: /2011/09/18/on-the-difficulty-of-pottermore-house-cup-competitions/
-dsq_thread_id:
-  - "418118533"
-  - "418118533"
-Views:
-  - "41"
-  - "41"
-readability_ARI:
-  - "5.6"
-  - "5.6"
-readability_CLI:
-  - "7.9"
-  - "7.9"
-readability_LIX:
-  - "26.4"
-  - "26.4"
-word_stats_word_count:
-  - "723"
-  - "723"
-word_stats_keywords:
-  - 's:347:"a:19:{s:5:"house";i:24;s:6:"points";i:16;s:10:"pottermore";i:5;s:5:"based";i:5;s:5:"point";i:3;s:5:"place";i:4;s:10:"hufflepuff";i:3;s:9:"slytherin";i:4;s:12:"championship";i:3;s:4:"just";i:3;s:4:"year";i:3;s:8:"students";i:8;s:8:"hogwarts";i:4;s:8:"actually";i:4;s:6:"houses";i:3;s:6:"number";i:4;s:6:"people";i:4;s:4:"fact";i:4;s:5:"staff";i:3;}";'
-  - 's:347:"a:19:{s:5:"house";i:24;s:6:"points";i:16;s:10:"pottermore";i:5;s:5:"based";i:5;s:5:"point";i:3;s:5:"place";i:4;s:10:"hufflepuff";i:3;s:9:"slytherin";i:4;s:12:"championship";i:3;s:4:"just";i:3;s:4:"year";i:3;s:8:"students";i:8;s:8:"hogwarts";i:4;s:8:"actually";i:4;s:6:"houses";i:3;s:6:"number";i:4;s:6:"people";i:4;s:4:"fact";i:4;s:5:"staff";i:3;}";'
-word_stats_cached:
-  - "1"
-  - "1"
+dsq_thread_id: 418118533
 categories:
-  - Pottermore
   - Tech
+tags:
+  - Pottermore
+  - Harry Potter
+  - Math
 ---
-My last [2](https://www.nick.pro/2011/09/14/pottermore-cheats-potions-better-still-needs-more/ "Pottermore Cheats Update: Potions are Better now, but the site still has a way to go") [posts](https://www.nick.pro/2011/08/27/pottermore-cheats-earning-more-house-points-through-failure-then-success-in-potion-making/ "Pottermore Cheats: Earning more house points through failure then success in potion making") were both about cheats on earning and keeping House Points on <a title="Pottermore" href="https://www.nick.pro/2004/02/22/plugins/" target="_blank">Pottermore.com</a>.  Continuing that series, I thought I would write a little bit on task based point competitions.
+My last [2]({% post_url 2011-09-14-pottermore-cheats-potions-better-still-needs-more %} "Pottermore Cheats Update: Potions are Better now, but the site still has a way to go") [posts]({% post_url 2011-08-27-pottermore-cheats-earning-more-house-points-through-failure-then-success-in-potion-making %} "Pottermore Cheats: Earning more house points through failure then success in potion making") were both about cheats on earning and keeping House Points on [Pottermore]({{ site.url }}{{ site.baseurl }}/tags#pottermore).  Continuing that series, I thought I would write a little bit on task based point competitions.
 
-## _<!--more-->&#8220;Now, as I understand it, the house cup here needs awarding, and the points stand thus&#8230;&#8221;_
+<!--more-->
+
+## _&#8220;Now, as I understand it, the house cup here needs awarding, and the points stand thus&#8230;&#8221;_
 
 <div style="float: right;margin-left: 5px;margin-bottom: 5px;border: 1px solid #000;padding: 5px;background-color: #fffdee;width: 270px">
   <table>
@@ -98,7 +80,9 @@ My last [2](https://www.nick.pro/2011/09/14/pottermore-cheats-potions-better-sti
   </table>
 </div>
 
-The first problem with the house point championship is in just a month we are dealing with point values in the tens of thousands, when in the books the house cup championship is only in the hundreds after an entire year.  Granted, there&#8217;s just under 400,000 &#8220;students&#8221; on Pottermore, and at best estimates, Hogwarts has at most <a href="http://www.accio-quote.org/articles/2000/1000-scholastic-chat.htm" target="_blank">a thousand</a> (according to a Scholastic Chat with J.K. Rowling in 2000), and more realistically <a href="http://www.hp-lexicon.org/essays/essay-hogwarts-how-many.html" target="_blank">approximately 280 students</a> (based mathematically on the assumption of more or less 10 students per year per house, based on the <a href="http://www.pottermore.com/en/book1/chapter11/moment1/the-original-forty" target="_blank" class="broken_link">40 students</a> in Harry&#8217;s Year).  But even with the enormous population growth at Hogwarts since <a href="http://www.hp-lexicon.org/about/books/dh/rg-dh36.html" target="_blank">1998</a> (I guess the wizarding world is producing a lot more magical children now that the Dark Lord is gone, if there are 400,000 students at Hogwarts), house points at Hogwarts are far more likely to normalize out at far lower levels then 40k in a month.
+The first problem with the house point championship is in just a month we are dealing with point values in the tens of thousands, when in the books the house cup championship is only in the hundreds after an entire year.  Granted, there&#8217;s just under 400,000 &#8220;students&#8221; on Pottermore, and at best estimates, Hogwarts has at most a thousand (according to a [Scholastic Chat with J.K. Rowling in 2000](http://www.accio-quote.org/articles/2000/1000-scholastic-chat.htm)), and more realistically [approximately 280 students](https://www.hp-lexicon.org/2001/02/07/how-many-students-are-there-at-hogwarts/) (based mathematically on the assumption of more or less 10 students per year per house, based on the [40 students](http://www.pottermore.com/en/book1/chapter11/moment1/the-original-forty) in Harry&#8217;s Year).  
+
+But even with the enormous population growth at Hogwarts since [1998](https://www.hp-lexicon.org/source/the-harry-potter-novels/dh/dh36/) (I guess the wizarding world is producing a lot more magical children now that the Dark Lord is gone, if there are 400,000 students at Hogwarts), house points at Hogwarts are far more likely to normalize out at far lower levels then 40k in a month.
 
 ## _&#8220;now that&#8217;s interesting&#8230;. So where shall I put you.&#8221;_
 
@@ -181,7 +165,7 @@ Interesting to note that the house with the most students actually has the lowes
 
 ## _&#8220;Yes, Yes, well done, Slytherin,&#8221; said Dumbledore. &#8220;However, recent events must be taken into account.&#8221;_
 
-I have a great deal of sympathy for the team developing Pottermore as they attempt to keep the house cup fair.  I have some experience at doing the same thing in that I have developed a similar House Cup championship for the <a href="http://www.hogwartslive.com/" target="_blank">HogwartsLive.com</a> text based Role Playing Game.  On HL, I, like I imagine TH_NK, found it very difficult to come up with an algorithm that more or less gives every house an equal shot at winning the house cup.
+I have a great deal of sympathy for the team developing Pottermore as they attempt to keep the house cup fair.  I have some experience at doing the same thing in that I have developed a similar House Cup championship for the [HogwartsLive](http://www.hogwartslive.com/) text based Role Playing Game.  On HL, I, like I imagine TH_NK, found it very difficult to come up with an algorithm that more or less gives every house an equal shot at winning the house cup.
 
 The difficulty I found was in creating a system that rewards activity, but is not prone to &#8220;gaming the system&#8221; which is hard when points are generated automatically.
 

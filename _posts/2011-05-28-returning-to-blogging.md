@@ -6,29 +6,14 @@ author: nickmoline
 layout: post
 guid: http://old.nick.pro/?p=363
 permalink: /2011/05/28/returning-to-blogging/
-dsq_thread_id:
-  - "935234611"
-  - "935234611"
-readability_ARI:
-  - "8.8"
-  - "8.8"
-readability_CLI:
-  - "7.6"
-  - "7.6"
-readability_LIX:
-  - "27.7"
-  - "27.7"
-word_stats_word_count:
-  - "333"
-  - "333"
-word_stats_keywords:
-  - 's:116:"a:7:{s:4:"blog";i:9;s:5:"going";i:4;s:5:"posts";i:5;s:4:"year";i:4;s:5:"child";i:4;s:6:"justia";i:5;s:4:"time";i:3;}";'
-  - 's:116:"a:7:{s:4:"blog";i:9;s:5:"going";i:4;s:5:"posts";i:5;s:4:"year";i:4;s:5:"child";i:4;s:6:"justia";i:5;s:4:"time";i:3;}";'
-word_stats_cached:
-  - "1"
-  - "1"
+dsq_thread_id: 935234611
 categories:
+  - Writing
+tags:
   - Blogging
+  - Work
+  - Justia
+  - Google I/O
 ---
 I revisit my blog after a busy May, 2011 including going to Google I/O 2011 and what do I see as the last post on my blog, a short stinger post about Google I/O 2010. This simply won&#8217;t do.
 
@@ -39,5 +24,3 @@ I&#8217;ll begin with some general updates. Two blog posts ago (March, 2010) I w
 I have been incredibly busy with work over the least year and I love working for Justia. We&#8217;ve put out some great projects in that time including [Justia Legal Answers](http://answers.justia.com/) which I had the privilege of [writing about on the Justia Blog](http://onward.justia.com/2010/11/09/announcing-justia-answers/) and [Justia Daily Opinion Summaries](http://onward.justia.com/2011/04/19/announcing-justia-daily-opinion-summaries/) which was part of a revamp of our [Justia Law Center](http://law.justia.com/). More projects are, as always, underway and I look forward to pushing out some great new features in the upcoming days.
 
 In my personal life, I&#8217;ve gotten to do quite a lot of exciting things this year, which I&#8217;m going to try to write separate posts for. Going to Disney World for the first time and visiting the Wizarding World of Harry Potter in the process, Going on my first Cruise, Visiting New York City (3 Times!) and getting my first (and second) taste of Broadway and Time Square.
-
-&nbsp;

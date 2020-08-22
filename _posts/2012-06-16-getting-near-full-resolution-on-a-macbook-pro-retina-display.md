@@ -13,6 +13,7 @@ categories:
 tags:
     - Gadgets
     - Apple
+    - Guides
 ---
 **UPDATE 2012-06-18: **My Justia colleague, <a title="Dan Vu Quoc" href="http://www.vuquoc.com/" target="_blank">Dan Vu Quoc</a>, has let me know that the 3rd party shareware Screen Resolution utility for Mac <a href="http://www.madrau.com/download/latest/latest.html" target="_blank">SwitchResX</a> is capable of pushing the Macbook Pro with Retina Display&#8217;s resolution up to the full 2880 by 1600 resolution even when not plugged in to an external monitor.  I have tried this out myself, and can confirm it is true!
 

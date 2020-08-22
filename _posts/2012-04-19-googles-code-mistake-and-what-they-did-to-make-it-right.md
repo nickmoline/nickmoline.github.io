@@ -17,6 +17,7 @@ tags:
     - Google Code Jam
     - Blunders
     - Coding
+    - Guides
 ---
 This morning Google <a href="http://googledevelopers.blogspot.com/2012/04/code-jams-sprint-to-google-io.html" target="_blank">opened up a programming competition</a> using the same system as Google Code Jam (they called it the Google Code Jam Sprint to I/O) to win the right to buy 1 of 100 tickets to Google I/O.  Normal Registration for the conference closed [20 minutes after it opened](https://www.nick.pro/2012/03/27/google-io-sells-out-in-less-than-a-half-hour/ "Google I/O 2012 Sells out in less than a half hour") back on March 27th due to the incredible demand, so naturally those developers who couldn&#8217;t get in before were excited and ready to battle for the chance to buy a ticket.
 

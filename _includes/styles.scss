@@ -808,3 +808,24 @@ progress[value]::-webkit-progress-value {
 .PageNavigation .next {
   text-align: right;
 }
+
+.alignleft {
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+.alignright {
+  float: right;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+.aligncenter {
+  clear: both;
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+}
+.alignnone {
+  display: block;
+  clear: both;
+}
