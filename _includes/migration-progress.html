@@ -1,4 +1,4 @@
 {% assign total_post_count = site.posts.size | plus: site.pending.size | times: 1.00 %}
 {% assign migration_percentage = site.posts.size | divided_by: total_post_count | times: 100 | round: 2 %}
 <progress max="{{ total_post_count | floor }}" value="{{ site.posts.size }}" title="{{ migration_percentage }}% migrated"></progress>
-Migrated {{ site.posts.size }} out of {{ total_post_count | floor }} posts migrated ({{ migration_percentage }}%).  {{ site.pending.size }} posts remaining to migrate.
+Migrated <strong>{{ site.posts.size }}</strong> out of <strong>{{ total_post_count | floor }}</strong> posts migrated (<strong>{{ migration_percentage }}%</strong>).  <strong>{{ site.pending.size }}</strong> posts remaining to migrate.
