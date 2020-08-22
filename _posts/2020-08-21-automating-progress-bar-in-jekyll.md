@@ -14,12 +14,9 @@ As I mentioned yesterday [I'm moving posts over to Jekyll]({% post_url 2020-08-2
 
 <!--more-->
 
-I decided not to wait till I had converted all 213 pages to go live at nickmoline.com, but in the vein of old Under Construction pages of the 90s I decided it would be neat to display a progress bar on how much of the backlog I've worked my way through.
+I decided not to wait till I had converted all 212 pages to go live at nickmoline.com, but in the vein of old Under Construction pages of the 90s I decided it would be neat to display a progress bar on how much of the backlog I've worked my way through.
 
-{% assign total_post_count = site.posts.size | plus: site.pending.size | times: 1.00 %}
-{% assign migration_percentage = site.posts.size | divided_by: total_post_count | times: 100 | round: 2 %}
-<progress max="{{ total_post_count | floor }}" value="{{ site.posts.size }}" title="{{ migration_percentage }}% migrated"></progress>
-Migrated <strong>{{ site.posts.size }}</strong> out of <strong>{{ total_post_count | floor }}</strong> posts migrated (<strong>{{ migration_percentage }}%</strong>).  <strong>{{ site.pending.size }}</strong> posts remaining to migrate.
+{% include migration-progress.html %}
 
 What's cool about this bar (which is shows up not only here, but also on the home page and in the previous blog post) is that it is being generated entirely dynamically from my jekyll repo.  I thought it would be interesting to explain how I got my repo to generate this dynamically in this post.
 
@@ -59,7 +56,7 @@ To get the percentage, I can then divide `site.posts.size` by `total_post_count`
 ```
 {% endraw %}
 
-For presentation's sake I'm then multiplying by 100 and then rounding to 2 significant digits.  At this point I have all of the numbers I need.  I know how many published posts there are (currently <strong>{{ site.posts.size }}</strong>), how many posts are pending migration (<strong>{{ site.pending.size }}</strong>), how many posts there are total (<strong>{{ total_post_count | floor }}</strong>), and what percentage of the total posts are done (<strong>{{ migration_percentage }}%</strong>).
+For presentation's sake I'm then multiplying by 100 and then rounding to 2 significant digits.  At this point I have all of the numbers I need.  I know how many published posts there are (currently <strong>{{ posts_migrated_count | floor }}</strong>), how many posts are pending migration (<strong>{{ site.pending.size }}</strong>), how many posts there are total (<strong>{{ total_post_count | floor }}</strong>), and what percentage of the total posts are done (<strong>{{ migration_percentage }}%</strong>).
 
 ### Rendering the progress bar
 
@@ -86,3 +83,23 @@ So that I can easily include this in multiple places, I stored all of this in an
     data-gistid="2744c66ccd46224b7c6e3a8196d73a30"
     layout="fixed-height"
     height="225"></amp-gist>
+
+### Dealing with future posts
+
+At this point some of you may have noticed a flaw in the above that this post actually exacerbates, it counts new posts as migrated posts.  The more I blog before the files are published, the more the numbers will be incorrect.  To solve this, when I finished I simply replaced the calculation making the total a fixed number (212) and calculating the number published as the total minus what is left in the pending folder.
+
+Here is the final modified version to take this into consideration.
+
+{% raw %}
+```liquid
+{% assign total_post_count = 212.0 %}
+{% assign posts_migrated_count = total_post_count | minus: site.pending.size %}
+{% assign migration_percentage = posts_migrated_count | divided_by: total_post_count | times: 100 | round: 2 %}
+<progress max="{{ total_post_count | floor }}" 
+    value="{{ posts_migrated_count }}" 
+    title="{{ migration_percentage }}% migrated"></progress>
+Migrated <strong>{{ posts_migrated_count | floor }}</strong> 
+out of <strong>{{ total_post_count | floor }}</strong> posts migrated (<strong>{{ migration_percentage }}%</strong>).  
+<strong>{{ site.pending.size }}</strong> posts remaining to migrate.
+```
+{% endraw %}
