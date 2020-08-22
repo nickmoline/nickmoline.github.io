@@ -63,6 +63,11 @@ branch: master
 production_url: https://www.nickmoline.com
 source_url: https://github.com/nickmoline/nickmoline.github.io
 
+collections:
+    pending:
+        layout: post
+        
+
 sass:
     style: compressed
 
@@ -74,4 +79,3 @@ exclude:
     - vendor
     - .travis.yml
     - .gitignore
-    - _pending

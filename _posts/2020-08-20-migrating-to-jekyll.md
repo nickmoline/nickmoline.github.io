@@ -48,3 +48,8 @@ This makes it very easy to track what changes I've made over time, both to the l
 I've thought about doing this many times over the years.  What held me back is that I happen to love WordPress.  I'm not alone in this, as of the time I'm writing this, [38.1% of all websites are hosted on WordPress](https://w3techs.com/technologies/details/cm-wordpress) accounting for 63.5% of websites hosted by a known <abbr title="Content Management System">CMS</abbr> according to W3techs.  When over a third of all websites in the world are powered by WordPress, there is a good reason for that.  WordPress is extremely flexible allowing you to host any type of website from a blog like this one to a fully fledged eCommerce site using freely available plugins to add functionality needed for a particular site.
 
 I still use WordPress in a number of projects both for work and for personal side projects such as [The Harry Potter Lexicon](https://www.hp-lexicon.org/) and the website for [Sunnyvale Community Players](https://sunnyvaleplayers.org).
+
+## Migration Progress
+Rather than dump all of the posts at once, I'm taking the time to go through the posts and fix the formatting to match the new layout.  For your amusement, here is the migration progress statistics:
+
+{% include migration-progress.html %}

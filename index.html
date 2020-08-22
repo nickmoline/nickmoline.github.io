@@ -38,7 +38,14 @@ pagination:
         <p>Nick currently lives in <span itemprop="homeLocation" itemtype="http://schema.org/City" itemscope><span itemprop="name">Sunnyvale</span>, <span itemprop="containedIn" itemtype="http://schema.org/State" itemscope><span itemprop="name">California</span></span></span> with his wife <span itemprop="spouse" itemtype="http://schema.org/Person" itemscope><a href="http://www.barbara.pro/" rel="spouse sweetheart date met" itemprop="url"><span itemprop="givenName">Barbara</span> <span itemprop="familyName">Moline</span></a></span>, and their two cats Jax and Joules.</p>
     </section>
 
+    <hr />
+
+    <section id="migration">
+        <h2><a href="{% post_url 2020-08-20-migrating-to-jekyll %}#migration">Migration Progress</a></h2>
+        <p>The blog posts on this site were <a href="{% post_url 2020-08-20-migrating-to-jekyll %}">formerly hosted in WordPress</a>.  I did an export and migrated the posts, but I wanted to take the time to format them properly.  The guage below shows the current status of that migration.</p>
+        {% include migration-progress.html %}
     </section>
+
     <hr />
     <section id="blog">
         <h2><a href="{{ site.baseurl }}/blog">Recent Blog Posts</a></h2>
