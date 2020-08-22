@@ -16,6 +16,7 @@ tags:
   - Google I/O
 ---
 I revisit my blog after a busy May, 2011 including going to Google I/O 2011 and what do I see as the last post on my blog, a short stinger post about Google I/O 2010. This simply won&#8217;t do.
+<!--more-->
 
 I&#8217;ve written other blog posts in the last year, they just haven&#8217;t been on my own blog. I&#8217;ve written a [number of blog posts](http://onward.justia.com/author/nickmoline/) in the last year on [Justia&#8217;s Law, Technology and Legal Marketing Blog](http://onward.justia.com/). I&#8217;m well past due however writing blog posts for myself. I will make an effort to pick back up on this as it&#8217;s something I&#8217;ve always enjoyed.
 
