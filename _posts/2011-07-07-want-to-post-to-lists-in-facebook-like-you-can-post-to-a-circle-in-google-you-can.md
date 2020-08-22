@@ -12,6 +12,7 @@ categories:
 tags:
   - Facebook
   - Google+
+  - Social Media
   - Guides
 ---
 So I really like Google+ and happily post away to my Google+ Profile.  Unfortunately not everybody has access to G+ yet.  Facebook still is king of the ring, but I&#8217;ve long wanted to do what Google+ does natively, which is to say specify who should see my posts based on groupings.
