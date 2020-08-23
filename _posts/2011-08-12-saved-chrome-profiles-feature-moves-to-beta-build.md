@@ -12,6 +12,7 @@ categories:
 tags:
   - Google
   - Google Chrome
+  - GSuite
 ---
 Ever since the Profiles feature was first announced in the canary build I was excited, but it was limited (biggest limitation, these profiles weren&#8217;t saved) and the canary build was very unstable at the time. Eventually that early version moved into later builds, but the canary build updated further to allow saving those profiles for later use (making switching between different identities easy).
 

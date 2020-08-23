@@ -13,6 +13,7 @@ tags:
     - Google
     - GMail
     - Google Drive
+    - GSuite
 ---
 Remember when GMail <a title="GMail on April 1, 2004" href="http://web.archive.org/web/20040401041817/http://gmail.google.com/" target="_blank">first came out</a>?  1GB of email was unheard of, especially in a free service at the time.  One of Google&#8217;s big selling points was &#8220;_you&#8217;ll never need to delete another message._&#8221;  It was right there on the home page.  If you compare the home pages from 2004 and today for Gmail you&#8217;ll note they still refer to it as being &#8220;Lots of space&#8221; but they no longer say you&#8217;ll never need to delete another message.  The message about never deleting email disappeared sometime between <a href="http://web.archive.org/web/20090302230336/https://www.google.com/accounts/ServiceLogin?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Fui%3Dhtml%26zy%3Dl&bsv=zpwhtygjntrz&ss=1&scc=1&ltmpl=default&ltmplcache=2" target="_blank">March, 2009</a> and December 2009.
 

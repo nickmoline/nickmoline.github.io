@@ -6,33 +6,19 @@ author: nickmoline
 layout: post
 guid: http://old.nick.pro/?p=350
 permalink: /2009/12/23/cloud-is-falling-cloud-is-falling-amazon-walmart-salesforce-and-others-down-on-dece/
-Views:
-  - "3"
-  - "3"
-readability_ARI:
-  - "6.3"
-  - "6.3"
-readability_CLI:
-  - "8.3"
-  - "8.3"
-readability_LIX:
-  - "26.1"
-  - "26.1"
-word_stats_word_count:
-  - "201"
-  - "201"
-word_stats_keywords:
-  - 's:78:"a:4:{s:6:"outage";i:4;s:5:"sites";i:4;s:8:"actually";i:4;s:9:"amazonaws";i:3;}";'
-  - 's:78:"a:4:{s:6:"outage";i:4;s:5:"sites";i:4;s:8:"actually";i:4;s:9:"amazonaws";i:3;}";'
-word_stats_cached:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "983707291"
+dsq_thread_id: 983707291
 categories:
-  - Sites Down
+  - Tech
+tabs:
+  - Blunders
+  - Internet Outages
+  - Amazon
+  - Walmart
+  - Salesforce
 ---
 A Major pre-christmas internet outage seems to be hitting the heavy hitters on the web right now. Amazon.com, Salesforce.com, and Walmart.com are all offline right now, perhaps even more. Interestingly enough sites running on amazon web services (AWS EC2) seem to be running just fine. An outage of these large sites at the same time is likely a result of an attack of massive proportions.
+
+<!--more-->
 
 **UPDATE:** It appears the outage was actually isolated primarily to the west coast of the US, and was actually an outage of ultradns.com which provided dns for all of the above sites and many others, including netflix and newegg.
 
