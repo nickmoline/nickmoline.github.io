@@ -6,7 +6,7 @@ author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=169
 permalink: /2008/05/17/for-narnia-and-for-aslan/
-cover: /wp-content/uploads/sites/4/2008/05/narnia1.jpg
+cover: /wp-content/uploads/sites/4/2008/05/narnia2.jpg
 categories:
   - Reviews
 tags:

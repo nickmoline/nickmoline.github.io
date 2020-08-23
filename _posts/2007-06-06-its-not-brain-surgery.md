@@ -9,11 +9,12 @@ permalink: /2007/06/06/its-not-brain-surgery/
 cover: /wp-content/uploads/sites/4/2007/06/31965874.jpg
 dsq_thread_id: 965494451
 categories:
-  - General
-  - Law
   - Work
+tags:
+  - Privacy
+  - Blunders
 ---
-Often when someone wants to indicate that a task doesn&#8217;t take a genious, they relate the task to one of two professions, and so two common phrases you will hear on a regular basis are &#8220;Hey, it&#8217;s not Rocket Science&#8221; and similarly &#8220;Hey, it&#8217;s not Brain Surgery.&#8221; This seems a strange way to start a blog post, but trust me, you&#8217;ll understand in a moment.  
+Often when someone wants to indicate that a task doesn&#8217;t take a genius, they relate the task to one of two professions, and so two common phrases you will hear on a regular basis are &#8220;Hey, it&#8217;s not Rocket Science&#8221; and similarly &#8220;Hey, it&#8217;s not Brain Surgery.&#8221; This seems a strange way to start a blog post, but trust me, you&#8217;ll understand in a moment.  
 
 <!--more-->
   

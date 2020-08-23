@@ -30,12 +30,23 @@ Mr. Sandberg was a man of vast knowledge, and was infamous at LCS for his lectur
 
 He bought tons of Educational software for the school as well, yet I rarely remember him playing any of them, except for one particular game, [Conquest of the New World Deluxe](https://www.amazon.com/Conquest-New-World-Deluxe-Boxed/dp/B0002QSJ1E/). He used to play the battle mini-game with anyone who would play with him. I used to play the game with him at least once a day.  In addition to his amazing lectures on history and science, he also taught a number of subjects himself, in particular languages, which was quite a passion to him. I remember once, during a school break he took a week&#8217;s vacation to travel up to Canada with the goal in mind to speak nothing but French while he was on vacation. 
 
-I myself took Latin with him for 3 years, and still remember to this day the first sentence he ever spoke to me in Latin (though it took him repeating it a number of times over the years before I memorized it, and I&#8217;m still not sure I have the spelling right): _Lingua Latina est delinda, delinda delindissima, et calum omnes Romani, et nunc occidet me!_ which roughly translates &#8220;Latin is a dead Language, as dead as dead can be, it killed off all the Romans, and now it is killing me.&#8221; To this day whenever Latin comes up in conversation, I find myself saying the sentence aloud. Not that Mr. Sandberg really believed that Latin was killing anyone, he just loved that sentence.
+I myself took Latin with him for 3 years, and still remember to this day the first sentence he ever spoke to me in Latin (though it took him repeating it a number of times over the years before I memorized it, and I&#8217;m still not sure I have the spelling right): 
 
-What does any of this have to do with Facebook and how I have been wrong about social networking sites for years? Carl Sandberg, a man I am honored to have known and one who will always have an impact on my life, [passed away on May 30th, 2007 of Lukemia](https://www.washingtonpost.com/wp-dyn/content/article/2007/06/08/AR2007060802692.html). Until yesterday, I did not even know. In the month between his last day at LCS and his death, a Facebook group was created, trying to get the word out of his hospitalization and deterioration health. On the day he died Robyn Baird, an old friend from school posted this message on the facebook group, and despite all of my rambling in this post, puts it far better than I ever could.
+> Lingua Latina est delinda, delinda delindissima, et calum omnes Romani, et nunc occidet me!
+> -- <cite>Carl Sandberg</cite>
+
+which roughly translates:
+
+> Latin is a dead Language, as dead as dead can be, it killed off all the Romans, and now it is killing me.
+> -- <cite>Carl Sandberg</cite> (translated)
+
+To this day whenever Latin comes up in conversation, I find myself saying the sentence aloud. Not that Mr. Sandberg really believed that Latin was killing anyone, he just loved that sentence.
+
+What does any of this have to do with Facebook and how I have been wrong about social networking sites for years? Carl Sandberg, a man I am honored to have known and one who will always have an impact on my life, [passed away on May 30th, 2007 of Lukemia](https://www.washingtonpost.com/wp-dyn/content/article/2007/06/08/AR2007060802692.html). 
+
+Until yesterday, I did not even know. In the month between his last day at LCS and his death, a Facebook group was created, trying to get the word out of his hospitalization and deterioration health. On the day he died Robyn Baird, an old friend from school posted this message on the facebook group, and despite all of my rambling in this post, puts it far better than I ever could.
 
 > Mr. Sandberg died today, May 30, at about 1:10 pm. Please keep his family in prayer as they grieve, especially with Father&#8217;s Day just a few weeks away. The world is a little less wise as of this afternoon.
->
 > -- <cite>Robyn Baird</cite>
 
 The next day, Christa Overstreet, another fellow student at LCS posted details of the funeral which was to take place on June 4th. I found out, on September 24th, 2007, nearly 4 months after he passed away. Had I made an effort to keep in touch with my fellow students from LCS sooner, I might have found out before he died, and made an effort to get in touch with the man who has had such a positive impact on my life one last time, but I, feeling that anyone who wanted to get hold of me would easily find me, forgot that I should do the same.
