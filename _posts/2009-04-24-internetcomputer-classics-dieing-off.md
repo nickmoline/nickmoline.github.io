@@ -6,6 +6,7 @@ author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=315
 permalink: /2009/04/24/internetcomputer-classics-dieing-off/
+cover: /wp-content/uploads/sites/4/2009/04/galaxy-quest-geocities-parody.png
 dsq_thread_id: 957777690
 categories:
   - Tech
@@ -30,3 +31,5 @@ In 1999, [Yahoo purchased GeoCities](http://news.cnet.com/2100-1023-220817.html)
 Yahoo didn&#8217;t waste any time in terminating the Community Leader program (a decision I always thought was a bad one, as the since of community was what made GeoCities great).
 
 Anyway, this is more rambly then most of my posts, so I&#8217;ll probably end up editing or deleting it later, but I wanted to do something fun. I just checked to make sure it&#8217;s true but my old geocities email address still works (after all these years), so drop me an email at it at <sttngfan@geocities.com> so I can enjoy it again just a little bit more before Geocities dies forever.
+
+<sup>*</sup> The cover photo wasn't actually from any real geocities site, instead it was a parody of GeoCities style fan sites created by Dreamworks for the movie _Galaxy Quest_.  The site has been down for years, but you can [find it on the Wayback Machine](https://web.archive.org/web/20020413083055/http://www.galaxyquest.com/galaxyquest/index.html), Enjoy!
