@@ -17,7 +17,7 @@ tags:
     - Math
 amp-twitter: true
 ---
-I&#8217;m <a href="http://twitter.com/NickMoline/status/179678092858630144" target="_blank">all registered</a> to go to Google I/O 2012 on June 27, 2012.  I&#8217;ve been to every Google I/O so far (and <a href="https://www.nick.pro/2007/06/03/google-developer-day-2007/">Google Developer Day before that</a>) and am really looking forward to going again.  The price was really hiked up this year ($900 as opposed to $450 last year), but they have done away with the Early Registration discount, and they have extended the conference from 2 to 3 days this year.
+I&#8217;m [all registered](http://twitter.com/NickMoline/status/179678092858630144) to go to Google I/O 2012 on June 27, 2012.  I&#8217;ve been to every Google I/O so far (and [Google Developer Day before that]({% post_url 2007-06-03-google-developer-day-2007 %})) and am really looking forward to going again.  The price was really hiked up this year ($900 as opposed to $450 last year), but they have done away with the Early Registration discount, and they have extended the conference from 2 to 3 days this year.
 
 <!--more-->
 

@@ -17,7 +17,7 @@ tags:
   - Google Cloud
   - Google App Engine
 ---
-This week I, as well as [my Wife Barbara](http://www.barbara.pro), and my co worker [Dan](http://www.danvuquoc.com/), went to [Google I/O](http://code.google.com/events/io/). People who have read my blog for a while may remember that last year I attended [Google Developer Day](https://www.nick.pro/2007/06/03/google-developer-day-2007/) around this same time in San Jose. This year Google decided to expand from a single day to a whole two-day tech conference and move it to the Moscone Center in San Francisco.
+This week I, as well as [my Wife Barbara](http://www.barbara.pro), and my co worker [Dan](http://www.danvuquoc.com/), went to [Google I/O](http://code.google.com/events/io/). People who have read my blog for a while may remember that last year I attended [Google Developer Day]({% post_url 2007-06-03-google-developer-day-2007 %}) around this same time in San Jose. This year Google decided to expand from a single day to a whole two-day tech conference and move it to the Moscone Center in San Francisco.
 
 <!--more-->
 

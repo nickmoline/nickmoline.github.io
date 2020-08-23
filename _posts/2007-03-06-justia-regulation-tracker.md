@@ -13,7 +13,7 @@ categories:
 tags:
   - Justia
 ---
-Perhaps the most controversial aspect of this year&#8217;s MacWorld Conference and Expo, which my wife and I got to attend, was not the announcement of the iPhone, but the lack of the phrase &#8220;And now, one more thing&#8221; which has been Steve Jobs&#8217; catch phrase at his keynotes for quite some time now. Since Jobs didn&#8217;t use it this year, I&#8217;m going to shamelessly steal the phrase for the day and say &#8220;And Now, one more thing from Justia&#8221;. I mentioned [previously](https://www.nick.pro/2007/02/16/justia-dockets/), that I was already working on the next project after Dockets and that Justia would be announcing it soon. My boss announced it today on a legal mailing list, so now I can finally talk about [Justia Regulation Tracker](https://regulations.justia.com/) at [RegulationTracker.com](http://www.regulationtracker.com/)!
+Perhaps the most controversial aspect of this year&#8217;s MacWorld Conference and Expo, which my wife and I got to attend, was not the announcement of the iPhone, but the lack of the phrase &#8220;And now, one more thing&#8221; which has been Steve Jobs&#8217; catch phrase at his keynotes for quite some time now. Since Jobs didn&#8217;t use it this year, I&#8217;m going to shamelessly steal the phrase for the day and say &#8220;And Now, one more thing from Justia&#8221;. I mentioned [previously]({% post_url 2007-02-16-justia-dockets %}), that I was already working on the next project after Dockets and that Justia would be announcing it soon. My boss announced it today on a legal mailing list, so now I can finally talk about [Justia Regulation Tracker](https://regulations.justia.com/) at [RegulationTracker.com](http://www.regulationtracker.com/)!
 
 <!--more-->
 
