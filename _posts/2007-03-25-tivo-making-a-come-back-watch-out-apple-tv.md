@@ -6,45 +6,23 @@ author: nickmoline
 layout: post
 guid: http://www.nick.pro/2007/03/25/tivo-making-a-come-back-watch-out-apple-tv/
 permalink: /2007/03/25/tivo-making-a-come-back-watch-out-apple-tv/
-podPressPostSpecific:
-  - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}'
-  - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}'
-readability_ARI:
-  - "11.9"
-  - "11.9"
-readability_CLI:
-  - "8.2"
-  - "8.2"
-readability_LIX:
-  - "28.3"
-  - "28.3"
-word_stats_word_count:
-  - "980"
-  - "980"
-word_stats_keywords:
-  - 's:496:"a:28:{s:4:"tivo";i:28;s:7:"monthly";i:3;s:5:"month";i:4;s:7:"thought";i:3;s:6:"amazon";i:24;s:4:"deal";i:3;s:5:"unbox";i:12;s:7:"program";i:7;s:6:"itunes";i:3;s:5:"video";i:4;s:4:"just";i:5;s:4:"work";i:4;s:7:"service";i:4;s:5:"cable";i:3;s:7:"account";i:4;s:4:"home";i:4;s:5:"movie";i:3;s:7:"episode";i:4;s:5:"watch";i:3;s:9:"purchased";i:5;s:8:"computer";i:3;s:9:"computers";i:3;s:7:"devices";i:4;s:5:"thing";i:3;s:8:"programs";i:6;s:8:"download";i:3;s:10:"downloaded";i:3;s:9:"available";i:3;}";'
-  - 's:496:"a:28:{s:4:"tivo";i:28;s:7:"monthly";i:3;s:5:"month";i:4;s:7:"thought";i:3;s:6:"amazon";i:24;s:4:"deal";i:3;s:5:"unbox";i:12;s:7:"program";i:7;s:6:"itunes";i:3;s:5:"video";i:4;s:4:"just";i:5;s:4:"work";i:4;s:7:"service";i:4;s:5:"cable";i:3;s:7:"account";i:4;s:4:"home";i:4;s:5:"movie";i:3;s:7:"episode";i:4;s:5:"watch";i:3;s:9:"purchased";i:5;s:8:"computer";i:3;s:9:"computers";i:3;s:7:"devices";i:4;s:5:"thing";i:3;s:8:"programs";i:6;s:8:"download";i:3;s:10:"downloaded";i:3;s:9:"available";i:3;}";'
-word_stats_cached:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "925777409"
+dsq_thread_id: 925777409
 categories:
-  - General
-  - Reviews
+  - Tech
+tags:
   - Televison
+  - TiVo
+  - Reviews
 ---
-I personally have never owned a TiVo box, primarily because I knew there were a number of DVRs on the market that did not require a monthly subscription and I didn&#8217;t see the benefit to paying $12/month for something I thought I could get for a one time fee.
+I personally have never owned a TiVo box, primarily because I knew there were a number of <abbr title="Digital Video Recorder">DVR</abbr>s on the market that did not require a monthly subscription and I didn&#8217;t see the benefit to paying $12/month for something I thought I could get for a one time fee.
 
-TiVo and Amazon have signed a deal recently that actually made me think twice about this policy however. As most people know, Amazon unveiled their Amazon Unbox program earlier this year to not much applause. After all iTunes has had video downloads for a while now, and it just didn&#8217;t seem to make sense to buy movies from Amazon when I already had iTunes. Add to that the fact that Amazon Unbox does not work on a mac as their video drm is PC Only and I didn&#8217;t give Amazon a second thought when it came to purchasing single episodes of TV shows or directly downloading movies. Similar to the reasons I previously mentioned why I didn&#8217;t give TiVo a second thought, why would I get something that would require it&#8217;s own monthly service when I could buy a cable box with DVR built in, or better yet, build a MythTV (though that requires lots of effort and is buggy).
+TiVo and Amazon have signed a deal recently that actually made me think twice about this policy however. As most people know, Amazon unveiled their Amazon Unbox program earlier this year to not much applause. After all iTunes has had video downloads for a while now, and it just didn&#8217;t seem to make sense to buy movies from Amazon when I already had iTunes. Add to that the fact that Amazon Unbox does not work on a mac as their video <abbr title="Digital Rights Management">DRM</abbr> is PC Only and I didn&#8217;t give Amazon a second thought when it came to purchasing single episodes of TV shows or directly downloading movies. Similar to the reasons I previously mentioned why I didn&#8217;t give TiVo a second thought, why would I get something that would require it&#8217;s own monthly service when I could buy a cable box with DVR built in, or better yet, build a MythTV (though that requires lots of effort and is buggy).
+
+<!--more-->
 
 But then TiVo and Amazon signed a deal that I believe is mutually smart for both companies. Amazon Unbox now can be linked with your TiVo account, which means that as you are browsing the web from anywhere, (even away from home) you can purchase a movie or episode on Amazon, or even Rent a movie (something you can&#8217;t do on iTunes) and then when you come home (or turn on your TV if you already were home) you&#8217;ll find that in your Now Playing List on your TiVo, the episode or movie is already there, ready for you to watch on your TV or (in our case) Projector.
 
-I decided to take the plunge and find out. I purchased a TiVo and linked my TiVo account with my Amazon account, and now I&#8217;ve learned what I&#8217;ve been missing with Both services.  
-<!--more-->
-
-<div>
-</div>
+I decided to take the plunge and find out. I purchased a TiVo and linked my TiVo account with my Amazon account, and now I&#8217;ve learned what I&#8217;ve been missing with Both services.
 
 First, may I say TiVo is amazing! I never understood why people would ever dream of buying something with a $12.50/month service fee in order to enjoy something they can get for $5/extra a month with their cable or satellite provider, however I now stand corrected. TiVo is fantastic, their link with online features for example is something no other DVR seems to have (except for MythTV, which I previously explained is expensive). It&#8217;s fun to watch video Podcasts or listen to audio podcasts on my home theater system without doing complicated hookups of my computer to the system. It&#8217;s also nice when I&#8217;m at work and I realize I forgot to program the DVR to tape a program I&#8217;m interested in watching to be able to open my web browser and simply click on the program on TiVo.com, and know that my TiVo will record the program.
 
