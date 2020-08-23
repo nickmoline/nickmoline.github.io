@@ -6,32 +6,11 @@ author: nickmoline
 layout: post
 guid: http://old.nick.pro/?p=352
 permalink: /2010/03/05/memories-of-spelling-bees-gone/
-Views:
-  - "2"
-  - "2"
-dsq_thread_id:
-  - "949970298"
-  - "949970298"
-readability_ARI:
-  - "7.2"
-  - "7.2"
-readability_CLI:
-  - "7.6"
-  - "7.6"
-readability_LIX:
-  - "25.9"
-  - "25.9"
-word_stats_word_count:
-  - "154"
-  - "154"
-word_stats_keywords:
-  - 's:44:"a:2:{s:8:"memories";i:3;s:8:"fandango";i:3;}";'
-  - 's:44:"a:2:{s:8:"memories";i:3;s:8:"fandango";i:3;}";'
-word_stats_cached:
-  - "1"
-  - "1"
+dsq_thread_id: 949970298
 categories:
-  - Plays
+  - Events
+tags:
+  - Theatre
 ---
 So tonight was fun.. Amazing how things can bring back both such fond and such painful memories at the same time. I went to a play tonight, &#8220;25th Annual Putnum County Spelling Bee&#8221; and they were looking for volunteer spellers and I was chosen.
 
@@ -44,5 +23,3 @@ Entertaining though, when the volunteer asked them to use &#8220;Fandango&#8221;
 &#8220;I see a little silhouetto of a man, Scaramouche, Scaramouche, will you do the Fandango.&#8221;
 
 Gotta love a Queen reference.
-
-&nbsp;
