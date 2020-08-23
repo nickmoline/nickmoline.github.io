@@ -21,7 +21,7 @@ tags:
     - Justia
     - Onward Blog
 ---
-Last week Barbara and I attended the annual Google I/O Developer&#8217;s conference in Mountain View. &nbsp;We&#8217;ve attended every year since the [first one](https://www.nick.pro/2008/06/01/google-io-part-1-google-app-engine/) back in 2008 and were glad to continue the streak.
+Last week Barbara and I attended the annual Google I/O Developer&#8217;s conference in Mountain View. &nbsp;We&#8217;ve attended every year since the [first one]({% post_url 2008-06-01-google-io-part-1-google-app-engine %}) back in 2008 and were glad to continue the streak.
 
 <!--more-->
 
