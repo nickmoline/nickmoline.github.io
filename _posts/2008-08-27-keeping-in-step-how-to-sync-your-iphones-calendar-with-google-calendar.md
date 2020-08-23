@@ -14,6 +14,7 @@ tags:
   - Guides
   - Google Calendar
   - iPhone
+  - GSuite
 ---
 I love Google Apps for Domains, I use it for all of my domains, I&#8217;ve even setup holodeck3.com with the Partner edition so that my users can get @holodeck3.com email accounts and services through them. Google does a lot, for free, and they do it well. I&#8217;m also a Mac an an iPhone user. I am never without my iPhone, and only rarely without my laptop.
 
