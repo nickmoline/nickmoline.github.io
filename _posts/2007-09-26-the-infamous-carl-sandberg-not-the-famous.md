@@ -22,7 +22,7 @@ Yesterday however, I learned something while trying to fill in the holes in my f
 
 <!--more-->
 
-<amp-img class="alignright" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2007/09/n2335901172_6580.jpg" alt="Carl Sandberg" layout="fixed" lightbox></amp-img>On the right hand side of the group page, I noticed that the first &#8220;Related Group&#8221; was entitled <em>The infamous Carl Sandburg, not the famous.</em> The name was spelled slightly wrong (his name was actually spelled Sandberg), but he was one of the greatest men I ever knew.
+<amp-img class="alignright" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2007/09/n2335901172_6580.jpg" alt="Carl Sandberg" layout="fixed" width="200" height="166" lightbox></amp-img>On the right hand side of the group page, I noticed that the first &#8220;Related Group&#8221; was entitled <em>The infamous Carl Sandburg, not the famous.</em> The name was spelled slightly wrong (his name was actually spelled Sandberg), but he was one of the greatest men I ever knew.
 
 Carl Sandberg was the teacher in charge of the computer lab when I attended [Leesburg Christian School](http://www.leesburgchristianschool.org), actually to call him in charge of the lab was an understatement, Carl Sandberg **was** the computer department at Leesburg Christian School, and the man with the greatest dedication to education I&#8217;ve ever met.
 
