@@ -14,6 +14,8 @@ tags:
 ---
 So tonight was fun.. Amazing how things can bring back both such fond and such painful memories at the same time. I went to a play tonight, &#8220;25th Annual Putnum County Spelling Bee&#8221; and they were looking for volunteer spellers and I was chosen.
 
+<!--more-->
+
 Fond memories of being on stage again, little bit of improv involved as I had to play along with the actors.
 
 As for the painful memories, just like the last spelling bee I got out on my first word. It was such a hard word I don&#8217;t even remember what it was, the other 3 volunteers had easy words their first rounds (one of them had Cow, another Fandango) but me not so much.

@@ -6,45 +6,19 @@ author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=240
 permalink: /2008/09/10/amazon-kindle-reader-for-the-iphone/
-dsq_thread_id:
-  - "354875705"
-  - "354875705"
-Views:
-  - "1"
-  - "1"
-readability_ARI:
-  - "12.1"
-  - "12.1"
-readability_CLI:
-  - "8.5"
-  - "8.5"
-readability_LIX:
-  - "25.8"
-  - "25.8"
-word_stats_word_count:
-  - "654"
-  - "654"
-word_stats_keywords:
-  - 's:297:"a:17:{s:6:"amazon";i:13;s:4:"make";i:4;s:5:"money";i:4;s:4:"sell";i:3;s:6:"kindle";i:24;s:5:"books";i:12;s:6:"people";i:4;s:7:"content";i:3;s:8:"purchase";i:3;s:5:"store";i:5;s:7:"reading";i:3;s:5:"start";i:3;s:6:"buying";i:6;s:6:"iphone";i:7;s:6:"itunes";i:3;s:8:"probably";i:3;s:6:"videos";i:4;}";'
-  - 's:297:"a:17:{s:6:"amazon";i:13;s:4:"make";i:4;s:5:"money";i:4;s:4:"sell";i:3;s:6:"kindle";i:24;s:5:"books";i:12;s:6:"people";i:4;s:7:"content";i:3;s:8:"purchase";i:3;s:5:"store";i:5;s:7:"reading";i:3;s:5:"start";i:3;s:6:"buying";i:6;s:6:"iphone";i:7;s:6:"itunes";i:3;s:8:"probably";i:3;s:6:"videos";i:4;}";'
-word_stats_cached:
-  - "1"
-  - "1"
-ampforwp_custom_content_editor:
-  - ""
-ampforwp_custom_content_editor_checkbox:
-  - null
-ampforwp-amp-on-off:
-  - default
+dsq_thread_id: 354875705
 categories:
+  - Tech
+  - Reviews
+tags:
   - Advice
   - Gadgets
-  - General
-  - Tech
 ---
 I wish I was posting this as a follow up to an announcement, but actually it&#8217;s a suggestion to Amazon on how they can make more money, sell more Kindle books, and make more people happy.
 
-[<img src="https://i1.wp.com/ecx.images-amazon.com/images/I/41mLdDed4ML._SL160_.jpg" title="Amazon Kindle" alt="Amazon Kindle" class="alignleft" width="160" height="160" data-recalc-dims="1" />](http://www.amazon.com/Kindle-Amazons-Wireless-Reading-Device/dp/B000FI73MA%3FSubscriptionId%3D1XFK01HK9NZWGPENWGG2%26tag%3Dnickdotpro-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB000FI73MA){.broken_link}For those of you who don&#8217;t already know, the [Amazon Kindle](http://www.amazon.com/Kindle-Amazons-Wireless-Reading-Device/dp/B000FI73MA%3FSubscriptionId%3D1XFK01HK9NZWGPENWGG2%26tag%3Dnickdotpro-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB000FI73MA){.broken_link} is an ebook reader that uses E-Ink technology to display content on a screen. What&#8217;s cook about e-ink is that once it has rendered the screen&#8217;s contents, it takes no power to keep the content on the screen. The result is that battery life of the kindle is measured in &#8220;page turns&#8221; instead of hours. The Kindle is also cool because it has WhisperNet, provided by Sprint, which lets you have books you purchase from Amazon&#8217;s kindle store be sent straight to the Kindle, without the need to plug the kindle into your computer. The Kindle also gets a special email address where you can email documents to this address and have them appear on your Kindle for a nominal fee for reading. All in all, it&#8217;s a fantastic product, it only has one little problem, the price. The Kindle is $349 (previously $399), available [only from Amazon](http://www.amazon.com/Kindle-Amazons-Wireless-Reading-Device/dp/B000FI73MA%3FSubscriptionId%3D1XFK01HK9NZWGPENWGG2%26tag%3Dnickdotpro-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB000FI73MA){.broken_link}, which is still a bit steep for an up-front cost _before_ you start [buying books from the Kindle store](http://www.amazon.com/Kindle-Amazons-Wireless-Reading-Device/dp/B000FI73MA%3FSubscriptionId%3D1XFK01HK9NZWGPENWGG2%26tag%3Dnickdotpro-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB000FI73MA){.broken_link} to put on it.
+<!--more-->
+
+[<amp-img src="https://i1.wp.com/ecx.images-amazon.com/images/I/41mLdDed4ML._SL160_.jpg" title="Amazon Kindle" alt="Amazon Kindle" class="alignleft" width="160" height="160" layout="fixed" lightbox></amp-img>](http://www.amazon.com/Kindle-Amazons-Wireless-Reading-Device/dp/B000FI73MA%3FSubscriptionId%3D1XFK01HK9NZWGPENWGG2%26tag%3Dnickdotpro-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB000FI73MA)For those of you who don&#8217;t already know, the [Amazon Kindle](http://www.amazon.com/Kindle-Amazons-Wireless-Reading-Device/dp/B000FI73MA%3FSubscriptionId%3D1XFK01HK9NZWGPENWGG2%26tag%3Dnickdotpro-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB000FI73MA) is an ebook reader that uses E-Ink technology to display content on a screen. What&#8217;s cook about e-ink is that once it has rendered the screen&#8217;s contents, it takes no power to keep the content on the screen. The result is that battery life of the kindle is measured in &#8220;page turns&#8221; instead of hours. The Kindle is also cool because it has WhisperNet, provided by Sprint, which lets you have books you purchase from Amazon&#8217;s kindle store be sent straight to the Kindle, without the need to plug the kindle into your computer. The Kindle also gets a special email address where you can email documents to this address and have them appear on your Kindle for a nominal fee for reading. All in all, it&#8217;s a fantastic product, it only has one little problem, the price. The Kindle is $349 (previously $399), available [only from Amazon](http://www.amazon.com/Kindle-Amazons-Wireless-Reading-Device/dp/B000FI73MA%3FSubscriptionId%3D1XFK01HK9NZWGPENWGG2%26tag%3Dnickdotpro-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB000FI73MA), which is still a bit steep for an up-front cost _before_ you start [buying books from the Kindle store](http://www.amazon.com/Kindle-Amazons-Wireless-Reading-Device/dp/B000FI73MA%3FSubscriptionId%3D1XFK01HK9NZWGPENWGG2%26tag%3Dnickdotpro-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB000FI73MA) to put on it.
 
 Amazon, I know you want to sell Kindles, but your bread and butter will always be the books themselves. My suggestion is that you write an iPhone app that can read the Kindle book format and will validate like a Kindle to your own DRM. You could sell this app in Apple&#8217;s app store to make even more money, I&#8217;m thinking something along the lines of $20 to $40. This way people with an iPod Touch or iPhone (which is quite a lot of people, including yours truely) can start buying Kindle books without a Kindle, and get the enjoyment of having instant access to literature the way only the elite Kindle owners do. The iPhone already has access to the internet, so it could support all of the functionality of Whispernet without any difficulty from you the developer. The iPod Touch has WiFi, so even it can download books directly when it&#8217;s on a hotspot.
 

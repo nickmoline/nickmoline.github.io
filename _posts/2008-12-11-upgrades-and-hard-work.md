@@ -6,30 +6,15 @@ author: nickmoline
 layout: post
 guid: http://www.nick.pro/2008/12/11/upgrades-and-hard-work/
 permalink: /2008/12/11/upgrades-and-hard-work/
-readability_ARI:
-  - "9.3"
-  - "9.3"
-readability_CLI:
-  - "7"
-  - "7"
-readability_LIX:
-  - "25"
-  - "25"
-word_stats_word_count:
-  - "299"
-  - "299"
-word_stats_keywords:
-  - 's:39:"a:2:{s:6:"justia";i:3;s:5:"night";i:3;}";'
-  - 's:39:"a:2:{s:6:"justia";i:3;s:5:"night";i:3;}";'
-word_stats_cached:
-  - "1"
-  - "1"
 categories:
-  - General
-  - Justia
   - Work
+  - Tech
+tags:
+  - Justia
 ---
 I recently migrated nick.pro and other sites from regulus over to a new server named Atlas, it&#8217;s much more powerful, but there were some hiccups in the transfer that I&#8217;m slowly having to iron out.
+
+<!--more-->
 
 I also just upgraded WordPress to the new 2.7, and I must say, I&#8217;m not a big fan of the all grey interface, but I&#8217;m liking some of the new features, for example the QuickPress block on the Dashboard that let me write this post without having to leave the dashboard at all.
 

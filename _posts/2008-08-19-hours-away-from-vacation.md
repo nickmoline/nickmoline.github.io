@@ -6,33 +6,18 @@ author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=217
 permalink: /2008/08/19/hours-away-from-vacation/
-readability_ARI:
-  - "9.5"
-  - "9.5"
-readability_CLI:
-  - "7.5"
-  - "7.5"
-readability_LIX:
-  - "24.1"
-  - "24.1"
-word_stats_word_count:
-  - "248"
-  - "248"
-word_stats_keywords:
-  - 's:95:"a:5:{s:5:"vegas";i:5;s:7:"looking";i:3;s:7:"forward";i:3;s:4:"trip";i:5;s:10:"experience";i:3;}";'
-  - 's:95:"a:5:{s:5:"vegas";i:5;s:7:"looking";i:3;s:7:"forward";i:3;s:4:"trip";i:5;s:10:"experience";i:3;}";'
-word_stats_cached:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "5597437427"
+dsq_thread_id: 5597437427
 categories:
   - Events
-  - General
-  - Places
-  - Plays
+tags:
+  - Theatre
+  - Travel
+  - Las Vegas
+  - Star Trek
 ---
 I&#8217;m mere hours away from taking a little vacation to Las Vegas along with my wife, and my roommate. Tomorrow morning I will board a Virgin America flight (I&#8217;m much looking forward to trying them out), for Las Vegas.
+
+<!--more-->
 
 I&#8217;ve got a lot of fun planned, including one last trip to the Star Trek Experience in the Las Vegas Hilton. In fact making a final voyage to the Experience was my <span class="removed_link" title="http://www.holodeck3.com/event/2008/08/21/holodeck-3-meetup-star-trek-experience">primary reason</span> for visiting Vegas this month. This will be my fourth Voyage there (blogged about before on my blog, I&#8217;ll edit this post with links to my old posts later), and I&#8217;m sad it will be my last, but unfortunately the Experience will be [Closing on September 1st](http://trekmovie.com/2008/06/29/star-trek-the-experience-closing-in-september/) permanently, so I had to make one last trip. This will be Mike&#8217;s first trip to the future, and he&#8217;s eager to see what he has only heard about.
 
