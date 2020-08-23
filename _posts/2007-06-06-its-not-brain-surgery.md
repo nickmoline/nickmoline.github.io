@@ -6,42 +6,16 @@ author: nickmoline
 layout: post
 guid: http://www.nick.pro/2007/06/06/its-not-brain-surgery/
 permalink: /2007/06/06/its-not-brain-surgery/
-podPressPostSpecific:
-  - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}'
-  - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}'
-Views:
-  - "2"
-  - "2"
-dsq_thread_id:
-  - "965494451"
-  - "965494451"
-readability_ARI:
-  - "15.3"
-  - "15.3"
-readability_CLI:
-  - "9.5"
-  - "9.5"
-readability_LIX:
-  - "31.2"
-  - "31.2"
-word_stats_word_count:
-  - "439"
-  - "439"
-word_stats_keywords:
-  - 's:296:"a:16:{s:4:"take";i:3;s:5:"brain";i:5;s:7:"surgery";i:3;s:4:"post";i:3;s:4:"know";i:3;s:13:"professionals";i:3;s:6:"resume";i:7;s:4:"site";i:3;s:12:"professional";i:3;s:6:"social";i:5;s:8:"security";i:5;s:6:"number";i:5;s:7:"private";i:4;s:11:"information";i:3;s:7:"surgeon";i:3;s:6:"online";i:3;}";'
-  - 's:296:"a:16:{s:4:"take";i:3;s:5:"brain";i:5;s:7:"surgery";i:3;s:4:"post";i:3;s:4:"know";i:3;s:13:"professionals";i:3;s:6:"resume";i:7;s:4:"site";i:3;s:12:"professional";i:3;s:6:"social";i:5;s:8:"security";i:5;s:6:"number";i:5;s:7:"private";i:4;s:11:"information";i:3;s:7:"surgeon";i:3;s:6:"online";i:3;}";'
-word_stats_cached:
-  - "1"
-  - "1"
+cover: /wp-content/uploads/sites/4/2007/06/31965874.jpg
+dsq_thread_id: 965494451
 categories:
   - General
   - Law
   - Work
 ---
-<img src='{{ site.baseurl }}/wp-content/uploads/2007/06/31965874.thumbnail.jpg?w=760&#038;ssl=1' alt='Brain Surgery' align="left" style="margin-top:5px;margin-right:10px;margin-bottom:10px" data-recalc-dims="1" />  
 Often when someone wants to indicate that a task doesn&#8217;t take a genious, they relate the task to one of two professions, and so two common phrases you will hear on a regular basis are &#8220;Hey, it&#8217;s not Rocket Science&#8221; and similarly &#8220;Hey, it&#8217;s not Brain Surgery.&#8221; This seems a strange way to start a blog post, but trust me, you&#8217;ll understand in a moment.  
-<!--more-->
 
+<!--more-->
   
 I received an email this morning and had to take action on it that just boggles the mind, or at least my mind. One of the websites I&#8217;ve worked on (I shall not mention any specifics so as to avoid embarassing the person, whom I don&#8217;t know, who features heavily in this true story) includes a database of professionals, and allows these professionals to upload their Resume to the site to help promote themselves. The company that runs this website received a phone call this morning from one of the professionals in it, asking that their resume be removed from the site immediately.
 

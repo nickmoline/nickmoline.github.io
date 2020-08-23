@@ -17,6 +17,8 @@ amp-youtube: true
 ---
 So I upgraded to the 2.1 software this morning on my iPhone. There aren&#8217;t any new features, but the array of fixes that [Apple promises](http://www.tuaw.com/2008/09/12/iphone-2-1-firmware-out-now/) with the new update are much needed, if it turns out to work.
 
+<!--more-->
+
 * Increased Call Stability
 * Better Battery Life
 * Faster Backups
