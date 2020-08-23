@@ -13,15 +13,16 @@ categories:
 tags:
   - Conference
   - Mashup Camp
+  - Coding
 amp-twitter: true
 ---
 As I [Posted about last week]({% post_url 2008-11-11-mashup-camp-next-week %}), I attended Mashup Camp at the Computer History Museum this week. It has been a packed couple of days. I mentioned before I was not really considering entering the Speedgeeking Contest that occurs at each Mashup Camp. Last Spring&#8217;s Mashup Camp I was a bit depressed to come in last place, but this contest was different, this time they had one top prize (A MacBook Pro) awarded by attendee voting, but then the individual providers sponsoring the event also had their own contests of who had the best mashup using their service.
 
 <!--more-->
 
-Even charged with that information, I still felt like I didn&#8217;t want to enter the competition, not really because of the agony of defeat, but because of the work that would be involved to do a mashup. However, when I heard about the [Wet Paint](http://www.wetpaint.com/) [Injected](http://www.wetpaintinjected.com/) API, I knew I could in a relatively short period of time, write an awesome mashup using this service, and so I [started considering it](http://twitter.com/NickMoline/status/1010573893) on Monday evening, a few hours later, [I resolved myself and knew I had to give it a shot](http://twitter.com/NickMoline/status/1010695410).
-
 <amp-twitter width="375" height="472" layout="responsive" data-tweetid="1010573893"></amp-twitter>
+
+Even charged with that information, I still felt like I didn&#8217;t want to enter the competition, not really because of the agony of defeat, but because of the work that would be involved to do a mashup. However, when I heard about the [Wet Paint](http://www.wetpaint.com/) [Injected](http://www.wetpaintinjected.com/) API, I knew I could in a relatively short period of time, write an awesome mashup using this service, and so I [started considering it](http://twitter.com/NickMoline/status/1010573893) on Monday evening, a few hours later, [I resolved myself and knew I had to give it a shot](http://twitter.com/NickMoline/status/1010695410).
 
 <amp-twitter width="375" height="472" layout="responsive" data-tweetid="1010695410"></amp-twitter>
 

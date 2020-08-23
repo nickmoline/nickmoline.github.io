@@ -6,6 +6,7 @@ author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=189
 permalink: /2008/07/11/iphone-3g-not-today/
+cover: /wp-content/uploads/sites/4/2008/07/IMG_0172.JPG
 dsq_thread_id: 335274567
 categories:
   - Events

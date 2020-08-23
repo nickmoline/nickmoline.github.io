@@ -23,7 +23,7 @@ I&#8217;ve found however, that I often want to track everything that is said to 
 <amp-img aria-describedby="caption-attachment-289"  title="@Replies tab on Twitter" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2009/03/region-capture-2.png" alt="@Replies tab on Twitter" width="799" height="218" layout="responsive" lightbox></amp-img>
 
 1. Click on the Search icon in TweetDeck <amp-img title="Search Button in TweetDeck" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2009/03/region-capture-4.png" alt="Search Button in TweetDeck" width="26" height="30" layout="fixed">
-<amp-img title="Tweet Deck: What are you Searching for?" src="{{ site.baseurl }}/wp-content/uploads/2009/03/region-capture-5-150x23.png" alt="Tweet Deck: What are you Searching for?" width="447" height="69" layout="responsive" lightbox></amp-img>
+<amp-img title="Tweet Deck: What are you Searching for?" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2009/03/region-capture-5.png" alt="Tweet Deck: What are you Searching for?" width="447" height="69" layout="responsive" lightbox></amp-img>
 2. When you receive the to enter in what you are searching for, enter in a search where you put in all of the possibilities that someone could find a tweet about you separated by OR and end it with **-from:_YourTwitterName_**
 
 The -from:_YourTwitterName_ will filter out messages that come from you, this is important especially if you write a lot of tweets and don&#8217;t want to dominate the feed of tweets that are supposed to be ABOUT you rather then BY you.

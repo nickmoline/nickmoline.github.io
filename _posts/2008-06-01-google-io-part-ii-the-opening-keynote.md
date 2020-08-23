@@ -6,6 +6,7 @@ author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=172
 permalink: /2008/06/01/google-io-part-ii-the-opening-keynote/
+cover: /wp-content/uploads/sites/4/2008/05/100_0921.JPG
 dsq_thread_id: 403483681
 categories:
   - Events
