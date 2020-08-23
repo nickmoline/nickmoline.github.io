@@ -6,33 +6,19 @@ author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=174
 permalink: /2008/06/06/amazon-down-but-not-out/
-dsq_thread_id:
-  - "335274550"
-  - "335274550"
-Views:
-  - "1"
-  - "1"
-readability_ARI:
-  - "9.8"
-  - "9.8"
-readability_CLI:
-  - "8.8"
-  - "8.8"
-readability_LIX:
-  - "27.6"
-  - "27.6"
-word_stats_word_count:
-  - "83"
-  - "83"
-word_stats_keywords:
-  - 's:21:"a:1:{s:4:"just";i:3;}";'
-  - 's:21:"a:1:{s:4:"just";i:3;}";'
-word_stats_cached:
-  - "1"
-  - "1"
+dsq_thread_id: 335274550
 categories:
+  - Tech
+  - News
+tags:
   - Sites Down
+  - Amazon
+  - Blunders
 ---
-[<img src="{{ site.baseurl }}/wp-content/uploads/2008/06/region-capture-6-300x68.png" alt="Amazon.com Service Unavailable" title="Amazon Outage" width="300" height="68" align="right" style="margin-top:25px;margin-bottom:5px;margin-left:5px" data-recalc-dims="1" />]({{ site.baseurl }}/wp-content/uploads/2008/06/region-capture-6.png?ssl=1)  
 Amazon.com is experiencing an outage, the most complete I&#8217;ve ever seen on the site. The last time I saw an outage on the site was Christmas before last when they were offering mad sales to the first 100 customers on certain items, but even then they had a helpful error page, rather then just a service unavailable, guess their load balancer wasn&#8217;t feeling well.  
-It appears that the [ssl version of Amazon](https://www.amazon.com/) is running just fine, it&#8217;s just the non-secured version.
+
+<!--more-->
+
+<amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2008/06/region-capture-6.png" alt="Amazon.com Service Unavailable" title="Amazon Outage" width="575" height="132" class="aligncenter" layout="intrinsic" lightbox></amp-img>
+
+It appears that the [HTTPS version of Amazon](https://www.amazon.com/) is running just fine, it&#8217;s just the non-secured version.
