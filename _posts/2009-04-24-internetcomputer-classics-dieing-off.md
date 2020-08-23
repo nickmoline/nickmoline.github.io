@@ -6,34 +6,20 @@ author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=315
 permalink: /2009/04/24/internetcomputer-classics-dieing-off/
-Views:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "957777690"
-  - "957777690"
-readability_ARI:
-  - "12.6"
-  - "12.6"
-readability_CLI:
-  - "8.6"
-  - "8.6"
-readability_LIX:
-  - "28.8"
-  - "28.8"
-word_stats_word_count:
-  - "272"
-  - "272"
-word_stats_keywords:
-  - 's:111:"a:6:{s:9:"geocities";i:10;s:4:"time";i:3;s:9:"community";i:3;s:5:"stock";i:3;s:6:"shares";i:4;s:5:"yahoo";i:4;}";'
-  - 's:111:"a:6:{s:9:"geocities";i:10;s:4:"time";i:3;s:9:"community";i:3;s:5:"stock";i:3;s:6:"shares";i:4;s:5:"yahoo";i:4;}";'
-word_stats_cached:
-  - "1"
-  - "1"
+dsq_thread_id: 957777690
 categories:
   - Tech
+  - News
+tags:
+  - GeoCities
+  - Yahoo
+amp-twitter: true
 ---
-Yesterday I [retweeted](http://twitter.com/NickMoline/status/1598161878) a [post by ReadWriteWeb](http://www.readwriteweb.com/archives/geocities_closure_signals_end_of_an_era.php){.broken_link} concerning Yahoo&#8217;s announcement that they are [closing down GeoCities this year](http://help.yahoo.com/l/us/yahoo/geocities/geocities-05.html).
+Yesterday I [retweeted](http://twitter.com/NickMoline/status/1598161878) a [post by ReadWriteWeb](https://readwrite.com/2009/04/23/geocities_closure_signals_end_of_an_era/) concerning Yahoo&#8217;s announcement that they are [closing down GeoCities this year](http://help.yahoo.com/l/us/yahoo/geocities/geocities-05.html).
+
+<!--more-->
+
+<amp-twitter width="375" height="472" layout="responsive" data-tweetid="1598161878"></amp-twitter>
 
 This was particularly sad news for me because GeoCities was where my first website was hosted. Within a day of getting the internet at home for the first time (On December 26th, 1995) I signed up an account at GeoCities, which was at Area51/Labyrinth/1226 (it&#8217;s long since gone so there&#8217;s no point in me linking to it here), but that site eventually evolved into [The SubspaceLink](http://www.subspacelink.com/).
 
