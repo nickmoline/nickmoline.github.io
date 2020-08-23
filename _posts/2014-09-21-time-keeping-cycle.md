@@ -92,3 +92,5 @@ For the couple months following I/O before we got our 360 watches, I wore the LG
 <amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2014/09/IMG_20140920_160725-e1411275704172.jpg" alt="Moto 360 on my wrist" title="Yes that is a Moto 360 on my wrist, and I am happy to see it."  width="1852" height="1852" layout="responsive" lightbox></amp-img>
 
 Barbara and I have both switched to Moto 360 now and are very happy with it.  The round watch feels so much more natural on our wrists.  Of course now that I look at my circular watch on my wrist, I realize that _The Time Keeping Cycle_ has come full circle.  I&#8217;m guessing in another 20 &#8211; 30 years we&#8217;ll once again find a reason to put time back in our pockets again.
+
+<amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2014/09/Time-Keeping-Cycle.jpg" width="1180" height="1180" layout="responsive" lightbox></amp-img>
