@@ -6,41 +6,23 @@ author: nickmoline
 layout: post
 guid: http://old.nick.pro/?p=357
 permalink: /2010/03/20/the-biggest-decision-of-our-lives/
-Views:
-  - "1"
-  - "1"
-readability_ARI:
-  - "9.1"
-  - "9.1"
-readability_CLI:
-  - "7.7"
-  - "7.7"
-readability_LIX:
-  - "29.1"
-  - "29.1"
-word_stats_word_count:
-  - "762"
-  - "762"
-word_stats_keywords:
-  - 's:311:"a:18:{s:9:"naturally";i:3;s:6:"family";i:3;s:4:"just";i:3;s:8:"decision";i:7;s:6:"become";i:3;s:7:"barbara";i:4;s:4:"make";i:4;s:5:"child";i:6;s:4:"long";i:3;s:8:"adoption";i:4;s:4:"keep";i:3;s:4:"baby";i:3;s:7:"process";i:6;s:7:"parents";i:11;s:4:"mike";i:3;s:6:"course";i:3;s:7:"support";i:3;s:5:"adopt";i:3;}";'
-  - 's:311:"a:18:{s:9:"naturally";i:3;s:6:"family";i:3;s:4:"just";i:3;s:8:"decision";i:7;s:6:"become";i:3;s:7:"barbara";i:4;s:4:"make";i:4;s:5:"child";i:6;s:4:"long";i:3;s:8:"adoption";i:4;s:4:"keep";i:3;s:4:"baby";i:3;s:7:"process";i:6;s:7:"parents";i:11;s:4:"mike";i:3;s:6:"course";i:3;s:7:"support";i:3;s:5:"adopt";i:3;}";'
-word_stats_cached:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "1032642551"
+dsq_thread_id: 1032642551
 categories:
+  - Life
+tags:
   - Love
-  - Praises
-  - Prayer Requests
+  - Family
+amp-facebook: true
 ---
-Last Sunday I posted [the following message on my facebook](http://www.facebook.com/nickmoline?v=feed&story_fbid=366770667619&ref=mf):
-
-[<img  title="The Biggest Decision of our Lives" alt="The Biggest Decision of our Lives" src="{{ site.baseurl }}/wp-content/uploads/2011/05/adoptionfbpost.png" width="492" height="92" data-recalc-dims="1" />](http://www.facebook.com/nickmoline?v=feed&story_fbid=366770667619&ref=mf)
+Last Sunday I posted [the following message on my facebook](https://www.facebook.com/nickmoline/posts/366770667619).
 
 Naturally, many of my family and friends are curious just what this &#8220;huge decision&#8221; is. After consulting with both of our families, and some other trusted advisors, we have made our decision, and I can now share what the decision was about with you.
 
-<!--more-->As those of you who know me best are aware, the greatest desire of my heart has always been to become a father, and Barbara, my wife, has likewise always yearned to be a mother. Unfortunately, previous medical treatments Barbara received when she was young for Lupus, make the possibilities that we will ever be able to have a child naturally incredibly slim. As a result of this, we have long since resolved ourselves that when we were ready to have a family, adoption was likely to be our only option.
+<!--more-->
+
+<amp-facebook width="552" height="310" layout="responsive" data-href="https://www.facebook.com/nickmoline/posts/366770667619"></amp-facebook>
+
+As those of you who know me best are aware, the greatest desire of my heart has always been to become a father, and Barbara, my wife, has likewise always yearned to be a mother. Unfortunately, previous medical treatments Barbara received when she was young for Lupus, make the possibilities that we will ever be able to have a child naturally incredibly slim. As a result of this, we have long since resolved ourselves that when we were ready to have a family, adoption was likely to be our only option.
 
 A friend of ours who is pregnant is unable to keep the baby herself, and approached Barbara and Me with the proposition that she would like us to consider adopting her child.
 
@@ -50,10 +32,10 @@ Naturally our hearts lept at the chance that we could become parents, but it was
 
 What&#8217;s more, our room-mate Mike was a factor to consider. We have relatively cramped living conditions as it is, we will have to either:
 
-  * Move into a larger apartment that can hold a 4th member of our household.
-  * Move into a house.
-  * Kick Mike out of our apartment and lose the extra help in paying the rent (not to mention kicking a good friend out on the curb)
-  * Try to make do with our current living conditions until we can do one of the first 2 (or Mike moves out on his own)
+* Move into a larger apartment that can hold a 4th member of our household.
+* Move into a house.
+* Kick Mike out of our apartment and lose the extra help in paying the rent (not to mention kicking a good friend out on the curb)
+* Try to make do with our current living conditions until we can do one of the first 2 (or Mike moves out on his own)
 
 Of course the cost is to be concerned, both before and after the adoption process is complete. Adoption is very expensive, often costing tens of thousands of dollars. And of course, I don&#8217;t need to tell any of you who have children just how expensive they can be once you have them.
 
@@ -66,5 +48,3 @@ After a lot of prayer, and a lot of seeking guidance from those we love and Trus
 I thank you all for your prayers and consideration, and ask you to keep us in your thoughts, hearts, and prayers as we proceed with this process.
 
 I will of course keep you all posted. The next step is going up to where the mother of the baby is and witnessing her next Ultrasound appointment in a few weeks. I am very much looking forward to getting to see, what I am choosing to now refer to as &#8220;My Baby&#8221; on that ultrasound.
-
-&nbsp;
