@@ -15,7 +15,7 @@ tags:
   - Google
   - Guides
 ---
-Earlier this month, I wrote about [tracking mentions of yourself on twitter]({% page_url 2009-03-06-twitter-tip-better-replies-in-tweetdeck %} "Twitter Tip: A Better @replies List in TweetDeck") more completly then just checking the <a href="http://twitter.com/replies" target="_blank">@replies tab on twitter</a> (or in tweetdeck).  Keeping tabs on what people say about you in twitter is only one step in effectively tracking references to yourself online.
+Earlier this month, I wrote about [tracking mentions of yourself on twitter]({% post_url 2009-03-06-twitter-tip-better-replies-in-tweetdeck %} "Twitter Tip: A Better @replies List in TweetDeck") more completly then just checking the <a href="http://twitter.com/replies" target="_blank">@replies tab on twitter</a> (or in tweetdeck).  Keeping tabs on what people say about you in twitter is only one step in effectively tracking references to yourself online.
 
 <!--more-->
 
