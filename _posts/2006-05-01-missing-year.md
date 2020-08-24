@@ -1,6 +1,6 @@
 ---
 id: 92
-title: 521,600 minutes, how do you measure a year
+title: 525,600 minutes, how do you measure a year
 date: 2006-05-01T00:30:15-07:00
 author: nickmoline
 layout: post
@@ -17,6 +17,7 @@ tags:
   - Want a Better Website
   - Harry Potter
   - Narnia
+amp-youtube: true
 ---
 My how time flies. I went to my blog today and noticed, low and behold, that I hadn&#8217;t updated it in over a year (15 months to be more exact) and a lot certainly has happened in that year. With this new post I have also replaced my old blogging software (I was never quite happy with Blog:CMS) with WordPress, which I was reluctant to try, but now I find it to be such a good blogging software that I have no idea what I had against it for so long.
 
@@ -59,3 +60,23 @@ In January I returned to school after having taken the fall semester off (becaus
 The highlight of being in this play however had almost nothing to do with the play at all. 2 Saturdays before the play, I flew to Fort Smith, Arkansas in the early morning and met Barbara&#8217;s family there. Barbara then flew with me back to Texas and spent the next few weeks with me and my family and it was one of the most wonderful few weeks of my life. She saw my play a few times and spent time with me and my family. February, when the play and this visit took place will definitely be a month to remember forever.
 
 She returned for another few week visit in April. We went to Six Flags together and saw a few more movies, enjoying each other&#8217;s company. April also brought a trip to Waco for the Southwestern District of the C&MA District Conference. I once again attended the conference to run audio/video for it. As we&#8217;ve now reached the end of April I&#8217;ll save the events of May for followup Blog Entries (as this is an unusually long entry for me).
+
+***
+
+If you aren't a musical theatre person lik eme and have been wracking your mind trying to think where you know the title of this post from, it is a lyric from the song _Seasons of Love_ from _Rent_
+
+<amp-youtube data-videoid="UvyHuse6buY" layout="responsive" width="480" height="270"></amp-youtube>
+
+Incidentially 525,600 minutes is a number that would be familiar to me even if I wasn't a theatre buff as software developers often have to do math based on periods of time so there are various intervals I know that I have to use from time to time.
+
+* 60 seconds in a minute
+* 60 minutes in an hour
+* 600 seconds in 10 minutes (and 300 seconds in 5 minutes)
+* 3,600 seconds in an hour (and 1800 seconds in half an hour)
+* 1,440 minutes in a day (720 minutes in 12 hours)
+* 8,6400 seconds in a day
+* 72 hours in 3 days (and 48 hours in 2)
+* 604,800 seconds in a week
+* 525,600 minutes in a year (or 527,040 in a leap year)
+
+These numbers come up all the time (some more often than others).

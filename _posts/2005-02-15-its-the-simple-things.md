@@ -6,35 +6,12 @@ author: nickmoline
 layout: post
 guid: http://1838029497
 permalink: /2005/02/15/its-the-simple-things/
-Views:
-  - "2"
-  - "2"
-dsq_thread_id:
-  - "972084906"
-  - "972084906"
-readability_ARI:
-  - "11.7"
-  - "11.7"
-readability_CLI:
-  - "6.4"
-  - "6.4"
-readability_LIX:
-  - "22.3"
-  - "22.3"
-word_stats_word_count:
-  - "320"
-  - "320"
-word_stats_keywords:
-  - 's:51:"a:3:{s:4:"life";i:3;s:4:"good";i:3;s:4:"mood";i:3;}";'
-  - 's:51:"a:3:{s:4:"life";i:3;s:4:"good";i:3;s:4:"mood";i:3;}";'
-word_stats_cached:
-  - "1"
-  - "1"
+dsq_thread_id: 972084906
 categories:
-  - Plays
-  - Praises
+tags:
+  - Theatre
   - School
-  - Televison
+  - Work
 ---
 I&#8217;m constantly being told I&#8217;m far too negative, that I focus too much on all the bad things in my life and not enough on the pleasures in life.
 
