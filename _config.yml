@@ -59,6 +59,7 @@ safe: false
 lsi: false
 username: nickmoline
 repo: nickmoline.github.io
+repository: nickmoline/nickmoline.github.io
 branch: master
 production_url: https://www.nickmoline.com
 source_url: https://github.com/nickmoline/nickmoline.github.io
