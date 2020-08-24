@@ -64,9 +64,9 @@ layout: default
     Posted in:
     {% for category in page.categories %}
         {% if forloop.index == page.categories.size %}
-            {% if page.categories.size > 1 %}and {% endif %}<a href='{{site.baseurl}}/categories/#{{category}}'>{{ category | capitalize }}</a>
+            {% if page.categories.size > 1 %}and {% endif %}<a href='{{site.baseurl}}/categories/#{{ category | slugify: "latin" }}'>{{ category }}</a>
         {% else %}
-            <a href='{{site.baseurl}}/categories/#{{category}}'>{{ category | capitalize }}</a>,
+            <a href='{{site.baseurl}}/categories/#{{category | slugify: "latin" }}'>{{ category }}</a>,
         {% endif %}
     {% endfor %}
 </div>
@@ -77,9 +77,9 @@ layout: default
     Tagged: 
     {% for tag in page.tags %}
         {% if forloop.index == page.tags.size %}
-            {% if page.tags.size > 1 %}and {% endif %}<a href='{{site.baseurl}}/tags/#{{tag}}'>{{ tag }}</a>
+            {% if page.tags.size > 1 %}and {% endif %}<a href='{{site.baseurl}}/tags/#{{ tag | slugify: "latin" }}'>{{ tag }}</a>
         {% else %}
-            <a href='{{site.baseurl}}/tags/#{{tag}}'>{{ tag }}</a>,
+            <a href='{{site.baseurl}}/tags/#{{ tag | slugify: "latin" }}'>{{ tag }}</a>,
         {% endif %}
     {% endfor %}
 </div>
@@ -101,7 +101,7 @@ layout: default
             {% if author[1].assets %}
                 <amp-img width="100" height="100" class="author-thumb-post" layout="responsive" src="{{ site.baseurl }}{{author[1].assets}}" alt="{{author[1].name}}"/></amp-img>
             {% endif %}
-            <a href="{{site.baseurl}}/authors/#{{author[1].username}}"><h4 class="author-name">{{author[1].name}}</h4></a>
+            <a href="{{site.baseurl}}/authors/#{{ author[1].username | slugify: "latin" }}"><h4 class="author-name">{{author[1].name}}</h4></a>
             <p class="mb4 px3">{{author[1].bio}}</p>
 		</div>
 	{% endif %}
