@@ -6,27 +6,6 @@ author: nickmoline
 layout: post
 guid: http://1561346958
 permalink: /2004/09/01/corporate-worlds/
-Views:
-  - "1"
-  - "1"
-readability_ARI:
-  - "11.2"
-  - "11.2"
-readability_CLI:
-  - "8.8"
-  - "8.8"
-readability_LIX:
-  - "38"
-  - "38"
-word_stats_word_count:
-  - "119"
-  - "119"
-word_stats_keywords:
-  - s:4:"b:0;";
-  - s:4:"b:0;";
-word_stats_cached:
-  - "1"
-  - "1"
 categories:
   - Work
 ---
