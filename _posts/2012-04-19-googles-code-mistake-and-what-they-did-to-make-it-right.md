@@ -10,14 +10,16 @@ permalink: /2012/04/19/googles-code-mistake-and-what-they-did-to-make-it-right/
 cover: /wp-content/uploads/sites/4/2012/04/Region-capture-15.png
 dsq_thread_id: 656832329
 categories:
-    - Events
-    - Tech
+   - Events
+   - Tech
 tags:
-    - Google
-    - Google Code Jam
-    - Blunders
-    - Coding
-    - Guides
+   - Google
+   - Google Code Jam
+   - Blunders
+   - Coding
+   - Guides
+   - Math
+amp-mathml: true
 ---
 This morning Google <a href="http://googledevelopers.blogspot.com/2012/04/code-jams-sprint-to-google-io.html" target="_blank">opened up a programming competition</a> using the same system as Google Code Jam (they called it the Google Code Jam Sprint to I/O) to win the right to buy 1 of 100 tickets to Google I/O.  Normal Registration for the conference closed [20 minutes after it opened]({% post_url 2012-03-27-google-io-sells-out-in-less-than-a-half-hour %} "Google I/O 2012 Sells out in less than a half hour") back on March 27th due to the incredible demand, so naturally those developers who couldn&#8217;t get in before were excited and ready to battle for the chance to buy a ticket.
 
@@ -45,7 +47,9 @@ For example:
 ```
 
 Taking the first one (They have 5 each of 3 different designs, and you want 4 of the first, 2 of the second, and 1 of the third), the correct answer would be 14 (in order to guarantee you have at least 4 of the first, at least 2 of the second, and at least 1 of the third, you would have to buy enough that you would have ALL of all but 1 of them, and then the highest K for the remainder)  
-`Answer = (L * (M-1)) + max(K)`  
+
+<amp-mathml layout="container" data-formula="\[ B = (L * (M-1)) + max(K) \]"></amp-mathml>
+
 The question also said that if it was impossible to get what you want, you should return -1 (like the 5th and 6th examples, you can&#8217;t buy more statues than they had available in the first place)
 
 Now most programmers seeing something like the 4th test case there (`6 4 0 0 0 0`) would realize that if you don&#8217;t want to buy any of them, than the answer is 0 (minimum number to buy in order to get 0 statues is 0), so the basic pseudo code to solve this problem is:
