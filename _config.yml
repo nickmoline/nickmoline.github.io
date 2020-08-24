@@ -9,12 +9,6 @@ name: nickmoline.com
 excerpt_separator: <!--more-->
 
 defaults:
-    - 
-        scope:
-            path: ""
-            type: "pages"
-        values:
-            layout: "page"
     -
         scope:
             path: ""
