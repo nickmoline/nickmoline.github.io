@@ -7,10 +7,8 @@ EMAIL;TYPE=INTERNET;TYPE=WORK:nick.moline@justia.com
 EMAIL;TYPE=INTERNET;TYPE=HOME:nickmoline@gmail.com
 EMAIL;TYPE=INTERNET;TYPE=HOME:card@nick.pro
 X-GTALK;TYPE=HOME:nickmoline@gmail.com
-X-SKYPE:exocap
+X-SKYPE:portalcap
 X-ICQ:18130009
-TEL;TYPE=MAIN:(707) PRO-NICK
-TEL;TYPE=WORK:(650) 810-1990
 TEL;TYPE=CELL:(650) 996-1889
 ADR;TYPE=WORK:;;Justia Inc.\n1380 Pear Ave\nSuite 2B;Mountain View;CA;94043
  ;United States
@@ -23,22 +21,20 @@ item2.URL:http\://www.linkedin.com/in/nickmoline
 item2.X-ABLabel:LinkedIn
 item3.URL:https\://www.facebook.com/nickmoline
 item3.X-ABLabel:Facebook
-item4.URL:https\://google.com/+NickMoline
-item4.X-ABLabel:Google+
-item5.URL:http\://www.slideshare.net/nickmoline
-item5.X-ABLabel:SlideShare
-item6.URL:https\://www.nick.pro/
-item6.X-ABLabel:BLOG
-item7.URL:http\://nickmoline.com/
-item7.X-ABLabel:_$!<HomePage>!$_
-item8.URL:https\://github.com/nickmoline
-item8.X-ABLabel:Github
-item9.URL:https\://twitter.com/nickmoline
-item9.X-ABLabel:Twitter
-item10.X-ABDATE:2006-07-02
-item10.X-ABLabel:_$!<Anniversary>!$_
-item11.X-ABRELATEDNAMES:Barbara Moline
-item11.X-ABLabel:_$!<Spouse>!$_
+item4.URL:http\://www.slideshare.net/nickmoline
+item4.X-ABLabel:SlideShare
+item5.URL:https\://www.nick.pro/
+item5.X-ABLabel:BLOG
+item6.URL:http\://nickmoline.com/
+item6.X-ABLabel:_$!<HomePage>!$_
+item7.URL:https\://github.com/nickmoline
+item7.X-ABLabel:Github
+item8.URL:https\://twitter.com/nickmoline
+item8.X-ABLabel:Twitter
+item9.X-ABDATE:2006-07-02
+item9.X-ABLabel:_$!<Anniversary>!$_
+item10.X-ABRELATEDNAMES:Barbara Moline
+item10.X-ABLabel:_$!<Spouse>!$_
 ROLE:Web Programmer
 NOTE:A senior software engineer at Justia.com who works on free legal infor
  mation projects\, and a man proud to have lost 180 pounds (and still losin
