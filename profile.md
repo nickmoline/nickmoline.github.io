@@ -3,8 +3,6 @@ layout: page
 title: "Nicholas Scott Moline's Profile"
 permalink: /profile.html
 ---
-## Nicholas Scott Moline
-
 
 
 ### GitHub Public Repositories
@@ -13,4 +11,4 @@ permalink: /profile.html
 - Last Pushed: <time datetime="{{ repository.pushed_at | date_to_xmlschema }}">{{ repository.pushed_at | date: "%B %-d, %Y %}}
 {% endfor %}
 
-{{ site.github.public_repositories | inspect }}
+{{ site.github | inspect }}
