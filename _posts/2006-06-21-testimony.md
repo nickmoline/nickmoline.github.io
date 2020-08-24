@@ -6,39 +6,15 @@ author: nickmoline
 layout: post
 guid: http://www.nick.pro/2006/06/21/testimony/
 permalink: /2006/06/21/testimony/
-Views:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "936981904"
-  - "936981904"
-readability_ARI:
-  - "13.4"
-  - "13.4"
-readability_CLI:
-  - "8.7"
-  - "8.7"
-readability_LIX:
-  - "32.6"
-  - "32.6"
-word_stats_word_count:
-  - "1438"
-  - "1438"
-word_stats_keywords:
-  - 's:872:"a:49:{s:9:"testimony";i:13;s:11:"opportunity";i:4;s:7:"thought";i:3;s:4:"read";i:3;s:4:"well";i:5;s:5:"years";i:6;s:9:"christian";i:7;s:4:"away";i:4;s:6:"christ";i:6;s:7:"because";i:5;s:5:"share";i:3;s:6:"public";i:4;s:4:"just";i:3;s:4:"lord";i:9;s:4:"love";i:4;s:4:"time";i:7;s:4:"life";i:8;s:6:"chapel";i:5;s:6:"family";i:6;s:5:"heard";i:3;s:4:"able";i:3;s:8:"attended";i:3;s:4:"long";i:3;s:6:"church";i:8;s:8:"ministry";i:4;s:5:"moved";i:4;s:8:"leesburg";i:4;s:11:"cornerstone";i:4;s:7:"started";i:4;s:6:"middle";i:3;s:6:"school";i:19;s:10:"eventually";i:3;s:8:"overhead";i:3;s:5:"going";i:3;s:7:"tuition";i:4;s:6:"attend";i:3;s:10:"tremendous";i:3;s:8:"computer";i:4;s:4:"high";i:3;s:6:"worked";i:3;s:8:"continue";i:3;s:8:"blessing";i:3;s:4:"ercc";i:3;s:8:"alliance";i:4;s:4:"know";i:4;s:8:"involved";i:3;s:12:"southwestern";i:6;s:8:"district";i:10;s:7:"blessed";i:3;}";'
-  - 's:872:"a:49:{s:9:"testimony";i:13;s:11:"opportunity";i:4;s:7:"thought";i:3;s:4:"read";i:3;s:4:"well";i:5;s:5:"years";i:6;s:9:"christian";i:7;s:4:"away";i:4;s:6:"christ";i:6;s:7:"because";i:5;s:5:"share";i:3;s:6:"public";i:4;s:4:"just";i:3;s:4:"lord";i:9;s:4:"love";i:4;s:4:"time";i:7;s:4:"life";i:8;s:6:"chapel";i:5;s:6:"family";i:6;s:5:"heard";i:3;s:4:"able";i:3;s:8:"attended";i:3;s:4:"long";i:3;s:6:"church";i:8;s:8:"ministry";i:4;s:5:"moved";i:4;s:8:"leesburg";i:4;s:11:"cornerstone";i:4;s:7:"started";i:4;s:6:"middle";i:3;s:6:"school";i:19;s:10:"eventually";i:3;s:8:"overhead";i:3;s:5:"going";i:3;s:7:"tuition";i:4;s:6:"attend";i:3;s:10:"tremendous";i:3;s:8:"computer";i:4;s:4:"high";i:3;s:6:"worked";i:3;s:8:"continue";i:3;s:8:"blessing";i:3;s:4:"ercc";i:3;s:8:"alliance";i:4;s:4:"know";i:4;s:8:"involved";i:3;s:12:"southwestern";i:6;s:8:"district";i:10;s:7:"blessed";i:3;}";'
-word_stats_cached:
-  - "1"
-  - "1"
+dsq_thread_id: 936981904
 categories:
-  - Praises
   - Writing
 ---
 I am applying for a job in Colorado Springs with the C&MA and they require with job applications that you send in a copy of your testimony. As this seems to me to be a good thing to keep a record of and I have never taken the opportunity to write out my testimony before, I thought that I should post a copy of my testimony here so that I can always get it back later, and so that anyone else who cares to read my testimony can read it as well.
 
 <!--more-->
 
-* * *
+***
 
 For many years I struggled when it came to thinking about my testimony. In today&#8217;s Christian society you rarely hear of a testimony that is shared that does not involve some sort of radical conversion or some falling away and returning to Christ, mostly because those are the testimonies that people share in the more public forums. So I have struggled with my testimony because it doesn&#8217;t include anything of the sort, I always thought that my testimony was just not strong enough to share. I admit, there are times when I&#8217;ve even thought to myself &#8220;I should fall away for a while, let the sinful nature take over, so that when I come back to Christ I can have a better testimony.&#8221; No doubt this was the devil&#8217;s attempt to entice me away from the Lord, in hopes that I would not return later, but my love for the Lord always fought back against that voice. I love the Lord with all my heart, and have no desire whatsoever to fall away from Him.
 

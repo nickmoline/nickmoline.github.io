@@ -6,33 +6,14 @@ author: nickmoline
 layout: post
 guid: http://281886795
 permalink: /2005/01/24/drama-king/
-Views:
-  - "1"
-  - "1"
-readability_ARI:
-  - "7.6"
-  - "7.6"
-readability_CLI:
-  - "5.3"
-  - "5.3"
-readability_LIX:
-  - "22.4"
-  - "22.4"
-word_stats_word_count:
-  - "418"
-  - "418"
-word_stats_keywords:
-  - 's:107:"a:6:{s:9:"wednesday";i:3;s:4:"part";i:7;s:4:"play";i:3;s:9:"auditions";i:3;s:4:"read";i:3;s:5:"irish";i:3;}";'
-  - 's:107:"a:6:{s:9:"wednesday";i:3;s:4:"part";i:7;s:4:"play";i:3;s:9:"auditions";i:3;s:4:"read";i:3;s:5:"irish";i:3;}";'
-word_stats_cached:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "931195585"
+dsq_thread_id: 931195585
 categories:
-  - Plays
+  - Theatre
+tags:
+  - TCC
+  - Acting
 ---
-Ok so that was one of my favorite lines from Shrek 2, but it is the first thing that popped into my mind as a title for this article. This past Wednesday evening I went over to my school to have some fun by trying out for a part in the upcoming play <span style="text-decoration: underline">The Musical Comedy Murders of 1940</span>.
+Ok so that was one of my favorite lines from _Shrek 2_, but it is the first thing that popped into my mind as a title for this article. This past Wednesday evening I went over to my school to have some fun by trying out for a part in the upcoming play _The Musical Comedy Murders of 1940_.
 
 <!--more-->
 
