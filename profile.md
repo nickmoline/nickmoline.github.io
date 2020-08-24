@@ -10,8 +10,10 @@ permalink: /profile.html
 ### GitHub Open Source Repositories
 {% for repository in site.github.public_repositories %}
 [{{ repository.name }}]({{ repository.html_url }})  
-    {% for field, value in repository %}
-    - {{ field }}: {{ value }}
+    {% for field in repository %}
+        {% for item in field %}
+    - {{ item[0] }}: {{ item[1] }}
+        {% endfor %}
     {% endfor %}
 {% endfor %}
 
