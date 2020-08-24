@@ -4,61 +4,49 @@ https://keybase.io/nickmoline
 
 I hereby claim:
 
-  * I am an admin of https://nickmoline.com
+  * I am an admin of https://www.nickmoline.com
   * I am nickmoline (https://keybase.io/nickmoline) on keybase.
-  * I have a public key with fingerprint 5376 F6EB DFCA 21A4 BEBB  C6B8 463C F0EB 981F 6BE4
+  * I have a public key ASBIft78K93vDBwwwlpEkhRmmbcg3PPN5lN1vibU2rTJiwo
 
 To do so, I am signing this object:
 
 {
-    "body": {
-        "key": {
-            "eldest_kid": "0101fbae9f7d994e318e34e8cc12a968d8c7be1b1c864e7b47402bb8db24f88d33ff0a",
-            "fingerprint": "5376f6ebdfca21a4bebbc6b8463cf0eb981f6be4",
-            "host": "keybase.io",
-            "key_id": "463cf0eb981f6be4",
-            "kid": "0101fbae9f7d994e318e34e8cc12a968d8c7be1b1c864e7b47402bb8db24f88d33ff0a",
-            "uid": "403bcae9ffe6b593cd42d9254b736619",
-            "username": "nickmoline"
-        },
-        "service": {
-            "hostname": "nickmoline.com",
-            "protocol": "https:"
-        },
-        "type": "web_service_binding",
-        "version": 1
+  "body": {
+    "key": {
+      "eldest_kid": "0101fbae9f7d994e318e34e8cc12a968d8c7be1b1c864e7b47402bb8db24f88d33ff0a",
+      "host": "keybase.io",
+      "kid": "0120487edefc2bddef0c1c30c25a4492146699b720dcf3cde65375be26d4dab4c98b0a",
+      "uid": "403bcae9ffe6b593cd42d9254b736619",
+      "username": "nickmoline"
     },
-    "ctime": 1472749387,
-    "expire_in": 157680000,
-    "prev": "79400e8935bd0f4bbf78553e4a8cca4ca7e50be80d254dbf75ce6a8ebd3345e0",
-    "seqno": 9,
-    "tag": "signature"
+    "merkle_root": {
+      "ctime": 1598259076,
+      "hash": "63ca5c978ba6426adf97d391acccca61b7d35c7f4acef819d46b897db13990cf7bea86bc8380887f3edb2bee49db4abf38d517f5284604888ad1524b4193a6be",
+      "hash_meta": "40e66ca6412a9c7345766b98f8828b8c0489a57c43b351254c8b34976749bb3f",
+      "seqno": 17366532
+    },
+    "service": {
+      "entropy": "H1TlDoLTi0VHXsRacKlk/jph",
+      "hostname": "www.nickmoline.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1598259090,
+  "expire_in": 504576000,
+  "prev": "bbf609f5b09c28ec2009730e9f89d3dbc241fac13c6838a850a154e26c77e883",
+  "seqno": 64,
+  "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.56
-Comment: https://keybase.io/crypto
-
-yMIlAnicrVJdSBVBFL5Wat40AkkiMmEp/EV2787uzt6HNCoUMhKizEquO7Ozuqm7
-1/tjiaQhUlCQGpJgD0XYj6lJCGqWWWZpSSiCdKkMw7DIwBKKTNRmrZ7qsXkZ5pzv
-+853zpz+iJU2e5A2dv7Z8y3xmUFDDy/6bVmDrt1lDDLVUsZZxhSQ5YsUqsTrcxXo
-KuNkWI7lNKQQWZNUWQaE5yDhAYEYcw5FFqEKsYQIhzgMRUAkBCTAOhCCKnIADUKV
-5zWNVZgkRtONPOJxe3TDR2UFXhI1kSBVw4qDUwAiCGERQSDyWGMJkiGniYgASsw3
-vRaDmkOKlyTrJo3Rh2vZ3j/w/9m3/1cdlkfYUtOIiASZxypwqLJDAEjiRZGTLaCX
-eAyliFC0oeOCIrNQNwhzIomh8RIdE2u0Vi9/YZKxWUT5bo/pM7FZSHP5Pp/b67S4
-vlK3BT5GkOu3jAvphkpnSRklxOPVTYNxchSJfbqlywHJIQGZh1ISQ467dQ9x6RZC
-kETI0mPVISVUUpIByxIo8wJSWQ0gpElQEHgCFDojBWBFIgKLCGRV2qVKswImogLp
-l/E8EAjLWI0VGybjlKlNJY9KevU8Q/H5PbTrvgdHVtmC7LaQ4BXWjtnsYev+bF6M
-I3SR/ZyYEYnFyjh/3L5J/d3MmZqERtQ+3dy0J7V0Z8uSvepjV+Pr8aHvGXXu7G+g
-p+1ap3g9ak0wtJe0zw7Wlm5LOhjSm3WrWu8fqS9P21WzobytevzOfTG1KvrRQFQs
-lF6+2B630FCrHeha+2Nk3t/cGzLX3jEaM/Clu2Ls8o2YpZaumNCZrE2Kklpw9lTl
-1ET7za3pgcSj862B93EtC7FNrtwZN/u4q6htNnz1+Nzo3nMVaejTZE78lHn7Q0Mg
-tPH04c1P6oT9F1Iism3TfQH3q0vHw2FYZvHbq4sbh7uf3utofZOe25N49+uV+B2d
-YRPJ01xkdMrJQM7w+kP13pGE/p/lek00
-=OFTq
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgSH7e/Cvd7wwcMMJaRJIUZpm3INzzzeZTdb4m1Nq0yYsKp3BheWxvYWTESpcCQMQgu/YJ9bCcKOwgCXMOn4nT28JB+sE8aDioUKFU4mx36IPEIPMJAI6kkm0DLXnlLmJVGOa1wQKxfk3OIdllHBOgQv6xAgHCo3NpZ8RADkxPDlP9YmXY827I6ut+bCIMhc/X2BiJo6Wv4zEQEqhgMEFsDriBr9KDYl5R4tAiSvO1Shnrh9vkszL5m+/LCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMy1AedOi5OWTv54POFrUuVv0DwngFvPBmP3IfICFGQoo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
@@ -66,4 +54,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/nickmoline
 
 ==================================================================
-
