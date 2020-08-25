@@ -3,6 +3,7 @@ description: Senior Software Engineer at Justia, Tech Wizard for Harry Potter Le
 cover: /background-jellybean.jpg
 coverp: /background-jellybean.webp
 logo: /monogram.png
+logop: /monogram.webp
 favicon: /wp-content/uploads/sites/4/2016/10/cropped-100_1381-1-1.jpg
 baseurl: ""
 url: https://www.nickmoline.com
@@ -38,7 +39,7 @@ analytics_id: UA-1093504-1
 markdown: kramdown
 
 kramdown:
-    parse_block_html: true
+    parse_block_html: false
 
 plugins:
     - jekyll-paginate

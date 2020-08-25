@@ -27,7 +27,9 @@ I have a goal now of getting to the point where I can run a 5K, hopefully within
 
 After going to a movie (where I drank water instead of anything caloric), I came home and made a delicious low calorie high-protein dream dinner to finish off the day and I&#8217;m not hungry and was quite satisfied with my meals today and my physical activity.
 
-<amp-img aria-describedby="caption-attachment-970"  src="{{ site.baseurl }}/wp-content/uploads/sites/4/2013/07/IMG_20130726_193351.jpg" alt="If you like Piña Coladas..." title="My first Piña Collada in over a year" width="2448" height="3264" layout="responsive" lightbox></amp-img>
+<amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2013/07/IMG_20130726_193351.webp" alt="If you like Piña Coladas..." title="My first Piña Collada in over a year" width="2448" height="3264" layout="responsive" lightbox>
+    <amp-img fallback src="{{ site.baseurl }}/wp-content/uploads/sites/4/2013/07/IMG_20130726_193351.jpg" alt="If you like Piña Coladas..." title="My first Piña Collada in over a year" width="2448" height="3264" layout="responsive" lightbox></amp-img>
+</amp-img>
   
 I did do one thing this evening as part of my celebration which is not best for my weight-loss.  I had a Piña Colada.  When going through the pre-op preparation I was told that I would have to stay away from Alcohol for a year.  Since that year ended yesterday I let myself have a single 6 ounce Piña Colada to celebrate.
 

@@ -92,7 +92,9 @@ The small floating image is purposely in your peripheral vision, not in your lin
 
 Will having Glass make me take up skydiving, or encourage me to trek to Thailand to have authentic Thai food?  Probably not, but when I&#8217;m in the moment, living my life, and there&#8217;s a question I need answering, Google Glass will be there, ready with that answer.  When that moment I&#8217;m living in, becomes that perfect moment, Google Glass will be there, ready to capture it.  No fumbling for a phone to look up an answer, taking me away, no pulling out the camera and starting it up in hopes that I can get it on in time to capture that moment.
 
-<amp-img aria-describedby="caption-attachment-934"  src="{{ site.baseurl }}/wp-content/uploads/sites/4/2013/04/MG_7150-2346688102-O.jpg" alt="Nick Moline is proud to be a &quot;Glasshole&quot;" width="864" height="1296" layout="responsive" lightbox></amp-img>
+<amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2013/04/MG_7150-2346688102-O.webp" alt="Nick Moline is proud to be a &quot;Glasshole&quot;" width="864" height="1296" layout="responsive" lightbox>
+    <amp-img fallback src="{{ site.baseurl }}/wp-content/uploads/sites/4/2013/04/MG_7150-2346688102-O.jpg" alt="Nick Moline is proud to be a &quot;Glasshole&quot;" width="864" height="1296" layout="responsive" lightbox></amp-img>
+</amp-img>
 
 At the Glass Foundry, Timothy Jordan described it in one sentence better than I have in the last several paragraphs when he said &#8220;By bringing technology closer, we can get it out of the way.&#8221;  A statement he and others have <a title="Building New Experiences with Glass" href="http://youtu.be/JpWmGX55a40?t=35s" target="_blank">repeated</a> at other events.
 

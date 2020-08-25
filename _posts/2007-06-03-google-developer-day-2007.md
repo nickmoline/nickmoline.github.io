@@ -28,7 +28,9 @@ This thursday I went over to my second Tech Conference since moving to the San F
   
 I really didn&#8217;t know what to expect, nothing on the website had mentioned anything about a cost or anything, and while I was reasonably sure that the sessions were free and my registration was free, I thought for sure that food would cost money, and that there would be things to buy at the event (shirts and trinkets and such), but I was wrong. I didn&#8217;t spend a dime, the entire day. When I registered, they handed me an info pamphlet, a namebadge, and a coupon to walk over to the left and pick up a free Google Developer Day 2007 t-shirt.
 
-<amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2007/06/google-day-lounge.jpg" alt="Blogging Lounge" title="Blogging Lounge" layout="responsive" width="950" height="396" lightbox></amp-img>
+<amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2007/06/google-day-lounge.webp" alt="Blogging Lounge" title="Blogging Lounge" layout="responsive" width="950" height="396" lightbox>
+  <amp-img fallback src="{{ site.baseurl }}/wp-content/uploads/sites/4/2007/06/google-day-lounge.jpg" alt="Blogging Lounge" title="Blogging Lounge" layout="responsive" width="950" height="396" lightbox></amp-img>
+</amp-img>
 
 
 The event began with a keynote by Jeff Huber, VP of Engineering at Google. He announced several new features and tools for developers. He focused on 3 particular new announcements, Maplets, the <a href="http://code.google.com/gme/" target="_blank">Google Mashup Editor</a>, and <a href="http://code.google.com/apis/gears/" target="_blank">Google Gears</a>. But throughout the rest of the day there would be announcements of several other new features for coders. Google has put up the keynote (and many other sessions up on YouTube. Click play below to watch the keynote.
@@ -107,46 +109,30 @@ I got a Google branded Rubik&#8217;s Cube, and four really cool cups with glow-s
 The above photos were mine, but I have misplaced my photos of the after party.  The following photos were not taken by me, photo credits go to [The Java Magician](http://javamagician.blogspot.com/2007/06/google-developer-day-evening-reception.html) and [edilee](https://ed.agadak.net/2007/06/google-developer-day-2007), be sure to check out their posts for their opinions of Google Developer Day and the After Party.
 
 <amp-carousel lightbox width="512" height="384" layout="responsive" type="slides">
-  <amp-img
-    src="{{ site.baseurl }}/wp-content/uploads/sites/4/2007/06/IMG_1029.JPG"
-    title="Party Bus to the After Party"
-    alt="Party Bus to the After Party"
-    width="512" height="384" layout="responsive"></amp-img>
-  <amp-img
-    src="{{ site.baseurl }}/wp-content/uploads/sites/4/2007/06/IMG_1028.JPG"
-    title="Inside the Party Bus to the After Party"
-    alt="Inside the Party Bus to the After Party"
-    width="512" height="384" layout="responsive"></amp-img>
-  <amp-img 
-    src="{{ site.baseurl }}/wp-content/uploads/sites/4/2007/06/IMG_1024.JPG" 
-    title="The After Party Carnival"
-    alt="The After Party Carnival"
-    width="512" height="384" layout="responsive"></amp-img>
-  <amp-img 
-    src="{{ site.baseurl }}/wp-content/uploads/sites/4/2007/06/IMG_1020.JPG" 
-    title="White Board Tables"
-    alt="White Board Tables"
-    width="512" height="384" layout="responsive"></amp-img>
-  <amp-img 
-    src="{{ site.baseurl }}/wp-content/uploads/sites/4/2007/06/IMG_1022.JPG" 
-    title="Inside portion of the party"
-    alt="Inside portion of the party"
-    width="512" height="384" layout="responsive"></amp-img>
-  <amp-img 
-    src="{{ site.baseurl }}/wp-content/uploads/sites/4/2007/06/IMG_1021.JPG" 
-    title="Arcade Games"
-    alt="Arcade Games"
-    width="512" height="384" layout="responsive"></amp-img>
-  <amp-img 
-    src="{{ site.baseurl }}/wp-content/uploads/sites/4/2007/06/library-1007.jpg" 
-    title="Party Cups - Unlit"
-    alt="Party Cups - Unlit"
-    width="1024" height="768" layout="responsive"></amp-img>
-  <amp-img 
-    src="{{ site.baseurl }}/wp-content/uploads/sites/4/2007/06/library-1006.jpg" 
-    title="Party Cups - Lit"
-    alt="Party Cups - Lit"
-    width="1024" height="768" layout="responsive"></amp-img>
+  <amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2007/06/IMG_1029.webp" title="Party Bus to the After Party" alt="Party Bus to the After Party" width="512" height="384" layout="responsive">
+    <amp-img fallback src="{{ site.baseurl }}/wp-content/uploads/sites/4/2007/06/IMG_1029.JPG" title="Party Bus to the After Party" alt="Party Bus to the After Party" width="512" height="384" layout="responsive"></amp-img>
+  </amp-img>
+  <amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2007/06/IMG_1028.webp" title="Inside the Party Bus to the After Party" alt="Inside the Party Bus to the After Party" width="512" height="384" layout="responsive">
+    <amp-img fallback src="{{ site.baseurl }}/wp-content/uploads/sites/4/2007/06/IMG_1028.JPG" title="Inside the Party Bus to the After Party" alt="Inside the Party Bus to the After Party" width="512" height="384" layout="responsive"></amp-img>
+  </amp-img>
+  <amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2007/06/IMG_1024.webp" title="The After Party Carnival" alt="The After Party Carnival" width="512" height="384" layout="responsive">
+    <amp-img fallback src="{{ site.baseurl }}/wp-content/uploads/sites/4/2007/06/IMG_1024.JPG" title="The After Party Carnival" alt="The After Party Carnival" width="512" height="384" layout="responsive"></amp-img>
+  </amp-img>
+  <amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2007/06/IMG_1020.webp" title="White Board Tables" alt="White Board Tables" width="512" height="384" layout="responsive">
+    <amp-img fallback src="{{ site.baseurl }}/wp-content/uploads/sites/4/2007/06/IMG_1020.JPG" title="White Board Tables" alt="White Board Tables" width="512" height="384" layout="responsive"></amp-img>
+  </amp-img>
+  <amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2007/06/IMG_1022.webp" title="Inside portion of the party" alt="Inside portion of the party" width="512" height="384" layout="responsive">
+    <amp-img fallback src="{{ site.baseurl }}/wp-content/uploads/sites/4/2007/06/IMG_1022.JPG" title="Inside portion of the party" alt="Inside portion of the party" width="512" height="384" layout="responsive"></amp-img>
+  </amp-img>
+  <amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2007/06/IMG_1021.webp" title="Arcade Games" alt="Arcade Games" width="512" height="384" layout="responsive">
+    <amp-img fallback src="{{ site.baseurl }}/wp-content/uploads/sites/4/2007/06/IMG_1021.JPG" title="Arcade Games" alt="Arcade Games" width="512" height="384" layout="responsive"></amp-img>
+  </amp-img>
+  <amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2007/06/library-1007.webp" title="Party Cups - Unlit" alt="Party Cups - Unlit" width="1024" height="768" layout="responsive">
+    <amp-img fallback src="{{ site.baseurl }}/wp-content/uploads/sites/4/2007/06/library-1007.jpg" title="Party Cups - Unlit" alt="Party Cups - Unlit" width="1024" height="768" layout="responsive"></amp-img>
+  </amp-img>
+  <amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2007/06/library-1006.webp" title="Party Cups - Lit" alt="Party Cups - Lit" width="1024" height="768" layout="responsive">
+    <amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2007/06/library-1006.jpg" title="Party Cups - Lit" alt="Party Cups - Lit" width="1024" height="768" layout="responsive"></amp-img>
+  </amp-img>
 </amp-carousel>
 
 I had a fantastic time networking with other developers and learning about these great new tools and apis from Google.

@@ -21,11 +21,15 @@ This morning I noticed a change in the way emails sent to a group (formerly know
 
 <!--more-->
 
-<amp-img title="Old Mailing List MIME Headers" alt="Old Mailing List MIME Headers" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2011/05/oldmailinglist.png" width="958" height="187" layout="responsive" lightbox></amp-img>
+<amp-img title="Old Mailing List MIME Headers" alt="Old Mailing List MIME Headers" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2011/05/oldmailinglist.webp" width="958" height="187" layout="responsive" lightbox>
+  <amp-img fallback title="Old Mailing List MIME Headers" alt="Old Mailing List MIME Headers" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2011/05/oldmailinglist.png" width="958" height="187" layout="responsive" lightbox></amp-img>
+</amp-img>
 
 On the other hand here is the bottom of the email headers on an email sent to that same group today:
 
-<amp-img title="New Mailing List MIME Headers" alt="New Mailing List MIME Headers" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2011/05/newmailinglist.png" width="953" height="255" layout="responsive" lightbox></amp-img>
+<amp-img title="New Mailing List MIME Headers" alt="New Mailing List MIME Headers" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2011/05/newmailinglist.webp" width="953" height="255" layout="responsive" lightbox>
+  <amp-img fallback title="New Mailing List MIME Headers" alt="New Mailing List MIME Headers" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2011/05/newmailinglist.png" width="953" height="255" layout="responsive" lightbox></amp-img>
+</amp-img>
 
 As you can see in these images, a few new list specific header lines have been added that make lists appear more like they were handled by more traditional mailing list software, rather then a simple email forwarder.
 

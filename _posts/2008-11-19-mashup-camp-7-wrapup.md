@@ -34,4 +34,6 @@ I&#8217;m so excited about this, that I&#8217;m going to cut this blog post shor
 
 **UPDATE 2008-12-03:** I just noticed the [WetPaint team&#8217;s Blog Post wrapping up their experiences at MashupCamp](https://web.archive.org/web/20110812164552/http://blog.wetpaintinjected.com/?p=53) and wanted to thank them for the prize (which arrived Today via FedEx), and for the card which is now pinned to the wall of my Cubicle. Check out their [tales of upgrades to First Class](https://web.archive.org/web/20110812164552/http://blog.wetpaintinjected.com/?p=53) at the end of their post, which I presume is on Virgin America, due to the mention of Massage Chairs.
 
-<amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2008/12/img_0001.jpg" title="Wet Paint Prize and Swag" alt="Wet Paint Prize and Swag" width="1600" height="1200" layout="responsive" lightbox></amp-img>
+<amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2008/12/img_0001.webp" title="Wet Paint Prize and Swag" alt="Wet Paint Prize and Swag" width="1600" height="1200" layout="responsive" lightbox>
+  <amp-img fallback src="{{ site.baseurl }}/wp-content/uploads/sites/4/2008/12/img_0001.jpg" title="Wet Paint Prize and Swag" alt="Wet Paint Prize and Swag" width="1600" height="1200" layout="responsive" lightbox></amp-img>
+</amp-img>

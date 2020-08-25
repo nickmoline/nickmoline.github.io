@@ -20,7 +20,9 @@ That&#8217;s right, I said it, and so far I&#8217;m the only one who has. Google
 
 <!--more-->
 
-<amp-img title="Google Chrome Extensions Session at Google I/O 2009" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2009/02/region-capture-2.png" alt="Google Chrome Extensions Session at Google I/O 2009" width="835" height="345" layout="responsive" lightbox></amp-img>
+<amp-img title="Google Chrome Extensions Session at Google I/O 2009" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2009/02/region-capture-2.webp" alt="Google Chrome Extensions Session at Google I/O 2009" width="835" height="345" layout="responsive" lightbox>
+  <amp-img fallback title="Google Chrome Extensions Session at Google I/O 2009" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2009/02/region-capture-2.png" alt="Google Chrome Extensions Session at Google I/O 2009" width="835" height="345" layout="responsive" lightbox></amp-img>
+</amp-img>
 
 Like last year, it will take place at the Moscone Center in San Francisco. Along with the open pre-registration, they&#8217;ve also posted a [list of Sessions](http://code.google.com/events/io/sessions.html){.broken_link} (subject to change). High up on the list is a session entitled &#8220;**Developing extensions for Google Chrome**&#8221; which contains the following description:
 

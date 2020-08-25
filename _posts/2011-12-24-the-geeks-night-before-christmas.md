@@ -77,5 +77,7 @@ Last night I was trying to think about where to put my stocking, and when it daw
 > My story is done, to me it did Psych  
 > A Geeky Christmas to all, if you enjoyed it click <amp-facebook-like width="90" height="20" layout="fixed" data-layout="button_count" data-href="{% post_url 2011-12-24-the-geeks-night-before-christmas %}"></amp-facebook-like>
 
-<amp-img  src="{{ site.baseurl }}/wp-content/uploads/sites/4/2011/12/IMAG0124.jpg" alt="TV Fireplace with 'Mantle' Shelf" title="TV Fireplace with 'Mantle' Shelf" width="1152" height="2048" layout="responsive" lightbox></amp-img>  
+<amp-img  src="{{ site.baseurl }}/wp-content/uploads/sites/4/2011/12/IMAG0124.webp" alt="TV Fireplace with 'Mantle' Shelf" title="TV Fireplace with 'Mantle' Shelf" width="1152" height="2048" layout="responsive" lightbox>
+  <amp-img fallback src="{{ site.baseurl }}/wp-content/uploads/sites/4/2011/12/IMAG0124.jpg" alt="TV Fireplace with 'Mantle' Shelf" title="TV Fireplace with 'Mantle' Shelf" width="1152" height="2048" layout="responsive" lightbox>
+</amp-img>  
 _My Makeshift Mantle that inspired this poem, technically speaking this is an LCD TV, not a Plasma TV, but Plasma flowed better_

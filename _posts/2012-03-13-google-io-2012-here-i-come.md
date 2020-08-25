@@ -29,4 +29,6 @@ I&#8217;m [all registered](http://twitter.com/NickMoline/status/1796780928586301
 
 The &#8220;real&#8221; price last year was $550 with an early-bird discount of $450, so when you consider there are no early birds this year, the increase is 38.9% for 50% more conference, so perhaps the increase isn&#8217;t so bad.
 
-<amp-img  src="{{ site.baseurl }}/wp-content/uploads/sites/4/2012/03/squg.png" alt="Google I/O 2012 Confirmation Email" title="Google I/O 2012 Confirmation Email" width="785" height="642" layout="responsive" lightbox></amp-img>
+<amp-img  src="{{ site.baseurl }}/wp-content/uploads/sites/4/2012/03/squg.webp" alt="Google I/O 2012 Confirmation Email" title="Google I/O 2012 Confirmation Email" width="785" height="642" layout="responsive" lightbox>
+    <amp-img fallback src="{{ site.baseurl }}/wp-content/uploads/sites/4/2012/03/squg.png" alt="Google I/O 2012 Confirmation Email" title="Google I/O 2012 Confirmation Email" width="785" height="642" layout="responsive" lightbox></amp-img>
+</amp-img>

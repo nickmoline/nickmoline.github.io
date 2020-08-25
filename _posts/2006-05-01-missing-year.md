@@ -33,7 +33,9 @@ In May, the final episode of _Star Trek: Enterprise_ aired. As I mentioned previ
 
 Speaking of ACTD, I don&#8217;t remember if this happened before or after I stopped writing or not, but I am now the SM (once upon a time known as AGM) of [Arcadia Station](http://arcadia.stations.acalltoduty.com/). It is a lot of fun to come up with plotlines for the crew members to act out, and I enjoy each week sitting down to start a new mission.
 
-<amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2006/05/hphbp.jpg" title="Harry Potter and the Half-Blood Prince (Book 6)" alt="Harry Potter and the Half-Blood Prince (Book 6)" width="662" height="1000" layout="responsive" lightbox></amp-img>
+<amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2006/05/hphbp.webp" title="Harry Potter and the Half-Blood Prince (Book 6)" alt="Harry Potter and the Half-Blood Prince (Book 6)" width="662" height="1000" layout="responsive" lightbox>
+  <amp-img fallback src="{{ site.baseurl }}/wp-content/uploads/sites/4/2006/05/hphbp.jpg" title="Harry Potter and the Half-Blood Prince (Book 6)" alt="Harry Potter and the Half-Blood Prince (Book 6)" width="662" height="1000" layout="responsive" lightbox></amp-img>
+</amp-img>
 
 In July [Harry Potter and the Half Blood Prince](https://smile.amazon.com/o/ASIN/0439784549/132-6113714-8782916?SubscriptionId=0P20NKJGP78BQ061KR02/132-6113714-8782916&sa-no-redirect=1 "View product details at Amazon") came out. Surely you are thinking, why is that something I care about enough to remember, two reasons. First of all it was a really good book, by far the best in the series and if you haven&#8217;t read it yet, then I strongly recommend you [read it](https://smile.amazon.com/o/ASIN/0439784549/132-6113714-8782916?SubscriptionId=0P20NKJGP78BQ061KR02/132-6113714-8782916&sa-no-redirect=1 "View product details at Amazon"). The second, and far sadder reason that I am posting about the release of HBP is because I planned a trip around it&#8217;s release date. The Thursday before the release I flew to Tennessee to visit my girlfriend, the hope being that we would have a good time together and actually get a chance to read the book as well.
 
@@ -49,7 +51,9 @@ In August I was able to scrounge up enough money to buy another laptop, rather t
 
 I became a staff member on [HogwartsLive](http://www.hogwartslive.com/), a Harry Potter RPG running the Legend of the Green Dragon code at some point in the year and I&#8217;m glad I did, because in October I met Barbara Garcia on the site. We became friends very quickly, always making sure to chat when we had time.
 
-<amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2006/05/hpgfmov.jpg" title="Harry Potter and the Goblet of Fire (Movie 4)" alt="Harry Potter and the Goblet of Fire (Movie 4)" width="473" height="679" layout="responsive" lightbox></amp-img>
+<amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2006/05/hpgfmov.webp" title="Harry Potter and the Goblet of Fire (Movie 4)" alt="Harry Potter and the Goblet of Fire (Movie 4)" width="473" height="679" layout="responsive" lightbox>
+  <amp-img fallback src="{{ site.baseurl }}/wp-content/uploads/sites/4/2006/05/hpgfmov.jpg" title="Harry Potter and the Goblet of Fire (Movie 4)" alt="Harry Potter and the Goblet of Fire (Movie 4)" width="473" height="679" layout="responsive" lightbox></amp-img>
+</amp-img>
 
 In November I travelled to Phoenix to visit my friend [Mike](http://www.goosite.net/) (also known as MrGoo or Gooey). We saw Harry Potter and the Goblet of Fire in IMAX on the day of release with his family. It was a fun week and a half trip and a nice getaway from Texas. The movie was definitely the best of the Harry Potter movies (far better then Prisoner of Azkaban which I was mad at because it skipped the central plotline of the book!) In addition to the movie I was also introduced to an interesting new food item, Pine Burgers, which Mike&#8217;s family introduced me to. Pineapple on a burger, yum!
 

@@ -35,124 +35,79 @@ I&#8217;m looking forward to a very enjoyable trip.
 **UPDATE** Here's a gallery of some seleted photos from this trip
 
 <amp-carousel lightbox width="1600" height="1600" layout="responsive" type="slides">
-    <amp-img 
-        src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0098.jpg" 
-        title="Virgin America Sign"
-        alt="Virgin America Sign"
-        width="1200" height="1600" layout="responsive"></amp-img>
-    <amp-img 
-        src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0007.jpg" 
-        title="Welcome to Las Vegas"
-        alt="Welcome to Las Vegas"
-        width="1200" height="1600" layout="responsive"></amp-img>
-    <amp-img 
-        src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0009.jpg" 
-        title="Cancun Resort, Las Vegas"
-        alt="Cancun Resort, Las Vegas"
-        width="1600" height="1200" layout="responsive"></amp-img>
-    <amp-img 
-        src="{{ site.baseurl }}/assets/images/2008/08/vegas/100_0966.jpg" 
-        title="Meeting up with my Parents"
-        alt="Meeting up with my Parents"
-        width="2832" height="2128" layout="responsive"></amp-img>
-    <amp-img 
-        src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0015.jpg" 
-        title="Rainforest Cafe, Las Vegas"
-        alt="Rainforest Cafe, Las Vegas"
-        width="1200" height="1600" layout="responsive"></amp-img>
-    <amp-img 
-        src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0017.jpg" 
-        title="Rainforest Cafe, Las Vegas"
-        alt="Rainforest Cafe, Las Vegas"
-        width="1600" height="1200" layout="responsive"></amp-img>
-    <amp-img 
-        src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0015.jpg" 
-        title="MGM Grand, Las Vegas"
-        alt="MGM Grand, Las Vegas"
-        width="1200" height="1600" layout="responsive"></amp-img>
-    <amp-img 
-        src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0028.jpg" 
-        title="Mamma Mia, Mandalay Bay"
-        alt="Mamma Mia, Mandalay Bay"
-        width="1200" height="1600" layout="responsive"></amp-img>
-    <amp-img 
-        src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0029.jpg" 
-        title="Mamma Mia, Mandalay Bay"
-        alt="Mamma Mia, Mandalay Bay"
-        width="1600" height="1200" layout="responsive"></amp-img>
-    <amp-img 
-        src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0031.jpg" 
-        title="Star Trek: The Experience (1 week before closure)"
-        alt="Star Trek: The Experience (1 week before closure)"
-        width="1200" height="1600" layout="responsive"></amp-img>
-    <amp-img 
-        src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0032.jpg" 
-        title="Star Trek: The Experience (1 week before closure)"
-        alt="Star Trek: The Experience (1 week before closure)"
-        width="1600" height="1200" layout="responsive"></amp-img>
-    <amp-img 
-        src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0034.jpg" 
-        title="Star Trek: The Experience (1 week before closure)"
-        alt="Star Trek: The Experience (1 week before closure)"
-        width="1200" height="1600" layout="responsive"></amp-img>
-    <amp-img 
-        src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0041.jpg" 
-        title="Star Trek: The Experience (1 week before closure)"
-        alt="Star Trek: The Experience (1 week before closure)"
-        width="1600" height="1200" layout="responsive"></amp-img>
-    <amp-img 
-        src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0044.jpg" 
-        title="Star Trek: The Experience (1 week before closure)"
-        alt="Star Trek: The Experience (1 week before closure)"
-        width="1600" height="1200" layout="responsive"></amp-img>
-    <amp-img 
-        src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0065.jpg" 
-        title="Star Trek: The Experience (1 week before closure)"
-        alt="Star Trek: The Experience (1 week before closure)"
-        width="1600" height="1200" layout="responsive"></amp-img>
-    <amp-img 
-        src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0067.jpg" 
-        title="Star Trek: The Experience (1 week before closure)"
-        alt="Star Trek: The Experience (1 week before closure)"
-        width="1200" height="1600" layout="responsive"></amp-img>
-    <amp-img 
-        src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0070.jpg" 
-        title="Star Trek: The Experience (1 week before closure)"
-        alt="Star Trek: The Experience (1 week before closure)"
-        width="1600" height="1200" layout="responsive"></amp-img>
-    <amp-img 
-        src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0071.jpg" 
-        title="Star Trek: The Experience (1 week before closure)"
-        alt="Star Trek: The Experience (1 week before closure)"
-        width="1600" height="1200" layout="responsive"></amp-img>
-    <amp-img 
-        src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0072.jpg" 
-        title="Star Trek: The Experience (1 week before closure)"
-        alt="Star Trek: The Experience (1 week before closure)"
-        width="1600" height="1200" layout="responsive"></amp-img>
-    <amp-img 
-        src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0073.jpg" 
-        title="Tournament of Kings, The Exalibur"
-        alt="Tournament of Kings, The Exalibur"
-        width="1600" height="1200" layout="responsive"></amp-img>
-    <amp-img 
-        src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0075.jpg" 
-        title="Tournament of Kings, The Exalibur"
-        alt="Tournament of Kings, The Exalibur"
-        width="1600" height="1200" layout="responsive"></amp-img>
-    <amp-img 
-        src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0076.jpg" 
-        title="The Exalibur, Las Vegas"
-        alt="The Exalibur, Las Vegas"
-        width="1200" height="1600" layout="responsive"></amp-img>
-    <amp-img 
-        src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0078.jpg" 
-        title="The Exalibur, Las Vegas"
-        alt="The Exalibur, Las Vegas"
-        width="1200" height="1600" layout="responsive"></amp-img>
-    <amp-img 
-        src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0090.jpg" 
-        title="Back at the Las Vegas Airport"
-        alt="Back at the Las Vegas Airport"
-        width="1600" height="1200" layout="responsive"></amp-img>
+   <amp-img src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0098.webp" title="Virgin America Sign" alt="Virgin America Sign" width="1200" height="1600" layout="responsive">
+      <amp-img fallback src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0098.jpg" title="Virgin America Sign" alt="Virgin America Sign" width="1200" height="1600" layout="responsive"></amp-img>
+   </amp-img>
+   <amp-img src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0007.webp" title="Welcome to Las Vegas" alt="Welcome to Las Vegas" width="1200" height="1600" layout="responsive">
+      <amp-img fallback src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0007.jpg" title="Welcome to Las Vegas" alt="Welcome to Las Vegas" width="1200" height="1600" layout="responsive"></amp-img>
+   </amp-img>
+   <amp-img src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0009.webp" title="Cancun Resort, Las Vegas" alt="Cancun Resort, Las Vegas" width="1600" height="1200" layout="responsive">
+      <amp-img fallback src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0009.jpg" title="Cancun Resort, Las Vegas" alt="Cancun Resort, Las Vegas" width="1600" height="1200" layout="responsive"></amp-img>
+   </amp-img>
+   <amp-img src="{{ site.baseurl }}/assets/images/2008/08/vegas/100_0966.webp" title="Meeting up with my Parents" alt="Meeting up with my Parents" width="2832" height="2128" layout="responsive">
+      <amp-img fallback src="{{ site.baseurl }}/assets/images/2008/08/vegas/100_0966.jpg" title="Meeting up with my Parents" alt="Meeting up with my Parents" width="2832" height="2128" layout="responsive"></amp-img>
+   </amp-img>
+   <amp-img src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0015.webp" title="Rainforest Cafe, Las Vegas" alt="Rainforest Cafe, Las Vegas" width="1200" height="1600" layout="responsive">
+      <amp-img fallback src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0015.jpg" title="Rainforest Cafe, Las Vegas" alt="Rainforest Cafe, Las Vegas" width="1200" height="1600" layout="responsive"></amp-img>
+   </amp-img>
+   <amp-img src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0017.webp" title="Rainforest Cafe, Las Vegas" alt="Rainforest Cafe, Las Vegas" width="1600" height="1200" layout="responsive">
+      <amp-img fallback src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0017.jpg" title="Rainforest Cafe, Las Vegas" alt="Rainforest Cafe, Las Vegas" width="1600" height="1200" layout="responsive"></amp-img>
+   </amp-img>
+   <amp-img src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0015.webp" title="MGM Grand, Las Vegas" alt="MGM Grand, Las Vegas" width="1200" height="1600" layout="responsive">
+      <amp-img fallback src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0015.jpg" title="MGM Grand, Las Vegas" alt="MGM Grand, Las Vegas" width="1200" height="1600" layout="responsive"></amp-img>
+   </amp-img>
+   <amp-img src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0028.webp" title="Mamma Mia, Mandalay Bay" alt="Mamma Mia, Mandalay Bay" width="1200" height="1600" layout="responsive">
+      <amp-img fallback src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0028.jpg" title="Mamma Mia, Mandalay Bay" alt="Mamma Mia, Mandalay Bay" width="1200" height="1600" layout="responsive"></amp-img>
+   </amp-img>
+   <amp-img src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0029.webp" title="Mamma Mia, Mandalay Bay" alt="Mamma Mia, Mandalay Bay" width="1600" height="1200" layout="responsive">
+      <amp-img fallback src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0029.jpg" title="Mamma Mia, Mandalay Bay" alt="Mamma Mia, Mandalay Bay" width="1600" height="1200" layout="responsive"></amp-img>
+   </amp-img>
+   <amp-img src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0031.webp" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1200" height="1600" layout="responsive">
+      <amp-img fallback src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0031.jpg" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1200" height="1600" layout="responsive"></amp-img>
+   </amp-img>
+   <amp-img src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0032.webp" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1600" height="1200" layout="responsive">
+      <amp-img fallback src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0032.jpg" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1600" height="1200" layout="responsive"></amp-img>
+   </amp-img>
+   <amp-img src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0034.webp" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1200" height="1600" layout="responsive">
+      <amp-img fallback src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0034.jpg" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1200" height="1600" layout="responsive"></amp-img>
+   </amp-img>
+   <amp-img src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0041.webp" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1600" height="1200" layout="responsive">
+      <amp-img fallback src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0041.jpg" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1600" height="1200" layout="responsive"></amp-img>
+   </amp-img>
+   <amp-img src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0044.webp" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1600" height="1200" layout="responsive">
+      <amp-img fallback src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0044.jpg" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1600" height="1200" layout="responsive"></amp-img>
+   </amp-img>
+   <amp-img src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0065.webp" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1600" height="1200" layout="responsive">
+      <amp-img fallback src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0065.jpg" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1600" height="1200" layout="responsive"></amp-img>
+   </amp-img>
+   <amp-img src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0067.webp" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1200" height="1600" layout="responsive">
+      <amp-img fallback src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0067.jpg" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1200" height="1600" layout="responsive"></amp-img>
+   </amp-img>
+   <amp-img src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0070.webp" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1600" height="1200" layout="responsive">
+      <amp-img fallback src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0070.jpg" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1600" height="1200" layout="responsive"></amp-img>
+   </amp-img>
+   <amp-img src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0071.webp" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1600" height="1200" layout="responsive">
+      <amp-img fallback src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0071.jpg" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1600" height="1200" layout="responsive"></amp-img>
+   </amp-img>
+   <amp-img src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0072.webp" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1600" height="1200" layout="responsive">
+      <amp-img fallback src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0072.jpg" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1600" height="1200" layout="responsive"></amp-img>
+   </amp-img>
+   <amp-img src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0073.webp" title="Tournament of Kings, The Exalibur" alt="Tournament of Kings, The Exalibur" width="1600" height="1200" layout="responsive">
+      <amp-img fallback src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0073.jpg" title="Tournament of Kings, The Exalibur" alt="Tournament of Kings, The Exalibur" width="1600" height="1200" layout="responsive"></amp-img>
+   </amp-img>
+   <amp-img src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0075.webp" title="Tournament of Kings, The Exalibur" alt="Tournament of Kings, The Exalibur" width="1600" height="1200" layout="responsive">
+      <amp-img fallback src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0075.jpg" title="Tournament of Kings, The Exalibur" alt="Tournament of Kings, The Exalibur" width="1600" height="1200" layout="responsive"></amp-img>
+   </amp-img>
+   <amp-img src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0076.webp" title="The Exalibur, Las Vegas" alt="The Exalibur, Las Vegas" width="1200" height="1600" layout="responsive">
+      <amp-img fallback src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0076.jpg" title="The Exalibur, Las Vegas" alt="The Exalibur, Las Vegas" width="1200" height="1600" layout="responsive"></amp-img>
+   </amp-img>
+   <amp-img src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0078.webp" title="The Exalibur, Las Vegas" alt="The Exalibur, Las Vegas" width="1200" height="1600" layout="responsive">
+      <amp-img fallback src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0078.jpg" title="The Exalibur, Las Vegas" alt="The Exalibur, Las Vegas" width="1200" height="1600" layout="responsive"></amp-img>
+   </amp-img>
+   <amp-img src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0090.webp" title="Back at the Las Vegas Airport" alt="Back at the Las Vegas Airport" width="1600" height="1200" layout="responsive">
+      <amp-img fallback src="{{ site.baseurl }}/assets/images/2008/08/vegas/IMG_0090.jpg" title="Back at the Las Vegas Airport" alt="Back at the Las Vegas Airport" width="1600" height="1200" layout="responsive"></amp-img>
+   </amp-img>
 </amp-carousel>
+
+
+

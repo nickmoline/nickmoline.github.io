@@ -17,11 +17,15 @@ Several months ago I got a [Fitbit](http://www.amazon.com/Fitbit-Wireless-Person
 
 <!--more-->
 
-<amp-img class="alignleft" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2011/06/214dffo-VQL._SL160_.jpg" alt="Fitbit" width="67" height="160" layout="intrinsic" lightbox></amp-img>
+<amp-img class="alignleft" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2011/06/214dffo-VQL._SL160_.webp" alt="Fitbit" width="67" height="160" layout="intrinsic" lightbox>
+  <amp-img fallback class="alignleft" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2011/06/214dffo-VQL._SL160_.jpg" alt="Fitbit" width="67" height="160" layout="intrinsic" lightbox></amp-img>
+</amp-img>
 I find myself constantly looking at it to see how many steps I&#8217;ve made during the day and checking the flower to see if it is healthy or wilted.
 
 My favorite feature is the activity mode.  When I do actual exercise and I hit the treadmill, I can switch it to activity mode and get down to the minute statistics of how well I did.  I love this tracker and highly recommend it for people who want to track their daily activity.
 
 Here are [some stats](http://www.fitbit.com/user/223FZ9) from tonight&#8217;s walk on the treadmill:
 
-<amp-img class="aligncenter" title="Treadmill Walk Statistics" alt="Treadmill Walk Statistics" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2011/06/Region-capture-6.png" width="547" height="321" data-recalc-dims="1" layout="intrinsic" lightbox></amp-img>
+<amp-img class="aligncenter" title="Treadmill Walk Statistics" alt="Treadmill Walk Statistics" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2011/06/Region-capture-6.webp" width="547" height="321" data-recalc-dims="1" layout="intrinsic" lightbox>
+  <amp-img fallback class="aligncenter" title="Treadmill Walk Statistics" alt="Treadmill Walk Statistics" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2011/06/Region-capture-6.png" width="547" height="321" data-recalc-dims="1" layout="intrinsic" lightbox></amp-img>
+</amp-img>

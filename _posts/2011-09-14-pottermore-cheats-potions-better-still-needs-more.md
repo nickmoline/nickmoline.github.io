@@ -19,7 +19,9 @@ Today Sara Moton commented on my previous post to say that they stopped giving a
 
 <!--more-->
 
-<amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2011/09/Region-capture-3-e1315985708703.png" alt="Owl from Pottermore saying &quot;No point for you!&quot;" title="Owl from Pottermore saying &quot;No point for you!&quot;" width="600" height="80" layout="intrinsic" lightbox></amp-img>
+<amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2011/09/Region-capture-3-e1315985708703.webp" alt="Owl from Pottermore saying &quot;No point for you!&quot;" title="Owl from Pottermore saying &quot;No point for you!&quot;" width="600" height="80" layout="intrinsic" lightbox>
+  <amp-img fallback src="{{ site.baseurl }}/wp-content/uploads/sites/4/2011/09/Region-capture-3-e1315985708703.png" alt="Owl from Pottermore saying &quot;No point for you!&quot;" title="Owl from Pottermore saying &quot;No point for you!&quot;" width="600" height="80" layout="intrinsic" lightbox></amp-img>
+</amp-img>
 
 Apparently there was another way of cheating with potions that I never tried cause I presumed they wouldn&#8217;t base things on system clock.  In what some are calling the &#8220;time turner&#8221; cheat of potion brewing, you can simply set your system clock ahead and return to the potion page, and skip the lengthy waiting/brewing period.
 

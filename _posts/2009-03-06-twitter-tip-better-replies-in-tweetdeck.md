@@ -20,7 +20,9 @@ I&#8217;ve found however, that I often want to track everything that is said to 
 
 <!--more-->
 
-<amp-img aria-describedby="caption-attachment-289"  title="@Replies tab on Twitter" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2009/03/region-capture-2.png" alt="@Replies tab on Twitter" width="799" height="218" layout="responsive" lightbox></amp-img>
+<amp-img title="@Replies tab on Twitter" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2009/03/region-capture-2.png" alt="@Replies tab on Twitter" width="799" height="218" layout="responsive" lightbox>
+  <amp-img fallback title="@Replies tab on Twitter" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2009/03/region-capture-2.png" alt="@Replies tab on Twitter" width="799" height="218" layout="responsive" lightbox></amp-img>
+</amp-img>
 
 1. Click on the Search icon in TweetDeck <amp-img title="Search Button in TweetDeck" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2009/03/region-capture-4.png" alt="Search Button in TweetDeck" width="26" height="30" layout="fixed">
 <amp-img title="Tweet Deck: What are you Searching for?" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2009/03/region-capture-5.png" alt="Tweet Deck: What are you Searching for?" width="447" height="69" layout="responsive" lightbox></amp-img>

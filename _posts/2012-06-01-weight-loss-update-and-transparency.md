@@ -30,7 +30,9 @@ I scheduled a consultation with a Bariatric Surgeon (<a href="http://gastricbypa
 
 There are basically 3 main types of Gastric surgery done commonly today (there are others, but these 3 are the most common and safest).  Gastric Bypass, Gastric Sleeve, and Gastric Band.  Bypass is the one credited with the most weight loss, but also has the biggest impact on your life and has many dangers related to it (as it reroutes part of your small intestine to decrease absorption of nutrients in foods, many people end up severely malnourished after getting Bypass).  Band is the most reversible (you put a small tube around the top of the stomach and insert saline solution into it to squeeze the stomach, tricking the body into thinking the stomach is smaller and killing your hunger) but has the least amount of weight loss success.
 
-<amp-img  title="DiagramGastricSleeve" alt="DiagramGastricSleeve" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2012/06/DiagramGastricSleeve.jpg" width="349" height="324" layout="intrinsic" lightbox></amp-img>
+<amp-img  title="Diagram Gastric Sleeve" alt="Diagram Gastric Sleeve" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2012/06/DiagramGastricSleeve.webp" width="349" height="324" layout="intrinsic" lightbox>
+    <amp-img fallback title="Diagram Gastric Sleeve" alt="Diagram Gastric Sleeve" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2012/06/DiagramGastricSleeve.jpg" width="349" height="324" layout="intrinsic" lightbox></amp-img>
+</amp-img>
 
 I&#8217;m going for the middle ground, Gastric Sleeve.  With Gastric Sleeve, they cut out a large portion of my stomach leaving a small cylindrical stomach.  Most surgeons will make it about the size of a banana (my mother&#8217;s did that for her).  My surgeon is a little more agressive and says it will be about the size of a Magic Marker.  With a stomach so small, naturally I will feel full with far less food (they say I will basically be able to &#8220;stomach&#8221; about 2-3 ounces of food per meal).  This, along with continuing my healthier diet and exercise will help me to return to the rapid progress I had in the beginning.
 
