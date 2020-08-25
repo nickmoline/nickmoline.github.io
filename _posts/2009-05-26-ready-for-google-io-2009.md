@@ -7,6 +7,7 @@ layout: post
 guid: http://www.nick.pro/?p=321
 permalink: /2009/05/26/ready-for-google-io-2009/
 cover: /wp-content/uploads/sites/4/2009/05/img_3843.jpg
+coverp: /wp-content/uploads/sites/4/2009/05/img_3843.webp
 dsq_thread_id: 403138908
 categories:
   - Events

@@ -8,6 +8,7 @@ guid: http://www.nick.pro/?p=869
 permalink: /2012/12/26/not-too-fat-to-journey-through-space-mountain/
 dsq_thread_id: 994484977
 cover: /wp-content/uploads/sites/4/2012/12/425391000121.jpg
+coverp: /wp-content/uploads/sites/4/2012/12/425391000121.webp
 categories:
     - Health
     - Travel

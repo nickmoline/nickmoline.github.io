@@ -7,6 +7,7 @@ layout: post
 guid: http://www.nick.pro/?p=515
 permalink: /2011/11/11/thank-you-veterans/
 cover: /wp-content/uploads/sites/4/2011/11/295794083_aa714407fa_o.jpg
+coverp: /wp-content/uploads/sites/4/2011/11/295794083_aa714407fa_o.webp
 dsq_thread_id: 469275461
 categories:
   - Events

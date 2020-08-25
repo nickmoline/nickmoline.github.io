@@ -8,6 +8,7 @@ guid: http://www.nick.pro/?p=770
 permalink: /2012/07/10/pre-op-appointment-day-down-86-pounds/
 dsq_thread_id: 759679849
 cover: /wp-content/uploads/sites/4/2012/11/1186278_63432651.jpg
+coverp: /wp-content/uploads/sites/4/2012/11/1186278_63432651.webp
 categories:
     - Health
 tags:

@@ -8,6 +8,7 @@ guid: http://www.nick.pro/?p=850
 permalink: /2012/11/12/losing-my-geek-cred-nick-pro-hacked/
 dsq_thread_id: 924150500
 cover: /wp-content/uploads/sites/4/2012/11/776464_87968784.jpg
+coverp: /wp-content/uploads/sites/4/2012/11/776464_87968784.webp
 categories:
     - Tech
 tags:

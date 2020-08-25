@@ -7,6 +7,7 @@ layout: post
 guid: https://www.nick.pro/?p=1314
 permalink: /2017/04/25/need-worry-https-everywhere/
 cover: /wp-content/uploads/sites/4/2017/04/https-featured-light.jpg
+coverp: /wp-content/uploads/sites/4/2017/04/https-featured-light.webp
 categories:
     - Writing
 tags: 

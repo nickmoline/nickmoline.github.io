@@ -8,6 +8,7 @@ guid: https://www.nick.pro/?p=1023
 permalink: /2014/04/18/walk-end-lupus/
 dsq_thread_id: 2622453572
 cover: /wp-content/uploads/sites/4/2014/04/524421_10151676446566922_1452315595_n-e1397860672160.jpg
+coverp: /wp-content/uploads/sites/4/2014/04/524421_10151676446566922_1452315595_n-e1397860672160.webp
 categories:
     - Charity
     - Events

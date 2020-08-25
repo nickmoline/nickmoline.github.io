@@ -7,6 +7,7 @@ layout: post
 guid: http://www.nick.pro/?p=466
 permalink: /2011/08/19/world-humanitarian-day-2011/
 cover: /wp-content/uploads/sites/4/2011/08/090a37248b294max.jpg
+coverp: /wp-content/uploads/sites/4/2011/08/090a37248b294max.webp
 dsq_thread_id: 390887016
 categories:
   - Charity

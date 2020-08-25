@@ -7,6 +7,7 @@ layout: post
 guid: https://www.nick.pro/?p=1336
 permalink: /2017/05/22/seven-blog-posts-three-days/
 cover: /wp-content/uploads/sites/4/2017/05/IMG_20170517_101308.jpg
+coverp: /wp-content/uploads/sites/4/2017/05/IMG_20170517_101308.webp
 categories:
     - Tech
     - Events

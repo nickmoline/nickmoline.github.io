@@ -7,6 +7,7 @@ layout: post
 guid: http://www.nick.pro/2007/06/03/google-developer-day-2007/
 permalink: /2007/06/03/google-developer-day-2007/
 cover: /wp-content/uploads/sites/4/2007/06/main-stage.jpg
+coverp: /wp-content/uploads/sites/4/2007/06/main-stage.webp
 dsq_thread_id: 390540714
 categories:
   - Events

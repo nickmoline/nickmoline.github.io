@@ -9,6 +9,7 @@ guid: https://www.nick.pro/?p=944
 permalink: /2013/04/23/warning-wordpress-brute-force-attack/
 dsq_thread_id: 1231682758
 cover: /wp-content/uploads/sites/4/2013/04/4746558506_9fe6e169b9_o.jpg
+coverp: /wp-content/uploads/sites/4/2013/04/4746558506_9fe6e169b9_o.webp
 categories:
     - Tech
 tags:

@@ -6,7 +6,8 @@ author: nickmoline
 layout: post
 guid: http://www.nick.pro/?p=171
 permalink: /2008/06/01/google-io-part-1-google-app-engine/
-cover: /wp-content/uploads/sites/4/2008/05/100_0920.JPG
+cover: /wp-content/uploads/sites/4/2008/05/100_0920.jpg
+coverp: /wp-content/uploads/sites/4/2008/05/100_0920.webp
 dsq_thread_id: 335274540
 categories:
   - Events

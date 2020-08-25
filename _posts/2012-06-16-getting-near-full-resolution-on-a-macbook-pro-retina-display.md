@@ -7,6 +7,7 @@ layout: post
 guid: http://www.nick.pro/?p=703
 permalink: /2012/06/16/getting-near-full-resolution-on-a-macbook-pro-retina-display/
 cover: /wp-content/uploads/sites/4/2012/06/100_0150-e1339900862458.jpg
+coverp: /wp-content/uploads/sites/4/2012/06/100_0150-e1339900862458.webp
 dsq_thread_id: 729291033
 categories:
     - Tech

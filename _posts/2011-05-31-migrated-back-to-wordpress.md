@@ -7,6 +7,7 @@ layout: post
 guid: http://www.nick.pro/?p=371
 permalink: /2011/05/31/migrated-back-to-wordpress/
 cover: /wp-content/uploads/sites/4/2011/05/halo_wordpress.jpg
+coverp: /wp-content/uploads/sites/4/2011/05/halo_wordpress.webp
 dsq_thread_id: 335290234
 categories:
   - Tech

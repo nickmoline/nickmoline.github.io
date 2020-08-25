@@ -7,6 +7,7 @@ layout: post
 guid: http://www.nick.pro/?p=335
 permalink: /2009/06/22/htc-magic-g2-vs-iphone-3g-and-3g-s/
 cover: /wp-content/uploads/sites/4/2009/05/3623812651_875669762a_o.jpg
+coverp: /wp-content/uploads/sites/4/2009/05/3623812651_875669762a_o.webp
 dsq_thread_id: 335274656
 categories:
   - Tech

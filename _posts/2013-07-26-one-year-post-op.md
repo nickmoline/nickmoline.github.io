@@ -9,6 +9,7 @@ guid: https://www.nick.pro/?p=969
 permalink: /2013/07/26/one-year-post-op/
 dsq_thread_id: 1536800157
 cover: /wp-content/uploads/sites/4/2013/07/calendar.jpg
+coverp: /wp-content/uploads/sites/4/2013/07/calendar.webp
 categories:
     - Health
 tags:

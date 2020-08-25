@@ -8,6 +8,7 @@ guid: http://www.nick.pro/?p=805
 permalink: /2012/07/24/time-clear-liquids/
 dsq_thread_id: 778679461
 cover: /wp-content/uploads/sites/4/2012/07/31965874.jpg
+coverp: /wp-content/uploads/sites/4/2012/07/31965874.webp
 categories:
     - Health
 tags:

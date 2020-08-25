@@ -7,6 +7,7 @@ layout: post
 guid: http://www.nick.pro/?p=217
 permalink: /2008/08/19/hours-away-from-vacation/
 cover: /assets/images/2008/08/vegas/IMG_0065.jpg
+coverp: /assets/images/2008/08/vegas/IMG_0065.webp
 dsq_thread_id: 5597437427
 categories:
   - Events

@@ -7,6 +7,7 @@ layout: post
 guid: http://www.nick.pro/2007/01/16/family-in-the-bay/
 permalink: /2007/01/16/family-in-the-bay/
 cover: /wp-content/uploads/sites/4/2007/01/Barbaras%20Dad%20Visit%20-%20Small.jpg
+coverp: /wp-content/uploads/sites/4/2007/01/Barbaras%20Dad%20Visit%20-%20Small.webp
 dsq_thread_id: 965197448
 categories:
   - Family

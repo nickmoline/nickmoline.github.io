@@ -7,6 +7,7 @@ layout: post
 guid: http://www.nick.pro/?p=523
 permalink: /2011/11/11/my-last-binary-day-nerdnewyear/
 cover: /wp-content/uploads/sites/4/2011/11/binary-code-1-1241810.jpg
+coverp: /wp-content/uploads/sites/4/2011/11/binary-code-1-1241810.webp
 dsq_thread_id: 469319868
 categories:
   - Events

@@ -7,6 +7,7 @@ layout: post
 guid: http://www.nick.pro/2007/03/25/tivo-making-a-come-back-watch-out-apple-tv/
 permalink: /2007/03/25/tivo-making-a-come-back-watch-out-apple-tv/
 cover: /wp-content/uploads/sites/4/2007/03/tivo-series-2.jpg
+coverp: /wp-content/uploads/sites/4/2007/03/tivo-series-2.webp
 dsq_thread_id: 925777409
 categories:
   - Tech

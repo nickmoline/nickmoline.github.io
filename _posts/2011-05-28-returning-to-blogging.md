@@ -7,6 +7,7 @@ layout: post
 guid: http://old.nick.pro/?p=363
 permalink: /2011/05/28/returning-to-blogging/
 cover: /wp-content/uploads/sites/4/2011/05/IMG_20110510_083940.jpg
+coverp: /wp-content/uploads/sites/4/2011/05/IMG_20110510_083940.webp
 dsq_thread_id: 935234611
 categories:
   - Writing

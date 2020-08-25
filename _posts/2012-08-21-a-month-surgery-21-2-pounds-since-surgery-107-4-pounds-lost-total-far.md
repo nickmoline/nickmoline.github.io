@@ -8,6 +8,7 @@ guid: http://www.nick.pro/?p=823
 permalink: /2012/08/21/a-month-surgery-21-2-pounds-since-surgery-107-4-pounds-lost-total-far/
 dsq_thread_id: 814193469"
 cover: /wp-content/uploads/sites/4/2012/11/1186278_63432651.jpg
+coverp: /wp-content/uploads/sites/4/2012/11/1186278_63432651.webp
 categories:
     - Health
 tags:

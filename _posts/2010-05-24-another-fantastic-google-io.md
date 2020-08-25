@@ -6,7 +6,8 @@ author: nickmoline
 layout: post
 guid: http://old.nick.pro/?p=361
 permalink: /2010/05/24/another-fantastic-google-io/
-cover: /wp-content/uploads/sites/4/2010/05/IMG_0190.JPG
+cover: /wp-content/uploads/sites/4/2010/05/IMG_0190.jpg
+coverp: /wp-content/uploads/sites/4/2010/05/IMG_0190.webp
 dsq_thread_id: 1011251109
 category:
   - Tech

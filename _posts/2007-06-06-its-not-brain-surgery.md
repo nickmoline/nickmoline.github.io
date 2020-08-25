@@ -7,6 +7,7 @@ layout: post
 guid: http://www.nick.pro/2007/06/06/its-not-brain-surgery/
 permalink: /2007/06/06/its-not-brain-surgery/
 cover: /wp-content/uploads/sites/4/2007/06/31965874.jpg
+coverp: /wp-content/uploads/sites/4/2007/06/31965874.webp
 dsq_thread_id: 965494451
 categories:
   - Work

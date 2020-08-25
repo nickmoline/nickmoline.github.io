@@ -8,6 +8,7 @@ guid: http://www.nick.pro/?p=811
 permalink: /2012/07/26/midnight-t-10-hours-go-time-stop-drinking-water/
 dsq_thread_id: 780399762
 cover: /wp-content/uploads/sites/4/2012/07/31965874.jpg
+coverp: /wp-content/uploads/sites/4/2012/07/31965874.webp
 categories:
     - Health
 tags:

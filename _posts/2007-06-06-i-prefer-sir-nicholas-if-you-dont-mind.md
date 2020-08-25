@@ -7,6 +7,7 @@ layout: post
 guid: http://www.nick.pro/2007/06/06/i-prefer-sir-nicholas-if-you-dont-mind/
 permalink: /2007/06/06/i-prefer-sir-nicholas-if-you-dont-mind/
 cover: /wp-content/uploads/sites/4/2007/06/32264243.jpg
+coverp: /wp-content/uploads/sites/4/2007/06/32264243.webp
 dsq_thread_id: 942045761
 categories:
   - General

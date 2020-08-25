@@ -9,6 +9,7 @@ permalink: /2014/06/22/wearing-computer-mit-2-decade-dream-realized/
 dsq_thread_id:
     - "2787744384"
 cover: /wp-content/uploads/sites/4/2014/06/IMG_20140619_202224.jpg
+coverp: /wp-content/uploads/sites/4/2014/06/IMG_20140619_202224.webp
 categories:
     - Tech
     - Travel

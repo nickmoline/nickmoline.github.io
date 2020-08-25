@@ -9,6 +9,7 @@ permalink: /2012/10/13/newsies-on-broadway/
 excerpt: "And the World will feel the fire and finally know that Nick has seen Newsies on Broadway"
 dsq_thread_id: 883197760
 cover: /wp-content/uploads/sites/4/2012/10/newsies11.jpg
+coverp: /wp-content/uploads/sites/4/2012/10/newsies11.webp
 categories:
     - Theatre
     - Travel

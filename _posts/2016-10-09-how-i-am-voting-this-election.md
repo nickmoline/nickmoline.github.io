@@ -9,6 +9,7 @@ permalink: /2016/10/09/how-i-am-voting-this-election/
 dsq_thread_id:
     - "5210846776"
 cover: /wp-content/uploads/sites/4/2016/10/clinton-trump.jpg
+coverp: /wp-content/uploads/sites/4/2016/10/clinton-trump.webp
 categories:
     - Politics
 tags:

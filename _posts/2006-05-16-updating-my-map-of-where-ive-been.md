@@ -7,6 +7,7 @@ layout: post
 guid: http://cap.portalkeeper.info/2006/05/16/updating-my-map-of-where-ive-been/
 permalink: /2006/05/16/updating-my-map-of-where-ive-been/
 cover: /assets/images/2006/05/map-us.png
+coverp: /assets/images/2006/05/map-us.webp
 dsq_thread_id: 927934375
 categories:
   - Travel

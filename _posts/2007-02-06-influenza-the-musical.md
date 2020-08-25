@@ -7,6 +7,7 @@ layout: post
 guid: http://www.nick.pro/2007/02/06/influenza-the-musical/
 permalink: /2007/02/06/influenza-the-musical/
 cover: /wp-content/uploads/sites/4/2007/02/influenza-sixth-period.jpg
+coverp: /wp-content/uploads/sites/4/2007/02/influenza-sixth-period.webp
 dsq_thread_id: 932293648
 categories:
   - Health

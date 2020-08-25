@@ -8,6 +8,7 @@ guid: http://www.nick.pro/?p=696
 permalink: /2012/06/01/weight-loss-update-and-transparency/
 dsq_thread_id: 711363807
 cover: /wp-content/uploads/sites/4/2012/11/1186278_63432651.jpg
+coverp: /wp-content/uploads/sites/4/2012/11/1186278_63432651.webp
 categories:
     - Health
 tags:

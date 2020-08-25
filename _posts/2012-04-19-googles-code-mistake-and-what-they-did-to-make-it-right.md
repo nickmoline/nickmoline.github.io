@@ -8,6 +8,7 @@ layout: post
 guid: http://www.nick.pro/?p=651
 permalink: /2012/04/19/googles-code-mistake-and-what-they-did-to-make-it-right/
 cover: /wp-content/uploads/sites/4/2012/04/Region-capture-15.png
+coverp: /wp-content/uploads/sites/4/2012/04/Region-capture-15.webp
 dsq_thread_id: 656832329
 categories:
    - Events

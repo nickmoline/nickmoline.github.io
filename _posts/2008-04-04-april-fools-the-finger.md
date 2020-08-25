@@ -7,6 +7,7 @@ layout: post
 guid: http://www.nick.pro/2008/04/04/april-fools-the-finger/
 permalink: /2008/04/04/april-fools-the-finger/
 cover: /wp-content/uploads/sites/4/2008/04/got-the-finger-large.jpg
+coverp: /wp-content/uploads/sites/4/2008/04/got-the-finger-large.webp
 dsq_thread_id: 639387456
 categories:
   - Events

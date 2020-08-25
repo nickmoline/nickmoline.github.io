@@ -9,6 +9,7 @@ guid: https://www.nick.pro/?p=996
 permalink: /2013/12/12/automatically-post-wordpress-blog-google-jetpack/
 dsq_thread_id: 2046965126
 cover: /wp-content/uploads/sites/4/2013/12/Region-capture-3.png
+coverp: /wp-content/uploads/sites/4/2013/12/Region-capture-3.webp
 categories:
     - Tech
 tags:

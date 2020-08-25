@@ -8,6 +8,7 @@ guid: https://www.nick.pro/?p=926
 permalink: /2013/04/16/looking-at-life-from-the-other-side-of-the-glass/
 dsq_thread_id: 1214709812
 cover: /wp-content/uploads/sites/4/2013/04/cropped.jpg
+coverp: /wp-content/uploads/sites/4/2013/04/cropped.webp
 categories:
     - Tech
     - Wearables

@@ -7,6 +7,7 @@ layout: post
 guid: http://www.nick.pro/?p=315
 permalink: /2009/04/24/internetcomputer-classics-dieing-off/
 cover: /wp-content/uploads/sites/4/2009/04/galaxy-quest-geocities-parody.png
+coverp: /wp-content/uploads/sites/4/2009/04/galaxy-quest-geocities-parody.webp
 dsq_thread_id: 957777690
 categories:
   - Tech
