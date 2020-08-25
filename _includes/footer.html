@@ -30,4 +30,7 @@
         Published with <a href="https://jekyllrb.com/">Jekyll</a>
         using theme based on and adapted from <a href="https://github.com/samanyougarg/hanuman">Hanuman</a>.  Page Last Generated: <time datetime="{{ site.time | date_to_xmlschema }}">{{site.time|date:"%Y-%m-%d"}}</time>
     </small>
+    {% if page.last_modified_at %}
+        <small>Page Last Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{{ page.last_modified_at | date:"%B %-d, %Y %H:%M:%S" }}</time></small>
+    {% endif %}
 </footer>

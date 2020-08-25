@@ -48,6 +48,7 @@ plugins:
     - jekyll-redirect-from
     - jekyll-sitemap
     - jemoji
+    - jekyll-last-modified-at
 
 safe: false
 lsi: false
