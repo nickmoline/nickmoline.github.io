@@ -6,30 +6,7 @@ author: nickmoline
 layout: post
 guid: http://265336902
 permalink: /2004/03/21/jmac-rules/
-Views:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "927384135"
-  - "927384135"
-readability_ARI:
-  - "4.3"
-  - "4.3"
-readability_CLI:
-  - "5.1"
-  - "5.1"
-readability_LIX:
-  - "9.9"
-  - "9.9"
-word_stats_word_count:
-  - "59"
-  - "59"
-word_stats_keywords:
-  - s:2:"N;";
-  - s:2:"N;";
-word_stats_cached:
-  - "1"
-  - "1"
+dsq_thread_id: 927384135
 categories:
   - Blogging
 ---

@@ -6,36 +6,15 @@ author: nickmoline
 layout: post
 guid: http://818299827
 permalink: /2004/03/21/communication/
-Views:
-  - "2"
-  - "2"
-readability_ARI:
-  - "11.6"
-  - "11.6"
-readability_CLI:
-  - "7.3"
-  - "7.3"
-readability_LIX:
-  - "31.8"
-  - "31.8"
-word_stats_word_count:
-  - "548"
-  - "548"
-word_stats_keywords:
-  - 's:178:"a:10:{s:7:"article";i:4;s:4:"sure";i:4;s:4:"team";i:4;s:6:"church";i:9;s:5:"clean";i:3;s:4:"said";i:3;s:6:"people";i:3;s:16:"responsibilities";i:3;s:4:"help";i:6;s:4:"task";i:3;}";'
-  - 's:178:"a:10:{s:7:"article";i:4;s:4:"sure";i:4;s:4:"team";i:4;s:6:"church";i:9;s:5:"clean";i:3;s:4:"said";i:3;s:6:"people";i:3;s:16:"responsibilities";i:3;s:4:"help";i:6;s:4:"task";i:3;}";'
-word_stats_cached:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "984591127"
+dsq_thread_id: 984591127
 categories:
   - Love
 ---
-_Note in May 2006 &#8211; Once again I find an article that has been edited by my ex, I am not sure what was in the beginning of this article before, but I&#8217;m sure it was an article about my trip to Arkansas with the SWD to a Team Leadership Conference.Â  It was a very nice article about what the conference was about, communicating.Â  I am quite annoyed to find it removed._  
-<!--more-->
+_Note in May 2006 &#8211; Once again I find an article that has been edited by my ex, I am not sure what was in the beginning of this article before, but I&#8217;m sure it was an article about my trip to Arkansas with the SWD to a Team Leadership Conference.  It was a very nice article about what the conference was about, communicating.  I am quite annoyed to find it removed._  
 
 In other news, this past week I received a letter from Gail Hallman, who is now ERCC&#8217;s Administrative Director now that Jim Cantleberry is having to leave the church, assigning me to clean the church in a specific time-slot, without ever asking me if I was willing or able to serve in this regard
+
+<!--more-->
 
 I wrote her an e-mail yesterday to express this concern
 
