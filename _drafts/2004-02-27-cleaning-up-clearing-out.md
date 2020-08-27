@@ -6,29 +6,7 @@ author: nickmoline
 layout: post
 guid: http://966049634
 permalink: /2004/02/27/cleaning-up-clearing-out/
-Views:
-  - "1"
-  - "1"
-readability_ARI:
-  - "9.6"
-  - "9.6"
-readability_CLI:
-  - "6.3"
-  - "6.3"
-readability_LIX:
-  - "27.5"
-  - "27.5"
-word_stats_word_count:
-  - "963"
-  - "963"
-word_stats_keywords:
-  - 's:402:"a:24:{s:4:"call";i:3;s:4:"work";i:5;s:9:"metrotime";i:4;s:6:"harold";i:9;s:4:"wore";i:3;s:5:"shirt";i:3;s:7:"because";i:5;s:4:"said";i:3;s:7:"decided";i:4;s:7:"against";i:3;s:4:"make";i:3;s:4:"want";i:3;s:4:"went";i:5;s:4:"time";i:4;s:4:"ugly";i:4;s:6:"better";i:3;s:5:"phone";i:3;s:7:"working";i:3;s:4:"come";i:3;s:4:"nice";i:3;s:6:"change";i:3;s:6:"really";i:3;s:7:"website";i:3;s:9:"computers";i:3;}";'
-  - 's:402:"a:24:{s:4:"call";i:3;s:4:"work";i:5;s:9:"metrotime";i:4;s:6:"harold";i:9;s:4:"wore";i:3;s:5:"shirt";i:3;s:7:"because";i:5;s:4:"said";i:3;s:7:"decided";i:4;s:7:"against";i:3;s:4:"make";i:3;s:4:"want";i:3;s:4:"went";i:5;s:4:"time";i:4;s:4:"ugly";i:4;s:6:"better";i:3;s:5:"phone";i:3;s:7:"working";i:3;s:4:"come";i:3;s:4:"nice";i:3;s:6:"change";i:3;s:6:"really";i:3;s:7:"website";i:3;s:9:"computers";i:3;}";'
-word_stats_cached:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "3259840486"
+dsq_thread_id: 3259840486
 categories:
   - Injustice
   - Stress
