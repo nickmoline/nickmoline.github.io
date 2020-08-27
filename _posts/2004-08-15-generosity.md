@@ -6,31 +6,13 @@ author: nickmoline
 layout: post
 guid: http://779627279
 permalink: /2004/08/15/generosity/
-dsq_thread_id:
-  - "957523706"
-  - "957523706"
-readability_ARI:
-  - "10.4"
-  - "10.4"
-readability_CLI:
-  - "7"
-  - "7"
-readability_LIX:
-  - "26.1"
-  - "26.1"
-word_stats_word_count:
-  - "279"
-  - "279"
-word_stats_keywords:
-  - 's:37:"a:2:{s:4:"help";i:3;s:5:"tires";i:3;}";'
-  - 's:37:"a:2:{s:4:"help";i:3;s:5:"tires";i:3;}";'
-word_stats_cached:
-  - "1"
-  - "1"
+dsq_thread_id: 957523706
 categories:
+  - Life
+tags:
   - Praises
 ---
-I am starting a new category in this blog called Praises. Here I will report some good things that are happening in my life, this way I can hit the Praises category button and look back at the blessings in my life.
+I am starting a new tag in this blog called Praises. Here I will report some good things that are happening in my life, this way I can hit the Praises category button and look back at the blessings in my life.
 
 <!--more-->
 

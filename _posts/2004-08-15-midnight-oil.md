@@ -6,27 +6,7 @@ author: nickmoline
 layout: post
 guid: http://1810861429
 permalink: /2004/08/15/midnight-oil/
-dsq_thread_id:
-  - "955147551"
-  - "955147551"
-readability_ARI:
-  - "8.6"
-  - "8.6"
-readability_CLI:
-  - "7.4"
-  - "7.4"
-readability_LIX:
-  - "26.2"
-  - "26.2"
-word_stats_word_count:
-  - "473"
-  - "473"
-word_stats_keywords:
-  - 's:169:"a:10:{s:7:"battery";i:7;s:6:"backup";i:5;s:4:"well";i:3;s:5:"modem";i:7;s:8:"computer";i:5;s:4:"dial";i:3;s:4:"took";i:4;s:5:"hours";i:3;s:5:"tried";i:3;s:4:"work";i:3;}";'
-  - 's:169:"a:10:{s:7:"battery";i:7;s:6:"backup";i:5;s:4:"well";i:3;s:5:"modem";i:7;s:8:"computer";i:5;s:4:"dial";i:3;s:4:"took";i:4;s:5:"hours";i:3;s:5:"tried";i:3;s:4:"work";i:3;}";'
-word_stats_cached:
-  - "1"
-  - "1"
+dsq_thread_id: 955147551
 categories:
   - Work
 ---
@@ -34,7 +14,7 @@ I came to the SWDCMA office at about 6:00 Saturday afternoon. As you can see fro
 
 <!--more-->
 
-The reason I came here was to install the [Battery Backup unit](https://www.nick.pro/2004/08/15/generosity/) I mentioned in my earlier post, as well as install a modem that we purchased at the same time in another computer that was going to go to a home user and therefore needed a modem to allow it to dial in.
+The reason I came here was to install the Battery Backup unit I [mentioned in my earlier post]({% post_url 2004-08-15-generosity %}), as well as install a modem that we purchased at the same time in another computer that was going to go to a home user and therefore needed a modem to allow it to dial in.
 
 Well the Battery Backup was installed easily enough. I unhooked the old battery backup, hooked the new one up, setup automated monitoring of the battery status on the server, then moved the old battery backup _(which still worked fine but didn&#8217;t provide battery power long enough for the highly important use of the servers)_ to a workstation in the network where the battery backup it had was not functioning&#8230;. at all.
 

@@ -8,7 +8,7 @@ guid: http://www.nick.pro/2006/05/30/personality-test/
 permalink: /2006/05/30/personality-test/
 dsq_thread_id: 925811332
 categories:
-  - General
+  - Life
 tags:
   - Personality Test
 ---

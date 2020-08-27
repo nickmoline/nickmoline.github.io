@@ -7,8 +7,10 @@ layout: post
 guid: http://1010066572
 permalink: /2003/07/11/pop-into-internet-pop-culture/
 categories:
-  - Blogging
   - Writing
+tags:
+  - Blogging
+  - Fan Fiction
 ---
 Earlier this week I decided to start entering more of the internet culture, I&#8217;ve been a webmaster since 1995 and I&#8217;ve kinda got caught in my old ways when I started doing perl programming and such. I noticed that more recent aspects internet culture have gone ignored by me. Last Friday I started publishing my first Fanfic. Unlike what a lot of you would think, I did NOT base it on the _Star Trek_ universe (perhaps I will write my next fanfic in this universe), but instead I picked a show with lighter content to get started, I picked to base the fanfic on the show _Lizzie McGuire_ (Disney Channel and ABC).
 
