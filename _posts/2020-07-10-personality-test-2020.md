@@ -28,12 +28,11 @@ After taking the test I was [graded overall](https://www.16personalities.com/pro
 
 ## Summary
 
-|-----------|------------------------|
 | Type:     | Turbulent [Mediator]   |
 | Code:     | INFP-T                 |
 | Role:     | [Diplomat]             |
 | Strategy: | [Constant Improvement] |
-|-----------|------------------------|
+
 
 ### Mind: [Introverted] (82%)
 The mind category is the one personality characteristic everyone knows, "Introverted" vs "Extroverted."  I'm not surprised to find out that I'm graded as mostly an Introvert, **82% [Introverted]** and 18% Extroverted.  Being an introvert doesn't mean I don't like people or that I don't like being around people, quite the contrary.  As an Introvert I make a relatively few friendships but those friendships I do cultivate are very deep friendships.
