@@ -16,7 +16,7 @@ tags:
   - Blogging
   - Software
 ---
-This [w.bloggar](http://web.archive.org/web/20090503155719/http://www.wbloggar.com/) thingy is pretty cool, nice to be able to work on the blog without signing into the site first and stuff, not to mention it makes it like writing an e-mail, all yall that do this kind of stuff should give it a try.
+This [w.bloggar](http://web.archive.org/web/20090503155719/http://www.wbloggar.com/) thingy is pretty cool, nice to be able to work on the blog without signing into the site first and stuff, not to mention it makes it like writing an e-mail, all y'all that do this kind of stuff should give it a try.
 
 Ug today was absolutely boring, I normally watch a few Disney Channel shows on Saturdays but they are doing a Kim Possible Marathon and I don't really care about Kim Possible, someone kill me now!
 
@@ -51,4 +51,4 @@ So anyway I had a great time exercising my character's insanity, it is the most 
 | Dependent:            | High      |
 | Obsessive-Compulsive: | High      |
 
-That's it for this &#8220;episode&#8221; of my blog, ttfn.
+That's it for this &#8220;episode&#8221; of my blog, _TTFN_.
