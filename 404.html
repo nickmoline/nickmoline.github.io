@@ -6,19 +6,11 @@ permalink: /404.html
 <main id="content" role="main" class="content">
     <section id="error">
         <h2>404: File Not Found</h2>
-        <p>Sorry, the page you have requested is unavailable.  It is possible this is a page that has not yet been migrated from the old version.</p>
+        <p>Sorry, the page you have requested is unavailable.  You can check out the [home page]({{ site.url }}) or check out one of the recent blog posts below.</p>
     </section>
 
     <hr>
-
-    <section id="migration">
-        <h3><a href="{% post_url 2020-08-20-migrating-to-jekyll %}#migration">Migration Progress</a></h3>
-        <p>The blog posts on this site were <a href="{% post_url 2020-08-20-migrating-to-jekyll %}">formerly hosted in WordPress</a>.  I did an export and migrated the posts, but I wanted to take the time to format them properly.  The guage below shows the current status of that migration.</p>
-        {% include migration-progress.html %}
-    </section>
-
-    <hr>
-
+    
     <section id="blog">
         <h3>You may be interested in one of these <a href="{{ site.baseurl }}/blog">recent blog posts</a></h3>
         <div class="cf frame">

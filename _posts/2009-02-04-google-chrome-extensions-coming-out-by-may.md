@@ -34,4 +34,4 @@ I&#8217;d say this is a safe bet that if Extensions are not released BEFORE Goog
 
 **UPDATE 2 (June 3rd):** The Session video is now up on youtube, I&#8217;ve embedded it below:
 
-<amp-youtube data-videoid="g03bcb70kFQ" layout="responsive" height="480" height="360"></amp-youtube>
+<amp-youtube data-videoid="g03bcb70kFQ" layout="responsive" width="480" height="360"></amp-youtube>

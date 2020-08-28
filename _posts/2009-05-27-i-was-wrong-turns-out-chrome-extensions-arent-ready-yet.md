@@ -36,4 +36,4 @@ Am I totally disappointed? In this yes, but in I/O, for one thing, it was announ
 
 **UPDATE:** The Session video is now up on youtube, I&#8217;ve embedded it below:
 
-<amp-youtube data-videoid="g03bcb70kFQ" layout="responsive" height="480" height="360"></amp-youtube>
+<amp-youtube data-videoid="g03bcb70kFQ" layout="responsive" width="480" height="360"></amp-youtube>

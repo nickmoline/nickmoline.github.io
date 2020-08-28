@@ -29,7 +29,7 @@ Last night I was trying to think about where to put my stocking, and when it daw
 > He was busy coding, no time for bed  
 > Visions of source code, danced through his head
 > 
-> Wearing a thinkgeek t-shirt, and a Tux cap,  
+> Wearing a ThinkGeek t-shirt, and a Tux cap,  
 > He [tracked Santa Claus](http://www.noradsanta.org/) on the Google Earth App
 > 
 > When out on the lawn there arose such a clatter,  
@@ -75,9 +75,9 @@ Last night I was trying to think about where to put my stocking, and when it daw
 > Each tech gift filled him with joy and hope
 > 
 > My story is done, to me it did Psych  
-> A Geeky Christmas to all, if you enjoyed it click <amp-facebook-like width="90" height="20" layout="fixed" data-layout="button_count" data-href="{% post_url 2011-12-24-the-geeks-night-before-christmas %}"></amp-facebook-like>
+> A Geeky Christmas to all, if you enjoyed it click <amp-facebook-like width="90" height="20" layout="fixed" data-layout="button_count" data-href="{{ site.url }}{% post_url 2011-12-24-the-geeks-night-before-christmas %}"></amp-facebook-like>
 
-<amp-img  src="{{ site.baseurl }}/wp-content/uploads/sites/4/2011/12/IMAG0124.webp" alt="TV Fireplace with 'Mantle' Shelf" title="TV Fireplace with 'Mantle' Shelf" width="1152" height="2048" layout="responsive" lightbox>
-  <amp-img fallback src="{{ site.baseurl }}/wp-content/uploads/sites/4/2011/12/IMAG0124.jpg" alt="TV Fireplace with 'Mantle' Shelf" title="TV Fireplace with 'Mantle' Shelf" width="1152" height="2048" layout="responsive" lightbox>
+<amp-img src="{{ site.url }}{{ site.baseurl }}/wp-content/uploads/sites/4/2011/12/IMAG0124.webp" alt="TV Fireplace with 'Mantle' Shelf" title="TV Fireplace with 'Mantle' Shelf" width="1152" height="2048" layout="responsive" lightbox>
+  <amp-img fallback src="{{ site.url }}{{ site.baseurl }}/wp-content/uploads/sites/4/2011/12/IMAG0124.jpg" alt="TV Fireplace with 'Mantle' Shelf" title="TV Fireplace with 'Mantle' Shelf" width="1152" height="2048" layout="responsive" lightbox>
 </amp-img>  
 _My Makeshift Mantle that inspired this poem, technically speaking this is an LCD TV, not a Plasma TV, but Plasma flowed better_

@@ -106,3 +106,7 @@ out of <strong>{{ total_post_count | floor }}</strong> posts migrated (<strong>{
 <strong>{{ site.pending.size }}</strong> posts remaining to migrate.
 ```
 {% endraw %}
+
+### UPDATE 2020-08-27
+
+I've finished the migration, migrating all of the 212 posts from my old blog, as such I've flipped the gauges that you see on this page and others to a fixed 100% complete gauge.  While this code worked very well, there's no reason for it to be making additional math updates now that it is always going to come across as 100%.  The code snips above are still how to make the gauge dynamic.
