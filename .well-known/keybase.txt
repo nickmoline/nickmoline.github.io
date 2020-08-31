@@ -1,3 +1,7 @@
+nickmoline
+Nick Moline
+Senior Software Engineer at Justia.com
+Sunnyvale, CA, USA
 ==================================================================
 https://keybase.io/nickmoline
 --------------------------------------------------------------------
@@ -20,13 +24,13 @@ To do so, I am signing this object:
       "username": "nickmoline"
     },
     "merkle_root": {
-      "ctime": 1598259076,
-      "hash": "63ca5c978ba6426adf97d391acccca61b7d35c7f4acef819d46b897db13990cf7bea86bc8380887f3edb2bee49db4abf38d517f5284604888ad1524b4193a6be",
-      "hash_meta": "40e66ca6412a9c7345766b98f8828b8c0489a57c43b351254c8b34976749bb3f",
-      "seqno": 17366532
+      "ctime": 1598907992,
+      "hash": "0868d479cf5383e62024134f591d7aa3e75d831d0b898d4db90e91aad78bdc717952428e206dc4bbe041dc5d2b9d24d143bf1cf8e7816433443e27edab35bc19",
+      "hash_meta": "908fe00d037c502c8cba981fe5337726c4203afe88297aa63dce527c4e18cd8d",
+      "seqno": 17437129
     },
     "service": {
-      "entropy": "H1TlDoLTi0VHXsRacKlk/jph",
+      "entropy": "6LLyo/nzY7FJCnQqPu2GUOxo",
       "hostname": "www.nickmoline.com",
       "protocol": "https:"
     },
@@ -37,16 +41,16 @@ To do so, I am signing this object:
     "name": "keybase.io go client",
     "version": "5.5.0"
   },
-  "ctime": 1598259090,
+  "ctime": 1598908013,
   "expire_in": 504576000,
-  "prev": "bbf609f5b09c28ec2009730e9f89d3dbc241fac13c6838a850a154e26c77e883",
-  "seqno": 64,
+  "prev": "c826ab1b93cab654a7ef5a47eb768debe62c61442e7b9141ba88ccfdd42ada22",
+  "seqno": 67,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgSH7e/Cvd7wwcMMJaRJIUZpm3INzzzeZTdb4m1Nq0yYsKp3BheWxvYWTESpcCQMQgu/YJ9bCcKOwgCXMOn4nT28JB+sE8aDioUKFU4mx36IPEIPMJAI6kkm0DLXnlLmJVGOa1wQKxfk3OIdllHBOgQv6xAgHCo3NpZ8RADkxPDlP9YmXY827I6ut+bCIMhc/X2BiJo6Wv4zEQEqhgMEFsDriBr9KDYl5R4tAiSvO1Shnrh9vkszL5m+/LCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMy1AedOi5OWTv54POFrUuVv0DwngFvPBmP3IfICFGQoo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgSH7e/Cvd7wwcMMJaRJIUZpm3INzzzeZTdb4m1Nq0yYsKp3BheWxvYWTESpcCQ8QgyCarG5PKtlSn71pH63aN6+YsYUQue5FBuojM/dQq2iLEIOEti1HqFFH+VJxLQVDZa2hZ3CHjAn5mmpp+/v1AcrAtAgHCo3NpZ8RALNWSxKUVwHdmgXPsYc1elonhzxzZTc0Dn3Kr+z4+oHjpLXB0yweJZTcHHhAkZmsB395HIvZsttQIW1cNPLM3CqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIL/NCOZB3Qsp6jCRiNCwhm5RjmQIZTOmZi7/DmV17KrJo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
