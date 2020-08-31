@@ -25,6 +25,7 @@
   {% endfor %}{% endif %}
   {% if page.tags.size > 0 %}{% for tag in page.tags %}<meta property="article:tag" content="{{ tag }}" />
   {% endfor %}{% endif %}
+  <meta property="fb:app_id" content="169883096406442" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="{% if title %}{{ title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt }}{% else %}{{ site.description }}{% endif %}" />
