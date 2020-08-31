@@ -6,39 +6,35 @@
   <meta name="viewport" content="width=device-width,minimum-scale=1">
   <link rel="shortcut icon" href="{{ site.url }}{{ site.baseurl }}{{ site.favicon }}" type="image/png" />
 
-  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <title>{% if page.title %}{{ page.title | escape }} | {{ site.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
 
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | escape }}{% else %}{{ site.description | escape }}{% endif %}">
 
   <meta property="og:site_name" content="{{ site.title }}" />
-  <meta property="og:type" content="website" />
+  <meta property="og:type" content="{% if page.format == 'post' %}article{% else %}website{% endif %}" />
   <meta property="og:title" content="{% if title %}{{ title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-  <meta property="og:description" content="{% if excerpt %}{{ excerpt }}{% elsif page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
-  <meta property="og:url" content="{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | remove: '/' }}" />
+  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt }}{% else %}{{ site.description }}{% endif %}" />
+  <meta property="og:url" content="{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url }}" />
   <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% else %}{{ site.cover }}{% endif %}" />
-  <meta property="article:publisher" content="https://www.facebook.com/{{ site.facebook }}" />{% if excerpt %}
+  {% if page.coverp %}<meta property="og:image" content="{{ page.coverp }}" />{% endif %}
+  <meta property="article:publisher" content="https://www.facebook.com/{{ site.facebook }}" />
   <meta property="article:author" content="https://www.facebook.com/{{ site.facebook }}" />
   <meta property="article:published_time" content="{% if page.date %}{{ page.date | date_to_xmlschema }}{% elsif post.date %}{{ post.date | date_to_xmlschema }}{% endif %}" />
-  <meta property="article:modified_time" content="{% if page.date %}{{ page.date | date_to_xmlschema }}{% elsif post.date %}{{ post.date | date_to_xmlschema }}{% endif %}" />{% endif %}{% if page.tags.size > 0 %}
-  <meta property="article:tag" content="{{ page.tags | first | capitalizeall }}" />{% endif %}
+  <meta property="article:modified_time" content="{% if page.date %}{{ page.date | date_to_xmlschema }}{% elsif post.date %}{{ post.date | date_to_xmlschema }}{% endif %}" />
+  {% if page.categories.size > 0 %}{% for category in page.categories %}<meta property="article:tag" content="{{ category }}" />
+  {% endfor %}{% endif %}
+  {% if page.tags.size > 0 %}{% for tag in page.tags %}<meta property="article:tag" content="{{ tag }}" />
+  {% endfor %}{% endif %}
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="{% if title %}{{ title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-  <meta name="twitter:description" content="{% if excerpt %}{{ excerpt }}{% elsif page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
-  <meta name="twitter:url" content="{{ site.url }}{{ site.baseurl }}" />
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt }}{% else %}{{ site.description }}{% endif %}" />
+  <meta name="twitter:url" content="{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url }}" />
   <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% else %}{{ site.cover }}{% endif %}" />
-  <meta name="twitter:label1" content="Written by" />
-  <meta name="twitter:data1" content="{{ site.title }}" />{% if page.tags.size > 0 %}
-  <meta name="twitter:label2" content="Filed under" />
-  <meta name="twitter:data2" content="{{ page.tags | first | capitalizeall }}" />{% endif %}
   <meta name="twitter:site" content="@{{ site.twitter }}" />
-  <meta name="twitter:creator" content="@{{ site.twitter }}" />{% if excerpt %}
-  <meta property="og:image:width" content="1400" />
-  <meta property="og:image:height" content="933" />{% else %}
-  <meta property="og:image:width" content="2000" />
-  <meta property="og:image:height" content="666" />{% endif %}
+  <meta name="twitter:creator" content="@{{ site.twitter }}" />
 
   <link rel="canonical" href="{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url }}" />
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}/feed.xml">
 
   <script type="application/ld+json">
   {% include metadata.json %}
