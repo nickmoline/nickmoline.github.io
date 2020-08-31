@@ -22,7 +22,7 @@ I decided the time had come to give the sites a drastic overhaul, and I decided 
 
 While an excellent [wordpress plugin](https://wordpress.org/plugins/jekyll-exporter/) to export posts into Jekyll compatible markdown files complete with front-matter exists, I wanted to take this opportunity to make my site 100% [AMP Only](https://amp.dev/) which meant either scripting a change between tags blocked by AMP, or going through the posts one by one and cleaning up the markup to make sure it is compatible with AMP.
 
-### <abbr title="Accelerated Mobile Pages">AMP</abbr>
+### <abbr title="Accelerated Mobile Pages">AMP</abbr> Only
 
 For those readers who do not know, AMP is an HTML5 framework that [puts limits](https://amp.dev/about/how-amp-works/) on which tags are allowed and how dynamic scripts are executed.  The reason for this is speed, by following these limits [Google](https://developers.google.com/amp), [Bing](https://blogs.bing.com/Webmaster-Blog/September-2018/Introducing-Bing-AMP-viewer-and-Bing-AMP-cache), and [others](https://blog.cloudflare.com/accelerated-mobile/) are able to cache the content of the pages in such a way that they can display the AMP content nearly instantly.
 
