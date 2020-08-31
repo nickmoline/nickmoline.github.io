@@ -12,7 +12,7 @@ cover: /wp-content/uploads/sites/4/2017/06/14188353_10108109530502740_4812791936
 coverp: /wp-content/uploads/sites/4/2017/06/14188353_10108109530502740_481279193677981512_o-e1496532419588.webp
 categories:
     - Book
-    - Theater
+    - Theatre
 tags:
     - Harry Potter
     - Harry Potter Lexicon

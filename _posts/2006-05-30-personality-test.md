@@ -18,7 +18,7 @@ Well it seems both [JMac](https://web.archive.org/web/20060619172350/http://www.
 
 Advanced Global Personality Test Results:
 
-|Percentage Guage|#|Trait|
+|Percentage Gauge|#|Trait|
 |----------------|-|-----|
 |<progress value="0.33"></progress>|33%|[Extraversion](http://similarminds.com/types/extraversion.html)|
 |<progress value="0.26"></progress>|26%|Stability|
