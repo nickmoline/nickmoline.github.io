@@ -71,3 +71,6 @@ exclude:
     - vendor
     - .travis.yml
     - .gitignore
+
+include:
+    - .well-knwon
