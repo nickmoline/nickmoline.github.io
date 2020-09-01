@@ -5,6 +5,7 @@ date: 2003-09-23T00:47:34-07:00
 author: nickmoline
 layout: post
 guid: http://1472542912
+dsq_thread_id: 20030923004734
 permalink: /2003/09/23/following-fedex/
 categories:
   - Work

@@ -5,6 +5,7 @@ date: 2003-09-02T22:01:03-07:00
 author: nickmoline
 layout: post
 guid: http://629393097
+dsq_thread_id: 20030902220103
 permalink: /2003/09/02/headaches-hatred-worries/
 categories:
   - Work

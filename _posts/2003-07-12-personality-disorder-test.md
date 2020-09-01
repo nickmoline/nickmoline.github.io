@@ -6,6 +6,7 @@ author: nickmoline
 layout: post
 guid: http://1074022023
 permalink: /2003/07/12/personality-disorder-test/
+dsq_thread_id: 20030712211515
 categories:
   - Writing
   - Life

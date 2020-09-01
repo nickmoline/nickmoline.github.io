@@ -6,6 +6,7 @@ author: nickmoline
 layout: post
 guid: http://1010066572
 permalink: /2003/07/11/pop-into-internet-pop-culture/
+dsq_thread_id: 20030711021017
 categories:
   - Writing
 tags:

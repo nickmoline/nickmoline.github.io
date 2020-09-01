@@ -5,6 +5,7 @@ date: 2003-09-21T22:57:12-07:00
 author: nickmoline
 layout: post
 guid: http://1075495203
+dsq_thread_id: 20030921225712
 permalink: /2003/09/21/conference-visits-cuba/
 categories:
   - Events

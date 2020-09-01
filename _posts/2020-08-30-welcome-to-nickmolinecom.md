@@ -3,6 +3,7 @@ title: Welcome to the new NickMoline.com
 permalink: /2020/08/30/welcome-to-nickmoline.com/
 cover: /background-jellybean.jpg
 coverp: /background-jellybean.webp
+dsq_thread_id: 20200830000001
 excerpt: "After several years of being separate, I've merged my personal sites of NickMoline.com and Nick.pro into a single site, and given it a pretty substantial overhaul at the same time."
 categories:
    - Web

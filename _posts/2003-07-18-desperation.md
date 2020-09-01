@@ -6,6 +6,7 @@ author: nickmoline
 layout: post
 guid: http://180130546
 permalink: /2003/07/18/desperation/
+dsq_thread_id: 20030718144748
 categories:
   - Work
 ---

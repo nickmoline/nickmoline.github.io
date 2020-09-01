@@ -5,6 +5,7 @@ date: 2003-08-23T06:33:55-07:00
 author: nickmoline
 layout: post
 guid: http://1617844776
+dsq_thread_id: 20030823063355
 permalink: /2003/08/23/damp-sheets/
 categories:
   - Events

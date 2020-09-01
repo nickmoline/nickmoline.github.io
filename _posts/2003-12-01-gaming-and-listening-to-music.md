@@ -5,6 +5,7 @@ date: 2003-12-01T02:16:37-08:00
 author: nickmoline
 layout: post
 guid: http://1369564262
+dsq_thread_id: 20031201021637
 permalink: /2003/12/01/gaming-and-listening-to-music/
 tags:
   - Games

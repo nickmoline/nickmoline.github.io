@@ -5,6 +5,7 @@ date: 2003-11-22T12:37:12-08:00
 author: nickmoline
 layout: post
 guid: http://1257629864
+dsq_thread_id: 20031122123712
 permalink: /2003/11/22/online-with-flu/
 categories:
   - Work

@@ -5,6 +5,7 @@ date: 2003-08-13T23:18:08-07:00
 author: nickmoline
 layout: post
 guid: http://1872336562
+dsq_thread_id: 20030813231808
 permalink: /2003/08/13/birthday-vacation/
 categories:
   - Travel

@@ -5,6 +5,7 @@ date: 2003-09-11T03:27:31-07:00
 author: nickmoline
 layout: post
 guid: http://1177913619
+dsq_thread_id: 20030911032731
 permalink: /2003/09/11/tired-and-writing/
 categories:
   - Writing

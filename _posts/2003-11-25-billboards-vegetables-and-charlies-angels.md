@@ -5,6 +5,7 @@ date: 2003-11-25T14:47:03-08:00
 author: nickmoline
 layout: post
 guid: http://1436560538
+dsq_thread_id: 20031125144703
 permalink: /2003/11/25/billboards-vegetables-and-charlies-angels/
 tags:
   - Games

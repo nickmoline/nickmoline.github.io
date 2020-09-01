@@ -5,6 +5,7 @@ date: 2004-02-21T23:36:05-08:00
 author: nickmoline
 layout: post
 guid: http://172158296
+dsq_thread_id: 20040421233605
 permalink: /2004/02/21/breakdown/
 categories:
   - Stress

@@ -2,6 +2,7 @@
 title: Migrating my blog and personal site to Jekyll
 cover: /assets/images/2020/08/20/wordpress-to-jekyll.jpg
 coverp: /assets/images/2020/08/20/wordpress-to-jekyll.webp
+dsq_thread_id: 20200820000001
 categories:
     - Web
 tags:

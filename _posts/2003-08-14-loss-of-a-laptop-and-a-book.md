@@ -5,6 +5,7 @@ date: 2003-08-14T20:17:24-07:00
 author: nickmoline
 layout: post
 guid: http://1025281119
+dsq_thread_id: 20030814201724
 permalink: /2003/08/14/loss-of-a-laptop-and-a-book/
 categories:
   - Work

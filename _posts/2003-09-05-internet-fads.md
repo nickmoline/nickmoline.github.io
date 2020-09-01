@@ -5,6 +5,7 @@ date: 2003-09-05T00:20:34-07:00
 author: nickmoline
 layout: post
 guid: http://1390621959
+dsq_thread_id: 20030905002034
 permalink: /2003/09/05/internet-fads/
 cover: /wp-content/uploads/sites/4/2003/09/dancing-baby.jpg
 categories:

@@ -5,6 +5,7 @@ date: 2003-08-28T22:47:26-07:00
 author: nickmoline
 layout: post
 guid: http://1905119603
+dsq_thread_id: 20030828224726
 permalink: /2003/08/28/meetings-av-laptop/
 categories:
   - General

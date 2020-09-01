@@ -3,6 +3,7 @@ title: Automating the site migration progress bar in Jekyll
 permalink: /2020/08/21/automating-progress-bar-in-jekyll/
 cover: /assets/images/2020/08/21/status-bar-header-image.png
 coverp: /assets/images/2020/08/21/status-bar-header-image.webp
+dsq_thread_id: 20200821000001
 categories:
     - Tech
 tags:
