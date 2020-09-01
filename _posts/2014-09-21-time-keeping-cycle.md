@@ -6,8 +6,7 @@ author: nickmoline
 layout: post
 guid: https://www.nick.pro/?p=1087
 permalink: /2014/09/21/time-keeping-cycle/
-dsq_thread_id:
-    - "3040862227"
+dsq_thread_id: 3040862227
 cover: /wp-content/uploads/sites/4/2014/09/Time-Keeping-Cycle.jpg
 coverp: /wp-content/uploads/sites/4/2014/09/Time-Keeping-Cycle.webp
 categories:

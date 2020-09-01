@@ -6,8 +6,7 @@ author: nickmoline
 layout: post
 guid: https://www.nick.pro/?p=1383
 permalink: /2017/08/10/35-years-nicks-life-numbers/
-dsq_thread_id:
-    - "6056960584"
+dsq_thread_id: 6056960584
 cover: /wp-content/uploads/sites/4/2017/08/IMG_20170730_184705.jpg
 coverp: /wp-content/uploads/sites/4/2017/08/IMG_20170730_184705.webp
 categories:

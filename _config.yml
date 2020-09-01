@@ -11,22 +11,25 @@ name: nickmoline.com
 excerpt_separator: <!--more-->
 
 defaults:
-    -
-        scope:
-            path: ""
-            type: "posts"
-        values:
-            layout: "post"
-            author: "nickmoline"
+   -
+      scope:
+         path: ""
+         type: "posts"
+      values:
+         layout: "post"
+         author: "nickmoline"
+         amp-iframe: true
 
 paginate: 10
 paginate_path: "/blog/page:num/"
 
-facebook: nickmoline
-twitter: NickMoline
-github: nickmoline
-linkedin: nickmoline
-youtube: nickmoline
+social:
+   facebook: nickmoline
+   twitter: NickMoline
+   linkedin: nickmoline
+   youtube: nickmoline
+   dev: nickmoline
+   github: nickmoline
 
 about: 
 contact: 
@@ -39,17 +42,17 @@ analytics_id: UA-1093504-1
 markdown: kramdown
 
 kramdown:
-    parse_block_html: false
+   parse_block_html: false
 
 plugins:
-    - jekyll-paginate
-    - jekyll-github-metadata
-    - jekyll-feed
-    - jekyll-mentions
-    - jekyll-redirect-from
-    - jekyll-sitemap
-    - jemoji
-    - jekyll-last-modified-at
+   - jekyll-paginate
+   - jekyll-github-metadata
+   - jekyll-feed
+   - jekyll-mentions
+   - jekyll-redirect-from
+   - jekyll-sitemap
+   - jemoji
+   - jekyll-last-modified-at
 
 safe: false
 lsi: false
@@ -61,16 +64,17 @@ production_url: https://www.nickmoline.com
 source_url: https://github.com/nickmoline/nickmoline.github.io
 
 sass:
-    style: compressed
+   style: compressed
 
 exclude:
-    - Rakefile
-    - Gemfile
-    - Gemfile.lock
-    - "*.Rmd"
-    - vendor
-    - .travis.yml
-    - .gitignore
+   - Rakefile
+   - Gemfile
+   - Gemfile.lock
+   - "*.Rmd"
+   - vendor
+   - .travis.yml
+   - .gitignore
+   - ".github/**"
 
 include:
-    - .well-known
+   - .well-known

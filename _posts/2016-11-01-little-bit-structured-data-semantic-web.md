@@ -6,8 +6,7 @@ author: nickmoline
 layout: post
 guid: https://www.nick.pro/?p=1307
 permalink: /2016/11/01/little-bit-structured-data-semantic-web/
-dsq_thread_id:
-    - "5271364816"
+dsq_thread_id: 5271364816
 categories:
     - Writing
 tags:

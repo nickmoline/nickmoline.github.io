@@ -6,8 +6,7 @@ author: nickmoline
 layout: post
 guid: https://www.nick.pro/?p=1342
 permalink: /2016/10/10/claim-harry-potter-cursed-child-anti-feminist/
-dsq_thread_id:
-    - "5877812093"
+dsq_thread_id: 5877812093
 cover: /wp-content/uploads/sites/4/2017/06/14188353_10108109530502740_481279193677981512_o-e1496532419588.jpg
 coverp: /wp-content/uploads/sites/4/2017/06/14188353_10108109530502740_481279193677981512_o-e1496532419588.webp
 categories:

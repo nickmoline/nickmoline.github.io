@@ -6,8 +6,7 @@ author: nickmoline
 layout: post
 guid: https://www.nick.pro/?p=1033
 permalink: /2014/05/20/looking-forward-third-annual-24-hour-disney-day/
-dsq_thread_id:
-    - "2700377141"
+dsq_thread_id: 2700377141
 cover: /wp-content/uploads/sites/4/2014/05/mer678991.jpg
 coverp: /wp-content/uploads/sites/4/2014/05/mer678991.webp
 categories:

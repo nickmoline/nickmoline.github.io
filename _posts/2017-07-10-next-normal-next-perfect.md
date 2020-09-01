@@ -8,6 +8,7 @@ guid: https://www.nick.pro/?p=1349
 permalink: /2017/07/10/next-normal-next-perfect/
 cover: /wp-content/uploads/sites/4/2017/07/IMG_20170709_182134.jpg
 coverp: /wp-content/uploads/sites/4/2017/07/IMG_20170709_182134.webp
+dsq_thread_id: 5979637252
 categories:
     - Theatre
 tags:
