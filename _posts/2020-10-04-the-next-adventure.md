@@ -32,7 +32,7 @@ A big part of that has been staying home a lot more. We've all been forced to re
 
 For many people I know, this has been annoying, but overall livable, but for others, such as Barbara and I, having to spend all our time at our home base in close quarters has simply driven home just how inadequate of a base our home is.
 
-After 14 years working at Justia, I'm paid very well compared to the average American, but as someone living in the heart of Silicon Valley I've had to pay a princely sum every month in order to pay for my pauper dwelling. In D&D "lifestyle" terms, my Level 14 Code Wizard has his "Lifestyle" setting set to "Aristocratic (10GP)," but lives in accommodations that would be best classified as "Modest (1GP)" at best, or perhaps even "Poor (2SP)."
+After 14 years working at Justia, I'm paid very well compared to the average American, but as someone living in the heart of Silicon Valley I've had to pay a princely sum every month in order to pay for my pauper dwelling. In D&D "lifestyle" terms, my Level 14 Code Wizard has his spending setting set to "Aristocratic (10GP)," but lives in accommodations that would be classified as "Modest (1GP)" at best, or perhaps even "Poor (2SP)."
 
 To be more specific, for the past year I've paid over $4,000 a month for a tiny 2 bedroom apartment.  And with 4 adults currently living in that 2 bedroom apartment, and those 4 adults spending every waking moment there except for occasional trips to a grocery store, this is not the type of home base I should have at this point in my life.
 
@@ -40,13 +40,13 @@ It is nothing against Justia or even against Silicon Valley, people choose to li
 
 This pandemic has made me realize, however, that this is not the type of lifestyle I want to live long term. This is not the type of character I want to play indefinitely. I'd like to be able to live in a house, with a kitchen large enough to make gourmet meals, and perhaps a nice grill in the back yard. I'd love to have a garage I can setup a workshop in, to take on new, more creative projects.
 
-Most importantly of all I'd like to have a separate workspace from my life space. I'd like to have an office where I can work separate from where I go to relax, where I can close myself off to be able to focus on work when I'm working, and close myself off from it when I'm playing.
+Most importantly of all I'd like to have a separate workspace from my life space. I'd like to have an office where I can work separate from where I go to relax, where I can close myself off to be able to focus on work when I'm working, and close myself away from it when I'm playing.
 
 Frankly, I'd also love it if I had a place where I could play D&D with friends around a table, the way the game was designed to be played (perhaps on a custom gaming table built in that workshop).
 
 Unfortunately, I don't see my current adventure leading to that life, as Silicon Valley will always be so expensive to live that I won't be able to afford to establish that headquarters for my adventuring party.
 
-And so, the time has come to roll a new character, to take on a new adventuring party and start off on a new adventure with that life as the endgame. I'm honored to say that I've now taken a new position as Senior Software Engineer at [eZoic, Inc](https://www.ezoic.com) in Carlsbad, CA, and Barbara and I (along with her mother and brother who live with us), will be moving to southern California before the end of this month.
+And so, the time has come to roll a new character, to take on a new adventuring party and start off on a new adventure with that life as the endgame. I'm happy to announce that I've now taken a new position as Senior Software Engineer at [eZoic, Inc](https://www.ezoic.com) in Carlsbad, CA, and Barbara and I (along with her mother and brother who live with us), will be moving to southern California before the end of this month.
 
 My last day with Justia will be October 15th, and my first official (but remote) day with eZoic will be October 19th, 2020.
 
