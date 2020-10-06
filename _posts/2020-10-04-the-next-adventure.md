@@ -9,7 +9,7 @@ categories:
 tags:
     - Moving
     - Justia
-    - eZoic
+    - Ezoic
     - Dungeons and Dragons
 ---
 Over the past few years, I've gotten into playing a lot of <abbr title="Dungeons & Dragons">D&D</abbr>. When a new campaign begins, it is fun to play a new character, to roll the stats of that character and start building his backstory, creating the new aspects of the character that make him unique, and then venturing out with a new group of friends to create a new story together.
@@ -46,9 +46,9 @@ Frankly, I'd also love it if I had a place where I could play D&D with friends a
 
 Unfortunately, I don't see my current adventure leading to that life, as Silicon Valley will always be so expensive to live that I won't be able to afford to establish that headquarters for my adventuring party.
 
-And so, the time has come to roll a new character, to take on a new adventuring party and start off on a new adventure with that life as the endgame. I'm happy to announce that I've now taken a new position as Senior Software Engineer at [eZoic, Inc](https://www.ezoic.com) in Carlsbad, CA, and Barbara and I (along with her mother and brother who live with us), will be moving to southern California before the end of this month.
+And so, the time has come to roll a new character, to take on a new adventuring party and start off on a new adventure with that life as the endgame. I'm happy to announce that I've now taken a new position as Senior Software Engineer at [Ezoic, Inc](https://www.Ezoic.com) in Carlsbad, CA, and Barbara and I (along with her mother and brother who live with us), will be moving to southern California before the end of this month.
 
-My last day with Justia will be October 15th, and my first official (but remote) day with eZoic will be October 19th, 2020.
+My last day with Justia will be October 15th, and my first official (but remote) day with Ezoic will be October 19th, 2020.
 
 We've found a place to live, a temporary headquarters to start our journey down there in. For roughly $500/month less than I've been paying for this 2 bedroom apartment here, we've found a 3 bedroom apartment down there with more than twice the square footage, giving us all a lot more breathing room.
 
@@ -60,6 +60,6 @@ While it doesn't give me my dream home right away, it is a lot more space and sh
 
 It is bittersweet to set off of this new adventure. I will miss my friends here in the bay area, and I'll miss Justia. I've loved working at Justia and have been very proud of the free legal information projects I've been a part of there.
 
-At the same time, however, I'm very excited about what comes next. It is exciting to start a new campaign, to find new challenges.  I'm excited to see what projects I'll get to work on at eZoic, and I'm very excited to start anew in a new area (well mostly new, I spent the first 10 years of my life in Southern California, and Barbara and I have visited Disneyland in Southern California, between 1 and 4 times a year for the last decade).
+At the same time, however, I'm very excited about what comes next. It is exciting to start a new campaign, to find new challenges.  I'm excited to see what projects I'll get to work on at Ezoic, and I'm very excited to start anew in a new area (well mostly new, I spent the first 10 years of my life in Southern California, and Barbara and I have visited Disneyland in Southern California, between 1 and 4 times a year for the last decade).
 
 _Your party sets out southward towards a new city, and a new home, with new foes to defeat, new challenges to undertake, and a new adventure around every corner.  Your party stumbles across something exciting along the way, Roll for Initiative._
