@@ -32,32 +32,34 @@ A big part of that has been staying home a lot more. We've all been forced to re
 
 For many people I know, this has been annoying, but overall livable, but for others, such as Barbara and I, having to spend all our time at our home base in close quarters has simply driven home just how inadequate of a base our home is.
 
-After 14 years working at Justia, I'm paid very well compared to the average American, but as someone living in the heart of Silicon Valley I've had to pay a princely sum every month in order to pay for my pauper dwelling. In D&D "lifestyle" terms, I my Level 14 Code Wizard has his "Lifestyle" setting set to "Aristocratic (10GP)" but lives in accommodations that would be best classified as "Modest (1GP)" at best or perhaps even "Poor (2SP)."
+After 14 years working at Justia, I'm paid very well compared to the average American, but as someone living in the heart of Silicon Valley I've had to pay a princely sum every month in order to pay for my pauper dwelling. In D&D "lifestyle" terms, my Level 14 Code Wizard has his "Lifestyle" setting set to "Aristocratic (10GP)," but lives in accommodations that would be best classified as "Modest (1GP)" at best, or perhaps even "Poor (2SP)."
 
 To be more specific, for the past year I've paid over $4,000 a month for a tiny 2 bedroom apartment.  And with 4 adults currently living in that 2 bedroom apartment, and those 4 adults spending every waking moment there except for occasional trips to a grocery store, this is not the type of home base I should have at this point in my life.
 
 It is nothing against Justia or even against Silicon Valley, people choose to live here for a reason, and for a while it was exciting living the Silicon Valley life.
 
-This pandemic has made me realize however that this is not the type of lifestyle I want to live. This is not the type of character I want to play indefinitely. I'd like to be able to live in a house, with a kitchen large enough to make gourmet meals, and perhaps a nice grill in the back yard to make great new meals. I'd love to have a garage I can setup a workshop in to take on new more creative projects.
+This pandemic has made me realize, however, that this is not the type of lifestyle I want to live long term. This is not the type of character I want to play indefinitely. I'd like to be able to live in a house, with a kitchen large enough to make gourmet meals, and perhaps a nice grill in the back yard. I'd love to have a garage I can setup a workshop in, to take on new, more creative projects.
 
 Most importantly of all I'd like to have a separate workspace from my life space. I'd like to have an office where I can work separate from where I go to relax, where I can close myself off to be able to focus on work when I'm working, and close myself off from it when I'm playing.
 
 Frankly, I'd also love it if I had a place where I could play D&D with friends around a table, the way the game was designed to be played (perhaps on a custom gaming table built in that workshop).
 
-Unfortunately, I don't see my current adventure leading to that life, as Silicon Valley will always be so expensive to live that I won't be able to afford to build that headquarters for myself and my family. 
+Unfortunately, I don't see my current adventure leading to that life, as Silicon Valley will always be so expensive to live that I won't be able to afford to establish that headquarters for my adventuring party.
 
-And so, the time has come to roll a new character, to take on a new adventuring party and start off on a new adventure with that life as the goal. I'm honored to say that I've now taken a new job at [eZoic, Inc](https://www.ezoic.com) in Carlsbad, CA, and Barbara and I (along with her mother and brother who live with us), will be moving to southern California before the end of this month.
+And so, the time has come to roll a new character, to take on a new adventuring party and start off on a new adventure with that life as the endgame. I'm honored to say that I've now taken a new position as Senior Software Engineer at [eZoic, Inc](https://www.ezoic.com) in Carlsbad, CA, and Barbara and I (along with her mother and brother who live with us), will be moving to southern California before the end of this month.
 
 My last day with Justia will be October 15th, and my first official (but remote) day with eZoic will be October 19th, 2020.
 
-We've found a place to live, a first headquarters to start our journey down there in. For roughly $500/month less than I've been paying for this 2 bedroom apartment here, we've found a 3 bedroom apartment down there with more than twice the square footage, giving us all a lot more breathing room.
+We've found a place to live, a temporary headquarters to start our journey down there in. For roughly $500/month less than I've been paying for this 2 bedroom apartment here, we've found a 3 bedroom apartment down there with more than twice the square footage, giving us all a lot more breathing room.
 
 It isn't the house with a yard and a garage I can use as a workshop yet, but in order to save money on breaking my lease early, I had to choose an apartment owned by the same organization that owns my current apartment complex. 
 
 <amp-img src="{{ site.baseurl }}/assets/images/2020/10/new-kitchen.png" alt="Check out that Kitchen!" width="6342" height="2406" layout="responsive" lightbox></amp-img>
 
-While it doesn't give me my dream home right away, it is a lot more space and should be a lot more comfortable. The [kitchen is also glorious](https://my.matterport.com/show/?m=LBF9qr6AHpw&sr=-2.55,.79&ss=3) being much larger than my current kitchen and containing advantages over my current kitchen, including a gas stove. My plan is to move again in a year to a house that matches my desired criteria.
+While it doesn't give me my dream home right away, it is a lot more space and should be a lot more comfortable. The [kitchen is also glorious](https://my.matterport.com/show/?m=LBF9qr6AHpw&sr=-2.55,.79&ss=3) being much larger than my current kitchen and containing advantages over my current kitchen, including a gas stove. My plan is to move again later, to a house that matches my desired criteria.
 
 It is bittersweet to set off of this new adventure. I will miss my friends here in the bay area, and I'll miss Justia. I've loved working at Justia and have been very proud of the free legal information projects I've been a part of there.
 
 At the same time, however, I'm very excited about what comes next. It is exciting to start a new campaign, to find new challenges.  I'm excited to see what projects I'll get to work on at eZoic, and I'm very excited to start anew in a new area (well mostly new, I spent the first 10 years of my life in Southern California, and Barbara and I have visited Disneyland in Southern California, between 1 and 4 times a year for the last decade).
+
+_Your party sets out southward towards a new city, and a new home, with new foes to defeat, new challenges to undertake, and a new adventure around every corner.  Your party stumbles across something exciting along the way, Roll for Initiative._
