@@ -7,9 +7,9 @@ author: nickmoline
 layout: page
 guid: https://www.nick.pro/?page_id=1602
 ---
-<h3> Nick Moline</h3>
+<h3>Nick Moline</h3>
 
-Nicholas Scott Moline is a senior software engineer at Justia, a company in Mountain View, California dedicated to making the law free and available for everyone. At Justia Nick works on a variety of free legal information projects with the rest of the talented engineering team there.
+Nicholas Scott Moline is a senior software engineer at [Ezoic](https://www.ezoic.com), a company in Carlsbad, California dedicated helping publishers improve their websites without having to modify their servers.  Nick currently lives in Irvine, CA with his wife Barbara, Mother-in-Law and Brother-in-Law, and their 2 cats Jax and Joules.
 
 <a class="social-link" href="https://www.facebook.com/nickmoline" target="_blank"><i class="fa fa-facebook"></i></a><a class="social-link" href="https://twitter.com/NickMoline" target="_blank"><i class="fa fa-twitter"></i></a><a class="social-link" href="https://www.instagram.com/nickmoline" target="_blank"><i class="fa fa-instagram"></i></a><a class="social-link broken_link" href="https://www.linkedin.com/in/nickmoline" target="_blank"><i class="fa fa-linkedin"></i></a>
 
@@ -17,4 +17,4 @@ Nicholas Scott Moline is a senior software engineer at Justia, a company in Moun
     <amp-img fallback src="{{ site.baseurl }}/wp-content/uploads/sites/4/2018/10/nick-square.jpg" width="500" height="500" alt="Photo of Nick Moline"></amp-img>
 </amp-img>
 
-Check out [Nick's blog](https://www.nick.pro/) to find out more about him. He occasionally writes on [Justia's Blog](https://onward.justia.com/author/nickmoline).
+Check out [Nick's blog](https://www.nick.pro/) to find out more about him. He occasionally wrote on [Justia's Blog](https://onward.justia.com/author/nickmoline) while he worked there, and still occasionally writes essays on [The Harry Potter Lexicon](https://www.hp-lexicon.org/author/nickmoline), a site for which he is a the resident Tech Wizard.
