@@ -10,7 +10,6 @@ tags:
     - Moving
     - Weather
     - Fire
-amp-iframe: false
 ---
 **I don't normally put a `TL;DR` in my blog posts, but I do feel the need to preface the beginning of this post by saying, while Irvine, CA is currently under Evacuation Orders, the Evacuation Order does not include my part of Irvine, we are currently safe, though the air quality is a bit poor.  I'll be sure to update social media if we end up being evacuated.**
 
