@@ -58,6 +58,10 @@ The more exciting integrations from Ambient Weather's service is that it can int
 
 As for Google Assistant, at this point the integration is a little limited, but it is nice to be able to ask a Google Home for one or more of the pieces of live weather data from my weather station.  I hope this integration will become more robust over time as I'd love to be able to replace standard internet data with my localized data, or integrate this data in routines.
 
+Another great thing about Ambient Weather's service is that in addition to the [normal view](https://ambientweather.net/dashboard/435a5c93160dc349b6a8f4b1cc27f054), there is a cleaner view (without navigation) which is designed to be shown in an iFrame, and so I can use an `<amp-iframe>` tag here to embed the current weather stats from my weather station on this page as shown below:
+
+<amp-iframe width="600" height="700" layout="responsive" frameborder="1" sandbox="allow-scripts" src="https://ambientweather.net/devices/public/435a5c93160dc349b6a8f4b1cc27f054?embed=true"></amp-iframe>
+
 --------
 
 **I'll wrap this post by saying, if you are in an area that is being ravaged by wildfire, my thoughts and prayers are with you and your families.**
