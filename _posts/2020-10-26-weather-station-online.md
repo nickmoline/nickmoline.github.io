@@ -10,7 +10,7 @@ tags:
     - Moving
     - Weather
     - Fire
-amp-iframe: true
+amp-iframe: false
 ---
 **I don't normally put a `TL;DR` in my blog posts, but I do feel the need to preface the beginning of this post by saying, while Irvine, CA is currently under Evacuation Orders, the Evacuation Order does not include my part of Irvine, we are currently safe, though the air quality is a bit poor.  I'll be sure to update social media if we end up being evacuated.**
 
@@ -58,10 +58,6 @@ From Ambient Weather you can also integrate with a number of other 3rd party ser
 The more exciting integrations from Ambient Weather's service is that it can integrate with Alexa, Google Assistant, and IFTTT.  I will surely be setting up some interesting integrations from IFTTT to automate things based on my weather data (for example flashing my smart lights red if the air quality gets particularly bad).  I could eventually do some automation with other pieces of equipment, for example I can turn on a humidifier if the humidity drops too low (or a dehumidifier if it gets too high), or an air filter whenever the air quality reaches certain thresholds.  
 
 As for Google Assistant, at this point the integration is a little limited, but it is nice to be able to ask a Google Home for one or more of the pieces of live weather data from my weather station.  I hope this integration will become more robust over time as I'd love to be able to replace standard internet data with my localized data, or integrate this data in routines.
-
-Another great thing about Ambient Weather's service is that in addition to the [normal view](https://ambientweather.net/dashboard/435a5c93160dc349b6a8f4b1cc27f054), there is a cleaner view (without navigation) which is designed to be shown in an iFrame, and so I can use an `<amp-iframe>` tag here to embed the current weather stats from my weather station on this page as shown below:
-
-<amp-iframe width="600" height="700" layout="responsive" frameborder="1" sandbox="allow-scripts" src="https://ambientweather.net/devices/public/435a5c93160dc349b6a8f4b1cc27f054?embed=true"></amp-iframe>
 
 --------
 
