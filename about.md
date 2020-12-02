@@ -18,3 +18,5 @@ Nicholas Scott Moline is a senior software engineer at [Ezoic](https://www.ezoic
 </amp-img>
 
 Check out [Nick's blog](https://www.nick.pro/) to find out more about him. He occasionally wrote on [Justia's Blog](https://onward.justia.com/author/nickmoline) while he worked there, and still occasionally writes essays on [The Harry Potter Lexicon](https://www.hp-lexicon.org/author/nickmoline), a site for which he is a the resident Tech Wizard.
+
+.
