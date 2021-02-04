@@ -8,9 +8,12 @@ guid: https://www.nick.pro/?p=1314
 permalink: /2017/04/25/need-worry-https-everywhere/
 cover: /wp-content/uploads/sites/4/2017/04/https-featured-light.jpg
 coverp: /wp-content/uploads/sites/4/2017/04/https-featured-light.webp
+canonical: https://onward.justia.com/2017/04/03/https-is-still-hard-but-necessary-for-your-success/
 dsq_thread_id: 5760219260
 categories:
     - Writing
+    - Tech
+    - Work
 tags: 
     - Justia
     - Onward Blog

@@ -6,9 +6,12 @@ author: nickmoline
 layout: post
 guid: https://www.nick.pro/?p=1316
 permalink: /2017/05/03/hide-content-search-engines/
+canonical: https://onward.justia.com/2017/05/02/robots-exclusion-standard/
 dsq_thread_id: 5784039105
 categories:
     - Writing
+    - Work
+    - Tech
 tags:
     - Justia
     - Onward Blog

@@ -9,9 +9,11 @@ permalink: /2016/10/04/curious-google-assistant-stacks-siri-alexa-cortana/
 dsq_thread_id: 5271355776
 cover: /wp-content/uploads/sites/4/2016/10/Screenshot-2016-10-04-13.13.38.png
 coverp: /wp-content/uploads/sites/4/2016/10/Screenshot-2016-10-04-13.13.38.webp
+canonical: https://onward.justia.com/2016/10/04/google-assistant-battle/
 categories:
     - Tech
     - Writing
+    - Blogging
 tags:
     - Google
     - Apple
