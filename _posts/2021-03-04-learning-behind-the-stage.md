@@ -74,9 +74,14 @@ For _Jekyll & Hyde_ I returned to the producer role, but I also sound designed a
 
 In my sound design of the show I continued with my trend of special audio effects by having a different equalization on Hyde's voice than Jekyll's.  This helped push the narrative that these characters were distinct as the quality of their voices were different.  I also played some with audio panning of vocals in this show.  In the pivotal "Confrontation" song I had Jekyll & Hyde's voices coming from different sides of the stage, which was difficult considering both parts are sung by the same person.
 
+<amp-img src="{{ site.baseurl }}/assets/images/2021/03/D85_4702.jpg" alt="The Magic Mirror" width="3500" height="2333" layout="responsive" lightbox></amp-img>
+
 If producing and sound design weren't enough, I also took on the task of doing a special visual effect for the show.  The director wanted a "magic mirror" effect in the show, so I learned video editing and how to use QLab to dynamically switch between a live camera feed and a pre-recorded video.  The effect was impressive, for most of the show this "mirror" actually "reflected" the environment around by showing a live camera feed, but at pivotal moments, Hyde or Jekyll would appear in the mirror to contrast the opposing character that was currently in control of Doctor Jekyll's body.
 
 ### The Magic Hourglass, _Freaky Friday_
+<amp-img src="{{ site.baseurl }}/assets/images/2021/03/D85_6238.jpg" alt="Freaky Friday Hourglass" width="2400" height="2400" layout="responsive" lightbox></amp-img>
+
+
 In _Freaky Friday_, the magical McGuffin that sets the story in motion is a magical hourglass.  The hourglass breaks immediately after its magic causes the body-swap to take place, and they spend the rest of the show trying to find another magic hourglass to switch them back.
 
 I decided to take on a task of making this magic hourglass for the show.  In this I learned a bit of building physical props, including recycling items (coke bottles), a bit of wood-working, creating secret ways to break the device apart.  Most importantly I used this to get into Internet-of-Things devices by creating small wifi controlled light pods which could be put into compartments in the top and bottom of the hourglass.  With some python and third party tools I made it where the lights in the hourglass could be controlled by the theatre light-board so the lighting designer could include the glowing in his lighting design.
@@ -96,6 +101,8 @@ I love how they actively slice up background images so that the different zoom w
 Live Theatre has always required suspension of disbelief, which takes on another meaning when acting over Zoom.  Since actors aren't physically in the same space, you need to do everything you can to allow the audience to suspend their disbelief and actually believe that people are in the same space.
 
 ### Real-Time Visual Effects, _The Tempest_
+
+<amp-img src="{{ site.baseurl }}/assets/images/2021/03/tempest-1260x717.png" alt="The Tempest" width="1260" height="717" layout="responsive" lightbox></amp-img>
 
 Finally after a very long post, I get to the show I'm currently working on.  _The Tempest_ is also being put on by Zoom Theatre and it is phenomenal.  For this show however I was tasked with creating some real-time visual effects using a combination of [OBS Studio](https://obsproject.com/) and, believe-it-or-not, Snapchat's [Snap Camera](https://snapcamera.snapchat.com/).
 
