@@ -20,6 +20,11 @@ layout: default
 					<span class="ampstart-fullpage-hero-heading-text title">
 						{{ page.title }}
 					</span>
+                    {% if page.subtitle %}
+                    <span class="ampstart-fullpage-hero-heading-text subtitle">
+                        {{ page.subtitle }}
+                    </span>
+                    {% endif %}
 				</h1>
 				<h2 class="ampstart-fullpage-hero-heading mb0">
 					<span class="ampstart-fullpage-hero-heading-text description">

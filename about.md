@@ -9,7 +9,7 @@ guid: https://www.nick.pro/?page_id=1602
 ---
 <h3>Nick Moline</h3>
 
-Nicholas Scott Moline is a senior software engineer at [Ezoic](https://www.ezoic.com), a company in Carlsbad, California dedicated helping publishers improve their websites without having to modify their servers.  Nick currently lives in Irvine, CA with his wife Barbara, Mother-in-Law and Brother-in-Law, and their 2 cats Jax and Joules.
+Nicholas Scott Moline is a senior software engineer at [Jobscan](https://www.jobscan.co), a company dedicated to helping job-seekers optimize their resumés and cover letters when applying for jobs.  Nick currently lives in Irvine, CA with his wife Barbara, Mother-in-Law and Brother-in-Law, and their 2 cats Jax and Joules.
 
 <a class="social-link" href="https://www.facebook.com/nickmoline" target="_blank"><i class="fa fa-facebook"></i></a><a class="social-link" href="https://twitter.com/NickMoline" target="_blank"><i class="fa fa-twitter"></i></a><a class="social-link" href="https://www.instagram.com/nickmoline" target="_blank"><i class="fa fa-instagram"></i></a><a class="social-link broken_link" href="https://www.linkedin.com/in/nickmoline" target="_blank"><i class="fa fa-linkedin"></i></a>
 
