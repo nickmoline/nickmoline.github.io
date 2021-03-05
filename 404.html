@@ -18,7 +18,7 @@ permalink: /404.html
             <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
                 <div class="article-item">
                     <header class="post-header">
-                        <h4 class="post-title" itemprop="name"><a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">{{ post.title }}</a></h4>
+                        <h4 class="post-title" itemprop="name"><a href="{{ site.baseurl }}{{ post.url }}" itemprop="url"><span itemprop="headline">{{ post.title }}</span>{% if post.subtitle %}: <span itemprop="alternativeHeadline">{{ post.subtitle }}</span>{% endif %}</a></h4>
                     </header>
                     <section class="post-excerpt" itemprop="description">
                         <p class="post-description">{{ post.excerpt }}</p>
