@@ -57,7 +57,7 @@ With [_Avenue Q_](https://web.archive.org/web/20170923135233/http://www.sunnyval
 ## Learning Sound Design, 2018
 
 #### _Addams Family_ 
-<amp-img src="{{ site.baseurl }}/assets/images/2021/03/SCPAddamsA-262.jpg" alt="Rumors" width="2833" height="1500" layout="responsive" lightbox></amp-img>
+<amp-img src="{{ site.baseurl }}/assets/images/2021/03/addams.jpg" alt="Addams Family" width="2833" height="1500" layout="responsive" lightbox></amp-img>
 
 With Addams Family in early 2018 I got my first opportunity to design sound.  I co-designed sound with the great Dan Singletary and learned how to create my own sound effects, and learned a lot about balancing a band and equalization techniques.
 
