@@ -28,7 +28,7 @@ I never finished college, but while I was there at [Tarrant County College](http
 
 Later that spring I served as Light Board Operator for the school's production of William Shakespeare's [_A Midsummer Night's Dream_](https://en.wikipedia.org/wiki/A_Midsummer_Night%27s_Dream), which I found every bit as enjoyable as acting.  This was in a way the beginning of my learning new tasks with shows as I did not have much prior experience with theatrical lighting (other than the simple light system at my church at the time).
 
-<amp-img src="{{ site.baseurl }}/assets/images/2021/03/rumors.jpg" alt="Rumors" width="768" height="1024" layout="responsive" lightbox></amp-img>
+<amp-img src="{{ site.baseurl }}/assets/images/2021/03/rumors.jpg" alt="Rumors" width="1024" height="768" layout="responsive" lightbox></amp-img>
 
 The following winter I acted in another production, [_Rumors_](https://en.wikipedia.org/wiki/Rumors_(play)) by Neil Simon in the role of Ken Gorman.
 
