@@ -1,18 +1,16 @@
 ---
-layout: default
+layout: page
 title: Privacy Policy
-date: 2020-08-20T23:00:00-07:00
+date: 2021-03-27T04:00:00-08:00
 permalink: /privacy-policy.html
 ---
-<main id="content" role="main" class="content">
-<div class="cf frame">
 ## Privacy Policy
 
 I take your privacy seriously. To better protect your privacy I provide this privacy policy notice explaining the way your personal information is collected and used.
 
 ### Collection of Routine Information
 
-This [website tracks basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this website. The information is tracked for routine administration and maintenance purposes.
+This website tracks basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this website. The information is tracked for routine administration and maintenance purposes.
 
 ### Advertisement and Other Third Parties
 
@@ -35,6 +33,3 @@ I reserve the right to update or change my Privacy Policy at any time and you sh
 ### Contact Information
 
 For any questions or concerns regarding the privacy policy, please <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#112;&#114;&#105;&#118;&#97;&#99;&#121;&#64;&#110;&#105;&#99;&#107;&#46;&#112;&#114;&#111;">&#115;&#101;&#110;&#100;&#32;&#109;&#101;&#32;&#97;&#110;&#32;&#101;&#109;&#97;&#105;&#108;</a>.
-
-</div>
-</main>
