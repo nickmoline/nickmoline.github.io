@@ -28,11 +28,9 @@ Unfortunately I couldn't find a snapchat filter that would accomplish this task 
 
 It was difficult, as it involved mapping 2 dimensional images into a 3 dimensional AR mesh of the human face and shoulders, but the end result was fantastic.  In order to make the filter usable, I had to actually publish it to snapchat's library of filters, which means if you would like, you can become a harpy either in snapchat on your phone or in lens studio yourself using the filter I made for this production.
 
-<a href="https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=b221e35242564672a10561598efd1a1e&metadata=01">
-<amp-img src="{{ site.baseurl }}/assets/images/2021/03/harpy-snapcode.svg" alt="Become a Harpy" width="320" height="320" layout="responsive" lightbox>
+<a href="https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=b221e35242564672a10561598efd1a1e&metadata=01"><amp-img src="{{ site.baseurl }}/assets/images/2021/03/harpy-snapcode.svg" alt="Become a Harpy" width="320" height="320" layout="responsive" lightbox>
     <amp-img fallback src="{{ site.baseurl }}/assets/images/2021/03/harpy-snapcode.png" alt="Become a Harpy" width="320" height="320" layout="responsive"></amp-img>
-</amp-img>
-</a>
+</amp-img></a>
 
 Snap the snapcode above on your phone to use it on your phone, or copy [this url](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=b221e35242564672a10561598efd1a1e&metadata=01) and paste it into the search box in Snap Camera to use it on your computer webcam.
 
