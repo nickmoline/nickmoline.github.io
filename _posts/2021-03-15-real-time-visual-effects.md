@@ -6,7 +6,7 @@ date: 2021-03-04T11:00:00-08:00
 permalink: /2021/03/15/making-a-harpy/
 dsq_thread_id: 202103151057
 cover: /assets/images/2021/03/harpy.png
-coverp: /assets/images/2020/03/harpy.webp
+coverp: /assets/images/2021/03/harpy.webp
 excerpt: "For the latest show I've worked on, I had an unusual new challenge, could I turn someone into a Harpy in real time?  How about turning a woman into a rainbow?"
 categories:
     - Theatre
