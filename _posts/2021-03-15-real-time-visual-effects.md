@@ -30,7 +30,7 @@ It was difficult, as it involved mapping 2 dimensional images into a 3 dimension
 
 <a href="https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=b221e35242564672a10561598efd1a1e&metadata=01">
 <amp-img src="{{ site.baseurl }}/assets/images/2021/03/harpy-snapcode.svg" alt="Become a Harpy" width="320" height="320" layout="responsive" lightbox>
-    <amp-img fallback src="{{ site.baseurl }}/assets/images/2021/03/harpy-snapcode.png" alt="Become a Harpy" width="320" height="320" layout="responsive" lightbox></amp-img>
+    <amp-img fallback src="{{ site.baseurl }}/assets/images/2021/03/harpy-snapcode.png" alt="Become a Harpy" width="320" height="320" layout="responsive"></amp-img>
 </amp-img>
 </a>
 
@@ -53,7 +53,7 @@ The effects were impressive and really helped build a virtual "stage" that the a
 Those same goddesses I mentioned earlier (along with a third goddess, Ceres) also needed another effect (a unique one for each of them) to help make them stand out in their big dance number.
 
 <amp-img src="{{ site.baseurl }}/assets/images/2021/03/goddesses.webp" alt="The Goddesses" width="3140" height="1804" layout="responsive" lightbox>
-    <amp-img fallback src="{{ site.baseurl }}/assets/images/2021/03/goddesses.png" alt="Become a Harpy" width="3140" height="1804" layout="responsive" lightbox></amp-img>
+    <amp-img fallback src="{{ site.baseurl }}/assets/images/2021/03/goddesses.png" alt="Become a Harpy" width="3140" height="1804" layout="responsive"></amp-img>
 </amp-img>
 
 Each of these effects is unique and I accomplished them in different ways
@@ -79,7 +79,7 @@ This purple aura I accomplished by creating yet another snap filter in Lens Stud
 Here is a screenshot of testing the filter on myself while I was working on it:
 
 <amp-img src="{{ site.baseurl }}/assets/images/2021/03/nick-glowing.webp" alt="Nick is Glowing" width="1418" height="786" layout="responsive" lightbox>
-    <amp-img fallback src="{{ site.baseurl }}/assets/images/2021/03/nick-glowing.png" alt="Nick is Glowing" width="1418" height="785" layout="responsive" lightbox></amp-img>
+    <amp-img fallback src="{{ site.baseurl }}/assets/images/2021/03/nick-glowing.png" alt="Nick is Glowing" width="1418" height="785" layout="responsive"></amp-img>
 </amp-img>
 
 Since I had to publish this filter as well, if you are interested in turning yourself purple [you can](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=0628b20fcfed427a8a0f5fed6b87819c&metadata=01)!
