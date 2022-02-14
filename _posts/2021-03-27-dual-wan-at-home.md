@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bonus Action, Two Weapon Fighting
+title: Bonus Action, Two **W**e**A**po**N** Fighting
 subtitle: Using 2 separate Internet Services (WAN) when working from home
 date: 2021-03-27T01:00:00-08:00
 permalink: /2021/03/27/two-wan-fighting/
