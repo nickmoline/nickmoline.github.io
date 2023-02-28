@@ -102,7 +102,7 @@
                 "Served as Producer for four live theater productions.",
                 "Sound Designer for seven live musical productions.",
                 "Designed and built custom IoT devices to provide wireless visual effects for shows.",
-                "Member of the Board of Directors from 2018 through 2020, serving different roles including Web Committee Chairman, Board Secretary, and Board Vice President.",
+                "Member of the Board of Directors from 2018 through 2020, serving different roles including Web Committee Chairman, Board Secretary, and Board Vice President."
             ],
             "summary": "Experienced in many aspects of theatrical design and operations.  Served varied roles during the productions of over a dozen shows.  Such roles include: Producer, Audio Engineer, Sound Designer, and Special Effects Designer.",
             "url": "https://www.sunnyvaleplayers.org",
@@ -283,7 +283,7 @@
         {
             "name": "Artificial Intelligence",
             "keywords": [
-                "Artificial Intelligence", "AI", "Machine Learning", "Deep Learning", "Computer Vision", "Natural Language Processing", "NLP",
+                "Artificial Intelligence", "AI", "Machine Learning", "Deep Learning", "Computer Vision", "Natural Language Processing", "NLP"
             ]
         }
     ],
@@ -291,6 +291,5 @@
         "canonical": "https://nickmoline.com/resume.json",
         "version": "23.02.28",
         "lastModified": "2023-02-28"
-    },
-
+    }
 }
