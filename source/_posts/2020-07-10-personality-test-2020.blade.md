@@ -14,7 +14,7 @@ This morning as a team building exercise, the Engineering Team at Justia took pe
 
 <!--more-->
 
-This is a much more modern take on the Personality Test system than the ones I did between 2003 and [2006]({{ $page->postLink("2006-05-30-personality-test") }}).  Instead of focusing on a large number of attributes they focus on 5 characteristic pairs, and represent each pair as scale between the 2 extremes.
+This is a much more modern take on the Personality Test system than the ones I did between 2003 and [2006]({{ $page->postUrl("2006-05-30-personality-test") }}).  Instead of focusing on a large number of attributes they focus on 5 characteristic pairs, and represent each pair as scale between the 2 extremes.
 
 The pairs are categorized as:
 * **Mind:** _Introverted_ vs. _Extroverted_

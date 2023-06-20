@@ -81,7 +81,7 @@ I could have set `max` to `100` and used the `migration_percentage` as the `valu
 
 For styling the progress bar, I followed the [fantastic guide posted at css-tricks](https://css-tricks.com/html5-progress-element/) by [Panjak Parashar](http://pankajparashar.com/) and then tweaked things a bit to my personal liking.
 
-So that I can easily include this in multiple places, I stored all of this in an include file named migration-progress.html so that I could include it in multiple places (such as the [home page]({{ $page->baseUrl }}) and [my previous blog post]({{ $page->postLink("2020-08-20-migrating-to-jekyll") }})) and future tweaks could be shown in multiple places.
+So that I can easily include this in multiple places, I stored all of this in an include file named migration-progress.html so that I could include it in multiple places (such as the [home page]({{ $page->baseUrl }}) and [my previous blog post]({{ $page->postUrl("2020-08-20-migrating-to-jekyll") }})) and future tweaks could be shown in multiple places.
 
 ### Putting it all together
 <amp-gist

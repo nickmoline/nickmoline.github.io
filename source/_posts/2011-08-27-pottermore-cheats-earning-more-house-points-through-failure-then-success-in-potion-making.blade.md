@@ -14,7 +14,7 @@ tags:
   - Pottermore
   - Harry Potter
 ---
-**UPDATE 9/14/2011:** [TH_NK has updated Pottermore]({{ $page->postLink("2011-09-14-pottermore-cheats-potions-better-still-needs-more") }} "Pottermore Cheats Update: Potions are Better now, but the site still has a way to go") so that you no longer earn house points when you fail to brew a potion, this simple fix nullifies the cheating method mentioned below, Hurrah!
+**UPDATE 9/14/2011:** [TH_NK has updated Pottermore]({{ $page->postUrl("2011-09-14-pottermore-cheats-potions-better-still-needs-more") }} "Pottermore Cheats Update: Potions are Better now, but the site still has a way to go") so that you no longer earn house points when you fail to brew a potion, this simple fix nullifies the cheating method mentioned below, Hurrah!
 
 I&#8217;m going to preface what I&#8217;m going to say below with the statement that I am not putting this post up as an invitation to cheat on pottermore.  I would have sent this message privately to the Pottermore developers, however I could find no place on pottermore.com, insider.pottermore.com, [@pottermore](https://twitter.com/pottermore) or pottermore on facebook where I could send a message to the devs.  The closest I could find was the Beta Feedback button, which presents a feedback form that lets you rank a page on a scale of how much you like it, but it has no comment field, no way to introduce a comment for the devs.
 

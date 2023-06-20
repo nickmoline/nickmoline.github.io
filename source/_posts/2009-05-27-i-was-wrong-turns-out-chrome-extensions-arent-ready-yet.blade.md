@@ -21,7 +21,7 @@ tags:
 amp-youtube: true
 amp-twitter: true
 ---
-A few months ago I [blogged]({{ $page->postLink("2009-02-04-google-chrome-extensions-coming-out-by-may") }}) that an extension listed on the Google I/O session list implied that Google was ready to release extensions for Google Chrome.
+A few months ago I [blogged]({{ $page->postUrl("2009-02-04-google-chrome-extensions-coming-out-by-may") }}) that an extension listed on the Google I/O session list implied that Google was ready to release extensions for Google Chrome.
 
 I&#8217;m attending the [Developing Extensions for Google Chrome](http://code.google.com/events/io/sessions/DevelopingExtensionsGoogleChrome.html) session right now, which is hosted by [Aaron Boodman](http://code.google.com/events/io/speakers.html#aa) who is noted for being the creator of the [Greasemonkey Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/748) and who now works at Google, and is working on Chrome Extensions. He Started this session with a disclaimer &#8220;This is alpha code, we are not announcing Extensions for Chrome today&#8221; (see my [Tweet of Disappointment](http://twitter.com/NickMoline/status/1938360780) at that).
 

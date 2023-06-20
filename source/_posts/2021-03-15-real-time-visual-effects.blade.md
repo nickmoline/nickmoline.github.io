@@ -16,7 +16,7 @@ tags:
     - Visual Effects
     - The Tempest
 ---
-In my [last post]({{ $page->postLink("2021-03-04-learning-behind-the-stage") }}), I mentioned that with each show I work on, I like to learn something new.  I teased that I had some very unique challenges on this latest show _The Tempest_.  In particular I needed to create a number of real-time visual effects.  I used a variety of tools to accomplish this task.
+In my [last post]({{ $page->postUrl("2021-03-04-learning-behind-the-stage") }}), I mentioned that with each show I work on, I like to learn something new.  I teased that I had some very unique challenges on this latest show _The Tempest_.  In particular I needed to create a number of real-time visual effects.  I used a variety of tools to accomplish this task.
 
 _The Tempest_ is a show that is known for involving quite a lot of spectacle and translating that spectacle to a real-time production over zoom was always going to be a challenge.  In this post I'll break down a few of these effects including the tools I used to make them.
 

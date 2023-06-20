@@ -32,6 +32,6 @@ Nearly a full year after the blog launched, [I made it&#8217;s first major migra
 
 Unfortunately Nucleus never quite seemed a clean enough system for me, and BLOG:CMS made it much messier, and [upgrades to new versions were a real pain](https://www.nick.pro/2004/07/22/busily-updating), so I was always on the lookout for another blogging platform to switch to.
 
-The Nucleus system was such a pain to work with, that eventually I just stopped blogging entirely, and there came a point where there was a space of over 15 months with not a single post. Eventually I [Migrated to WordPress]({{ $page->postLink("2006-05-01-missing-year") }}) in May, 2006 and used it continually until today.
+The Nucleus system was such a pain to work with, that eventually I just stopped blogging entirely, and there came a point where there was a space of over 15 months with not a single post. Eventually I [Migrated to WordPress]({{ $page->postUrl("2006-05-01-missing-year") }}) in May, 2006 and used it continually until today.
 
 As I said above, WordPress is a phenomenal blogging software, the best there is, and I will miss some of it&#8217;s simplicity and functionality on my site now that I have [Gone Drupal](http://www.drupal.org/), but the time has come that I want more out of my personal site then a blog, and Drupal will give me the flexibility I need to do much more with my site then ever before.

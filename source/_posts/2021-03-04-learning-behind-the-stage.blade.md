@@ -28,7 +28,7 @@ Over the last few years I've made an effort to try something new with most shows
     <amp-img fallback src="{{ $page->baseUrl }}/assets/images/2021/03/mcm1940.jpg" alt="Musical Comedy Murders of 1940" width="768" height="1024" layout="responsive"></amp-img>
 </amp-img>
 
-I never finished college, but while I was there at [Tarrant County College](https://www.tccd.edu) in Arlington, TX I did get to participate in 3 productions.  In February of 2005, I [acted in a production]({{ $page->postLink("2005-01-24-drama-king") }}) of [_The Musical Comedy Murders of 1940_](https://en.wikipedia.org/wiki/The_Musical_Comedy_Murders_of_1940) as the character of Roger Hopewell.  I had long loved theatre before this, but after acting in that show, I was hooked.
+I never finished college, but while I was there at [Tarrant County College](https://www.tccd.edu) in Arlington, TX I did get to participate in 3 productions.  In February of 2005, I [acted in a production]({{ $page->postUrl("2005-01-24-drama-king") }}) of [_The Musical Comedy Murders of 1940_](https://en.wikipedia.org/wiki/The_Musical_Comedy_Murders_of_1940) as the character of Roger Hopewell.  I had long loved theatre before this, but after acting in that show, I was hooked.
 
 Later that spring I served as Light Board Operator for the school's production of William Shakespeare's [_A Midsummer Night's Dream_](https://en.wikipedia.org/wiki/A_Midsummer_Night%27s_Dream), which I found every bit as enjoyable as acting.  This was in a way the beginning of my learning new tasks with shows as I did not have much prior experience with theatrical lighting (other than the simple light system at my church at the time).
 
@@ -39,7 +39,7 @@ Later that spring I served as Light Board Operator for the school's production o
 The following winter I acted in another production, [_Rumors_](https://en.wikipedia.org/wiki/Rumors_(play)) by Neil Simon in the role of Ken Gorman.
 
 ### The lost decade 2007-2017
-When I moved to California to work for Justia, I focused my energy on working for a while and did not get any opportunities to act in or crew any shows.  I did however get multiple opportunities to see theatrical productions, however.  I enjoyed seeing professional productions of _Wicked_, _Promises, Promises_, _Spamalot_, [_Newsies_]({{ $page->postLink("2012-10-13-newsies-on-broadway") }}), _How to Succeed in Business Without Really Trying_, and more.
+When I moved to California to work for Justia, I focused my energy on working for a while and did not get any opportunities to act in or crew any shows.  I did however get multiple opportunities to see theatrical productions, however.  I enjoyed seeing professional productions of _Wicked_, _Promises, Promises_, _Spamalot_, [_Newsies_]({{ $page->postUrl("2012-10-13-newsies-on-broadway") }}), _How to Succeed in Business Without Really Trying_, and more.
 
 I also saw a number of community theatre productions including: _A Funny Thing Happens on the Way to the Forum_, _Into the Woods_, and _The Mystery of Edwin Drood_ (at my future community theatre home of Sunnyvale Community Players).
 
@@ -52,7 +52,7 @@ In 2017, after working with Justia for 10 full years, I decided the time was rig
 
 Having had some experience with sound from my time at _Eden Road_, I reached out and came on as a sound board operator for SCP's production of [_The Drowsy Chaperone_](https://web.archive.org/web/20170613202413/http://www.sunnyvaleplayers.org/the-drowsy-chaperone.html).  With this production just learning how live sound works in the 2010s was a learning curve for me.  The last sound-board I had used before then was an analog board, so just learning digital sound with the [Midas M32](https://www.midasconsoles.com/product.html?modelCode=P0B3I) was a learning curve.
 
-Over the 2017 summer I got a chance to run sound for [_Next to Normal_]({{ $page->postLink("2017-07-10-next-normal-next-perfect") }}) up in San Francisco. 
+Over the 2017 summer I got a chance to run sound for [_Next to Normal_]({{ $page->postUrl("2017-07-10-next-normal-next-perfect") }}) up in San Francisco. 
 
 <amp-img src="{{ $page->baseUrl }}/assets/images/2021/03/fiddler.webp" alt="SCP Fiddler on the Roof" width="4048" height="3036" layout="responsive" lightbox>
     <amp-img fallback src="{{ $page->baseUrl }}/assets/images/2021/03/fiddler.jpg" alt="SCP Fiddler on the Roof" width="4048" height="3036" layout="responsive"></amp-img>

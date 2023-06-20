@@ -16,7 +16,7 @@ categories:
 tags:
     - Weight Loss
 ---
-1 Year ago today, I went to El Camino Hospital to [have my Gastric Sleeve surgery]({{ $page->postLink("2012-07-26-midnight-t-10-hours-go-time-stop-drinking-water") }} "Midnight, T-10 hours to go, time to stop drinking water").  One year later I have lost 96 pounds since the Surgery, a total of 195 pounds since I started my weight loss journey.  It&#8217;s a shame I didn&#8217;t quite make it to 200 pounds total loss, but I&#8217;m very proud of my weight loss progress and I&#8217;m nowhere near done.
+1 Year ago today, I went to El Camino Hospital to [have my Gastric Sleeve surgery]({{ $page->postUrl("2012-07-26-midnight-t-10-hours-go-time-stop-drinking-water") }} "Midnight, T-10 hours to go, time to stop drinking water").  One year later I have lost 96 pounds since the Surgery, a total of 195 pounds since I started my weight loss journey.  It&#8217;s a shame I didn&#8217;t quite make it to 200 pounds total loss, but I&#8217;m very proud of my weight loss progress and I&#8217;m nowhere near done.
 
 <!--more-->
 

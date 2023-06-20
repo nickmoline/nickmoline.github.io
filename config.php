@@ -53,16 +53,23 @@ return [
     ],
 
     'postUrl' => function ($page, $filename) {
+        if (!$page->collection) {
+            return $filename;
+        }
         if ($page->collection[$filename]) {
             return $page->collection[$filename]->getUrl();
         }
+        return $filename;
     },
 
-    'postLink' => function ($page, $filename) {
+    'postLink' => function ($page, $filename, $text = null) {
         $link = $page->postUrl($filename);
 
-        if ($link) {
-            return "<a href=\"{$link}\">{$filename}</a>";
+        if (!$text) {
+            $text = $filename;
+        }
+        if ($link !== $filename) {
+            return "<a href=\"{$link}\">{$text}</a>";
         } else {
             return $filename;
         }

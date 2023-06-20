@@ -13,7 +13,7 @@ categories:
 tags:
   - Personality Test
 ---
-I was browsing through my archive, reading from back in the days that I updated this blog often and I found an entry a little over a year ago (July 12th, 2003) where [I took a Personality Disorder test]({{ $page->postLink("2003-07-12-personality-disorder-test") }}) and posted my results. The end of the results had a link to take the test so I thought it would be interesting if I took the test again to see how I grade a year later. Inside you can find results with their comparison&#8217;s to last year.
+I was browsing through my archive, reading from back in the days that I updated this blog often and I found an entry a little over a year ago (July 12th, 2003) where [I took a Personality Disorder test]({{ $page->postUrl("2003-07-12-personality-disorder-test") }}) and posted my results. The end of the results had a link to take the test so I thought it would be interesting if I took the test again to see how I grade a year later. Inside you can find results with their comparison&#8217;s to last year.
 
 <!--more-->
 

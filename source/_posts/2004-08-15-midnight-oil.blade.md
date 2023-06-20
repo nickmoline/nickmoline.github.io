@@ -15,7 +15,7 @@ I came to the SWDCMA office at about 6:00 Saturday afternoon. As you can see fro
 
 <!--more-->
 
-The reason I came here was to install the Battery Backup unit I [mentioned in my earlier post]({{ $page->postLink("2004-08-15-generosity") }}), as well as install a modem that we purchased at the same time in another computer that was going to go to a home user and therefore needed a modem to allow it to dial in.
+The reason I came here was to install the Battery Backup unit I [mentioned in my earlier post]({{ $page->postUrl("2004-08-15-generosity") }}), as well as install a modem that we purchased at the same time in another computer that was going to go to a home user and therefore needed a modem to allow it to dial in.
 
 Well the Battery Backup was installed easily enough. I unhooked the old battery backup, hooked the new one up, setup automated monitoring of the battery status on the server, then moved the old battery backup _(which still worked fine but didn&#8217;t provide battery power long enough for the highly important use of the servers)_ to a workstation in the network where the battery backup it had was not functioning&#8230;. at all.
 

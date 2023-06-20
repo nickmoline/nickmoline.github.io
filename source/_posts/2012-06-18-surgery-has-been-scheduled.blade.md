@@ -14,4 +14,4 @@ tags:
     - Weight Loss
     - Surgery
 ---
-The Gastric sleeve surgery I mentioned in [my earlier post]({{ $page->postLink("2012-06-01-weight-loss-update-and-transparency") }} "Weight Loss Update and transparency") has been scheduled for July 26, 2012 at 10:00am at <a href="https://www.elcaminohospital.org/Locations" target="_blank">El Camino Hospital</a>.  This is the same hospital I was in last fall when I had Cellulitis in my left leg.
+The Gastric sleeve surgery I mentioned in [my earlier post]({{ $page->postUrl("2012-06-01-weight-loss-update-and-transparency") }} "Weight Loss Update and transparency") has been scheduled for July 26, 2012 at 10:00am at <a href="https://www.elcaminohospital.org/Locations" target="_blank">El Camino Hospital</a>.  This is the same hospital I was in last fall when I had Cellulitis in my left leg.

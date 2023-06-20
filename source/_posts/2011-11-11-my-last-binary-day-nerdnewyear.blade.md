@@ -20,7 +20,7 @@ amp-twitter: true
 
 ## Happy Binary Day!
 
-So in addition to being [Veteran&#8217;s Day]({{ $page->postLink("2011-11-11-thank-you-veterans") }} "Thank you Veterans"), today, November 11, 2011, happens to be the last &#8220;Binary Day&#8221; I am ever likely to live through.  There have been 36 so-called &#8220;Binary Days&#8221; in the last 11 years (9 each in 2000, 2001, 2010 and 2011), where all the days of the date (except the century) consist of only the digits 0 and 1.  As a computer programmer, I can&#8217;t help but be tickled by days that appear to be in binary.
+So in addition to being [Veteran&#8217;s Day]({{ $page->postUrl("2011-11-11-thank-you-veterans") }} "Thank you Veterans"), today, November 11, 2011, happens to be the last &#8220;Binary Day&#8221; I am ever likely to live through.  There have been 36 so-called &#8220;Binary Days&#8221; in the last 11 years (9 each in 2000, 2001, 2010 and 2011), where all the days of the date (except the century) consist of only the digits 0 and 1.  As a computer programmer, I can&#8217;t help but be tickled by days that appear to be in binary.
 
 <!--more-->
 
