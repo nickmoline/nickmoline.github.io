@@ -28,8 +28,8 @@ These were annoying restrictions but overall I still considered the pass to be a
 
 Unfortunately yesterday MoviePass made a sudden change with no warning that I find absolutely unacceptable, and to make it worse they tried to pass it off as if it was some exciting new feature for their customers.  Yesterday I received an email from MoviePass with a subject line of &#8220;New Features.&#8221;  This is what MoviePass had to say
 
-<amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2013/11/Region-capture-12.webp" alt="Screenshot of Moviepass Email" title="Screenshot of Moviepass Email" width="819" height="820" layout="responsive" lightbox>
-    <amp-img fallback src="{{ site.baseurl }}/wp-content/uploads/sites/4/2013/11/Region-capture-12.png" alt="Screenshot of Moviepass Email" title="Screenshot of Moviepass Email" width="819" height="820" layout="responsive" lightbox></amp-img>
+<amp-img src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2013/11/Region-capture-12.webp" alt="Screenshot of Moviepass Email" title="Screenshot of Moviepass Email" width="819" height="820" layout="responsive" lightbox>
+    <amp-img fallback src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2013/11/Region-capture-12.png" alt="Screenshot of Moviepass Email" title="Screenshot of Moviepass Email" width="819" height="820" layout="responsive" lightbox></amp-img>
 </amp-img>
 
 > Dear Nicholas,

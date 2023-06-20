@@ -20,8 +20,8 @@ Amazon.com is experiencing an outage, the most complete I&#8217;ve ever seen on 
 
 <!--more-->
 
-<amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2008/06/region-capture-6.webp" alt="Amazon.com Service Unavailable" title="Amazon Outage" width="575" height="132" class="aligncenter" layout="intrinsic" lightbox>
-  <amp-img fallback src="{{ site.baseurl }}/wp-content/uploads/sites/4/2008/06/region-capture-6.png" alt="Amazon.com Service Unavailable" title="Amazon Outage" width="575" height="132" class="aligncenter" layout="intrinsic" lightbox></amp-img>
+<amp-img src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2008/06/region-capture-6.webp" alt="Amazon.com Service Unavailable" title="Amazon Outage" width="575" height="132" class="aligncenter" layout="intrinsic" lightbox>
+  <amp-img fallback src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2008/06/region-capture-6.png" alt="Amazon.com Service Unavailable" title="Amazon Outage" width="575" height="132" class="aligncenter" layout="intrinsic" lightbox></amp-img>
 </amp-img>
 
 It appears that the [HTTPS version of Amazon](https://www.amazon.com/) is running just fine, it&#8217;s just the non-secured version.

@@ -20,6 +20,6 @@ Went down to the apple store with [Tim](http://www.timstanley.com) to check out 
 
 <!--more-->
 
-<amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2008/07/img_0167.webp" title="Long Lines at the Apple Store" alt="Long Lines at the Apple Store" width="1200" height="1600" layout="responsive" lightbox>
-  <amp-img fallback src="{{ site.baseurl }}/wp-content/uploads/sites/4/2008/07/img_0167.jpg" title="Long Lines at the Apple Store" alt="Long Lines at the Apple Store" width="1200" height="1600" layout="responsive" lightbox></amp-img>
+<amp-img src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2008/07/img_0167.webp" title="Long Lines at the Apple Store" alt="Long Lines at the Apple Store" width="1200" height="1600" layout="responsive" lightbox>
+  <amp-img fallback src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2008/07/img_0167.jpg" title="Long Lines at the Apple Store" alt="Long Lines at the Apple Store" width="1200" height="1600" layout="responsive" lightbox></amp-img>
 </amp-img>

@@ -14,14 +14,14 @@ tags:
   - Pottermore
   - Harry Potter
 ---
-I don&#8217;t know if the people from [TH_NK](http://www.think.eu/) read [my post about cheating]({{ $page->postLink("2011-08-27-pottermore-cheats-earning-more-house-points-through-failure-then-success-in-potion-making") }} "Pottermore Cheats: Earning more house points through failure then success in potion making") on [Pottermore]({{ site.url }}{{ site.baseurl }}/tags#pottermore) by purposeful failing at potion making, or one of the many other online forums posting about the issue, but a few days after my post went live, they posted on the Pottermore Insider blog that [potions are being tweaked](http://insider.pottermore.com/2011/09/from-duelling-to-potions.html).
+I don&#8217;t know if the people from [TH_NK](http://www.think.eu/) read [my post about cheating]({{ $page->postLink("2011-08-27-pottermore-cheats-earning-more-house-points-through-failure-then-success-in-potion-making") }} "Pottermore Cheats: Earning more house points through failure then success in potion making") on [Pottermore]({{ $page->baseUrl }}/tags#pottermore) by purposeful failing at potion making, or one of the many other online forums posting about the issue, but a few days after my post went live, they posted on the Pottermore Insider blog that [potions are being tweaked](http://insider.pottermore.com/2011/09/from-duelling-to-potions.html).
 
 Today Sara Moton commented on my previous post to say that they stopped giving a point for failing.  I have logged in tonight to test it and indeed, it is true.  TH_NK has fixed this logic flaw, and it&#8217;s great.
 
 <!--more-->
 
-<amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2011/09/Region-capture-3-e1315985708703.webp" alt="Owl from Pottermore saying &quot;No point for you!&quot;" title="Owl from Pottermore saying &quot;No point for you!&quot;" width="600" height="80" layout="intrinsic" lightbox>
-  <amp-img fallback src="{{ site.baseurl }}/wp-content/uploads/sites/4/2011/09/Region-capture-3-e1315985708703.png" alt="Owl from Pottermore saying &quot;No point for you!&quot;" title="Owl from Pottermore saying &quot;No point for you!&quot;" width="600" height="80" layout="intrinsic" lightbox></amp-img>
+<amp-img src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2011/09/Region-capture-3-e1315985708703.webp" alt="Owl from Pottermore saying &quot;No point for you!&quot;" title="Owl from Pottermore saying &quot;No point for you!&quot;" width="600" height="80" layout="intrinsic" lightbox>
+  <amp-img fallback src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2011/09/Region-capture-3-e1315985708703.png" alt="Owl from Pottermore saying &quot;No point for you!&quot;" title="Owl from Pottermore saying &quot;No point for you!&quot;" width="600" height="80" layout="intrinsic" lightbox></amp-img>
 </amp-img>
 
 Apparently there was another way of cheating with potions that I never tried cause I presumed they wouldn&#8217;t base things on system clock.  In what some are calling the &#8220;time turner&#8221; cheat of potion brewing, you can simply set your system clock ahead and return to the potion page, and skip the lengthy waiting/brewing period.

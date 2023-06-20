@@ -15,7 +15,7 @@ tags:
   - Harry Potter
   - Math
 ---
-My last [2]({{ $page->postLink("2011-09-14-pottermore-cheats-potions-better-still-needs-more") }} "Pottermore Cheats Update: Potions are Better now, but the site still has a way to go") [posts]({{ $page->postLink("2011-08-27-pottermore-cheats-earning-more-house-points-through-failure-then-success-in-potion-making") }} "Pottermore Cheats: Earning more house points through failure then success in potion making") were both about cheats on earning and keeping House Points on [Pottermore]({{ site.url }}{{ site.baseurl }}/tags#pottermore).  Continuing that series, I thought I would write a little bit on task based point competitions.
+My last [2]({{ $page->postLink("2011-09-14-pottermore-cheats-potions-better-still-needs-more") }} "Pottermore Cheats Update: Potions are Better now, but the site still has a way to go") [posts]({{ $page->postLink("2011-08-27-pottermore-cheats-earning-more-house-points-through-failure-then-success-in-potion-making") }} "Pottermore Cheats: Earning more house points through failure then success in potion making") were both about cheats on earning and keeping House Points on [Pottermore]({{ $page->baseUrl }}/tags#pottermore).  Continuing that series, I thought I would write a little bit on task based point competitions.
 
 <!--more-->
 

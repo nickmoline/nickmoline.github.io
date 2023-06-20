@@ -21,8 +21,8 @@ tags:
 
 <!--more-->
 
-<amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2008/06/region-capture-7.webp" title="Updated Amazon Error Message" alt="Updated Amazon Error Message" width="655" height="436" layout="responsive" class="aligncenter" lightbox>
-  <amp-img fallback src="{{ site.baseurl }}/wp-content/uploads/sites/4/2008/06/region-capture-7.png" title="Updated Amazon Error Message" alt="Updated Amazon Error Message" width="655" height="436" layout="responsive" class="aligncenter" lightbox></amp-img>
+<amp-img src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2008/06/region-capture-7.webp" title="Updated Amazon Error Message" alt="Updated Amazon Error Message" width="655" height="436" layout="responsive" class="aligncenter" lightbox>
+  <amp-img fallback src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2008/06/region-capture-7.png" title="Updated Amazon Error Message" alt="Updated Amazon Error Message" width="655" height="436" layout="responsive" class="aligncenter" lightbox></amp-img>
 </amp-img>
 
 This is already hitting Amazon where it really hurts, [AMZN is down over 4% today](http://finance.google.com/finance?q=NASDAQ:AMZN)

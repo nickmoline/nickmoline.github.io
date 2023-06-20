@@ -23,8 +23,8 @@ Like many people during the pandemic, I've been working from home for over a yea
 
 One thing about working from home though, reliable internet is absolutely essential.  If the internet goes down, I can't reliably work, and neither can Barbara.  Unfortunately, as I'm sure you know, no Internet Service Provider, even a Business ISP, has perfect uptime.  Residential ISPs are even less reliable than business ones, and everyone dreads seeing that "Unable to connect to the Internet" error message when they are trying to get their work done.
 
-<amp-img src="{{ site.baseurl }}/assets/images/2021/03/chrome-offline.webp" alt="Unable to connect to the Internet" width="800" height="343" layout="responsive" lightbox>
-    <amp-img fallback src="{{ site.baseurl }}/assets/images/2021/03/chrome-offline.png" alt="Unable to connect to the Internet" width="800" height="343" layout="responsive"></amp-img>
+<amp-img src="{{ $page->baseUrl }}/assets/images/2021/03/chrome-offline.webp" alt="Unable to connect to the Internet" width="800" height="343" layout="responsive" lightbox>
+    <amp-img fallback src="{{ $page->baseUrl }}/assets/images/2021/03/chrome-offline.png" alt="Unable to connect to the Internet" width="800" height="343" layout="responsive"></amp-img>
 </amp-img>
 
 As internet is essential for the job, one of the [perks](https://www.jobscan.co/careers) Jobscan offers is a monthly $50 reimbursement to help offset internet costs for employees who are working from home. My original thought when taking the job was "that's awesome, that's like half of my internet bill," but when our ISP had an 8 hour outage one workday, I thought of another idea that would be a better use of that $50, a second broadband internet service.
@@ -41,8 +41,8 @@ The problem of course is that most of these business routers are quite expensive
 
 I could create my own router using a linux box with 3 gigabit network cards, but making one that would robustly handle our connections would still be costly to setup and run. Not sure what I was going to do, I decided to see if I could find an affordable dual-wan router I could setup in my apartment that would handle most of the functionality I needed.
 
-<amp-img src="{{ site.baseurl }}/assets/images/2021/03/tp-link-safestream-multi-wan-router.webp" alt="TL-R605 SafeStream Multi-WAN VPN Router" width="3859" height="2170" layout="responsive" lightbox>
-    <amp-img fallback src="{{ site.baseurl }}/assets/images/2021/03/tp-link-safestream-multi-wan-router.jpg" alt="TL-R605 SafeStream Multi-WAN VPN Router" width="3859" height="2170" layout="responsive"></amp-img>
+<amp-img src="{{ $page->baseUrl }}/assets/images/2021/03/tp-link-safestream-multi-wan-router.webp" alt="TL-R605 SafeStream Multi-WAN VPN Router" width="3859" height="2170" layout="responsive" lightbox>
+    <amp-img fallback src="{{ $page->baseUrl }}/assets/images/2021/03/tp-link-safestream-multi-wan-router.jpg" alt="TL-R605 SafeStream Multi-WAN VPN Router" width="3859" height="2170" layout="responsive"></amp-img>
 </amp-img>
 
 To my absolute amazement, I found a router that not only could handle this with 2 WAN connections, but up to 4 WAN connections, while also supporting a lot of the other features typically found in much more expensive business routers, for only [$59.99 on Amazon](https://www.amazon.com/dp/B08QTXNWZ1/).
@@ -51,8 +51,8 @@ The [TL-R605 SafeStream Multi-WAN VPN Router](https://www.tp-link.com/us/busines
 
 The device has a total of 5 gigabit ethernet ports on it.  The first one is dedicated to the first WAN connection, and the last one is dedicated to a LAN connection.  The remaining 3 ports can be switched between either WAN or LAN depending on your needs allowing connections to up to 4 separate internet providers, which can be setup in a variety of different ways (load balanced, failover, combined) which made it nearly perfect for my setup.
 
-<amp-img src="{{ site.baseurl }}/assets/images/2021/03/TL-R605-ports.webp" alt="TL-R605 Configurable WAN/LAN ports" width="1000" height="1000" layout="responsive" lightbox>
-    <amp-img fallback src="{{ site.baseurl }}/assets/images/2021/03/TL-R605-ports.jpg" alt="TL-R605 Configurable WAN/LAN ports" width="1000" height="1000" layout="responsive"></amp-img>
+<amp-img src="{{ $page->baseUrl }}/assets/images/2021/03/TL-R605-ports.webp" alt="TL-R605 Configurable WAN/LAN ports" width="1000" height="1000" layout="responsive" lightbox>
+    <amp-img fallback src="{{ $page->baseUrl }}/assets/images/2021/03/TL-R605-ports.jpg" alt="TL-R605 Configurable WAN/LAN ports" width="1000" height="1000" layout="responsive"></amp-img>
 </amp-img>
 
 I have 4 ethernet ports in the apartment wired up (one in each of the 3 bedrooms, and one in the living room), so since I'd only have 3 LAN ports on this router, I needed a small switch to wire up them all.  So I picked up tp-link's 5-port [TL-SG105E](https://www.tp-link.com/us/business-networking/easy-smart-switch/tl-sg105e/) as well for [$22.39 on Amazon](https://www.amazon.com/gp/product/B00N0OHEMA) which solves that problem.

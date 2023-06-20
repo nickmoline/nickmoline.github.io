@@ -13,7 +13,7 @@ tags:
    - Jekyll
    - Coding
 ---
-For several years, I've had 2 separate personal sites, [NickMoline.com](https://www.nickmoline.com), which for many years was a single page portfolio page which contained nothing but a short bio of me, links to various social media profiles of mine, and a link to [nick.pro](https://www.nick.pro) which was my blog.  The portfolio page was a simple responsive HTML page (you can see [an archive of this page here]({{ site.url }}{% link nickmolinecom.html %})), while the blog was running on WordPress and contained my musings on a variety of topics.
+For several years, I've had 2 separate personal sites, [NickMoline.com](https://www.nickmoline.com), which for many years was a single page portfolio page which contained nothing but a short bio of me, links to various social media profiles of mine, and a link to [nick.pro](https://www.nick.pro) which was my blog.  The portfolio page was a simple responsive HTML page, while the blog was running on WordPress and contained my musings on a variety of topics.
 
 Over time though, both of these sites languished.  I posted to nick.pro only about once per year (_I missed 2018 entirely, with only a single post in 2019_), and nickmoline.com I ignored so long I didn't even realize it had been down for a long time until @emil10001 pointed out that my portfolio page was completely down.  Upon investigation, I noticed that it had actually been down for at least a year, and the last commit to the repo was [on September 1, 2016](https://github.com/nickmoline/nickmoline.github.io/commit/c0234b8c9205ada794d70e1a043a40cb16644533) and consisted of only the [Keybase](https://keybase.io/nickmoline) verification file for the domain.  The last substantial content commits to the page was [in January, 2014](https://github.com/nickmoline/nickmoline.github.io/commit/ef5ad46df31bece8aad76f6bbae4e890cdb86d64).
 
@@ -79,6 +79,6 @@ I still have much to do.  I've been debating on if I want to add retroactive pos
 
 At the moment I'm leaning towards writing those retroactive posts, or at least some of them, but I haven't done so yet.  And of course I intend on publishing lots of posts here in the future, especially on some of my more nerdy projects that I've been working on.
 
-I also want to spend some more time better organizing the [Categories]({{ site.baseurl }}/categories/) and [Tags]({{ site.baseurl }}/tags/) a bit as there are more categories than I'd like and there are places where there are multiple tags with the same meaning but without the same posts.  These tasks will come.
+I also want to spend some more time better organizing the [Categories]({{ $page->baseUrl }}/categories/) and [Tags]({{ $page->baseUrl }}/tags/) a bit as there are more categories than I'd like and there are places where there are multiple tags with the same meaning but without the same posts.  These tasks will come.
 
 But in the mean time **Welcome to NickMoline.com**, I'm very glad to have you here.

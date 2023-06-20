@@ -18,8 +18,8 @@ In the latest in my ongoing series of Major websites experiencing outages, [GMai
 
 <!--more-->
 
-<amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2008/08/region-capture-2.webp" alt="GMail Down" title="GMail Down" width="655" height="276" layout="responsive" lightbox>
-  <amp-img fallback src="{{ site.baseurl }}/wp-content/uploads/sites/4/2008/08/region-capture-2.png" alt="GMail Down" title="GMail Down" width="655" height="276" layout="responsive" lightbox></amp-img>
+<amp-img src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2008/08/region-capture-2.webp" alt="GMail Down" title="GMail Down" width="655" height="276" layout="responsive" lightbox>
+  <amp-img fallback src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2008/08/region-capture-2.png" alt="GMail Down" title="GMail Down" width="655" height="276" layout="responsive" lightbox></amp-img>
 </amp-img>
 
 It&#8217;s important to note that while the web interface (which I primarily use) is down, the IMAP appears to be fully operational, so I&#8217;m still getting new emails buzzing on my iPhone constantly, I just much prefer to work on the web based interface with all of the search functionality that makes it easy to find just the right message when I need it. I hope the server comes back up again soon.

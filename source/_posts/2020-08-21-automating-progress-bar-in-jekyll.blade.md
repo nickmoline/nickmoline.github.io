@@ -14,7 +14,7 @@ tags:
     - Guides
 amp-gist: true
 ---
-As I mentioned yesterday [I'm moving posts over to Jekyll]({{ $page->postLink("2020-08-20-migrating-to-jekyll") }}) from my WordPress blog.  To get started, I used a wordpress plugin called simply [Jekyll Exporter](https://wordpress.org/plugins/jekyll-exporter/) to export all of my posts and pages into markdown files.  This worked pretty well, but since I want my site to be 100% [AMP](https://amp.dev) Only, I decided that rather than just publishing them all I should make sure that none of the old markup (much of which has been migrated between 3 different platforms) ends up causing pages not to validate in the AMP Validator.
+As I mentioned yesterday I'm moving posts over to Jekyll from my WordPress blog.  To get started, I used a wordpress plugin called simply [Jekyll Exporter](https://wordpress.org/plugins/jekyll-exporter/) to export all of my posts and pages into markdown files.  This worked pretty well, but since I want my site to be 100% [AMP](https://amp.dev) Only, I decided that rather than just publishing them all I should make sure that none of the old markup (much of which has been migrated between 3 different platforms) ends up causing pages not to validate in the AMP Validator.
 
 <!--more-->
 
@@ -61,7 +61,7 @@ To get the percentage, I can then divide `site.posts.size` by `total_post_count`
 ```
 {% endraw %}
 
-For presentation's sake I'm then multiplying by 100 and then rounding to 2 significant digits.  At this point I have all of the numbers I need.  I know how many published posts there are (currently <strong>{{ posts_migrated_count | floor }}</strong>), how many posts are pending migration (<strong>{{ site.pending.size }}</strong>), how many posts there are total (<strong>{{ total_post_count | floor }}</strong>), and what percentage of the total posts are done (<strong>{{ migration_percentage }}%</strong>).
+For presentation's sake I'm then multiplying by 100 and then rounding to 2 significant digits.  At this point I have all of the numbers I need.  I know how many published posts there are (currently <strong>##</strong>), how many posts are pending migration (<strong>##</strong>), how many posts there are total (<strong>##</strong>), and what percentage of the total posts are done (<strong>##%</strong>).
 
 ### Rendering the progress bar
 
@@ -81,7 +81,7 @@ I could have set `max` to `100` and used the `migration_percentage` as the `valu
 
 For styling the progress bar, I followed the [fantastic guide posted at css-tricks](https://css-tricks.com/html5-progress-element/) by [Panjak Parashar](http://pankajparashar.com/) and then tweaked things a bit to my personal liking.
 
-So that I can easily include this in multiple places, I stored all of this in an include file named migration-progress.html so that I could include it in multiple places (such as the [home page]({{ site.url }}) and [my previous blog post]({{ $page->postLink("2020-08-20-migrating-to-jekyll") }})) and future tweaks could be shown in multiple places.
+So that I can easily include this in multiple places, I stored all of this in an include file named migration-progress.html so that I could include it in multiple places (such as the [home page]({{ $page->baseUrl }}) and [my previous blog post]({{ $page->postLink("2020-08-20-migrating-to-jekyll") }})) and future tweaks could be shown in multiple places.
 
 ### Putting it all together
 <amp-gist

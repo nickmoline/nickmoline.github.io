@@ -45,17 +45,17 @@ When their first attempts at raising support from other groups of Newsies of New
 At one point in the song, the newsies crumple up sheets of newspaper and throw them out into the audience. Being so close, Barbara and I were actually able to catch 2 sheets of the paper, and I was impressed in that they do actually appear to be pages from a Thursday, July 20, 1989 issue of The New York World.
 
 <amp-carousel lightbox width="217" height="300" layout="responsive" type="slides">
-    <amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2012/10/Scan-5.webp" title="July 20, 1899 Issue of The New York World - Page 1 of 4" alt="July 20, 1899 Issue of The New York World - Page 1 of 4" width="217" height="300" layout="responsive">
-        <amp-img fallback src="{{ site.baseurl }}/wp-content/uploads/sites/4/2012/10/Scan-5.jpeg" title="July 20, 1899 Issue of The New York World - Page 1 of 4" alt="July 20, 1899 Issue of The New York World - Page 1 of 4" width="217" height="300" layout="responsive"></amp-img>
+    <amp-img src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2012/10/Scan-5.webp" title="July 20, 1899 Issue of The New York World - Page 1 of 4" alt="July 20, 1899 Issue of The New York World - Page 1 of 4" width="217" height="300" layout="responsive">
+        <amp-img fallback src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2012/10/Scan-5.jpeg" title="July 20, 1899 Issue of The New York World - Page 1 of 4" alt="July 20, 1899 Issue of The New York World - Page 1 of 4" width="217" height="300" layout="responsive"></amp-img>
     </amp-img>
-    <amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2012/10/Scan-6.webp" title="July 20, 1899 Issue of The New York World - Page 2 of 4" alt="July 20, 1899 Issue of The New York World - Page 2 of 4" width="217" height="300" layout="responsive">
-        <amp-img fallback src="{{ site.baseurl }}/wp-content/uploads/sites/4/2012/10/Scan-6.jpeg" title="July 20, 1899 Issue of The New York World - Page 2 of 4" alt="July 20, 1899 Issue of The New York World - Page 2 of 4" width="217" height="300" layout="responsive"></amp-img>
+    <amp-img src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2012/10/Scan-6.webp" title="July 20, 1899 Issue of The New York World - Page 2 of 4" alt="July 20, 1899 Issue of The New York World - Page 2 of 4" width="217" height="300" layout="responsive">
+        <amp-img fallback src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2012/10/Scan-6.jpeg" title="July 20, 1899 Issue of The New York World - Page 2 of 4" alt="July 20, 1899 Issue of The New York World - Page 2 of 4" width="217" height="300" layout="responsive"></amp-img>
     </amp-img>
-    <amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2012/10/Scan-7.webp" title="July 20, 1899 Issue of The New York World - Page 3 of 4" alt="July 20, 1899 Issue of The New York World - Page 3 of 4" width="217" height="300" layout="responsive">
-        <amp-img fallback src="{{ site.baseurl }}/wp-content/uploads/sites/4/2012/10/Scan-7.jpeg" title="July 20, 1899 Issue of The New York World - Page 3 of 4" alt="July 20, 1899 Issue of The New York World - Page 3 of 4" width="217" height="300" layout="responsive"></amp-img>
+    <amp-img src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2012/10/Scan-7.webp" title="July 20, 1899 Issue of The New York World - Page 3 of 4" alt="July 20, 1899 Issue of The New York World - Page 3 of 4" width="217" height="300" layout="responsive">
+        <amp-img fallback src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2012/10/Scan-7.jpeg" title="July 20, 1899 Issue of The New York World - Page 3 of 4" alt="July 20, 1899 Issue of The New York World - Page 3 of 4" width="217" height="300" layout="responsive"></amp-img>
     </amp-img>
-    <amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2012/10/Scan-8.webp" title="July 20, 1899 Issue of The New York World - Page 4 of 4" alt="July 20, 1899 Issue of The New York World - Page 4 of 4" width="217" height="300" layout="responsive">
-        <amp-img fallback src="{{ site.baseurl }}/wp-content/uploads/sites/4/2012/10/Scan-8.jpeg" title="July 20, 1899 Issue of The New York World - Page 4 of 4" alt="July 20, 1899 Issue of The New York World - Page 4 of 4" width="217" height="300" layout="responsive"></amp-img>
+    <amp-img src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2012/10/Scan-8.webp" title="July 20, 1899 Issue of The New York World - Page 4 of 4" alt="July 20, 1899 Issue of The New York World - Page 4 of 4" width="217" height="300" layout="responsive">
+        <amp-img fallback src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2012/10/Scan-8.jpeg" title="July 20, 1899 Issue of The New York World - Page 4 of 4" alt="July 20, 1899 Issue of The New York World - Page 4 of 4" width="217" height="300" layout="responsive"></amp-img>
     </amp-img>
 </amp-carousel>
 

@@ -24,8 +24,8 @@ By the time my unit arrived however the air quality was marginally better, and m
 
 I haven't been in Irvine an entire month yet (heck I haven't even reached 2 weeks yet) and now there are evacuations in this very city because of wildfires down here.  At the moment my new home (shown below as the blue dot) is not yet under evacuation orders (or an evacuation warning), but the smoke is in the air and the air quality is once again bad.
 
-<amp-img src="{{ site.baseurl }}/assets/images/2020/10/weather/fire-evacuations.webp" alt="Map of Fire Evacuations in Irvine" width="1355" height="1252" layout="responsive" lightbox>
-    <amp-img fallback src="{{ site.baseurl }}/assets/images/2020/10/weather/fire-evacuations.png" alt="Map of Fire Evacuations in Irvine" width="1355" height="1252" layout="responsive"></amp-img>
+<amp-img src="{{ $page->baseUrl }}/assets/images/2020/10/weather/fire-evacuations.webp" alt="Map of Fire Evacuations in Irvine" width="1355" height="1252" layout="responsive" lightbox>
+    <amp-img fallback src="{{ $page->baseUrl }}/assets/images/2020/10/weather/fire-evacuations.png" alt="Map of Fire Evacuations in Irvine" width="1355" height="1252" layout="responsive"></amp-img>
 </amp-img>
 
 Since the air quality was bad again, the time was right to finally crack open the box and setup our new weather station.  While it looked complicated, assembly was fairly simple and I now have a fully functional internet connected weather station on my patio.  
@@ -33,26 +33,26 @@ Since the air quality was bad again, the time was right to finally crack open th
 ## The Unit and my Setup
 On the patio I have the Osprey Sensor array which includes a weather vane, speed cups, an Ambient/UV Light sensor, a Thermo-Hygrometer, and a rain gauge.  The unit is primarily powered by a solar panel on the top of the unit, with 2 AA batteries to provide backup power if not enough solar energy is collected in a given day.  The unit transmits via RF (at 915 MHz) to a console located inside the apartment.  
 
-<amp-img src="{{ site.baseurl }}/assets/images/2020/10/weather/PXL_20201027_064916207.NIGHT.webp" alt="The Weather Unit on my patio, yes there is construction outside, great view" width="4032" height="3024" layout="responsive" lightbox>
-    <amp-img fallback src="{{ site.baseurl }}/assets/images/2020/10/weather/PXL_20201027_064916207.NIGHT.jpg" alt="The Weather Unit on my patio, yes there is construction outside, great view" width="4032" height="3024" layout="responsive"></amp-img>
+<amp-img src="{{ $page->baseUrl }}/assets/images/2020/10/weather/PXL_20201027_064916207.NIGHT.webp" alt="The Weather Unit on my patio, yes there is construction outside, great view" width="4032" height="3024" layout="responsive" lightbox>
+    <amp-img fallback src="{{ $page->baseUrl }}/assets/images/2020/10/weather/PXL_20201027_064916207.NIGHT.jpg" alt="The Weather Unit on my patio, yes there is construction outside, great view" width="4032" height="3024" layout="responsive"></amp-img>
 </amp-img>
 
 Also on the patio is a separate solar powered unit which is the Outdoor version of the PM2.5 Particulate Monitor, which also communicates with the console inside via 915 MHz RF.
 
-<amp-img src="{{ site.baseurl }}/assets/images/2020/10/weather/PXL_20201027_064931760.NIGHT.webp" alt="Air Quality Sensor PM 2.5" width="4032" height="3024" layout="responsive" lightbox>
-    <amp-img fallback src="{{ site.baseurl }}/assets/images/2020/10/weather/PXL_20201027_064931760.NIGHT.jpg" alt="Air Quality Sensor PM 2.5" width="4032" height="3024" layout="responsive"></amp-img>
+<amp-img src="{{ $page->baseUrl }}/assets/images/2020/10/weather/PXL_20201027_064931760.NIGHT.webp" alt="Air Quality Sensor PM 2.5" width="4032" height="3024" layout="responsive" lightbox>
+    <amp-img fallback src="{{ $page->baseUrl }}/assets/images/2020/10/weather/PXL_20201027_064931760.NIGHT.jpg" alt="Air Quality Sensor PM 2.5" width="4032" height="3024" layout="responsive"></amp-img>
 </amp-img>
 
 Inside the apartment is the centralized console.  The console contains an LED display unit.  Note when I say it is an LED, it is not a video screen.  The individual LEDs light up like a traditional LCD calculator (but lit) and each LED can only light a particular area of the display.  On the display are readouts for Wind Speed and Direction, Rainfall, Outdoor Temperature and Humidity, Time and Date, Moon Phase, Barometric Pressure, a Weather Forecaast, Solar Radiation, and the UV Index.  There is also a display for the Indoor temperature and Humidity which comes from another Thermo-Hygrometer sensor located in the console itself.
 
-<amp-img src="{{ site.baseurl }}/assets/images/2020/10/weather/PXL_20201027_065019498.webp" alt="The Main Console Display" width="4032" height="3024" layout="responsive" lightbox>
-    <amp-img fallback src="{{ site.baseurl }}/assets/images/2020/10/weather/PXL_20201027_065019498.jpg" alt="The Main Console Display" width="4032" height="3024" layout="responsive"></amp-img>
+<amp-img src="{{ $page->baseUrl }}/assets/images/2020/10/weather/PXL_20201027_065019498.webp" alt="The Main Console Display" width="4032" height="3024" layout="responsive" lightbox>
+    <amp-img fallback src="{{ $page->baseUrl }}/assets/images/2020/10/weather/PXL_20201027_065019498.jpg" alt="The Main Console Display" width="4032" height="3024" layout="responsive"></amp-img>
 </amp-img>
 
 In addition to the 915 MHz RF receiver that receives communications from the other devices, this also contains a 2.4 GHz WiFi radio inside which is used to connect to your home WiFi connection for transmitting the data to the internet.  You'll note I did not mention anything on the display that mentioned displaying the PM2.5 Particulate Monitor data, this data is only available on the internet dashboards and mobile app.
 
-<amp-img src="{{ site.baseurl }}/assets/images/2020/10/weather/Screenshot_20201027-001612.webp" alt="Viewing Air Quality on the Mobile App" width="1080" height="2160" layout="responsive" lightbox>
-    <amp-img fallback src="{{ site.baseurl }}/assets/images/2020/10/weather/Screenshot_20201027-001612.png" alt="Viewing Air Quality on the Mobile App" width="1080" height="2160" layout="responsive"></amp-img>
+<amp-img src="{{ $page->baseUrl }}/assets/images/2020/10/weather/Screenshot_20201027-001612.webp" alt="Viewing Air Quality on the Mobile App" width="1080" height="2160" layout="responsive" lightbox>
+    <amp-img fallback src="{{ $page->baseUrl }}/assets/images/2020/10/weather/Screenshot_20201027-001612.png" alt="Viewing Air Quality on the Mobile App" width="1080" height="2160" layout="responsive"></amp-img>
 </amp-img>
 
 The unit can also receive from a second PM2.5 Particulate Monitor unit, which instead of being powered by solar is powered by a USB charger.  This is for monitoring the air quality inside the apartment, we placed this unit in our bedroom to get an indication of what the air quality is where Barbara will be spending most of her time.  The console can also receive from (and upload) data from up to 8 additional Thermo-Hygrometers.  We placed one of these in our bedroom to sense the temperature and humidity in our room, as well as another one in Joey's (Barbara's Brother) room.  
@@ -61,8 +61,8 @@ We need to purchase a 3rd to put into Dorothy's (Barbara's Mom) room to finish o
 
 With everything setup, I can now access my data in a variety of places.  The unit's native home is [Ambient Weather's own weather data service](https://ambientweather.net/dashboard/435a5c93160dc349b6a8f4b1cc27f054) which works very well, but you can also set the unit up to upload directly to [Weather Underground](https://www.wunderground.com/dashboard/pws/KCAIRVIN182) or [Weathercloud](https://app.weathercloud.net/d2434962961#profile).  You aren't limited to one of these services either, those links are links to the public versions of the weather data from my weather station on all 3 services.
 
-<amp-img src="{{ site.baseurl }}/assets/images/2020/10/weather/dashboard.webp" alt="Web Based Dashboard" width="1727" height="1444" layout="responsive" lightbox>
-    <amp-img fallback src="{{ site.baseurl }}/assets/images/2020/10/weather/dashboard.png" alt="Web Based Dashboard" width="1727" height="1444" layout="responsive"></amp-img>
+<amp-img src="{{ $page->baseUrl }}/assets/images/2020/10/weather/dashboard.webp" alt="Web Based Dashboard" width="1727" height="1444" layout="responsive" lightbox>
+    <amp-img fallback src="{{ $page->baseUrl }}/assets/images/2020/10/weather/dashboard.png" alt="Web Based Dashboard" width="1727" height="1444" layout="responsive"></amp-img>
 </amp-img>
 
 From Ambient Weather you can also integrate with a number of other 3rd party services.  The first is PWS Weather which doesn't have as nice of an interface as any of the direct services, but what is nice is the ability to easily download a CSV log of the data, there's no public view of this one that I can find so no link here.  If you don't want to have your unit upload to Weather Underground directly, you can also just upload to Ambient Weather and have them integrate with Weather Underground from their service.

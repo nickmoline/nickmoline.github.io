@@ -19,8 +19,8 @@ Next Week, I will be attending parts of [Mashup Camp](http://www.mashupcamp.com/
 
 <!--more-->
 
-<amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2008/11/2347408363_f52bd497b0.webp" alt="Nick and Dan at Mashup Camp" title="Nick and Dan at Mashup Camp" layout="responsive" width="499" height="332" lightbox>
-  <amp-img fallback src="{{ site.baseurl }}/wp-content/uploads/sites/4/2008/11/2347408363_f52bd497b0.jpg" alt="Nick and Dan at Mashup Camp" title="Nick and Dan at Mashup Camp" layout="responsive" width="499" height="332" lightbox></amp-img>
+<amp-img src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2008/11/2347408363_f52bd497b0.webp" alt="Nick and Dan at Mashup Camp" title="Nick and Dan at Mashup Camp" layout="responsive" width="499" height="332" lightbox>
+  <amp-img fallback src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2008/11/2347408363_f52bd497b0.jpg" alt="Nick and Dan at Mashup Camp" title="Nick and Dan at Mashup Camp" layout="responsive" width="499" height="332" lightbox></amp-img>
 </amp-img>
 
 Last spring, I went to Mashup Camp with my coworker [Dan](http://www.vuquoc.com/), and competed in their [SpeedGeeking Best Mashup Contest](http://www.mashupcamp.com/best-mashup-contest/). Dan did rather well, scoring 4th place with his iPhoneLocator Facebook App (although he&#8217;s rather disappointed as only the first 3 places won prizes), and I unfortunately came in last place. I haven&#8217;t decided if I&#8217;m going to compete again or not, but I can guarantee you if I do, I refuse to get last place again.

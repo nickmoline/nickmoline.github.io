@@ -26,16 +26,16 @@ Later that trip in July of 2011, at Disney California Adventure, I attempted to 
 
 As those of you who follow my blog know, I&#8217;ve lost a lot of weight since that trip.  On Tuesday, December 11th, I went in for my monthly weigh in and I was **339.6 pounds**.  This is a total of **150.6** **pounds lost!**
 
-<amp-img  src="{{ site.baseurl }}/wp-content/uploads/sites/4/2012/12/425391000121.webp" alt="Nick Rides Space Mountain" title="Nick Rides Space Mountain" width="1024" height="1536" layout="responsive" lightbox>
-    <amp-img fallback src="{{ site.baseurl }}/wp-content/uploads/sites/4/2012/12/425391000121.jpg" alt="Nick Rides Space Mountain" title="Nick Rides Space Mountain" width="1024" height="1536" layout="responsive" lightbox></amp-img>
+<amp-img  src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2012/12/425391000121.webp" alt="Nick Rides Space Mountain" title="Nick Rides Space Mountain" width="1024" height="1536" layout="responsive" lightbox>
+    <amp-img fallback src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2012/12/425391000121.jpg" alt="Nick Rides Space Mountain" title="Nick Rides Space Mountain" width="1024" height="1536" layout="responsive" lightbox></amp-img>
 </amp-img>
 
 Friday, December 14th, 2012 My wife and I went to Disneyland again, and the first thing I did that Friday morning is make a bee-line for Space Mountain.  I&#8217;m happy to report that the weight loss was enough, I was successfully able to ride Space Mountain, and the proof is above.
 
 The next day, December 15th, 2012, we had a great time at Disney California Adventure, and like before I made it my goal to ride California Screamin&#8217;.  I&#8217;m happy to report that once again I was successful and I was able to ride it as well.
 
-<amp-img  src="{{ site.baseurl }}/wp-content/uploads/sites/4/2012/12/42539100072.webp" alt="Nick Rides California Screamin" title="Nick Rides California Screamin" width="1024" height="1536" layout="responsive" lightbox>
-    <amp-img fallback src="{{ site.baseurl }}/wp-content/uploads/sites/4/2012/12/42539100072.jpg" alt="Nick Rides California Screamin" title="Nick Rides California Screamin" width="1024" height="1536" layout="responsive" lightbox></amp-img>
+<amp-img  src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2012/12/42539100072.webp" alt="Nick Rides California Screamin" title="Nick Rides California Screamin" width="1024" height="1536" layout="responsive" lightbox>
+    <amp-img fallback src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2012/12/42539100072.jpg" alt="Nick Rides California Screamin" title="Nick Rides California Screamin" width="1024" height="1536" layout="responsive" lightbox></amp-img>
 </amp-img>
 
 Both rides were fantastic (in fact Space Mountain seemed even better than I remember from my childhood) and were a great encouragement to me that my weight-loss efforts are working.

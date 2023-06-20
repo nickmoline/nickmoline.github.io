@@ -27,8 +27,8 @@ Because of this, I was understandably excited at the announcement of the new Mac
 
 Unfortunately, as many others have <a href="http://news.cnet.com/8301-33620_3-57454551-278/forget-retina-look-how-much-the-new-macbook-pro-displays/" target="_blank">pointed out</a>, you can&#8217;t actually set your Macbook Pro to the full 2880 x 1800 resolution.  The screen does support 2880 x 1800 resolution, but Apple&#8217;s &#8220;Retina Display&#8221; technique is to use the extra pixels to make things sharper, not to display more on the screen.
 
-<amp-img  title="Maximum Resolution on Retina Display is 1920 x 1600" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2012/06/Region-capture-1.webp" alt="Maximum Resolution on Retina Display is 1920 x 1600" data-recalc-dims="1" width="681" height="422" layout="responsive" lightbox>
-    <amp-img fallback title="Maximum Resolution on Retina Display is 1920 x 1600" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2012/06/Region-capture-1.png" alt="Maximum Resolution on Retina Display is 1920 x 1600" data-recalc-dims="1" width="681" height="422" layout="responsive" lightbox></amp-img>
+<amp-img  title="Maximum Resolution on Retina Display is 1920 x 1600" src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2012/06/Region-capture-1.webp" alt="Maximum Resolution on Retina Display is 1920 x 1600" data-recalc-dims="1" width="681" height="422" layout="responsive" lightbox>
+    <amp-img fallback title="Maximum Resolution on Retina Display is 1920 x 1600" src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2012/06/Region-capture-1.png" alt="Maximum Resolution on Retina Display is 1920 x 1600" data-recalc-dims="1" width="681" height="422" layout="responsive" lightbox></amp-img>
 </amp-img>
 
 The maximum resolution you can set the display to happens to be 1920 x 1200, which happens to be the same resolution of the older 17&#8243; model (at least it is on a much ligher 15&#8243; model, but it still doesn&#8217;t give me any more screen real-estate).
@@ -39,8 +39,8 @@ I also happen to be staring at the laptop screen set at 2550 x 1600 resolution a
 
 &#8220;How?&#8221; you may ask.  &#8220;Haven&#8217;t the others said it is impossible?&#8221;  Indeed they have, but it is possible, it&#8217;s just not very useful, yet.
 
-<amp-img  title="Look at that high-resolution laptop screen" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2012/06/100_0150-e1339900862458.webp" alt="Look at that high-resolution laptop screen" data-recalc-dims="1" width="3064" height="2949" layout="responsive" lightbox>
-    <amp-img fallback title="Look at that high-resolution laptop screen" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2012/06/100_0150-e1339900862458.jpg" alt="Look at that high-resolution laptop screen" data-recalc-dims="1" width="3064" height="2949" layout="responsive" lightbox></amp-img>
+<amp-img  title="Look at that high-resolution laptop screen" src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2012/06/100_0150-e1339900862458.webp" alt="Look at that high-resolution laptop screen" data-recalc-dims="1" width="3064" height="2949" layout="responsive" lightbox>
+    <amp-img fallback title="Look at that high-resolution laptop screen" src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2012/06/100_0150-e1339900862458.jpg" alt="Look at that high-resolution laptop screen" data-recalc-dims="1" width="3064" height="2949" layout="responsive" lightbox></amp-img>
 </amp-img>
 
 It turns out that since the monitor is capable of displaying up to 2880 x 1800 resolution, that when you put the display options in mirrored mode (where the laptop screen shows the same thing as the monitor you are plugged into), it will happily scale the laptop screen up to the full resolution of the monitor you are plugged into.  In this case, an older Apple Cinema HD 30&#8243; monitor with a resolution of 2550 x 1600 resolution.

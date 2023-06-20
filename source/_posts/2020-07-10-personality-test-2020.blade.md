@@ -10,7 +10,7 @@ tags:
     - Justia
     - Team Building
 ---
-This morning as a team building exercise, the Engineering Team at Justia took personality tests at the website [16 Personalities](https://www.dropbox.com/s/rx7hf4vd2isxptg/Screen%20Shot%202020-08-26%20at%201.08.18%20PM.png?dl=0) and shared our results.  In the early days of this blog (was called Cap's Log back then) I took some online [personality tests]({{ site.baseurl }}/tags/#personality-test) from time to time and posted my results here, so I thought I'd do the same here.
+This morning as a team building exercise, the Engineering Team at Justia took personality tests at the website [16 Personalities](https://www.dropbox.com/s/rx7hf4vd2isxptg/Screen%20Shot%202020-08-26%20at%201.08.18%20PM.png?dl=0) and shared our results.  In the early days of this blog (was called Cap's Log back then) I took some online [personality tests]({{ $page->baseUrl }}/tags/#personality-test) from time to time and posted my results here, so I thought I'd do the same here.
 
 <!--more-->
 

@@ -23,8 +23,8 @@ Yesterday however, I learned something while trying to fill in the holes in my f
 
 <!--more-->
 
-<amp-img class="alignright" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2007/09/n2335901172_6580.webp" alt="Carl Sandberg" layout="fixed" width="200" height="166" lightbox>
-  <amp-img fallback class="alignright" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2007/09/n2335901172_6580.jpg" alt="Carl Sandberg" layout="fixed" width="200" height="166" lightbox></amp-img>
+<amp-img class="alignright" src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2007/09/n2335901172_6580.webp" alt="Carl Sandberg" layout="fixed" width="200" height="166" lightbox>
+  <amp-img fallback class="alignright" src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2007/09/n2335901172_6580.jpg" alt="Carl Sandberg" layout="fixed" width="200" height="166" lightbox></amp-img>
 </amp-img>
 On the right hand side of the group page, I noticed that the first &#8220;Related Group&#8221; was entitled <em>The infamous Carl Sandburg, not the famous.</em> The name was spelled slightly wrong (his name was actually spelled Sandberg), but he was one of the greatest men I ever knew.
 

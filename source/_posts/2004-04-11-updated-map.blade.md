@@ -15,8 +15,8 @@ It seems I left off at least one state in my map last week of the places I have 
 
 <!--more-->
 
-<amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2006/05/statemap2004-04.gif" alt="State Map, April 2004" title="State Map, April 2004" width="580" height="300" lightbox></amp-img>
+<amp-img src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2006/05/statemap2004-04.gif" alt="State Map, April 2004" title="State Map, April 2004" width="580" height="300" lightbox></amp-img>
 
 I&#8217;ve also registered as a member on world66.com now which allows this nifty multicolor world map. Dark red means I&#8217;ve lived in this country, lighter red means I&#8217;ve visited this country, dark Grey means I WANT to visit this country, and light Grey means I have not visited this country nor do I have any plans to visit this country. Of course plans change and just because I don&#8217;t have your country highlighted dark Grey doesn&#8217;t mean I may not want to visit there one day, I just don&#8217;t currently have any plans to do so.
 
-<amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2006/05/membercolormap2004-04.gif" title="Country Map April 2004" alt="Country Map April 2004" width="600" height="300" lightbox></amp-img>
+<amp-img src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2006/05/membercolormap2004-04.gif" title="Country Map April 2004" alt="Country Map April 2004" width="600" height="300" lightbox></amp-img>

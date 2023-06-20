@@ -17,13 +17,13 @@ I generated a map of the states I&#8217;ve been in as well.
 
 <!--more-->
 
-<amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2004/04/2004-whereivebeen-states.gif" alt="2004-whereivebeen-states" width="580" height="300" lightbox></amp-img>  
+<amp-img src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2004/04/2004-whereivebeen-states.gif" alt="2004-whereivebeen-states" width="580" height="300" lightbox></amp-img>  
 
 I&#8217;ve also generated one of the maps showing the one Canadian Province I&#8217;ve been in
 
 
-<amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2004/04/2004-whereivebeen-canada.gif" alt="2004-whereivebeen-canada" width="580" height="300" lightbox></amp-img>
+<amp-img src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2004/04/2004-whereivebeen-canada.gif" alt="2004-whereivebeen-canada" width="580" height="300" lightbox></amp-img>
 
 Together this means I&#8217;ve been in the following countries:
 
-<amp-img src="{{ site.baseurl }}/wp-content/uploads/sites/4/2004/04/2004-whereivebeen-countries.gif" alt="2004-whereivebeen-countries" width="600" height="300" lightbox></amp-img>
+<amp-img src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2004/04/2004-whereivebeen-countries.gif" alt="2004-whereivebeen-countries" width="600" height="300" lightbox></amp-img>

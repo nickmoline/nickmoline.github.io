@@ -18,8 +18,8 @@ When Exchange support was added in the iPhone 2.0 software last summer, turning 
 
 <!--more-->
 
-<amp-img title="What would you like to do?" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2009/03/img_0001.webp" alt="What would you like to do with the existing calendars information on your iPhone?" width="320" height="480" layout="intrinsic" class="alignright" lightbox>
-  <amp-img fallback title="What would you like to do?" src="{{ site.baseurl }}/wp-content/uploads/sites/4/2009/03/img_0001.png" alt="What would you like to do with the existing calendars information on your iPhone?" width="320" height="480" layout="intrinsic" class="alignright" lightbox></amp-img>
+<amp-img title="What would you like to do?" src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2009/03/img_0001.webp" alt="What would you like to do with the existing calendars information on your iPhone?" width="320" height="480" layout="intrinsic" class="alignright" lightbox>
+  <amp-img fallback title="What would you like to do?" src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2009/03/img_0001.png" alt="What would you like to do with the existing calendars information on your iPhone?" width="320" height="480" layout="intrinsic" class="alignright" lightbox></amp-img>
 </amp-img>
 
 Previously, doing this action would prompt me that all existing calendars on the iPhone would be deleted, now it asks what to do with the calendars already on the iPhone with an option to keep them intact.  This indicates that Apple is planning on removing the limitation of supporting either Exchange OR synced content but not both.

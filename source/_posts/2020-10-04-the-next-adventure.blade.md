@@ -55,8 +55,8 @@ We've found a place to live, a temporary headquarters to start our journey down 
 
 It isn't the house with a yard and a garage I can use as a workshop yet, but in order to save money on breaking my lease early, I had to choose an apartment owned by the same organization that owns my current apartment complex. 
 
-<amp-img src="{{ site.baseurl }}/assets/images/2020/10/new-kitchen.webp" alt="Check out that Kitchen!" width="6342" height="2406" layout="responsive" lightbox>
-    <amp-img fallback src="{{ site.baseurl }}/assets/images/2020/10/new-kitchen.png" alt="Check out that Kitchen!" width="6342" height="2406" layout="responsive"></amp-img>
+<amp-img src="{{ $page->baseUrl }}/assets/images/2020/10/new-kitchen.webp" alt="Check out that Kitchen!" width="6342" height="2406" layout="responsive" lightbox>
+    <amp-img fallback src="{{ $page->baseUrl }}/assets/images/2020/10/new-kitchen.png" alt="Check out that Kitchen!" width="6342" height="2406" layout="responsive"></amp-img>
 </amp-img>
 
 While it doesn't give me my dream home right away, it is a lot more space and should be a lot more comfortable. The [kitchen is also glorious](https://my.matterport.com/show/?m=LBF9qr6AHpw&sr=-2.55,.79&ss=3) being much larger than my current kitchen and containing advantages over my current kitchen, including a gas stove. My plan is to move again later, to a house that matches my desired criteria.

@@ -24,16 +24,16 @@ Over the last few years I've made an effort to try something new with most shows
 ## My Theatrical past 
 ### The College Years 2005-2006
 
-<amp-img src="{{ site.baseurl }}/assets/images/2021/03/mcm1940.webp" alt="Musical Comedy Murders of 1940" width="768" height="1024" layout="responsive" lightbox>
-    <amp-img fallback src="{{ site.baseurl }}/assets/images/2021/03/mcm1940.jpg" alt="Musical Comedy Murders of 1940" width="768" height="1024" layout="responsive"></amp-img>
+<amp-img src="{{ $page->baseUrl }}/assets/images/2021/03/mcm1940.webp" alt="Musical Comedy Murders of 1940" width="768" height="1024" layout="responsive" lightbox>
+    <amp-img fallback src="{{ $page->baseUrl }}/assets/images/2021/03/mcm1940.jpg" alt="Musical Comedy Murders of 1940" width="768" height="1024" layout="responsive"></amp-img>
 </amp-img>
 
 I never finished college, but while I was there at [Tarrant County College](https://www.tccd.edu) in Arlington, TX I did get to participate in 3 productions.  In February of 2005, I [acted in a production]({{ $page->postLink("2005-01-24-drama-king") }}) of [_The Musical Comedy Murders of 1940_](https://en.wikipedia.org/wiki/The_Musical_Comedy_Murders_of_1940) as the character of Roger Hopewell.  I had long loved theatre before this, but after acting in that show, I was hooked.
 
 Later that spring I served as Light Board Operator for the school's production of William Shakespeare's [_A Midsummer Night's Dream_](https://en.wikipedia.org/wiki/A_Midsummer_Night%27s_Dream), which I found every bit as enjoyable as acting.  This was in a way the beginning of my learning new tasks with shows as I did not have much prior experience with theatrical lighting (other than the simple light system at my church at the time).
 
-<amp-img src="{{ site.baseurl }}/assets/images/2021/03/rumors.webp" alt="Rumors" width="1024" height="768" layout="responsive" lightbox>
-    <amp-img fallback src="{{ site.baseurl }}/assets/images/2021/03/rumors.jpg" alt="Rumors" width="1024" height="768" layout="responsive"></amp-img>
+<amp-img src="{{ $page->baseUrl }}/assets/images/2021/03/rumors.webp" alt="Rumors" width="1024" height="768" layout="responsive" lightbox>
+    <amp-img fallback src="{{ $page->baseUrl }}/assets/images/2021/03/rumors.jpg" alt="Rumors" width="1024" height="768" layout="responsive"></amp-img>
 </amp-img>
 
 The following winter I acted in another production, [_Rumors_](https://en.wikipedia.org/wiki/Rumors_(play)) by Neil Simon in the role of Ken Gorman.
@@ -46,16 +46,16 @@ I also saw a number of community theatre productions including: _A Funny Thing H
 ### Returning to Theatre, 2017
 In 2017, after working with Justia for 10 full years, I decided the time was right to return to the theatre in some capacity.  I didn't think I had the free time available to act again, but when I saw an email from SCP (I ended up on their mailing list after I attended _Drood_) that they were looking for sound people.  
 
-<amp-img src="{{ site.baseurl }}/assets/images/2021/03/drowsy.webp" alt="The Drowsy Chaperone" width="3000" height="1686" layout="responsive" lightbox>
-    <amp-img fallback src="{{ site.baseurl }}/assets/images/2021/03/drowsy.jpg" alt="The Drowsy Chaperone" width="3000" height="1686" layout="responsive"></amp-img>
+<amp-img src="{{ $page->baseUrl }}/assets/images/2021/03/drowsy.webp" alt="The Drowsy Chaperone" width="3000" height="1686" layout="responsive" lightbox>
+    <amp-img fallback src="{{ $page->baseUrl }}/assets/images/2021/03/drowsy.jpg" alt="The Drowsy Chaperone" width="3000" height="1686" layout="responsive"></amp-img>
 </amp-img>
 
 Having had some experience with sound from my time at _Eden Road_, I reached out and came on as a sound board operator for SCP's production of [_The Drowsy Chaperone_](https://web.archive.org/web/20170613202413/http://www.sunnyvaleplayers.org/the-drowsy-chaperone.html).  With this production just learning how live sound works in the 2010s was a learning curve for me.  The last sound-board I had used before then was an analog board, so just learning digital sound with the [Midas M32](https://www.midasconsoles.com/product.html?modelCode=P0B3I) was a learning curve.
 
 Over the 2017 summer I got a chance to run sound for [_Next to Normal_]({{ $page->postLink("2017-07-10-next-normal-next-perfect") }}) up in San Francisco. 
 
-<amp-img src="{{ site.baseurl }}/assets/images/2021/03/fiddler.webp" alt="SCP Fiddler on the Roof" width="4048" height="3036" layout="responsive" lightbox>
-    <amp-img fallback src="{{ site.baseurl }}/assets/images/2021/03/fiddler.jpg" alt="SCP Fiddler on the Roof" width="4048" height="3036" layout="responsive"></amp-img>
+<amp-img src="{{ $page->baseUrl }}/assets/images/2021/03/fiddler.webp" alt="SCP Fiddler on the Roof" width="4048" height="3036" layout="responsive" lightbox>
+    <amp-img fallback src="{{ $page->baseUrl }}/assets/images/2021/03/fiddler.jpg" alt="SCP Fiddler on the Roof" width="4048" height="3036" layout="responsive"></amp-img>
 </amp-img>
 
 In the fall of 2017 I had one of the most pivotal events of my life when I worked on my second SCP production, _Fiddler on the Roof_.  This show was so incredible that I am embarrassed for myself that I haven't really written a full post about it before.  I will have to write up a full retrospective of that show in the future, but it changed my life in many ways.  The show was also big thanks to the incredible contribution of Eric Sun as our Fiddler.  The show was actually written up in [The New Yorker](https://www.newyorker.com/magazine/2018/01/01/a-tech-pioneers-final-unexpected-act).
@@ -66,8 +66,8 @@ With [_Avenue Q_](https://web.archive.org/web/20170923135233/http://www.sunnyval
 ## Learning Sound Design, 2018
 
 #### _Addams Family_ 
-<amp-img src="{{ site.baseurl }}/assets/images/2021/03/addams.webp" alt="Addams Family" width="2833" height="1500" layout="responsive" lightbox>
-    <amp-img fallback src="{{ site.baseurl }}/assets/images/2021/03/addams.jpg" alt="Addams Family" width="2833" height="1500" layout="responsive"></amp-img>
+<amp-img src="{{ $page->baseUrl }}/assets/images/2021/03/addams.webp" alt="Addams Family" width="2833" height="1500" layout="responsive" lightbox>
+    <amp-img fallback src="{{ $page->baseUrl }}/assets/images/2021/03/addams.jpg" alt="Addams Family" width="2833" height="1500" layout="responsive"></amp-img>
 </amp-img>
 
 With Addams Family in early 2018 I got my first opportunity to design sound.  I co-designed sound with the great Dan Singletary and learned how to create my own sound effects, and learned a lot about balancing a band and equalization techniques.
@@ -81,8 +81,8 @@ Due to overlapping shows, I went back to an operator for _La Cage aux Folles_ bu
 #### _High School Musical, JR_ and _Grease_
 In hindsight, my first experiences with producing probably should not have been 2 shows at the same time, but due to overlapping production schedules I was learning on my feet with producing 2 shows at the same time.
 
-<amp-img src="{{ site.baseurl }}/assets/images/2021/03/pins.webp" alt="SCP50 Pins" width="4032" height="3024" layout="responsive" lightbox>
-    <amp-img fallback src="{{ site.baseurl }}/assets/images/2021/03/pins.jpg" alt="SCP50 Pins" width="4032" height="3024" layout="responsive"></amp-img>
+<amp-img src="{{ $page->baseUrl }}/assets/images/2021/03/pins.webp" alt="SCP50 Pins" width="4032" height="3024" layout="responsive" lightbox>
+    <amp-img fallback src="{{ $page->baseUrl }}/assets/images/2021/03/pins.jpg" alt="SCP50 Pins" width="4032" height="3024" layout="responsive"></amp-img>
 </amp-img>
 
 _Grease_ marked the first show in SCP's 50th season, so to celebrate, I got my first experience with physical product design as I designed a run of collectable pins for the season.  The pins were popular and it gave me an opportunity to do some actual design.  With the help of my artistic brother, I designed a unique pin for each show in the 50th season, as well as a season pin that brought aspects of the 4 pins together into a single pin.
@@ -101,15 +101,15 @@ For _Jekyll & Hyde_ I returned to the producer role, but I also sound designed a
 
 In my sound design of the show I continued with my trend of special audio effects by having a different equalization on Hyde's voice than Jekyll's.  This helped push the narrative that these characters were distinct as the quality of their voices were different.  I also played some with audio panning of vocals in this show.  In the pivotal "Confrontation" song I had Jekyll & Hyde's voices coming from different sides of the stage, which was difficult considering both parts are sung by the same person.
 
-<amp-img src="{{ site.baseurl }}/assets/images/2021/03/D85_4702.webp" alt="The Magic Mirror" width="3500" height="2333" layout="responsive" lightbox>
-    <amp-img fallback src="{{ site.baseurl }}/assets/images/2021/03/D85_4702.jpg" alt="The Magic Mirror" width="3500" height="2333" layout="responsive"></amp-img>
+<amp-img src="{{ $page->baseUrl }}/assets/images/2021/03/D85_4702.webp" alt="The Magic Mirror" width="3500" height="2333" layout="responsive" lightbox>
+    <amp-img fallback src="{{ $page->baseUrl }}/assets/images/2021/03/D85_4702.jpg" alt="The Magic Mirror" width="3500" height="2333" layout="responsive"></amp-img>
 </amp-img>
 
 If producing and sound design weren't enough, I also took on the task of doing a special visual effect for the show.  The director wanted a "magic mirror" effect in the show, so I learned video editing and how to use QLab to dynamically switch between a live camera feed and a pre-recorded video.  The effect was impressive, for most of the show this "mirror" actually "reflected" the environment around by showing a live camera feed, but at pivotal moments, Hyde or Jekyll would appear in the mirror to contrast the opposing character that was currently in control of Doctor Jekyll's body.
 
 ### The Magic Hourglass, _Freaky Friday_
-<amp-img src="{{ site.baseurl }}/assets/images/2021/03/D85_6238.webp" alt="Freaky Friday Hourglass" width="2400" height="2400" layout="responsive" lightbox>
-    <amp-img fallback src="{{ site.baseurl }}/assets/images/2021/03/D85_6238.jpg" alt="Freaky Friday Hourglass" width="2400" height="2400" layout="responsive"></amp-img>
+<amp-img src="{{ $page->baseUrl }}/assets/images/2021/03/D85_6238.webp" alt="Freaky Friday Hourglass" width="2400" height="2400" layout="responsive" lightbox>
+    <amp-img fallback src="{{ $page->baseUrl }}/assets/images/2021/03/D85_6238.jpg" alt="Freaky Friday Hourglass" width="2400" height="2400" layout="responsive"></amp-img>
 </amp-img>
 
 In _Freaky Friday_, the magical McGuffin that sets the story in motion is a magical hourglass.  The hourglass breaks immediately after its magic causes the body-swap to take place, and they spend the rest of the show trying to find another magic hourglass to switch them back.
@@ -132,8 +132,8 @@ Live Theatre has always required suspension of disbelief, which takes on another
 
 ### Real-Time Visual Effects, _The Tempest_
 
-<amp-img src="{{ site.baseurl }}/assets/images/2021/03/tempest-1260x717.webp" alt="The Tempest" width="1260" height="717" layout="responsive" lightbox>
-    <amp-img fallback src="{{ site.baseurl }}/assets/images/2021/03/tempest-1260x717.png" alt="The Tempest" width="1260" height="717" layout="responsive"></amp-img>
+<amp-img src="{{ $page->baseUrl }}/assets/images/2021/03/tempest-1260x717.webp" alt="The Tempest" width="1260" height="717" layout="responsive" lightbox>
+    <amp-img fallback src="{{ $page->baseUrl }}/assets/images/2021/03/tempest-1260x717.png" alt="The Tempest" width="1260" height="717" layout="responsive"></amp-img>
 </amp-img>
 
 Finally after a very long post, I get to the show I'm currently working on.  _The Tempest_ is also being put on by Zoom Theatre and it is phenomenal.  For this show however I was tasked with creating some real-time visual effects using a combination of [OBS Studio](https://obsproject.com/) and, believe-it-or-not, Snapchat's [Snap Camera](https://snapcamera.snapchat.com/).

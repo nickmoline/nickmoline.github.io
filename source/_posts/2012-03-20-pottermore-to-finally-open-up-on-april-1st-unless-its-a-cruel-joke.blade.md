@@ -18,6 +18,6 @@ I&#8217;ve talked before about <a href="/tags/#pottermore" target="_blank">Potte
 
 <!--more-->
 
-<amp-img  src="{{ site.baseurl }}/wp-content/uploads/sites/4/2012/03/Region-capture-14.webp" alt="Pottermore Shop" title="Pottermore Shop" width="339" height="292" layout="intrinsic" lightbox>
-    <amp-img fallback src="{{ site.baseurl }}/wp-content/uploads/sites/4/2012/03/Region-capture-14.png" alt="Pottermore Shop" title="Pottermore Shop" width="339" height="292" layout="intrinsic" lightbox></amp-img>
+<amp-img  src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2012/03/Region-capture-14.webp" alt="Pottermore Shop" title="Pottermore Shop" width="339" height="292" layout="intrinsic" lightbox>
+    <amp-img fallback src="{{ $page->baseUrl }}/wp-content/uploads/sites/4/2012/03/Region-capture-14.png" alt="Pottermore Shop" title="Pottermore Shop" width="339" height="292" layout="intrinsic" lightbox></amp-img>
 </amp-img>

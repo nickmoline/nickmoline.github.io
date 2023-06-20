@@ -19,6 +19,6 @@ tags:
 
 <!--more-->
 
-<amp-img src="{{ site.baseurl }}/assets/images/2006/05/map-us.webp" width="5175" height="3762" layout="responsive" lightbox>
-  <amp-img fallback src="{{ site.baseurl }}/assets/images/2006/05/map-us.png" width="5175" height="3762" layout="responsive" lightbox></amp-img>
+<amp-img src="{{ $page->baseUrl }}/assets/images/2006/05/map-us.webp" width="5175" height="3762" layout="responsive" lightbox>
+  <amp-img fallback src="{{ $page->baseUrl }}/assets/images/2006/05/map-us.png" width="5175" height="3762" layout="responsive" lightbox></amp-img>
 </amp-img>
