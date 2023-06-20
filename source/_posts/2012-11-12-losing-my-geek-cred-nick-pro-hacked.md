@@ -1,9 +1,10 @@
 ---
 id: 850
 title: 'Losing my Geek Cred: Nick.pro hacked'
-date: 2012-11-12T00:37:25-08:00
+date: 2012-11-12 00:37:25
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/?p=850
 permalink: /2012/11/12/losing-my-geek-cred-nick-pro-hacked/
 dsq_thread_id: 924150500

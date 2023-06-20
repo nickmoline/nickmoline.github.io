@@ -1,9 +1,10 @@
 ---
 id: 288
 title: 'Twitter Tip: A Better @replies List in TweetDeck'
-date: 2009-03-06T19:13:53-08:00
+date: 2009-03-06 19:13:53
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/?p=288
 permalink: /2009/03/06/twitter-tip-better-replies-in-tweetdeck/
 dsq_thread_id: 335274616

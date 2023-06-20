@@ -1,9 +1,10 @@
 ---
 id: 47
 title: The Week from Hell
-date: 2004-04-22T21:00:56-07:00
+date: 2004-04-22 21:00:56
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://998608114
 permalink: /2004/04/22/week-from-hell/
 dsq_thread_id: 5212214114

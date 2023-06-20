@@ -1,9 +1,10 @@
 ---
 id: 129
 title: The Continuing Decline of Viacom
-date: 2007-03-13T13:45:41-07:00
+date: 2007-03-13 13:45:41
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/2007/03/13/the-continuing-decline-of-viacom/
 permalink: /2007/03/13/the-continuing-decline-of-viacom/
 categories:

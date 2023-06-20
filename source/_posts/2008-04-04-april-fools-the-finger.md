@@ -1,9 +1,10 @@
 ---
 id: 168
-title: '7-11 Gave me the Finger&#8230; and other stories&#8230;'
-date: 2008-04-04T01:35:32-07:00
+title: "7-11 Gave me the Finger - and other stories..."
+date: 2008-04-04 01:35:32
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/2008/04/04/april-fools-the-finger/
 permalink: /2008/04/04/april-fools-the-finger/
 cover: /wp-content/uploads/sites/4/2008/04/got-the-finger-large.jpg

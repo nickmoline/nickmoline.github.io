@@ -1,8 +1,9 @@
 ---
-layout: post
-title: Bonus Action, Two **W**e**A**po**N** Fighting
+extends: _layouts.post
+section: content
+title: Bonus Action, Two WeApoN Fighting
 subtitle: Using 2 separate Internet Services (WAN) when working from home
-date: 2021-03-27T01:00:00-08:00
+date: 2021-03-27 01:00:00
 permalink: /2021/03/27/two-wan-fighting/
 dsq_thread_id: 202103270100
 cover: /assets/images/2021/03/tp-link-safestream-multi-wan-router.jpg

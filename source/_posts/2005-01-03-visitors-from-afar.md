@@ -1,9 +1,10 @@
 ---
 id: 87
 title: Visitors from Afar
-date: 2005-01-03T23:27:24-08:00
+date: 2005-01-03 23:27:24
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://1211355065
 permalink: /2005/01/03/visitors-from-afar/
 tags:

@@ -1,9 +1,10 @@
 ---
 id: 96
 title: Trend Started
-date: 2006-05-15T12:25:49-07:00
+date: 2006-05-15 12:25:49
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://cap.portalkeeper.info/2006/05/15/trend-started/
 permalink: /2006/05/15/trend-started/
 dsq_thread_id: 960249022

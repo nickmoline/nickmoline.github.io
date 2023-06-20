@@ -1,9 +1,10 @@
 ---
 id: 38
 title: Say a little prayer
-date: 2004-03-22T20:15:56-08:00
+date: 2004-03-22 20:15:56
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://148452404
 permalink: /2004/03/22/a-little-prayer/
 dsq_thread_id: 1001911902

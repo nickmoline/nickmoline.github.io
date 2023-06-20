@@ -1,9 +1,10 @@
 ---
 id: 5
 title: Pop into Internet Pop Culture
-date: 2003-07-11T02:10:17-07:00
+date: 2003-07-11 02:10:17
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://1010066572
 permalink: /2003/07/11/pop-into-internet-pop-culture/
 dsq_thread_id: 20030711021017

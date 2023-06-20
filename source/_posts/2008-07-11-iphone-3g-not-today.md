@@ -1,9 +1,10 @@
 ---
 id: 189
-title: 'iPhone 3G&#8230; Um, guess I&#8217;m gonna wait&#8230;'
-date: 2008-07-11T18:28:59-07:00
+title: "iPhone 3G: Um, guess I'm gonna wait..."
+date: 2008-07-11 18:28:59
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/?p=189
 permalink: /2008/07/11/iphone-3g-not-today/
 cover: /wp-content/uploads/sites/4/2008/07/IMG_0172.jpg

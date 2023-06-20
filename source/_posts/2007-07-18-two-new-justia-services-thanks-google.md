@@ -1,9 +1,10 @@
 ---
 id: 155
 title: Two new Justia Services, Thanks Google!
-date: 2007-07-18T02:04:10-07:00
+date: 2007-07-18 02:04:10
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/2007/07/18/two-new-justia-services-thanks-google/
 permalink: /2007/07/18/two-new-justia-services-thanks-google/
 dsq_thread_id: 966353681

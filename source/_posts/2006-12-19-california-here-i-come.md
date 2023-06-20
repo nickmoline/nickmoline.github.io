@@ -1,9 +1,10 @@
 ---
 id: 116
 title: Life Changes
-date: 2006-12-19T21:54:42-08:00
+date: 2006-12-19 21:54:42
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/2006/12/19/california-here-i-come/
 permalink: /2006/12/19/california-here-i-come/
 dsq_thread_id: 705883857

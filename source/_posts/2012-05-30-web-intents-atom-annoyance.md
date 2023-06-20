@@ -1,10 +1,11 @@
 ---
 id: 685
-title: 'Web Intents are Great &#8211; Web Intents are Horrible'
-date: 2012-05-30T14:06:24-07:00
+title: 'Web Intents are Great | Web Intents are Horrible'
+date: 2012-05-30 14:06:24
 author: nickmoline
 excerpt: "Web Intents in Google Chrome 19+ changed what happens when you view an Atom or RSS Link, here's how to get your XML Back"
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/?p=685
 permalink: /2012/05/30/web-intents-atom-annoyance/
 dsq_thread_id: 708759183

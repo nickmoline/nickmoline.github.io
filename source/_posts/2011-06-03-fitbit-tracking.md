@@ -1,9 +1,10 @@
 ---
 id: 383
 title: Fitbit Tracking
-date: 2011-06-03T00:06:00-07:00
+date: 2011-06-03 00:06:00
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/?p=383
 permalink: /2011/06/03/fitbit-tracking/
 dsq_thread_id: 335159875

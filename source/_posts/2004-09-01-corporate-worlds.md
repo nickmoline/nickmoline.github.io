@@ -1,9 +1,10 @@
 ---
 id: 79
 title: Corporate worlds
-date: 2004-09-01T02:10:49-07:00
+date: 2004-09-01 02:10:49
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://1561346958
 permalink: /2004/09/01/corporate-worlds/
 categories:

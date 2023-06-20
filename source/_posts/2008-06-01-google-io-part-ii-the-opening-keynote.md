@@ -1,9 +1,10 @@
 ---
 id: 172
-title: 'Google I/O &#8211; Part II &#8211; The Opening Keynote'
-date: 2008-06-01T20:51:41-07:00
+title: 'Google I/O Part II: The Opening Keynote'
+date: 2008-06-01 20:51:41
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/?p=172
 permalink: /2008/06/01/google-io-part-ii-the-opening-keynote/
 cover: /wp-content/uploads/sites/4/2008/05/100_0921.jpg

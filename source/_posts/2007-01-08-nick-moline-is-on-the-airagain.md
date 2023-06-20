@@ -1,9 +1,10 @@
 ---
 id: 120
-title: 'Nick Moline is on the air&#8230;again'
-date: 2007-01-08T13:55:59-08:00
+title: 'Nick Moline is on the air...again'
+date: 2007-01-08 13:55:59
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/2007/01/08/nick-moline-is-on-the-airagain/
 permalink: /2007/01/08/nick-moline-is-on-the-airagain/
 categories:

@@ -1,9 +1,10 @@
 ---
 id: 12
 title: Birthday Shopping and Play watching
-date: 2003-08-17T23:23:34-07:00
+date: 2003-08-17 23:23:34
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://1408699924
 dsq_thread_id: 20030817232334
 permalink: /2003/08/17/birthday-shopping-and-play-watching/

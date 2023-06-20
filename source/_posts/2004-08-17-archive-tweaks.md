@@ -1,9 +1,10 @@
 ---
 id: 75
 title: Archive Tweaks
-date: 2004-08-17T03:38:05-07:00
+date: 2004-08-17 03:38:05
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://40904698
 permalink: /2004/08/17/archive-tweaks/
 dsq_thread_id: 961291723

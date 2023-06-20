@@ -1,9 +1,10 @@
 ---
 id: 10
 title: Birthday updates
-date: 2003-08-13T23:18:08-07:00
+date: 2003-08-13 23:18:08
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://1872336562
 dsq_thread_id: 20030813231808
 permalink: /2003/08/13/birthday-vacation/

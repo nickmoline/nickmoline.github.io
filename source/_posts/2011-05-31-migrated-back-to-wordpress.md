@@ -1,9 +1,10 @@
 ---
 id: 371
 title: Migrated Back to WordPress
-date: 2011-05-31T21:29:11-07:00
+date: 2011-05-31 21:29:11
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/?p=371
 permalink: /2011/05/31/migrated-back-to-wordpress/
 cover: /wp-content/uploads/sites/4/2011/05/halo_wordpress.jpg

@@ -1,9 +1,10 @@
 ---
 id: 49
-title: '2.5 to 3 years after leaving college&#8230;.'
-date: 2004-04-25T11:41:34-07:00
+title: '2.5 to 3 years after leaving college...'
+date: 2004-04-25 11:41:34
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://1165439245
 permalink: /2004/04/25/frat-party/
 dsq_thread_id: 965180273

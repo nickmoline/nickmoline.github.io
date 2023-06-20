@@ -1,8 +1,9 @@
 ---
 title: "Collaborative Firm: Instant Messaging Services"
-date: 2017-07-28T22:31:00-07:00
+date: 2017-07-28 22:31:00
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 dsq_thread_id: 2017072801
 canonical: https://onward.justia.com/2017/07/28/collaborative-law-firm-instant-messaging/
 category:

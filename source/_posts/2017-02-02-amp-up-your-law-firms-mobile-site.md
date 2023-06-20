@@ -1,8 +1,9 @@
 ---
 title: "AMP up your Law Firm’s Mobile Site"
-date: 2017-02-03T01:59:33-08:00
+date: 2017-02-02 01:59:33
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 dsq_thread_id: 2017020301
 canonical: https://onward.justia.com/2017/02/02/amp-your-law-firm-mobile-site/
 category:

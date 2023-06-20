@@ -1,9 +1,10 @@
 ---
 id: 21
 title: "Billboards, Vegetables, and The Final Fantasy Equivalent of Charlie's Angels"
-date: 2003-11-25T14:47:03-08:00
+date: 2003-11-25 14:47:03
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://1436560538
 dsq_thread_id: 20031125144703
 permalink: /2003/11/25/billboards-vegetables-and-charlies-angels/

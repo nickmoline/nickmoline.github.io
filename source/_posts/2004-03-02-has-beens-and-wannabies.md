@@ -1,9 +1,10 @@
 ---
 id: 34
 title: Has Beens and Wannabies
-date: 2004-03-02T23:55:18-08:00
+date: 2004-03-02 23:55:18
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://1167475831
 permalink: /2004/03/02/has-beens-and-wannabies/
 dsq_thread_id: 3254353006

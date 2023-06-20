@@ -1,9 +1,10 @@
 ---
 id: 53
 title: "Leavin' on a jet plane..."
-date: 2004-05-24T05:35:09-07:00
+date: 2004-05-24 05:35:09
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://454516135
 permalink: /2004/05/24/leavin-on-a-jet-plane/
 dsq_thread_id: 5784036880

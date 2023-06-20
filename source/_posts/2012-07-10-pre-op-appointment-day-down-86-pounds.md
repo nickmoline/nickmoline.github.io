@@ -1,9 +1,10 @@
 ---
 id: 770
 title: Pre-Op Appointment Day, Down over 83 pounds!
-date: 2012-07-10T17:14:17-07:00
+date: 2012-07-10 17:14:17
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/?p=770
 permalink: /2012/07/10/pre-op-appointment-day-down-86-pounds/
 dsq_thread_id: 759679849

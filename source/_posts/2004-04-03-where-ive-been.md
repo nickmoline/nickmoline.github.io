@@ -1,9 +1,10 @@
 ---
 id: 44
-title: 'You can&#8217;t see where you are going&#8230;'
-date: 2004-04-03T22:40:20-08:00
+title: "You can't see where you are going..."
+date: 2004-04-03 22:40:20
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://1755469803
 permalink: /2004/04/03/where-ive-been/
 dsq_thread_id: 971782314

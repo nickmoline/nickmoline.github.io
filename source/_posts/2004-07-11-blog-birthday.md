@@ -1,9 +1,10 @@
 ---
 id: 61
 title: Bloggie BDay
-date: 2004-07-11T23:28:12-07:00
+date: 2004-07-11 23:28:12
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://521044659
 permalink: /2004/07/11/blog-birthday/
 dsq_thread_id: 942045460"

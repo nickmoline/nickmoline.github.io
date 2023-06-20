@@ -1,9 +1,10 @@
 ---
 id: 80
 title: Common Sense
-date: 2004-09-04T04:10:35-07:00
+date: 2004-09-04 04:10:35
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://1760465845
 permalink: /2004/09/04/common-sense/
 dsq_thread_id: 915841521

@@ -1,10 +1,11 @@
 ---
 id: 969
 title: One Year Post-Op
-date: 2013-07-26T23:21:36-07:00
+date: 2013-07-26 23:21:36
 author: nickmoline
 excerpt: "It has been 1 year since my weight-loss surgery, here's how I'm doing and how I celebrated."
-layout: post
+extends: _layouts.post
+section: content
 guid: https://www.nick.pro/?p=969
 permalink: /2013/07/26/one-year-post-op/
 dsq_thread_id: 1536800157

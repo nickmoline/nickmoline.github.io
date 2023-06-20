@@ -1,9 +1,10 @@
 ---
 id: 321
 title: Ready for Google I/O 2009
-date: 2009-05-26T22:12:41-07:00
+date: 2009-05-26 22:12:41
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/?p=321
 permalink: /2009/05/26/ready-for-google-io-2009/
 cover: /wp-content/uploads/sites/4/2009/05/img_3843.jpg

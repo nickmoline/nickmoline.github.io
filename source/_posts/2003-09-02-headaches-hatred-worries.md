@@ -1,9 +1,10 @@
 ---
 id: 16
 title: Headaches, Work Hatred, and worries of love
-date: 2003-09-02T22:01:03-07:00
+date: 2003-09-02 22:01:03
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://629393097
 dsq_thread_id: 20030902220103
 permalink: /2003/09/02/headaches-hatred-worries/

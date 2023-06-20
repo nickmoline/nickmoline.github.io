@@ -1,9 +1,10 @@
 ---
 id: 549
-title: 'Following Fedex&#8230;.'
-date: 2003-09-23T00:47:34-07:00
+title: 'Following Fedex...'
+date: 2003-09-23 00:47:34
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://1472542912
 dsq_thread_id: 20030923004734
 permalink: /2003/09/23/following-fedex/

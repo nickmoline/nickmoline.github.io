@@ -1,9 +1,10 @@
 ---
 id: 195
 title: Blogging on the iPhone
-date: 2008-07-22T00:29:48-07:00
+date: 2008-07-22 00:29:48
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/2008/07/22/blogging-on-the-iphone/
 permalink: /2008/07/22/blogging-on-the-iphone/
 dsq_thread_id: 939256864

@@ -1,9 +1,10 @@
 ---
 id: 35
 title: Disapproval all around
-date: 2004-03-13T02:12:17-08:00
+date: 2004-03-13 02:12:17
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://2115805506
 permalink: /2004/03/13/disapproval/
 categories:

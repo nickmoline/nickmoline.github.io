@@ -1,9 +1,10 @@
 ---
 id: 54
 title: The Vacation
-date: 2004-06-09T20:29:10-07:00
+date: 2004-06-09 20:29:10
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://1693231641
 permalink: /2004/06/09/may-with-imzadi/
 dsq_thread_id: 949972975

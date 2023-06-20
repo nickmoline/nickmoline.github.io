@@ -1,9 +1,10 @@
 ---
 id: 15
 title: Meetings, A/V and my new Laptop
-date: 2003-08-28T22:47:26-07:00
+date: 2003-08-28 22:47:26
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://1905119603
 dsq_thread_id: 20030828224726
 permalink: /2003/08/28/meetings-av-laptop/

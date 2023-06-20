@@ -1,8 +1,9 @@
 ---
 title: "Hurry! Time Is Running Out to Migrate Your Site to HTTPS!"
-date: 2017-09-08T20:46:49-07:00
+date: 2017-09-08 20:46:49
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 dsq_thread_id: 2017090801
 canonical: https://onward.justia.com/2017/09/08/hurry-time-running-migrate-site-https/
 category:

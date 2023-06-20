@@ -1,9 +1,10 @@
 ---
 id: 88
 title: "Don't be such a Drama King"
-date: 2005-01-24T12:37:04-08:00
+date: 2005-01-24 12:37:04
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://281886795
 permalink: /2005/01/24/drama-king/
 dsq_thread_id: 931195585

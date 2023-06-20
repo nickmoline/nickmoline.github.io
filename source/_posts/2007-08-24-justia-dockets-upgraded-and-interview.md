@@ -1,9 +1,10 @@
 ---
 id: 156
 title: Justia Dockets Upgraded and Interview
-date: 2007-08-24T18:01:59-07:00
+date: 2007-08-24 18:01:59
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/2007/08/24/justia-dockets-upgraded-and-interview/
 permalink: /2007/08/24/justia-dockets-upgraded-and-interview/
 dsq_thread_id: 927934576

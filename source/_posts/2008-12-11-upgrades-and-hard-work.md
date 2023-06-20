@@ -1,9 +1,10 @@
 ---
 id: 270
 title: Upgrades and hard work
-date: 2008-12-11T03:16:40-08:00
+date: 2008-12-11 03:16:40
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/2008/12/11/upgrades-and-hard-work/
 permalink: /2008/12/11/upgrades-and-hard-work/
 categories:

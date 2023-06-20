@@ -1,9 +1,10 @@
 ---
 id: 1307
 title: A little bit about Structured Data and the Semantic Web
-date: 2016-11-01T16:08:22-07:00
+date: 2016-11-01 16:08:22
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: https://www.nick.pro/?p=1307
 permalink: /2016/11/01/little-bit-structured-data-semantic-web/
 canonical: https://onward.justia.com/2016/11/01/structured-data/

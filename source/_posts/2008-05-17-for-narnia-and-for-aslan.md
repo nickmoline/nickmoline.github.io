@@ -1,9 +1,10 @@
 ---
 id: 169
 title: For Narnia, and for Aslan!
-date: 2008-05-17T00:36:35-07:00
+date: 2008-05-17 00:36:35
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/?p=169
 permalink: /2008/05/17/for-narnia-and-for-aslan/
 cover: /wp-content/uploads/sites/4/2008/05/narnia2.jpg

@@ -1,9 +1,10 @@
 ---
 id: 174
 title: Amazon down but not out
-date: 2008-06-06T09:59:59-07:00
+date: 2008-06-06 09:59:59
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/?p=174
 permalink: /2008/06/06/amazon-down-but-not-out/
 dsq_thread_id: 335274550

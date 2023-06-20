@@ -1,8 +1,9 @@
 ---
 title: "Collaborative Firm 2: Multi-User Chat"
-date: 2018-01-29T22:25:20-08:00
+date: 2018-01-29 22:25:20
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 dsq_thread_id: 2018012901
 canonical: https://onward.justia.com/2018/01/29/collaborative-law-firm-part-ii-multi-user-chat/
 category:

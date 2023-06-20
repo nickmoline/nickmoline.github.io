@@ -1,9 +1,10 @@
 ---
 id: 25
 title: A Gaggle of Gifts
-date: 2004-02-22T02:23:45-08:00
+date: 2004-02-22 02:23:45
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://1424419908
 permalink: /2004/02/22/a-gaggle-of-gifts/
 dsq_thread_id: 963612676

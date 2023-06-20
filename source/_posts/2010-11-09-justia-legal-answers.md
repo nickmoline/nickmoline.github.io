@@ -1,8 +1,9 @@
 ---
 title: A Little Help From My Friends... Announcing Justia Legal Answers
-date: 2010-11-09T20:08:18-08:00
+date: 2010-11-09 20:08:18
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 dsq_thread_id: 2010110901
 canonical: https://onward.justia.com/2010/11/09/announcing-justia-answers/
 category:

@@ -1,9 +1,10 @@
 ---
 id: 43
 title: Slackin' and Poetry
-date: 2004-03-31T22:43:37-08:00
+date: 2004-03-31 22:43:37
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://1608034592
 permalink: /2004/03/31/slackin-and-poetry/
 dsq_thread_id: 951007907

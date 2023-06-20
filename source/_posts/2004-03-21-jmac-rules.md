@@ -1,9 +1,10 @@
 ---
 id: 37
 title: JMac Rules
-date: 2004-03-21T22:40:35-08:00
+date: 2004-03-21 22:40:35
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://265336902
 permalink: /2004/03/21/jmac-rules/
 dsq_thread_id: 927384135

@@ -1,25 +1,23 @@
 @extends('_layouts.main')
 
-@php
-    $page->type = 'article';
-@endphp
-
 @section('body')
-    @if ($page->cover_image)
-        <img src="{{ $page->cover_image }}" alt="{{ $page->title }} cover image" class="mb-2">
+    @if ($page->coverp)
+        <img src="{{ $page->coverp }}" alt="{{ $page->title }} cover image" class="mb-2">
+    @elseif ($page->cover)
+        <img src="{{ $page->cover }}" alt="{{ $page->title }} cover image" class="mb-2">
     @endif
 
     <h1 class="leading-none mb-2">{{ $page->title }}</h1>
 
-    <p class="text-gray-700 text-xl md:mt-0">{{ $page->author }}  •  {{ date('F j, Y', $page->date) }}</p>
+    <p class="text-gray-700 text-xl md:mt-0">{{ $page->author }}  •  <time datetime="{{ $page->updatedAtom() }}">{{ $page->dateString() }}</time></p>
 
-    @if ($page->categories)
-        @foreach ($page->categories as $i => $category)
+    @if ($page->categoryCollection())
+        @foreach ($page->categoryCollection() as $category)
             <a
-                href="{{ '/blog/categories/' . $category }}"
-                title="View posts in {{ $category }}"
+                href="{{ $category['path'] }}"
+                title="View posts in {{ $category['title'] }}"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
-            >{{ $category }}</a>
+            >{{ $category['title'] }}</a>
         @endforeach
     @endif
 

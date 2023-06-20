@@ -1,9 +1,10 @@
 ---
 id: 361
 title: Another Fantastic Google I/O
-date: 2010-05-24T03:40:47-07:00
+date: 2010-05-24 03:40:47
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://old.nick.pro/?p=361
 permalink: /2010/05/24/another-fantastic-google-io/
 cover: /wp-content/uploads/sites/4/2010/05/IMG_0190.jpg

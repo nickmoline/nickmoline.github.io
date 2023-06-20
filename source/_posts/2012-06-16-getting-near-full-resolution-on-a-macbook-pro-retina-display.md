@@ -1,9 +1,10 @@
 ---
 id: 703
 title: Getting full resolution on a Macbook Pro Retina Display
-date: 2012-06-16T19:56:34-07:00
+date: 2012-06-16 19:56:34
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/?p=703
 permalink: /2012/06/16/getting-near-full-resolution-on-a-macbook-pro-retina-display/
 cover: /wp-content/uploads/sites/4/2012/06/100_0150-e1339900862458.jpg

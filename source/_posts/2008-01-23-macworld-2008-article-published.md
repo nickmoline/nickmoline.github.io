@@ -1,9 +1,10 @@
 ---
 id: 163
 title: Macworld 2008 Article Published!
-date: 2008-01-23T19:39:47-08:00
+date: 2008-01-23 19:39:47
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/2008/01/23/macworld-2008-article-published/
 permalink: /2008/01/23/macworld-2008-article-published/
 categories:

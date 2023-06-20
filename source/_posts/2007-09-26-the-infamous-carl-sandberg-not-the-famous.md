@@ -1,9 +1,10 @@
 ---
 id: 157
 title: The infamous Carl Sandberg, not the famous.
-date: 2007-09-26T00:07:18-07:00
+date: 2007-09-26 00:07:18
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/2007/09/26/the-infamous-carl-sandberg-not-the-famous/
 permalink: /2007/09/26/the-infamous-carl-sandberg-not-the-famous/
 dsq_thread_id: 943153934

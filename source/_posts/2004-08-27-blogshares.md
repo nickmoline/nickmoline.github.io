@@ -1,9 +1,10 @@
 ---
 id: 77
 title: How do you measure its worth
-date: 2004-08-27T16:18:19-07:00
+date: 2004-08-27 16:18:19
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://833103836
 permalink: /2004/08/27/blogshares/
 dsq_thread_id: 971071219

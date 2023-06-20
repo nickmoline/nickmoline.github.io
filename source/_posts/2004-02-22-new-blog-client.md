@@ -1,9 +1,10 @@
 ---
 id: 27
 title: New Blog Client
-date: 2004-02-22T15:40:01-08:00
+date: 2004-02-22 15:40:01
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://2041853875
 permalink: /2004/02/22/new-blog-client/
 dsq_thread_id: 898592206

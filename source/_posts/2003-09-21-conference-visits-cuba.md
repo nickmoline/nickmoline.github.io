@@ -1,9 +1,10 @@
 ---
 id: 548
 title: Conference, Visits, and Cuba
-date: 2003-09-21T22:57:12-07:00
+date: 2003-09-21 22:57:12
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://1075495203
 dsq_thread_id: 20030921225712
 permalink: /2003/09/21/conference-visits-cuba/

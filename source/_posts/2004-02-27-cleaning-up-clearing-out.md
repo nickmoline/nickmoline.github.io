@@ -1,9 +1,10 @@
 ---
 id: 31
 title: Cleaning Up and Clearing Out
-date: 2004-02-27T01:42:39-08:00
+date: 2004-02-27 01:42:39
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://966049634
 permalink: /2004/02/27/cleaning-up-clearing-out/
 dsq_thread_id: 3259840486

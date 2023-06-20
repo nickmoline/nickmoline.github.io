@@ -1,9 +1,10 @@
 ---
 id: 128
 title: Justia Regulation Tracker
-date: 2007-03-06T18:00:24-08:00
+date: 2007-03-06 18:00:24
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/2007/03/06/justia-federal-register-regulations/
 permalink: /2007/03/06/justia-regulation-tracker/
 dsq_thread_id: 932346791

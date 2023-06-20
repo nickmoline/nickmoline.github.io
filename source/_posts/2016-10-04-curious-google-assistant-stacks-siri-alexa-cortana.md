@@ -1,9 +1,10 @@
 ---
 id: 1305
 title: 'Curious how the Google Assistant stacks up against Siri, Alexa and Cortana?  So was I'
-date: 2016-10-04T15:58:57-07:00
+date: 2016-10-04 15:58:57
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: https://www.nick.pro/?p=1305
 permalink: /2016/10/04/curious-google-assistant-stacks-siri-alexa-cortana/
 dsq_thread_id: 5271355776

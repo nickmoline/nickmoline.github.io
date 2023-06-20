@@ -1,9 +1,10 @@
 ---
 id: 125
 title: Deathly Hallows Deathly Near
-date: 2007-02-01T13:02:40-08:00
+date: 2007-02-01 13:02:40
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/2007/02/01/deathly-hallows-deathly-near/
 permalink: /2007/02/01/deathly-hallows-deathly-near/
 categories:

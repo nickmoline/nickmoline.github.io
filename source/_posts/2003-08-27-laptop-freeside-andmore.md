@@ -1,9 +1,10 @@
 ---
 id: 14
 title: New Laptop, Freeside, and more
-date: 2003-08-27T23:40:28-07:00
+date: 2003-08-27 23:40:28
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://581736279
 dsq_thread_id: 20030827234028
 permalink: /2003/08/27/laptop-freeside-andmore/

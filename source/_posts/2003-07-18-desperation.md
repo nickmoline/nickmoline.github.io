@@ -1,9 +1,10 @@
 ---
 id: 8
 title: Desperation of having to go back to TX
-date: 2003-07-18T14:47:48-07:00
+date: 2003-07-18 14:47:48
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://180130546
 permalink: /2003/07/18/desperation/
 dsq_thread_id: 20030718144748

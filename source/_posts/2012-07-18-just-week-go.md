@@ -1,9 +1,10 @@
 ---
 id: 794
-title: 'Just over a week to go&#8230;'
-date: 2012-07-18T01:39:43-07:00
+title: 'Just over a week to go...'
+date: 2012-07-18 01:39:43
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/?p=794
 permalink: /2012/07/18/just-week-go/
 dsq_thread_id: 770147595

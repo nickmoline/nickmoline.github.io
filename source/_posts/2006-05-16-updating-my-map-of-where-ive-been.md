@@ -1,9 +1,10 @@
 ---
 id: 98
-title: 'Updating my map of where I&#8217;ve been'
-date: 2006-05-16T12:50:20-07:00
+title: "Updating my map of where I've been"
+date: 2006-05-16 12:50:20
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://cap.portalkeeper.info/2006/05/16/updating-my-map-of-where-ive-been/
 permalink: /2006/05/16/updating-my-map-of-where-ive-been/
 cover: /assets/images/2006/05/map-us.png

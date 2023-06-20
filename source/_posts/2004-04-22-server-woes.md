@@ -1,9 +1,10 @@
 ---
 id: 48
 title: Server woes
-date: 2004-04-22T21:40:50-07:00
+date: 2004-04-22 21:40:50
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://2105275628
 permalink: /2004/04/22/server-woes/
 categories:

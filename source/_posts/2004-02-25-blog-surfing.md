@@ -1,9 +1,10 @@
 ---
 id: 30
 title: Blog Surfing
-date: 2004-02-25T15:11:26-08:00
+date: 2004-02-25 15:11:26
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://966213008
 permalink: /2004/02/25/blog-surfing/
 dsq_thread_id: 948137816

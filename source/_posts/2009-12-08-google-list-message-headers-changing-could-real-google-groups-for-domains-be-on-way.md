@@ -1,9 +1,10 @@
 ---
 id: 346
-title: 'Google List Message Headers Changing &#8211; Could real Google Groups for Domains be on the way?'
-date: 2009-12-08T11:56:16-08:00
+title: "Google List Message Headers Changing - Could real Google Groups for Domains be on the way?"
+date: 2009-12-08 11:56:16
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://old.nick.pro/?p=346
 permalink: /2009/12/08/google-list-message-headers-changing-could-real-google-groups-for-domains-be-on-way/
 dsq_thread_id: 935909034

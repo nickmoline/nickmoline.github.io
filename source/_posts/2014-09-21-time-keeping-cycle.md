@@ -1,9 +1,10 @@
 ---
 id: 1087
 title: The Time Keeping Cycle
-date: 2014-09-21T02:56:11-07:00
+date: 2014-09-21 02:56:11
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: https://www.nick.pro/?p=1087
 permalink: /2014/09/21/time-keeping-cycle/
 dsq_thread_id: 3040862227

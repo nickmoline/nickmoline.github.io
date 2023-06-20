@@ -1,9 +1,10 @@
 ---
 id: 357
 title: The Biggest Decision of our Lives
-date: 2010-03-20T18:37:52-07:00
+date: 2010-03-20 18:37:52
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://old.nick.pro/?p=357
 permalink: /2010/03/20/the-biggest-decision-of-our-lives/
 dsq_thread_id: 1032642551

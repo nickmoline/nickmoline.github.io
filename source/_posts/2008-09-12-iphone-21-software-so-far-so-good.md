@@ -1,9 +1,10 @@
 ---
 id: 246
-title: 'iPhone 2.1 Software &#8211; So far so good'
-date: 2008-09-12T17:47:09-07:00
+title: 'iPhone 2.1 Software: So far so good'
+date: 2008-09-12 17:47:09
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/?p=246
 permalink: /2008/09/12/iphone-21-software-so-far-so-good/
 dsq_thread_id: 335274582

@@ -1,9 +1,10 @@
 ---
 id: 60
 title: Camping on the Rocks
-date: 2004-07-09T15:22:55-07:00
+date: 2004-07-09 15:22:55
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://294052689
 permalink: /2004/07/09/camping-on-the-rocks/
 dsq_thread_id: 959207609

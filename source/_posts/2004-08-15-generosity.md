@@ -1,9 +1,10 @@
 ---
 id: 73
 title: Generosity of Others
-date: 2004-08-15T03:00:42-07:00
+date: 2004-08-15 03:00:42
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://779627279
 permalink: /2004/08/15/generosity/
 dsq_thread_id: 957523706

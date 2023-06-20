@@ -1,9 +1,10 @@
 ---
 id: 45
 title: Dead Phone
-date: 2004-04-04T22:08:31-07:00
+date: 2004-04-04 22:08:31
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://927362009
 permalink: /2004/04/04/dead-phone/
 dsq_thread_id: 964329785

@@ -1,9 +1,10 @@
 ---
 id: 32
 title: Road Warrior
-date: 2004-02-28T14:11:15-08:00
+date: 2004-02-28 14:11:15
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://1105738934
 permalink: /2004/02/28/road-warrior/
 dsq_thread_id: 3222498669

@@ -1,8 +1,9 @@
 ---
-layout: post
+extends: _layouts.post
+section: content
 title: That Time I Made a Harpy
 subtitle: Creating Real Time Visual Effects
-date: 2021-03-04T11:00:00-08:00
+date: 2021-03-04 11:00:00
 permalink: /2021/03/15/making-a-harpy/
 dsq_thread_id: 202103151057
 cover: /assets/images/2021/03/harpy.png

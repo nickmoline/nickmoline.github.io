@@ -1,8 +1,9 @@
 ---
-layout: post
+extends: _layouts.post
+section: content
 title: Growing Behind the Stage
 subtitle: Learning Something New with Every Show
-date: 2021-03-04T11:00:00-08:00
+date: 2021-03-04 11:00:00
 permalink: /2021/03/04/learning-behind-the-stage/
 dsq_thread_id: 202103041057
 cover: /assets/images/2021/03/Panorama1.jpg

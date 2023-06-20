@@ -1,9 +1,10 @@
 ---
 id: 9
 title: No brotherly visit
-date: 2003-07-18T18:32:44-07:00
+date: 2003-07-18 18:32:44
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://1090209951
 permalink: /2003/07/18/no-brotherly-visit/
 dsq_thread_id: 20030718183244

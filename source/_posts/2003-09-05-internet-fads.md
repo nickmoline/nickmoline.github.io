@@ -1,9 +1,10 @@
 ---
 id: 17
 title: Remembering Internet Fads
-date: 2003-09-05T00:20:34-07:00
+date: 2003-09-05 00:20:34
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://1390621959
 dsq_thread_id: 20030905002034
 permalink: /2003/09/05/internet-fads/

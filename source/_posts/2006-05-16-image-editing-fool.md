@@ -1,9 +1,10 @@
 ---
 id: 97
 title: Image Editing Fool
-date: 2006-05-16T00:43:59-07:00
+date: 2006-05-16 00:43:59
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://cap.portalkeeper.info/2006/05/16/image-editing-fool/
 permalink: /2006/05/16/image-editing-fool/
 categories:

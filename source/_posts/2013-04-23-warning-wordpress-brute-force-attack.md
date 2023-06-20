@@ -1,10 +1,11 @@
 ---
 id: 944
 title: 'Warning: WordPress Brute Force Attack'
-date: 2013-04-23T14:07:18-07:00
+date: 2013-04-23 14:07:18
 author: nickmoline
 excerpt: In light of the massive wordpress brute force attack going on, here is some advice to lock down your blog from being attacked.
-layout: post
+extends: _layouts.post
+section: content
 guid: https://www.nick.pro/?p=944
 permalink: /2013/04/23/warning-wordpress-brute-force-attack/
 dsq_thread_id: 1231682758

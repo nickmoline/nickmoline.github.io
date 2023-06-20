@@ -1,9 +1,10 @@
 ---
 id: 547
 title: Tired and writing
-date: 2003-09-11T03:27:31-07:00
+date: 2003-09-11 03:27:31
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://1177913619
 dsq_thread_id: 20030911032731
 permalink: /2003/09/11/tired-and-writing/

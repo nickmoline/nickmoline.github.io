@@ -1,9 +1,10 @@
 ---
 id: 55
 title: A Wedding, a Graduation, and other stories.
-date: 2004-06-09T20:53:05-07:00
+date: 2004-06-09 20:53:05
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://902537544
 permalink: /2004/06/09/wedding-and-graduation/
 dsq_thread_id: 951939742

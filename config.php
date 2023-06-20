@@ -1,34 +1,63 @@
 <?php
 
+use Carbon\Carbon;
 use Illuminate\Support\Str;
+use NickMoline\Models\Post;
 
 return [
-    'baseUrl' => '',
+    'baseUrl' => 'http://localhost:8000',
     'production' => false,
-    'siteName' => 'Blog Starter Template',
-    'siteDescription' => 'Generate an elegant blog with Jigsaw',
-    'siteAuthor' => 'Author Name',
+    'siteName' => 'NickMoline.com',
+    'siteDescription' => 'The Personal website of Nick Moline',
+    'siteAuthor' => 'Nick Moline',
 
     // collections
     'collections' => [
         'posts' => [
-            'author' => 'Author Name', // Default author, if not provided in a post
-            'sort' => '-date',
-            'path' => 'blog/{filename}',
+            'map' => function ($post) {
+                return Post::fromItem($post);
+            },
+            'author' => 'Nick Moline', // Default author, if not provided in a post
+            'sort' => '-filename',
+            'path' => function ($page) {
+                if ($page->permalink) {
+                    return $page->permalink;
+                }
+                if (preg_match("@^(\d{4})-(\d{2})-(\d{2})-(.*)$@msi", $page->getFilename(), $matches)) {
+                    return "/{$matches[1]}/{$matches[2]}/{$matches[3]}/{$matches[4]}";
+                }
+                return $page->getFilename();
+            },
+            'extends' => '_layouts.post',
+            'section' => 'content',
         ],
         'categories' => [
             'path' => '/blog/categories/{filename}',
             'posts' => function ($page, $allPosts) {
                 return $allPosts->filter(function ($post) use ($page) {
-                    return $post->categories ? in_array($page->getFilename(), $post->categories, true) : false;
+                    return $post->inCategory($page->getFilename());
                 });
+            },
+        ],
+        'tags' => [
+            'path' => '/blog/tags/{filename}',
+            'posts' => function ($page, $allPosts) {
+                return $allPosts->filter(function ($post) use ($page) {
+                    return $post->tags ? in_array($page->getFilename(), $post->tags, true) : false;
+                });
+            },
+            'items' => function ($config) {
+                // Figure out how to get tags from posts... first figure out how to get posts
             },
         ],
     ],
 
     // helpers
-    'getDate' => function ($page) {
-        return Datetime::createFromFormat('U', $page->date);
+    'canonicalUrl' => function ($page) {
+        if ($page->canonical) {
+            return $page->canonical;
+        }
+        return $page->getUrl();
     },
     'getExcerpt' => function ($page, $length = 255) {
         if ($page->excerpt) {

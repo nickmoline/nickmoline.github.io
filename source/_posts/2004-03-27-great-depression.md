@@ -1,9 +1,10 @@
 ---
 id: 41
-title: '&#8220;The Great Depression&#8221;, No not mine'
-date: 2004-03-27T05:11:44-08:00
+title: 'The Great Depression, No not mine'
+date: 2004-03-27 05:11:44
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://1173733523
 permalink: /2004/03/27/great-depression/
 dsq_thread_id: 978389719

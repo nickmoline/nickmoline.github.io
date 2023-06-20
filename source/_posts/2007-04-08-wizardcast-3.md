@@ -1,9 +1,10 @@
 ---
 id: 132
 title: WizardCast 3
-date: 2007-04-08T16:05:20-07:00
+date: 2007-04-08 16:05:20
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/2007/04/08/wizardcast-3/
 permalink: /2007/04/08/wizardcast-3/
 categories:

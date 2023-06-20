@@ -1,9 +1,10 @@
 ---
 id: 144
-title: 'I prefer &#8220;Sir Nicholas&#8221; if you don&#8217;t mind.'
-date: 2007-06-06T20:58:02-07:00
+title: "I prefer 'Sir Nicholas' if you don't mind."
+date: 2007-06-06 20:58:02
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/2007/06/06/i-prefer-sir-nicholas-if-you-dont-mind/
 permalink: /2007/06/06/i-prefer-sir-nicholas-if-you-dont-mind/
 cover: /wp-content/uploads/sites/4/2007/06/32264243.jpg

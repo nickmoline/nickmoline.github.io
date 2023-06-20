@@ -1,9 +1,10 @@
 ---
 id: 326
-title: 'I was wrong, Turns out Chrome Extensions aren&#8217;t ready yet'
-date: 2009-05-27T12:04:09-07:00
+title: "I was wrong, Turns out Chrome Extensions aren't ready yet"
+date: 2009-05-27 12:04:09
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/?p=326
 permalink: /2009/05/27/i-was-wrong-turns-out-chrome-extensions-arent-ready-yet/
 cover: /wp-content/uploads/sites/4/2009/05/3623812651_875669762a_o.jpg

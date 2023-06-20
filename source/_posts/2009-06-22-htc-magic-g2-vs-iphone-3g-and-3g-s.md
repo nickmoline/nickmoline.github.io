@@ -1,9 +1,10 @@
 ---
 id: 335
 title: HTC Magic (G2) vs iPhone 3G (and 3G S)
-date: 2009-06-22T00:25:28-07:00
+date: 2009-06-22 00:25:28
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/?p=335
 permalink: /2009/06/22/htc-magic-g2-vs-iphone-3g-and-3g-s/
 cover: /wp-content/uploads/sites/4/2009/05/3623812651_875669762a_o.jpg

@@ -1,9 +1,10 @@
 ---
 id: 84
 title: Blog Updated
-date: 2004-12-05T02:49:11-08:00
+date: 2004-12-05 02:49:11
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://756838929
 permalink: /2004/12/05/blog-upgrades/
 dsq_thread_id: 4684130544

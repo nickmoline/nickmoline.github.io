@@ -1,8 +1,9 @@
 ---
 title: 'The Virtual Assistant Wars Heat Up'
-date: 2017-10-04T00:03:55-07:00
+date: 2017-10-03 00:03:55
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: https://www.nick.pro/?p=1305
 dsq_thread_id: 2017100401
 cover: /wp-content/uploads/sites/4/2016/10/Screenshot-2016-10-04-13.13.38.png

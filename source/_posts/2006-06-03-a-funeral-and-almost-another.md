@@ -1,9 +1,10 @@
 ---
 id: 110
 title: A Funeral (and almost another)
-date: 2006-06-03T00:30:51-07:00
+date: 2006-06-03 00:30:51
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/2006/07/19/a-funeral-and-almost-another/
 permalink: /2006/06/03/a-funeral-and-almost-another/
 dsq_thread_id: 951105388

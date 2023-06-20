@@ -1,9 +1,10 @@
 ---
 id: 42
 title: Jobs and Odd Tasks to do
-date: 2004-03-27T11:34:52-08:00
+date: 2004-03-27 11:34:52
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://1169726054
 permalink: /2004/03/27/jobs-and-odd-things/
 dsq_thread_id: 925818732

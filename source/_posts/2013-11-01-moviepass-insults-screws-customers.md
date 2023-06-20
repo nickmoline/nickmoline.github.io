@@ -1,9 +1,10 @@
 ---
 id: 982
 title: MoviePass Insults and screws its customers
-date: 2013-11-01T21:18:04-07:00
+date: 2013-11-01 21:18:04
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: https://www.nick.pro/?p=982
 excerpt: MoviePass has introduced changes to their service that screws over their customers, they call it a &quot;feature&quot;
 permalink: /2013/11/01/moviepass-insults-screws-customers/

@@ -1,9 +1,10 @@
 ---
 id: 145
-title: 'It&#8217;s not Brain Surgery'
-date: 2007-06-06T21:18:11-07:00
+title: "It's not Brain Surgery"
+date: 2007-06-06 21:18:11
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/2007/06/06/its-not-brain-surgery/
 permalink: /2007/06/06/its-not-brain-surgery/
 cover: /wp-content/uploads/sites/4/2007/06/31965874.jpg

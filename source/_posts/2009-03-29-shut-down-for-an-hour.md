@@ -1,9 +1,10 @@
 ---
 id: 311
 title: Shut down for an hour
-date: 2009-03-29T03:50:35-07:00
+date: 2009-03-29 03:50:35
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/2009/03/29/shut-down-for-an-hour/
 permalink: /2009/03/29/shut-down-for-an-hour/
 dsq_thread_id: 925835133

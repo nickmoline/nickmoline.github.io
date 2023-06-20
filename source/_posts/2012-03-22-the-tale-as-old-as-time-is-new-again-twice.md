@@ -1,9 +1,10 @@
 ---
 id: 584
 title: The Tale as old as Time, is new again (twice)
-date: 2012-03-22T17:43:32-07:00
+date: 2012-03-22 17:43:32
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/?p=584
 permalink: /2012/03/22/the-tale-as-old-as-time-is-new-again-twice/
 dsq_thread_id: 621257256

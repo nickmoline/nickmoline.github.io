@@ -1,9 +1,10 @@
 ---
 id: 350
 title: The Cloud is falling, the Cloud is falling! Amazon, Walmart, Salesforce and others down on December 23rd
-date: 2009-12-23T18:20:43-08:00
+date: 2009-12-23 18:20:43
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://old.nick.pro/?p=350
 permalink: /2009/12/23/cloud-is-falling-cloud-is-falling-amazon-walmart-salesforce-and-others-down-on-dece/
 dsq_thread_id: 983707291

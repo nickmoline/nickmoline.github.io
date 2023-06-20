@@ -1,9 +1,10 @@
 ---
 id: 179
-title: 'Facebook &#8211; whoops there goes another major site!'
-date: 2008-06-19T23:05:07-07:00
+title: 'Facebook - whoops there goes another major site!'
+date: 2008-06-19 23:05:07
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/?p=179
 permalink: /2008/06/19/facebook-whoops-there-goes-another-major-site/
 dsq_thread_id: 335274559

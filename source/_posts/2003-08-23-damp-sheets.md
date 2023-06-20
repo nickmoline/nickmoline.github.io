@@ -1,9 +1,10 @@
 ---
 id: 13
 title: Damp Sheets and late night writing
-date: 2003-08-23T06:33:55-07:00
+date: 2003-08-23 06:33:55
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://1617844776
 dsq_thread_id: 20030823063355
 permalink: /2003/08/23/damp-sheets/

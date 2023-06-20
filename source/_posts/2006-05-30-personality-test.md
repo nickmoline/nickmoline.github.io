@@ -1,9 +1,10 @@
 ---
 id: 105
 title: Personality Test
-date: 2006-05-30T00:15:11-07:00
+date: 2006-05-30 00:15:11
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/2006/05/30/personality-test/
 permalink: /2006/05/30/personality-test/
 dsq_thread_id: 925811332

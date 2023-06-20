@@ -1,9 +1,10 @@
 ---
 id: 36
 title: Communication
-date: 2004-03-21T15:02:07-08:00
+date: 2004-03-21 15:02:07
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://818299827
 permalink: /2004/03/21/communication/
 dsq_thread_id: 984591127

@@ -1,9 +1,10 @@
 ---
 id: 1316
 title: 'How To: Hide content from search engines, and why you would do it'
-date: 2017-05-03T16:47:57-07:00
+date: 2017-05-03 16:47:57
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: https://www.nick.pro/?p=1316
 permalink: /2017/05/03/hide-content-search-engines/
 canonical: https://onward.justia.com/2017/05/02/robots-exclusion-standard/

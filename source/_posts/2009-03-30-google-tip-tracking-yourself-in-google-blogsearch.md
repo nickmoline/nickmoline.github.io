@@ -1,9 +1,10 @@
 ---
 id: 312
 title: 'Google Tip: Tracking Yourself in Google Blogsearch'
-date: 2009-03-30T17:58:35-07:00
+date: 2009-03-30 17:58:35
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/?p=312
 permalink: /2009/03/30/google-tip-tracking-yourself-in-google-blogsearch/
 dsq_thread_id: 975139815

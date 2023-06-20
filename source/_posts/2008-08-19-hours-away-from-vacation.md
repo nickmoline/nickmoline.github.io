@@ -1,9 +1,10 @@
 ---
 id: 217
 title: Vegas Vacation
-date: 2008-08-19T19:17:02-07:00
+date: 2008-08-19 19:17:02
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/?p=217
 permalink: /2008/08/19/hours-away-from-vacation/
 cover: /assets/images/2008/08/vegas/IMG_0065.jpg

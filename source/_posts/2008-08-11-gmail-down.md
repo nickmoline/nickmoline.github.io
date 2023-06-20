@@ -1,9 +1,10 @@
 ---
 id: 212
 title: GMail Down
-date: 2008-08-11T14:03:46-07:00
+date: 2008-08-11 14:03:46
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/?p=212
 permalink: /2008/08/11/gmail-down/
 dsq_thread_id: 363081826

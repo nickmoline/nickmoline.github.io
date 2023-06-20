@@ -1,9 +1,10 @@
 ---
 id: 178
 title: Amazon Still down, money down too
-date: 2008-06-06T11:21:22-07:00
+date: 2008-06-06 11:21:22
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/?p=178
 permalink: /2008/06/06/amazon-still-down-stocks-to/
 dsq_thread_id: 931101305

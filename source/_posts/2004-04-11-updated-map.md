@@ -1,9 +1,10 @@
 ---
 id: 46
 title: Updated map
-date: 2004-04-11T23:53:59-07:00
+date: 2004-04-11 23:53:59
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://89944042
 permalink: /2004/04/11/updated-map/
 dsq_thread_id: 981795470

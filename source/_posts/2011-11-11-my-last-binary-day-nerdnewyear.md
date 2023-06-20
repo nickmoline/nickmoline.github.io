@@ -1,9 +1,10 @@
 ---
 id: 523
 title: 'My Last Binary Day (probably) #NerdNewYear'
-date: 2011-11-11T22:55:57-08:00
+date: 2011-11-11 22:55:57
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/?p=523
 permalink: /2011/11/11/my-last-binary-day-nerdnewyear/
 cover: /wp-content/uploads/sites/4/2011/11/binary-code-1-1241810.jpg

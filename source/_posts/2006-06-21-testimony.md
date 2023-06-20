@@ -1,9 +1,10 @@
 ---
 id: 107
 title: Testimony
-date: 2006-06-21T00:53:01-07:00
+date: 2006-06-21 00:53:01
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/2006/06/21/testimony/
 permalink: /2006/06/21/testimony/
 dsq_thread_id: 936981904

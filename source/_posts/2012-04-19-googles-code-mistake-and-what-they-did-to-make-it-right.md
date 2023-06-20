@@ -1,10 +1,11 @@
 ---
 id: 651
-title: 'Google&#8217;s Code Mistake, and what they did to make it right'
+title: "Google's Code Mistake, and what they did to make it right"
 excerpt: "A Coding Challenge to get into Google I/O 2012 went awry when Google's developers made a simple validation mistake"
-date: 2012-04-19T17:37:29-07:00
+date: 2012-04-19 17:37:29
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/?p=651
 permalink: /2012/04/19/googles-code-mistake-and-what-they-did-to-make-it-right/
 cover: /wp-content/uploads/sites/4/2012/04/Region-capture-15.png

@@ -1,9 +1,10 @@
 ---
 id: 85
 title: 'And two of those mudflaps&#8230;'
-date: 2004-12-09T17:29:39-08:00
+date: 2004-12-09 17:29:39
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://736138802
 permalink: /2004/12/09/and-two-of-those-mudflaps/
 dsq_thread_id: 493694316

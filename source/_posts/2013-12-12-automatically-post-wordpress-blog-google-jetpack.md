@@ -1,10 +1,11 @@
 ---
 id: 996
 title: Automatically post your WordPress blog to Google+ with Jetpack
-date: 2013-12-12T16:11:27-08:00
+date: 2013-12-12 16:11:27
 author: nickmoline
 excerpt: "Automattic's Jetpack Wordpress plugin now lets you automatically post your blog posts to Google+ on publish"
-layout: post
+extends: _layouts.post
+section: content
 guid: https://www.nick.pro/?p=996
 permalink: /2013/12/12/automatically-post-wordpress-blog-google-jetpack/
 dsq_thread_id: 2046965126

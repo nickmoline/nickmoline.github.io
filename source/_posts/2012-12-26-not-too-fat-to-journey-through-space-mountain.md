@@ -1,9 +1,10 @@
 ---
 id: 869
 title: 'Not too fat to journey through space&#8230; mountain!'
-date: 2012-12-26T21:20:11-08:00
+date: 2012-12-26 21:20:11
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/?p=869
 permalink: /2012/12/26/not-too-fat-to-journey-through-space-mountain/
 dsq_thread_id: 994484977

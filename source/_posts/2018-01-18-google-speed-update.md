@@ -1,8 +1,9 @@
 ---
 title: "Google’s Upcoming Mobile “Speed Update” Algorithm Change: What You Need to Know"
-date: 2018-01-19T04:19:09-08:00
+date: 2018-01-18 04:19:09
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 dsq_thread_id: 2018011901
 canonical: https://onward.justia.com/2018/01/18/googles-upcoming-mobile-speed-update-algorithm-change-need-know/
 category:

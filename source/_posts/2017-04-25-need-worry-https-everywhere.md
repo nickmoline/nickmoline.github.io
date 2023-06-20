@@ -1,9 +1,10 @@
 ---
 id: 1314
 title: What you need to worry about with HTTPS Everywhere
-date: 2017-04-25T21:32:47-07:00
+date: 2017-04-25 21:32:47
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: https://www.nick.pro/?p=1314
 permalink: /2017/04/25/need-worry-https-everywhere/
 cover: /wp-content/uploads/sites/4/2017/04/https-featured-light.jpg

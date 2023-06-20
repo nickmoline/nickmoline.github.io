@@ -1,8 +1,9 @@
 ---
 title: "Page Performance Tips and Tools — Speed Up Your Website Today!"
-date: 2017-07-05T18:57:49-07:00
+date: 2017-07-05 18:57:49
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 dsq_thread_id: 2017070501
 canonical: https://onward.justia.com/2017/07/05/page-speed-tips-and-tools/
 category:

@@ -1,9 +1,10 @@
 ---
 id: 74
 title: Burning the midnight oil
-date: 2004-08-15T04:43:02-07:00
+date: 2004-08-15 04:43:02
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://1810861429
 permalink: /2004/08/15/midnight-oil/
 dsq_thread_id: 955147551

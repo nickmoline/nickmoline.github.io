@@ -1,9 +1,10 @@
 ---
 id: 28
 title: Grand Theft of Cow
-date: 2004-02-23T19:12:20-08:00
+date: 2004-02-23 19:12:20
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://976651908
 permalink: /2004/02/23/grand-theft-of-cow/
 dsq_thread_id: 945350291

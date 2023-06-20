@@ -1,9 +1,10 @@
 ---
 id: 1336
 title: Seven Blog Posts in Three Days
-date: 2017-05-22T17:15:58-07:00
+date: 2017-05-22 17:15:58
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: https://www.nick.pro/?p=1336
 permalink: /2017/05/22/seven-blog-posts-three-days/
 cover: /wp-content/uploads/sites/4/2017/05/IMG_20170517_101308.jpg

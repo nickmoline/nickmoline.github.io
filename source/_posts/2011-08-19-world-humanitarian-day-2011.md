@@ -1,9 +1,10 @@
 ---
 id: 466
-title: 'Rachel Beckwith&#8217;s Amazing Gift'
-date: 2011-08-19T12:16:43-07:00
+title: "Rachel Beckwith's Amazing Gift"
+date: 2011-08-19 12:16:43
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/?p=466
 permalink: /2011/08/19/world-humanitarian-day-2011/
 cover: /wp-content/uploads/sites/4/2011/08/090a37248b294max.jpg

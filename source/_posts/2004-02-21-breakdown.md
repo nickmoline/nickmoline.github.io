@@ -1,9 +1,10 @@
 ---
 id: 24
 title: Breakdown
-date: 2004-02-21T23:36:05-08:00
+date: 2004-02-21 23:36:05
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://172158296
 dsq_thread_id: 20040421233605
 permalink: /2004/02/21/breakdown/

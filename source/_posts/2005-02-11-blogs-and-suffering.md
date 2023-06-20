@@ -1,9 +1,10 @@
 ---
 id: 89
 title: On Blogs and Suffering
-date: 2005-02-11T11:18:39-08:00
+date: 2005-02-11 11:18:39
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://1688733567
 permalink: /2005/02/11/blogs-and-suffering/
 dsq_thread_id: 975140899

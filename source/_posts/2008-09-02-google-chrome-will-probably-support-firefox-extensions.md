@@ -1,9 +1,10 @@
 ---
 id: 232
-title: 'Google Chrome will probably support Firefox Extensions! &#8211; UPDATED'
-date: 2008-09-02T16:17:33-07:00
+title: 'Google Chrome will probably support Firefox Extensions! - UPDATED'
+date: 2008-09-02 16:17:33
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/?p=232
 permalink: /2008/09/02/google-chrome-will-probably-support-firefox-extensions/
 dsq_thread_id: 335274572

@@ -1,9 +1,10 @@
 ---
 id: 126
 title: Influenza, the Musical
-date: 2007-02-06T11:04:46-08:00
+date: 2007-02-06 11:04:46
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/2007/02/06/influenza-the-musical/
 permalink: /2007/02/06/influenza-the-musical/
 cover: /wp-content/uploads/sites/4/2007/02/influenza-sixth-period.jpg

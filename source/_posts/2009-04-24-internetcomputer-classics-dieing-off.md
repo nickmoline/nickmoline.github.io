@@ -1,9 +1,10 @@
 ---
 id: 315
-title: 'Internet/Computer Classics Dieing off&#8230;'
-date: 2009-04-24T17:21:45-07:00
+title: 'Internet/Computer Classics Dieing off'
+date: 2009-04-24 17:21:45
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/?p=315
 permalink: /2009/04/24/internetcomputer-classics-dieing-off/
 cover: /wp-content/uploads/sites/4/2009/04/galaxy-quest-geocities-parody.png

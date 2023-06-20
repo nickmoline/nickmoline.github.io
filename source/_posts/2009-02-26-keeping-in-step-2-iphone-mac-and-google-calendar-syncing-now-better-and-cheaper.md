@@ -1,9 +1,10 @@
 ---
 id: 284
-title: 'Keeping in Step 2 &#8211; iPhone, Mac, and Google Calendar Syncing, now Better, and cheaper.'
-date: 2009-02-26T19:36:04-08:00
+title: 'Keeping in Step 2: iPhone, Mac, and Google Calendar Syncing, now Better, and cheaper.'
+date: 2009-02-26 19:36:04
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/?p=284
 permalink: /2009/02/26/keeping-in-step-2-iphone-mac-and-google-calendar-syncing-now-better-and-cheaper/
 dsq_thread_id: 943201205

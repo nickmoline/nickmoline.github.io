@@ -1,9 +1,10 @@
 ---
 id: 848
 title: 'Extra Extra &#8211; Read all about it!'
-date: 2012-10-13T00:54:30-07:00
+date: 2012-10-13 00:54:30
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/?p=848
 permalink: /2012/10/13/newsies-on-broadway/
 excerpt: "And the World will feel the fire and finally know that Nick has seen Newsies on Broadway"

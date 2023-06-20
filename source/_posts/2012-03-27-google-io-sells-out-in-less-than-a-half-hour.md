@@ -1,9 +1,10 @@
 ---
 id: 633
 title: Google I/O 2012 Sells out in less than a half hour
-date: 2012-03-27T11:43:08-07:00
+date: 2012-03-27 11:43:08
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/?p=633
 permalink: /2012/03/27/google-io-sells-out-in-less-than-a-half-hour/
 dsq_thread_id: 626197973

@@ -1,9 +1,10 @@
 ---
 id: 805
 title: Time for the clear liquids only
-date: 2012-07-24T15:30:52-07:00
+date: 2012-07-24 15:30:52
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/?p=805
 permalink: /2012/07/24/time-clear-liquids/
 dsq_thread_id: 778679461

@@ -1,9 +1,10 @@
 ---
 id: 343
 title: Mofuse.mobi down with MySQL Errors
-date: 2009-11-16T04:20:04-08:00
+date: 2009-11-16 04:20:04
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://old.nick.pro/?p=343
 permalink: /2009/11/16/mofusemobi-down-with-mysql-errors/
 dsq_thread_id: 926604615

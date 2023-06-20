@@ -1,8 +1,9 @@
 ---
 title: "App of the Week: BlogPress"
-date: 2011-04-25T11:35:22-07:00
+date: 2011-04-25 11:35:22
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 dsq_thread_id: 2011042501
 canonical: https://onward.justia.com/2011/04/25/app-of-the-week-blogpress-2/
 category:

@@ -1,9 +1,10 @@
 ---
 id: 123
 title: Justia in the News Again
-date: 2007-01-17T13:22:44-08:00
+date: 2007-01-17 13:22:44
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/2007/01/17/justia-in-the-news-again/
 permalink: /2007/01/17/justia-in-the-news-again/
 dsq_thread_id: 968051647

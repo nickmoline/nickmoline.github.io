@@ -1,9 +1,10 @@
 ---
 id: 63
 title: Busily Updating
-date: 2004-07-22T05:28:00-07:00
+date: 2004-07-22 05:28:00
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://1704597731
 permalink: /2004/07/22/busy-updating/
 dsq_thread_id: 948956299

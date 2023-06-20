@@ -1,9 +1,10 @@
 ---
 id: 127
 title: Justia Federal District Court Filings and Dockets
-date: 2007-02-16T13:36:14-08:00
+date: 2007-02-16 13:36:14
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/2007/02/16/justia-federal-district-court-filings-and-dockets-and-nick-is-a-pro/
 permalink: /2007/02/16/justia-dockets/
 dsq_thread_id: 335274536

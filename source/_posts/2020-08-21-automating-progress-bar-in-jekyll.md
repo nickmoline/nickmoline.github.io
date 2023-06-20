@@ -35,7 +35,8 @@ Live posts in Jekyll are stored in a `_posts` folder.  There is also a `_drafts`
 ```yml
 collections:
     pending:
-        layout: post
+        extends: _layouts.post
+section: content
 ```
 
 This now creates a new collection named `pending` which works much the same as the built in `posts`.  The list of pending posts are available in a separate array `site.pending` which I similarly can use `site.pending.size` to get a count of.

@@ -1,9 +1,10 @@
 ---
 id: 363
 title: Returning to Blogging
-date: 2011-05-28T19:17:57-07:00
+date: 2011-05-28 19:17:57
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://old.nick.pro/?p=363
 permalink: /2011/05/28/returning-to-blogging/
 cover: /wp-content/uploads/sites/4/2011/05/IMG_20110510_083940.jpg

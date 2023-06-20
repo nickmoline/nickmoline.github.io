@@ -1,9 +1,10 @@
 ---
 id: 500
 title: On the Difficulty of Pottermore House Cup Competitions
-date: 2011-09-18T04:13:23-07:00
+date: 2011-09-18 04:13:23
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/?p=500
 permalink: /2011/09/18/on-the-difficulty-of-pottermore-house-cup-competitions/
 dsq_thread_id: 418118533

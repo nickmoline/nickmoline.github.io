@@ -1,9 +1,10 @@
 ---
 id: 122
 title: Family in the Bay
-date: 2007-01-16T17:46:25-08:00
+date: 2007-01-16 17:46:25
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/2007/01/16/family-in-the-bay/
 permalink: /2007/01/16/family-in-the-bay/
 cover: /wp-content/uploads/sites/4/2007/01/Barbaras%20Dad%20Visit%20-%20Small.jpg

@@ -1,9 +1,10 @@
 ---
 id: 90
-title: 'It&#8217;s the Simple Things'
-date: 2005-02-15T05:43:19-08:00
+title: "It's the Simple Things..."
+date: 2005-02-15 05:43:19
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://1838029497
 permalink: /2005/02/15/its-the-simple-things/
 dsq_thread_id: 972084906

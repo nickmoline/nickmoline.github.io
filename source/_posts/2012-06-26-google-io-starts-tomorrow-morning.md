@@ -1,9 +1,10 @@
 ---
 id: 757
 title: Google I/O 2012 starts tomorrow morning
-date: 2012-06-26T13:17:36-07:00
+date: 2012-06-26 13:17:36
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/?p=757
 permalink: /2012/06/26/google-io-starts-tomorrow-morning/
 dsq_thread_id: 741413611

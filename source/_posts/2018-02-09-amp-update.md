@@ -1,8 +1,9 @@
 ---
 title: "AMP Update: Get Even More AMPed in 2018"
-date: 2018-02-09T16:10:37-08:00
+date: 2018-02-09 16:10:37
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 dsq_thread_id: 2018020901
 canonical: https://onward.justia.com/2018/02/09/amp-update-get-even-amped-2018/
 category:

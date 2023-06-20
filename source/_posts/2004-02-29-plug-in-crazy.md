@@ -1,9 +1,10 @@
 ---
 id: 33
 title: Plug-in Crazy
-date: 2004-02-29T03:29:11-08:00
+date: 2004-02-29 03:29:11
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://1891761452
 permalink: /2004/02/29/plug-in-crazy/
 dsq_thread_id: 335274428

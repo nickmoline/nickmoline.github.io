@@ -1,9 +1,10 @@
 ---
 id: 255
 title: Mashup Camp, Next Week
-date: 2008-11-11T17:27:20-08:00
+date: 2008-11-11 17:27:20
 author: nickmoline
-layout: post
+extends: _layouts.post
+section: content
 guid: http://www.nick.pro/?p=255
 permalink: /2008/11/11/mashup-camp-next-week/
 dsq_thread_id: 482953142
