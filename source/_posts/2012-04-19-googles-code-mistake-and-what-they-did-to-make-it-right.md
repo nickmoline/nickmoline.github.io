@@ -23,7 +23,7 @@ tags:
    - Math
 amp-mathml: true
 ---
-This morning Google <a href="http://googledevelopers.blogspot.com/2012/04/code-jams-sprint-to-google-io.html" target="_blank">opened up a programming competition</a> using the same system as Google Code Jam (they called it the Google Code Jam Sprint to I/O) to win the right to buy 1 of 100 tickets to Google I/O.  Normal Registration for the conference closed [20 minutes after it opened]({% post_url 2012-03-27-google-io-sells-out-in-less-than-a-half-hour %} "Google I/O 2012 Sells out in less than a half hour") back on March 27th due to the incredible demand, so naturally those developers who couldn&#8217;t get in before were excited and ready to battle for the chance to buy a ticket.
+This morning Google <a href="http://googledevelopers.blogspot.com/2012/04/code-jams-sprint-to-google-io.html" target="_blank">opened up a programming competition</a> using the same system as Google Code Jam (they called it the Google Code Jam Sprint to I/O) to win the right to buy 1 of 100 tickets to Google I/O.  Normal Registration for the conference closed [20 minutes after it opened]({{ $page->postLink("2012-03-27-google-io-sells-out-in-less-than-a-half-hour") }} "Google I/O 2012 Sells out in less than a half hour") back on March 27th due to the incredible demand, so naturally those developers who couldn&#8217;t get in before were excited and ready to battle for the chance to buy a ticket.
 
 <!--more-->
 
@@ -73,7 +73,7 @@ Naturally a lot of the programmers who entered the competition were quite upset 
 
 > We&#8217;ve made a mistake in problem A. The correct output is 0, but it is being judged as wrong because 4 of our problem writers have independently made the same bug in their solutions. We would like to apologize for the confusion this has caused. We will send an email to all participants shortly, announcing our plan to resolve this issue in the least unfair manner possible. We take a lot of precautions to prevent mistakes like this, but we have messed up this time
 
-Now I did not enter this competition (I did the coding example just for the brain exercise, but I did not submit it) because I am [already registered for Google I/O]({% post_url 2012-03-13-google-io-2012-here-i-come %} "Google I/O 2012 Here I come") and didn&#8217;t need the additional ticket for myself, but some of my coworkers did enter the competition, and they received an email a little while ago which included the following:
+Now I did not enter this competition (I did the coding example just for the brain exercise, but I did not submit it) because I am [already registered for Google I/O]({{ $page->postLink("2012-03-13-google-io-2012-here-i-come") }} "Google I/O 2012 Here I come") and didn&#8217;t need the additional ticket for myself, but some of my coworkers did enter the competition, and they received an email a little while ago which included the following:
 
 > As you know, we intended to provide an opportunity to buy Google I/O tickets to the top 100 scorers. **In light of our mistake, we&#8217;ve decided instead to offer this opportunity to all participants who have submitted any solution to either of the two problems**. Please watch your inbox for a registration code coming shortly.
 

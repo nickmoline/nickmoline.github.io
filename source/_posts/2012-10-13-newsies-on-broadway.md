@@ -30,7 +30,7 @@ The play was everything I hoped it would be. Barbara and I really enjoyed it, an
 <!--more-->
 ***
 
-The story centers on fictional strike leader Jack Kelly, a newsie in his late teens who, along with his fellow Newsies, rebel against a price hike imposed on them by newspaper tycoons Joseph Pulitzer and William-Randolph Hearst (Random note: Barbara, Mike and I [visited Hearst Castle]({% post_url 2007-01-03-2006-a-nick-oddity %} "2006 – A Nick Oddity"), the Massive home of William-Randolph Hearst in 2006).
+The story centers on fictional strike leader Jack Kelly, a newsie in his late teens who, along with his fellow Newsies, rebel against a price hike imposed on them by newspaper tycoons Joseph Pulitzer and William-Randolph Hearst (Random note: Barbara, Mike and I [visited Hearst Castle]({{ $page->postLink("2007-01-03-2006-a-nick-oddity") }} "2006 – A Nick Oddity"), the Massive home of William-Randolph Hearst in 2006).
 
 Jack is a budding artist who aspires to leave New York saying &#8220;You keep your small life in a big city, give me a big life, in a small town.&#8221; at the intro to the prologue song _Santa Fe_.
 

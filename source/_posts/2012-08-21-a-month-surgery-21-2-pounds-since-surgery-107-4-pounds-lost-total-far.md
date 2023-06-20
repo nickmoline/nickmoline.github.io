@@ -15,4 +15,4 @@ categories:
 tags:
     - Weight Loss
 ---
-2 days before the surgery <a title="Time for the clear liquids only" href="{% post_url 2012-07-24-time-clear-liquids %}" target="_blank">I wrote that I was at 404.0 pounds</a> at my monthly weigh-in that day.  Today, one month later, I am at **382.8** pounds, which is 21.2 pounds less than 1 month ago, and 107.4 pounds lost total since I started my weight loss efforts.
+2 days before the surgery <a title="Time for the clear liquids only" href="{{ $page->postLink("2012-07-24-time-clear-liquids") }}" target="_blank">I wrote that I was at 404.0 pounds</a> at my monthly weigh-in that day.  Today, one month later, I am at **382.8** pounds, which is 21.2 pounds less than 1 month ago, and 107.4 pounds lost total since I started my weight loss efforts.

@@ -15,7 +15,7 @@ categories:
 tags:
     - Weight Loss
 ---
-As everyone who has ever seen me (or a picture of me) can attest, I am extremely obese.  After I wrote [my most popular blog post ever]({% post_url 2011-08-27-pottermore-cheats-earning-more-house-points-through-failure-then-success-in-potion-making %} "Pottermore Cheats: Earning more house points through failure then success in potion making"), one wiki (which doesn&#8217;t seem to be online anymore) linked to my article and credited me only as &#8220;a very large man&#8221; and it is true, I was and still am quite huge.
+As everyone who has ever seen me (or a picture of me) can attest, I am extremely obese.  After I wrote [my most popular blog post ever]({{ $page->postLink("2011-08-27-pottermore-cheats-earning-more-house-points-through-failure-then-success-in-potion-making") }} "Pottermore Cheats: Earning more house points through failure then success in potion making"), one wiki (which doesn&#8217;t seem to be online anymore) linked to my article and credited me only as &#8220;a very large man&#8221; and it is true, I was and still am quite huge.
 
 What those closer to me know, is I have since January 2011 been working on this problem.  I started working on losing some of that excess weight and have made some great progress.  As of just last week I&#8217;ve reached an important milestone in this progress and I wanted to finally come clean and share the real numbers with the world.
 

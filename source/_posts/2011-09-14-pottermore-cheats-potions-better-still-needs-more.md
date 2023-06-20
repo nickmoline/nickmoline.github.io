@@ -14,7 +14,7 @@ tags:
   - Pottermore
   - Harry Potter
 ---
-I don&#8217;t know if the people from [TH_NK](http://www.think.eu/) read [my post about cheating]({% post_url 2011-08-27-pottermore-cheats-earning-more-house-points-through-failure-then-success-in-potion-making %} "Pottermore Cheats: Earning more house points through failure then success in potion making") on [Pottermore]({{ site.url }}{{ site.baseurl }}/tags#pottermore) by purposeful failing at potion making, or one of the many other online forums posting about the issue, but a few days after my post went live, they posted on the Pottermore Insider blog that [potions are being tweaked](http://insider.pottermore.com/2011/09/from-duelling-to-potions.html).
+I don&#8217;t know if the people from [TH_NK](http://www.think.eu/) read [my post about cheating]({{ $page->postLink("2011-08-27-pottermore-cheats-earning-more-house-points-through-failure-then-success-in-potion-making") }} "Pottermore Cheats: Earning more house points through failure then success in potion making") on [Pottermore]({{ site.url }}{{ site.baseurl }}/tags#pottermore) by purposeful failing at potion making, or one of the many other online forums posting about the issue, but a few days after my post went live, they posted on the Pottermore Insider blog that [potions are being tweaked](http://insider.pottermore.com/2011/09/from-duelling-to-potions.html).
 
 Today Sara Moton commented on my previous post to say that they stopped giving a point for failing.  I have logged in tonight to test it and indeed, it is true.  TH_NK has fixed this logic flaw, and it&#8217;s great.
 

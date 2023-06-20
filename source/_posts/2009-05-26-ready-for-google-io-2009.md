@@ -17,7 +17,7 @@ tags:
   - Google I/O
   - Conference
 ---
-My wife and are are checked into our hotel in San Francisco. Tomorrow begins [Google I/O 2009](http://code.google.com/io) at the Moscone Center West in San Francisco. I&#8217;m quite looking forward to two days of Google Developer Goodness. I&#8217;m hoping that we&#8217;ll learn about a lot of great new updates to Google APIs and developer tools, and of course, I haven&#8217;t forgot about my prediction that [Google Chrome will get Extensions at Google I/O]({% post_url 2009-02-04-google-chrome-extensions-coming-out-by-may %}). I&#8217;m a little more cautious about saying that for sure, but I&#8217;m still pretty optimistic that it will happen, or at least we&#8217;ll get some sort of time table as to when we will.
+My wife and are are checked into our hotel in San Francisco. Tomorrow begins [Google I/O 2009](http://code.google.com/io) at the Moscone Center West in San Francisco. I&#8217;m quite looking forward to two days of Google Developer Goodness. I&#8217;m hoping that we&#8217;ll learn about a lot of great new updates to Google APIs and developer tools, and of course, I haven&#8217;t forgot about my prediction that [Google Chrome will get Extensions at Google I/O]({{ $page->postLink("2009-02-04-google-chrome-extensions-coming-out-by-may") }}). I&#8217;m a little more cautious about saying that for sure, but I&#8217;m still pretty optimistic that it will happen, or at least we&#8217;ll get some sort of time table as to when we will.
 
 <!--more-->
 

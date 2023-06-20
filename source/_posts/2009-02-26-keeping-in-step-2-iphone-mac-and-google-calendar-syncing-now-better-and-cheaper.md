@@ -16,7 +16,7 @@ tags:
   - iPhone
   - Google Calendar
 ---
-[Back in August, I posted a how-to]({% post_url 2008-08-27-keeping-in-step-how-to-sync-your-iphones-calendar-with-google-calendar %}) on keeping your iPhone (or iPhone 3G) and Mac in sync with Google Calendar all the time over the air, it basically required using both [Mobile Me](http://www.me.com/) and [Spanning Sync](http://spanningsync.com/?r=H3EFCF "Spanning Sync - Save $5 off the normal price of $25") with an Always On Mac to make sure your iPhone was kept in constant sync with both your Mac and Google Calendar.
+[Back in August, I posted a how-to]({{ $page->postLink("2008-08-27-keeping-in-step-how-to-sync-your-iphones-calendar-with-google-calendar") }}) on keeping your iPhone (or iPhone 3G) and Mac in sync with Google Calendar all the time over the air, it basically required using both [Mobile Me](http://www.me.com/) and [Spanning Sync](http://spanningsync.com/?r=H3EFCF "Spanning Sync - Save $5 off the normal price of $25") with an Always On Mac to make sure your iPhone was kept in constant sync with both your Mac and Google Calendar.
 
 At the time, it was the only solution available to make this possible, now however, Google has made it all so much easier, and cut out all of the cost, in fact, I&#8217;m sure Apple is not too pleased about how Google has made it possible to have two way over-the-air syncing with iPhones for free, thus making their $99/year Mobile Me Service all but unnecessary to most people.
 

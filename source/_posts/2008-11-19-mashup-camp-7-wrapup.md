@@ -17,7 +17,7 @@ tags:
   - Coding
 amp-twitter: true
 ---
-As I [Posted about last week]({% post_url 2008-11-11-mashup-camp-next-week %}), I attended Mashup Camp at the Computer History Museum this week. It has been a packed couple of days. I mentioned before I was not really considering entering the Speedgeeking Contest that occurs at each Mashup Camp. Last Spring&#8217;s Mashup Camp I was a bit depressed to come in last place, but this contest was different, this time they had one top prize (A MacBook Pro) awarded by attendee voting, but then the individual providers sponsoring the event also had their own contests of who had the best mashup using their service.
+As I [Posted about last week]({{ $page->postLink("2008-11-11-mashup-camp-next-week") }}), I attended Mashup Camp at the Computer History Museum this week. It has been a packed couple of days. I mentioned before I was not really considering entering the Speedgeeking Contest that occurs at each Mashup Camp. Last Spring&#8217;s Mashup Camp I was a bit depressed to come in last place, but this contest was different, this time they had one top prize (A MacBook Pro) awarded by attendee voting, but then the individual providers sponsoring the event also had their own contests of who had the best mashup using their service.
 
 <!--more-->
 

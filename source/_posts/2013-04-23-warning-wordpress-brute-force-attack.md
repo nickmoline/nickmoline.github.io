@@ -18,7 +18,7 @@ tags:
     - WordPress
     - Guides
 ---
-After [my blog was hacked]({% post_url 2012-11-12-losing-my-geek-cred-nick-pro-hacked %} "Losing my Geek Cred: Nick.pro hacked") a few months ago, I&#8217;ve been understandably more security conscious on my blog.  One of the things I&#8217;ve done is install a few security plugins (most notably <a title="Wordfence Security - WordPress Plugins" href="http://wordpress.org/extend/plugins/wordfence/" target="_blank">Wordfence Security</a>).  Wordfence is an absolutely fantastic security plugin, it monitors the files in your site to make sure that they don&#8217;t change unexpectedly, and more importantly it monitors login attempts (and other page requests on your site) for potentially harmful login attempts.
+After [my blog was hacked]({{ $page->postLink("2012-11-12-losing-my-geek-cred-nick-pro-hacked") }} "Losing my Geek Cred: Nick.pro hacked") a few months ago, I&#8217;ve been understandably more security conscious on my blog.  One of the things I&#8217;ve done is install a few security plugins (most notably <a title="Wordfence Security - WordPress Plugins" href="http://wordpress.org/extend/plugins/wordfence/" target="_blank">Wordfence Security</a>).  Wordfence is an absolutely fantastic security plugin, it monitors the files in your site to make sure that they don&#8217;t change unexpectedly, and more importantly it monitors login attempts (and other page requests on your site) for potentially harmful login attempts.
 
 <!--more-->
 

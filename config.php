@@ -52,6 +52,22 @@ return [
         ],
     ],
 
+    'postUrl' => function ($page, $filename) {
+        if ($page->collection[$filename]) {
+            return $page->collection[$filename]->getUrl();
+        }
+    },
+
+    'postLink' => function ($page, $filename) {
+        $link = $page->postUrl($filename);
+
+        if ($link) {
+            return "<a href=\"{$link}\">{$filename}</a>";
+        } else {
+            return $filename;
+        }
+    }
+
     // helpers
     'canonicalUrl' => function ($page) {
         if ($page->canonical) {

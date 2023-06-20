@@ -16,7 +16,7 @@ tags:
   - Facebook
   - Blunders
 ---
-Two weeks ago [I posted about Amazon.com being down for hours]({% post_url 2008-06-06-amazon-down-but-not-out %}), tonight, another major website has gone down without warning, and has a very ugly error message, just like Amazon did. At this time the error message (shown on the right) has been up for at least 20 minutes with no sign of repair, in fact, much the contrary, while the error message is still there, it is taking longer and longer for the error message to load, meaning that even facebook&#8217;s error page is under serious strain.
+Two weeks ago [I posted about Amazon.com being down for hours]({{ $page->postLink("2008-06-06-amazon-down-but-not-out") }}), tonight, another major website has gone down without warning, and has a very ugly error message, just like Amazon did. At this time the error message (shown on the right) has been up for at least 20 minutes with no sign of repair, in fact, much the contrary, while the error message is still there, it is taking longer and longer for the error message to load, meaning that even facebook&#8217;s error page is under serious strain.
 
 <!--more-->
 

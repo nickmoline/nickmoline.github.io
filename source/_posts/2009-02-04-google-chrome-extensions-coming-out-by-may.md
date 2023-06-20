@@ -31,7 +31,7 @@ Like last year, it will take place at the Moscone Center in San Francisco. Along
 
 I&#8217;d say this is a safe bet that if Extensions are not released BEFORE Google I/O, then they will be released as a new feature AT Google I/O. Extensions are coming, but what about Mac Support?
 
-**UPDATE FROM GOOGLE I/O:** While the session went through as planned, it turns out [my theory was wrong]({% post_url 2009-05-27-i-was-wrong-turns-out-chrome-extensions-arent-ready-yet %}), they simply aren&#8217;t ready to announce support for extensions yet, although it is coming soon, and they are really well implemented in beta.
+**UPDATE FROM GOOGLE I/O:** While the session went through as planned, it turns out [my theory was wrong]({{ $page->postLink("2009-05-27-i-was-wrong-turns-out-chrome-extensions-arent-ready-yet") }}), they simply aren&#8217;t ready to announce support for extensions yet, although it is coming soon, and they are really well implemented in beta.
 
 **UPDATE 2 (June 3rd):** The Session video is now up on youtube, I&#8217;ve embedded it below:
 

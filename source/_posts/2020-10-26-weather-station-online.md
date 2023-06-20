@@ -20,7 +20,7 @@ I've long been fascinated by personal weather stations, and long wanted one of m
 
 A couple of months ago, on a day the AQI in Sunnyvale was particularly bad (everything outside was tinted orange), I went ahead and purchased the [WS-2902C](https://ambientweather.com/amws2902.html) along with the optional addon units for measuring the PM2.5 Air Quality (one of the main factors that the AQI is calculated from) both inside and outside my apartment.  I went with the Ambient Weather unit for a number of reasons.  Of course having those Air Quality sensors were a big part of it, but I also was interested in being able to track weather online.  The Ambient Weather unit had the extra interesting improvements of integration with both IFTTT and Google Assistant, which fits into my smarthome setup quite well.
 
-By the time my unit arrived however the air quality was marginally better, and more importantly it was looking more and more likely that I was going to end up moving out of the bay area ([I did]({% post_url 2020-10-04-the-next-adventure %})) so I didn't set it up.
+By the time my unit arrived however the air quality was marginally better, and more importantly it was looking more and more likely that I was going to end up moving out of the bay area ([I did]({{ $page->postLink("2020-10-04-the-next-adventure") }})) so I didn't set it up.
 
 I haven't been in Irvine an entire month yet (heck I haven't even reached 2 weeks yet) and now there are evacuations in this very city because of wildfires down here.  At the moment my new home (shown below as the blue dot) is not yet under evacuation orders (or an evacuation warning), but the smoke is in the air and the air quality is once again bad.
 
