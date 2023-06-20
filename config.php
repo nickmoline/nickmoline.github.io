@@ -66,7 +66,7 @@ return [
         } else {
             return $filename;
         }
-    }
+    },
 
     // helpers
     'canonicalUrl' => function ($page) {
