@@ -2,18 +2,18 @@
 layout: post
 title: This post will likely make you angry
 subtitle: I'm no longer an evangelical
-date: 2022-12-31T11:44:00-08:00
+date: 2023-06-19T11:44:00-08:00
 dsq_thread_id: 20221231114400
 ---
 I've been trying to think how to write this post for a very long time, years in fact.  I've written dozens of drafts, I've considered multiple mediums, but my cowardice has prevented me from publishing it.  From short posts to facebook, to lengthy blog posts, I've tried to come up with ways to say this for ages, and every time I do, I chicken out.
 
 For almost everyone in my audience, this will come as a surprise, but for completely different reasons.  For those of you who have known me the longest (family, school classmates, church members), you'll be shocked that I've made such a radical change.  For those of you who know me well for the last several years (coworkers, theatre friends), you will probably be more shocked that there is a change at all, because what I previously was, doesn't jive with the way I treat you and others.
 
-Enough waffling Nick, I'll get to the point.  I no longer consider myself an Evangelical Christian.
+Enough waffling, I'll get to the point.  I no longer consider myself an Evangelical Christian.
 
 ## What I believed
 
-For most of my life, I was a born again Christian.  I believed in the Bible as unfallable truth, and I believed that salvation is a gift from God, which he gave through his son Jesus.  I diligently studied the Bible, read it cover-to-cover multiple times.  I volunteered at churches, I went to a Christian private school.  I went on spiritual retreats, donated to missionaries.  I would only listen to christian music and christian talk-shows.  I even tied my career to my faith for a while, I worked as an employee at my church for a few years, and there was a period of time I strongly considered going into the ministry and becoming a pastor.  I was sold, hook-line-sinker.
+For most of my life, I was a "born again" Christian.  I believed in the Bible as unfallable truth, and I believed that salvation is a gift from God, which he gave through his son Jesus.  I diligently studied the Bible, read it cover-to-cover multiple times.  I volunteered at churches, I went to a Christian private school.  I went on spiritual retreats, donated to missionaries.  I would only listen to christian music and christian talk-shows.  I even tied my career to my faith for a while, I worked as an employee at my church for a few years, and there was a period of time I strongly considered going into the ministry and becoming a pastor.  I was sold, hook-line-sinker.
 
 I even believed the messages Christians have about what is "wrong with the world."  I believed sex outside of marriage was a sin, I believed that homosexuality was a sin.  I believed marriage was between 1 man and 1 woman, and I believed that abortion was murder.  I believed that the liberals were out to take our Bibles away and I believed that God made you a certain way, that whatever gender you had when God made you was the perfect and right choice and that if your gender identity didn't match your biological sex that you were mentally ill and needed Jesus in your life.  I believed all of those things, but I was never comfortable about how we treated people that disagreed with us.
 
@@ -66,7 +66,7 @@ People who believe that everyone should be treated the way they would want to be
 
 > Not like the brazen giant of Greek fame, With conquering limbs astride from land to land; Here at our sea-washed, sunset gates shall stand A mighty woman with a torch, whose flame Is the imprisoned lightning, and her name Mother of Exiles. From her beacon-hand Glows world-wide welcome; her mild eyes command The air-bridged harbor that twin cities frame. "Keep, ancient lands, your storied pomp!" cries she With silent lips. "Give me your tired, your poor, Your huddled masses yearning to breathe free, The wretched refuse of your teeming shore. Send these, the homeless, tempest-tost to me, I lift my lamp beside the golden door!" -- Statue of Liberty Dedication Plaque
 
-America was built by immagrants.  White people are not native to these shores, and we used to call this country the great "Melting Pot" proud of the fact that we were built by people of many different cultures coming together.  True our history has **always** been racist, and persecuted people, but at least the ideal was that we accept people with open arms.  So why are we trying to build an ill-conceived wall to keep out our neighbors?
+America was built by immagrants.  White people are not native to these shores, and we used to call this country the great "Melting Pot" proud of the fact that we were built by people of many different cultures coming together.  True, our history has **always** been racist, and persecuted people, but at least the ideal was that we accept people with open arms.  So why are we trying to build an ill-conceived wall to keep out our neighbors?
 
 ### On a related note... Nazis
 
