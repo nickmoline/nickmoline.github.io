@@ -1,0 +1,51 @@
+{
+    "groups": {
+        "#225ea8": {
+            "div": "#box0",
+            "label": "Visited",
+            "paths": [
+                "Mexico",
+                "Canada",
+                "British_Columbia_CA",
+                "Ontario_CA",
+                "USA_New_York",
+                "USA_Massachusetts",
+                "USA_New_Jersey",
+                "USA_Pennsylvania",
+                "USA_New_Mexico",
+                "USA_Arizona",
+                "USA_Nevada",
+                "USA_Washington",
+                "USA_Oklahoma",
+                "USA_Arkansas",
+                "USA_Louisiana",
+                "USA_Mississippi",
+                "USA_Alabama",
+                "USA_Georgia",
+                "USA_South_Carolina",
+                "USA_Tennessee",
+                "USA_West_Virginia",
+                "USA_Maryland",
+                "USA_Ohio",
+                "USA_Wisconsin",
+                "USA_Illinois"
+            ]
+        },
+        "#238443": {
+            "div": "#box1",
+            "label": "Lived",
+            "paths": [
+                "United_States",
+                "USA_California",
+                "USA_Texas",
+                "USA_North_Carolina",
+                "USA_Virginia",
+                "USA_Florida"
+            ]
+        }
+    },
+    "title": "Places Nick has",
+    "hidden": [],
+    "background": "#e0ecf4",
+    "borders": "#000000"
+}

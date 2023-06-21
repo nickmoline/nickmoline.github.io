@@ -1,0 +1,60 @@
+nickmoline
+Nick Moline
+Senior Software Engineer at Justia.com
+Sunnyvale, CA, USA
+==================================================================
+https://keybase.io/nickmoline
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.nickmoline.com
+  * I am nickmoline (https://keybase.io/nickmoline) on keybase.
+  * I have a public key ASBIft78K93vDBwwwlpEkhRmmbcg3PPN5lN1vibU2rTJiwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101fbae9f7d994e318e34e8cc12a968d8c7be1b1c864e7b47402bb8db24f88d33ff0a",
+      "host": "keybase.io",
+      "kid": "0120487edefc2bddef0c1c30c25a4492146699b720dcf3cde65375be26d4dab4c98b0a",
+      "uid": "403bcae9ffe6b593cd42d9254b736619",
+      "username": "nickmoline"
+    },
+    "merkle_root": {
+      "ctime": 1598907992,
+      "hash": "0868d479cf5383e62024134f591d7aa3e75d831d0b898d4db90e91aad78bdc717952428e206dc4bbe041dc5d2b9d24d143bf1cf8e7816433443e27edab35bc19",
+      "hash_meta": "908fe00d037c502c8cba981fe5337726c4203afe88297aa63dce527c4e18cd8d",
+      "seqno": 17437129
+    },
+    "service": {
+      "entropy": "6LLyo/nzY7FJCnQqPu2GUOxo",
+      "hostname": "www.nickmoline.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1598908013,
+  "expire_in": 504576000,
+  "prev": "c826ab1b93cab654a7ef5a47eb768debe62c61442e7b9141ba88ccfdd42ada22",
+  "seqno": 67,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgSH7e/Cvd7wwcMMJaRJIUZpm3INzzzeZTdb4m1Nq0yYsKp3BheWxvYWTESpcCQ8QgyCarG5PKtlSn71pH63aN6+YsYUQue5FBuojM/dQq2iLEIOEti1HqFFH+VJxLQVDZa2hZ3CHjAn5mmpp+/v1AcrAtAgHCo3NpZ8RALNWSxKUVwHdmgXPsYc1elonhzxzZTc0Dn3Kr+z4+oHjpLXB0yweJZTcHHhAkZmsB395HIvZsttQIW1cNPLM3CqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIL/NCOZB3Qsp6jCRiNCwhm5RjmQIZTOmZi7/DmV17KrJo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nickmoline
+
+==================================================================
