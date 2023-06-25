@@ -56,11 +56,9 @@ jobs:
             ${{ runner.os }}-node-
 
       - name: Install Composer Development dependencies
-        if: steps.composer-cache.outputs.cache-hit != 'true'
         run: composer install --no-ansi --no-interaction --no-progress
 
       - name: NPM Install
-        if: steps.npm-cache.outputs.cache-hit != 'true'
         run: npm install
       
       - name: NPM Build
