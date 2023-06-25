@@ -38,7 +38,7 @@ jobs:
         run: echo "dir=$(npm config get cache)" >> ${GITHUB_OUTPUT}
 
       - name: Cache Composer Files
-        id: composer-cache
+        id: composer-cache # use this to check for `cache-hit` ==> if: steps.composer-cache.outputs.cache-hit != 'true'
         uses: actions/cache@v3
         with:
           path: ${{ steps.composer-cache-dir.outputs.dir }}
@@ -46,7 +46,8 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-composer-
 
-      - uses: actions/cache@v3
+      - name: Cache NPM Packages
+        uses: actions/cache@v3
         id: npm-cache # use this to check for `cache-hit` ==> if: steps.npm-cache.outputs.cache-hit != 'true'
         with:
           path: ${{ steps.npm-cache-dir.outputs.dir }}
