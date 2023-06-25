@@ -31,9 +31,8 @@ class Post extends CollectionItem
 
     public function categoryCollection(): Collection
     {
-        static $data = null;
-        if ($data) {
-            return $data;
+        if (!is_array($this->categories) || count($this->categories) === 0) {
+            return new Collection();
         }
         $data = new Collection();
         foreach ($this->categories as $i => $category) {
@@ -47,6 +46,28 @@ class Post extends CollectionItem
                 'filename' => $filename,
                 'full_path' => $fullPath,
                 'path' => "/blog/categories/{$slug}"
+            ];
+        }
+        return $data;
+    }
+
+    public function tagCollection(): Collection
+    {
+        if (!is_array($this->tags) || count($this->tags) === 0) {
+            return new Collection();
+        }
+        $data = new Collection();
+        foreach ($this->tags as $i => $tag) {
+            $slug = Str::slug($tag);
+            $fullPath = dirname(dirname(dirname(__FILE__))) . "/source/_tags/{$slug}.md";
+            $filename = file_exists($fullPath) ? "{$slug}.md" : $slug;
+            $data[$slug] = [
+                'title' => $tag,
+                'index' => $i,
+                'slug' => $slug,
+                'filename' => $filename,
+                'full_path' => $fullPath,
+                'path' => "/blog/tags/{$slug}"
             ];
         }
         return $data;

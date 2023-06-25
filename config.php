@@ -11,6 +11,18 @@ return [
     'siteDescription' => 'The Personal website of Nick Moline',
     'siteAuthor' => 'Nick Moline',
 
+    'social' => [
+        'mastodon' => 'https://subspacelink.com/@nickmoline',
+        'facebook' => 'NickMoline',
+        'twitter' => 'NickMoline',
+        'github' => 'NickMoline',
+        'linkedin' => 'NickMoline',
+        'instagram' => 'NickMoline',
+        'email' => 'nickmoline@gmail.com',
+        'dev' => 'nickmoline',
+        'youtube' => 'nickmoline'
+    ],
+
     // collections
     'collections' => [
         'posts' => [

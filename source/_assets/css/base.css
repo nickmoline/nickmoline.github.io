@@ -143,3 +143,119 @@ pre {
     @apply text-white;
     @apply bg-blue-400;
 }
+
+.social-icons-block {
+    @apply block;
+    @apply mx-4;
+    text-align: center;
+
+    a, svg {
+        width: 24px;
+        height: 24px;
+        @apply inline-block;
+        @apply mx-2;
+        @apply text-gray-600;
+        @apply hover:text-gray-800;
+        @apply transition-colors;
+
+        :hover {
+            @apply fill-blue-600;
+        }
+    }
+}
+
+#bio .social-icons-block {
+    a, svg {
+        width: 50px;
+        height: 50px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    #bio .social-icons-block {
+        a, svg {
+            width: 24px;
+            height: 24px;
+        }
+    }
+}
+
+.post-heading {
+    @apply flex-auto;
+    @apply w-full;
+    @apply container;
+    @apply max-w-5xl;
+    @apply mx-auto;
+    @apply p-16;
+    @apply: text-black;
+
+    h1 {
+        @apply text-4xl;
+        @apply text-black;
+        @apply font-extrabold;
+        @apply py-1;
+        @apply my-0;
+    }
+
+    h2 {
+        @apply text-2xl;
+        @apply text-gray-700;
+        @apply font-light;
+        @apply py-2;
+        @apply my-0;
+    }
+
+    .byline {
+        @apply text-gray-700;
+        @apply text-sm;
+        @apply font-light;
+        @apply text-right;
+    }
+}
+
+.cover-image {
+    min-height: 200px;
+    max-height: 600px;
+    height: 60vh;
+    @apply flex;
+    @apply flex-col;
+    @apply justify-between;
+    @apply bg-cover;
+    @apply w-full;
+    @apply leading-normal;
+    @apply font-sans;
+    @apply items-end;
+
+    .post-heading {
+        @apply text-center;
+        @apply text-white;
+        @apply block;
+        @apply shadow-lg;
+        @apply rounded-md;
+        @apply align-middle;
+        @apply bg-gray-700/80;
+        @apply p-5;
+        @apply m-auto;
+        @apply h-auto;
+        @apply max-h-40;
+        @apply align-middle;
+
+        h1 {
+            @apply text-white;
+        }
+
+        h2 {
+            @apply text-gray-200;
+        }
+
+        .byline {
+            @apply text-white;
+
+            a {
+                @apply text-sky-300;
+                @apply hover:text-sky-400;
+            }
+        }
+    }
+
+}
