@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="My Last Binary Day (probably) #NerdNewYear | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2011/11/11/my-last-binary-day-nerdnewyear"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2011/11/11/my-last-binary-day-nerdnewyear"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>My Last Binary Day (probably) #NerdNewYear | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2011/11/11/my-last-binary-day-nerdnewyear">
+        <link rel="canonical" href="https://www.nickmoline.com/2011/11/11/my-last-binary-day-nerdnewyear">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -128,7 +118,7 @@
     <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
         <h2>Happy Binary Day!</h2>
 
-<p>So in addition to being <a href="https://jigsaw-blog-template.tighten.co/2011/11/11/thank-you-veterans" title="Thank you Veterans">Veteran&#8217;s Day</a>, today, November 11, 2011, happens to be the last &#8220;Binary Day&#8221; I am ever likely to live through.  There have been 36 so-called &#8220;Binary Days&#8221; in the last 11 years (9 each in 2000, 2001, 2010 and 2011), where all the days of the date (except the century) consist of only the digits 0 and 1.  As a computer programmer, I can&#8217;t help but be tickled by days that appear to be in binary.</p>
+<p>So in addition to being <a href="https://www.nickmoline.com/2011/11/11/thank-you-veterans" title="Thank you Veterans">Veteran&#8217;s Day</a>, today, November 11, 2011, happens to be the last &#8220;Binary Day&#8221; I am ever likely to live through.  There have been 36 so-called &#8220;Binary Days&#8221; in the last 11 years (9 each in 2000, 2001, 2010 and 2011), where all the days of the date (except the century) consist of only the digits 0 and 1.  As a computer programmer, I can&#8217;t help but be tickled by days that appear to be in binary.</p>
 
 <!--more-->
 
@@ -164,13 +154,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2011/09/18/on-the-difficulty-of-pottermore-house-cup-competitions" title="Older Post: On the Difficulty of Pottermore House Cup Competitions">
+                            <a href="https://www.nickmoline.com/2011/09/18/on-the-difficulty-of-pottermore-house-cup-competitions" title="Older Post: On the Difficulty of Pottermore House Cup Competitions">
                     &LeftArrow; On the Difficulty of Pottermore House Cup Competitions
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2011/11/11/thank-you-veterans" title="Newer Post: Thank you Veterans">
+                            <a href="https://www.nickmoline.com/2011/11/11/thank-you-veterans" title="Newer Post: Thank you Veterans">
                     Thank you Veterans &RightArrow;
                 </a>
                     </div>

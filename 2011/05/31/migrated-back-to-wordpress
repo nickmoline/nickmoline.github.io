@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Migrated Back to WordPress | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2011/05/31/migrated-back-to-wordpress"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2011/05/31/migrated-back-to-wordpress"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Migrated Back to WordPress | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2011/05/31/migrated-back-to-wordpress">
+        <link rel="canonical" href="https://www.nickmoline.com/2011/05/31/migrated-back-to-wordpress">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -121,7 +111,7 @@
         >Tech</a>
     
     <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
-        <p><a href="https://jigsaw-blog-template.tighten.co/2009/08/31/nickpro-migrated-to-drupal" title="Nick.pro Migrated to Drupal">Over a year ago</a>, I migrated nick.pro from WordPress over to Drupal.  I did this so that I could experiment with Drupal more, thinking I could make a more robust site if I did so.  Unfortunately, while Drupal is a fantastic, flexible platform for web development, it is simply not efficient as a blogging tool.
+        <p><a href="https://www.nickmoline.com/2009/08/31/nickpro-migrated-to-drupal" title="Nick.pro Migrated to Drupal">Over a year ago</a>, I migrated nick.pro from WordPress over to Drupal.  I did this so that I could experiment with Drupal more, thinking I could make a more robust site if I did so.  Unfortunately, while Drupal is a fantastic, flexible platform for web development, it is simply not efficient as a blogging tool.
 <!--more--></p>
 
 <p>Drupal was so cumbersome to use as a blogging tool that I ended up stopping blogging altogether.  So for the first time in years of migrating this blog around and around, I&#8217;m reverting it back to a previous home on wordpress.</p>
@@ -152,13 +142,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2011/05/28/returning-to-blogging" title="Older Post: Returning to Blogging">
+                            <a href="https://www.nickmoline.com/2011/05/28/returning-to-blogging" title="Older Post: Returning to Blogging">
                     &LeftArrow; Returning to Blogging
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2011/06/03/fitbit-tracking" title="Newer Post: Fitbit Tracking">
+                            <a href="https://www.nickmoline.com/2011/06/03/fitbit-tracking" title="Newer Post: Fitbit Tracking">
                     Fitbit Tracking &RightArrow;
                 </a>
                     </div>

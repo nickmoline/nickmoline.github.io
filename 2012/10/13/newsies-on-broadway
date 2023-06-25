@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Extra Extra &amp;#8211; Read all about it! | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2012/10/13/newsies-on-broadway"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2012/10/13/newsies-on-broadway"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Extra Extra &amp;#8211; Read all about it! | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2012/10/13/newsies-on-broadway">
+        <link rel="canonical" href="https://www.nickmoline.com/2012/10/13/newsies-on-broadway">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -134,7 +124,7 @@
 
 <hr />
 
-<p>The story centers on fictional strike leader Jack Kelly, a newsie in his late teens who, along with his fellow Newsies, rebel against a price hike imposed on them by newspaper tycoons Joseph Pulitzer and William-Randolph Hearst (Random note: Barbara, Mike and I <a href="https://jigsaw-blog-template.tighten.co/2007/01/03/2006-a-nick-oddity" title="2006 – A Nick Oddity">visited Hearst Castle</a>, the Massive home of William-Randolph Hearst in 2006).</p>
+<p>The story centers on fictional strike leader Jack Kelly, a newsie in his late teens who, along with his fellow Newsies, rebel against a price hike imposed on them by newspaper tycoons Joseph Pulitzer and William-Randolph Hearst (Random note: Barbara, Mike and I <a href="https://www.nickmoline.com/2007/01/03/2006-a-nick-oddity" title="2006 – A Nick Oddity">visited Hearst Castle</a>, the Massive home of William-Randolph Hearst in 2006).</p>
 
 <p>Jack is a budding artist who aspires to leave New York saying &#8220;You keep your small life in a big city, give me a big life, in a small town.&#8221; at the intro to the prologue song <em>Santa Fe</em>.</p>
 
@@ -149,17 +139,17 @@
 <p>At one point in the song, the newsies crumple up sheets of newspaper and throw them out into the audience. Being so close, Barbara and I were actually able to catch 2 sheets of the paper, and I was impressed in that they do actually appear to be pages from a Thursday, July 20, 1989 issue of The New York World.</p>
 
 <p><amp-carousel lightbox width="217" height="300" layout="responsive" type="slides">
-    <amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2012/10/Scan-5.webp" title="July 20, 1899 Issue of The New York World - Page 1 of 4" alt="July 20, 1899 Issue of The New York World - Page 1 of 4" width="217" height="300" layout="responsive">
-        <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2012/10/Scan-5.jpeg" title="July 20, 1899 Issue of The New York World - Page 1 of 4" alt="July 20, 1899 Issue of The New York World - Page 1 of 4" width="217" height="300" layout="responsive"></amp-img>
+    <amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2012/10/Scan-5.webp" title="July 20, 1899 Issue of The New York World - Page 1 of 4" alt="July 20, 1899 Issue of The New York World - Page 1 of 4" width="217" height="300" layout="responsive">
+        <amp-img fallback src="https://www.nickmoline.com/wp-content/uploads/sites/4/2012/10/Scan-5.jpeg" title="July 20, 1899 Issue of The New York World - Page 1 of 4" alt="July 20, 1899 Issue of The New York World - Page 1 of 4" width="217" height="300" layout="responsive"></amp-img>
     </amp-img>
-    <amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2012/10/Scan-6.webp" title="July 20, 1899 Issue of The New York World - Page 2 of 4" alt="July 20, 1899 Issue of The New York World - Page 2 of 4" width="217" height="300" layout="responsive">
-        <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2012/10/Scan-6.jpeg" title="July 20, 1899 Issue of The New York World - Page 2 of 4" alt="July 20, 1899 Issue of The New York World - Page 2 of 4" width="217" height="300" layout="responsive"></amp-img>
+    <amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2012/10/Scan-6.webp" title="July 20, 1899 Issue of The New York World - Page 2 of 4" alt="July 20, 1899 Issue of The New York World - Page 2 of 4" width="217" height="300" layout="responsive">
+        <amp-img fallback src="https://www.nickmoline.com/wp-content/uploads/sites/4/2012/10/Scan-6.jpeg" title="July 20, 1899 Issue of The New York World - Page 2 of 4" alt="July 20, 1899 Issue of The New York World - Page 2 of 4" width="217" height="300" layout="responsive"></amp-img>
     </amp-img>
-    <amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2012/10/Scan-7.webp" title="July 20, 1899 Issue of The New York World - Page 3 of 4" alt="July 20, 1899 Issue of The New York World - Page 3 of 4" width="217" height="300" layout="responsive">
-        <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2012/10/Scan-7.jpeg" title="July 20, 1899 Issue of The New York World - Page 3 of 4" alt="July 20, 1899 Issue of The New York World - Page 3 of 4" width="217" height="300" layout="responsive"></amp-img>
+    <amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2012/10/Scan-7.webp" title="July 20, 1899 Issue of The New York World - Page 3 of 4" alt="July 20, 1899 Issue of The New York World - Page 3 of 4" width="217" height="300" layout="responsive">
+        <amp-img fallback src="https://www.nickmoline.com/wp-content/uploads/sites/4/2012/10/Scan-7.jpeg" title="July 20, 1899 Issue of The New York World - Page 3 of 4" alt="July 20, 1899 Issue of The New York World - Page 3 of 4" width="217" height="300" layout="responsive"></amp-img>
     </amp-img>
-    <amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2012/10/Scan-8.webp" title="July 20, 1899 Issue of The New York World - Page 4 of 4" alt="July 20, 1899 Issue of The New York World - Page 4 of 4" width="217" height="300" layout="responsive">
-        <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2012/10/Scan-8.jpeg" title="July 20, 1899 Issue of The New York World - Page 4 of 4" alt="July 20, 1899 Issue of The New York World - Page 4 of 4" width="217" height="300" layout="responsive"></amp-img>
+    <amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2012/10/Scan-8.webp" title="July 20, 1899 Issue of The New York World - Page 4 of 4" alt="July 20, 1899 Issue of The New York World - Page 4 of 4" width="217" height="300" layout="responsive">
+        <amp-img fallback src="https://www.nickmoline.com/wp-content/uploads/sites/4/2012/10/Scan-8.jpeg" title="July 20, 1899 Issue of The New York World - Page 4 of 4" alt="July 20, 1899 Issue of The New York World - Page 4 of 4" width="217" height="300" layout="responsive"></amp-img>
     </amp-img>
 </amp-carousel></p>
 
@@ -261,13 +251,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2012/08/21/a-month-surgery-21-2-pounds-since-surgery-107-4-pounds-lost-total-far" title="Older Post: A Month after Surgery, 21.2 pounds down since Surgery, 107.4 pounds lost total so far">
+                            <a href="https://www.nickmoline.com/2012/08/21/a-month-surgery-21-2-pounds-since-surgery-107-4-pounds-lost-total-far" title="Older Post: A Month after Surgery, 21.2 pounds down since Surgery, 107.4 pounds lost total so far">
                     &LeftArrow; A Month after Surgery, 21.2 pounds down since Surgery, 107.4 pounds lost total so far
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2012/10/22/october-weight-loss-update-48-2-pounds-since-surgery-134-4-pounds-total" title="Newer Post: October Weight Loss Update &amp;#8211; 48.2 pounds since surgery, 134.4 pounds total">
+                            <a href="https://www.nickmoline.com/2012/10/22/october-weight-loss-update-48-2-pounds-since-surgery-134-4-pounds-total" title="Newer Post: October Weight Loss Update &amp;#8211; 48.2 pounds since surgery, 134.4 pounds total">
                     October Weight Loss Update &amp;#8211; 48.2 pounds since surgery, 134.4 pounds total &RightArrow;
                 </a>
                     </div>

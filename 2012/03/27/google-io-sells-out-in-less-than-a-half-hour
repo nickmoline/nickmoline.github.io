@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Google I/O 2012 Sells out in less than a half hour | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2012/03/27/google-io-sells-out-in-less-than-a-half-hour"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2012/03/27/google-io-sells-out-in-less-than-a-half-hour"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Google I/O 2012 Sells out in less than a half hour | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2012/03/27/google-io-sells-out-in-less-than-a-half-hour">
+        <link rel="canonical" href="https://www.nickmoline.com/2012/03/27/google-io-sells-out-in-less-than-a-half-hour">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -123,11 +113,11 @@
 
 <!--more-->
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2012/03/Region-capture-16.webp" width="260" height="236" layout="intrinsic" lightbox>
-    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2012/03/Region-capture-16.png" width="260" height="236" layout="intrinsic" lightbox></amp-img>
+<p><amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2012/03/Region-capture-16.webp" width="260" height="236" layout="intrinsic" lightbox>
+    <amp-img fallback src="https://www.nickmoline.com/wp-content/uploads/sites/4/2012/03/Region-capture-16.png" width="260" height="236" layout="intrinsic" lightbox></amp-img>
 </amp-img></p>
 
-<p>I&#8217;m glad to say I <a href="https://jigsaw-blog-template.tighten.co/2012/03/13/google-io-2012-here-i-come" title="Google I/O 2012 Here I come">will be at I/O</a> this year once again, but all but one of my colleagues who tried to buy tickets were unable to acquire them.  Will I see you at Google I/O?</p>
+<p>I&#8217;m glad to say I <a href="https://www.nickmoline.com/2012/03/13/google-io-2012-here-i-come" title="Google I/O 2012 Here I come">will be at I/O</a> this year once again, but all but one of my colleagues who tried to buy tickets were unable to acquire them.  Will I see you at Google I/O?</p>
     </div>
 
             <div class="mb-10 pb-4">
@@ -146,13 +136,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2012/03/22/the-tale-as-old-as-time-is-new-again-twice" title="Older Post: The Tale as old as Time, is new again (twice)">
+                            <a href="https://www.nickmoline.com/2012/03/22/the-tale-as-old-as-time-is-new-again-twice" title="Older Post: The Tale as old as Time, is new again (twice)">
                     &LeftArrow; The Tale as old as Time, is new again (twice)
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2012/03/27/perhaps-it-isnt-april-fools-day-after-all-pottermore-shop-now-open" title="Newer Post: Perhaps it isn&#039;t April Fools day after all!  Pottermore Shop now open">
+                            <a href="https://www.nickmoline.com/2012/03/27/perhaps-it-isnt-april-fools-day-after-all-pottermore-shop-now-open" title="Newer Post: Perhaps it isn&#039;t April Fools day after all!  Pottermore Shop now open">
                     Perhaps it isn&#039;t April Fools day after all!  Pottermore Shop now open &RightArrow;
                 </a>
                     </div>

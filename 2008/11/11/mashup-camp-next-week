@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Mashup Camp, Next Week | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2008/11/11/mashup-camp-next-week"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2008/11/11/mashup-camp-next-week"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Mashup Camp, Next Week | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2008/11/11/mashup-camp-next-week">
+        <link rel="canonical" href="https://www.nickmoline.com/2008/11/11/mashup-camp-next-week">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -128,8 +118,8 @@
 
 <!--more-->
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2008/11/2347408363_f52bd497b0.webp" alt="Nick and Dan at Mashup Camp" title="Nick and Dan at Mashup Camp" layout="responsive" width="499" height="332" lightbox>
-  <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2008/11/2347408363_f52bd497b0.jpg" alt="Nick and Dan at Mashup Camp" title="Nick and Dan at Mashup Camp" layout="responsive" width="499" height="332" lightbox></amp-img>
+<p><amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2008/11/2347408363_f52bd497b0.webp" alt="Nick and Dan at Mashup Camp" title="Nick and Dan at Mashup Camp" layout="responsive" width="499" height="332" lightbox>
+  <amp-img fallback src="https://www.nickmoline.com/wp-content/uploads/sites/4/2008/11/2347408363_f52bd497b0.jpg" alt="Nick and Dan at Mashup Camp" title="Nick and Dan at Mashup Camp" layout="responsive" width="499" height="332" lightbox></amp-img>
 </amp-img></p>
 
 <p>Last spring, I went to Mashup Camp with my coworker <a href="http://www.vuquoc.com/">Dan</a>, and competed in their <a href="http://www.mashupcamp.com/best-mashup-contest/">SpeedGeeking Best Mashup Contest</a>. Dan did rather well, scoring 4th place with his iPhoneLocator Facebook App (although he&#8217;s rather disappointed as only the first 3 places won prizes), and I unfortunately came in last place. I haven&#8217;t decided if I&#8217;m going to compete again or not, but I can guarantee you if I do, I refuse to get last place again.</p>
@@ -155,13 +145,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2008/10/03/lupus-awareness-month-october" title="Older Post: Lupus Awareness Month - October">
+                            <a href="https://www.nickmoline.com/2008/10/03/lupus-awareness-month-october" title="Older Post: Lupus Awareness Month - October">
                     &LeftArrow; Lupus Awareness Month - October
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2008/11/19/mashup-camp-7-wrapup" title="Newer Post: Mashup Camp 7 Wrapup">
+                            <a href="https://www.nickmoline.com/2008/11/19/mashup-camp-7-wrapup" title="Newer Post: Mashup Camp 7 Wrapup">
                     Mashup Camp 7 Wrapup &RightArrow;
                 </a>
                     </div>

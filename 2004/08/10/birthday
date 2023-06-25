@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="My Birthday | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2004/08/10/birthday"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/08/10/birthday"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>My Birthday | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2004/08/10/birthday">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/08/10/birthday">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -127,7 +117,7 @@
 
 <p>Goo sent me the great gift of cash, in the form of a paypal transaction. The lead sound man at my church gave me a $30 gift certificate to my favorite store, Fry&#8217;s Electronics, and my mother gave me a small book by the lead singer of Mercy Me. She is also, as my &#8220;larger&#8221; present, going to pay to have the tires on my car replaced, which will be nice, because I haven&#8217;t been able to drive anywhere lately.</p>
 
-<p>For my birthday dinner tonight we had steaks, which were very good, and for desert we had Strawberry Shortcake, also very good. David wasn&#8217;t here of course, because <a href="https://jigsaw-blog-template.tighten.co/2004/08/02/hes-gone">he is still in Washington state</a> acting in a short film entitled <em>The Steps: Rachel</em>.</p>
+<p>For my birthday dinner tonight we had steaks, which were very good, and for desert we had Strawberry Shortcake, also very good. David wasn&#8217;t here of course, because <a href="https://www.nickmoline.com/2004/08/02/hes-gone">he is still in Washington state</a> acting in a short film entitled <em>The Steps: Rachel</em>.</p>
     </div>
 
             <div class="mb-10 pb-4">
@@ -141,13 +131,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2004/08/02/hes-gone" title="Older Post: He&#039;s gone!">
+                            <a href="https://www.nickmoline.com/2004/08/02/hes-gone" title="Older Post: He&#039;s gone!">
                     &LeftArrow; He&#039;s gone!
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2004/08/15/generosity" title="Newer Post: Generosity of Others">
+                            <a href="https://www.nickmoline.com/2004/08/15/generosity" title="Newer Post: Generosity of Others">
                     Generosity of Others &RightArrow;
                 </a>
                     </div>

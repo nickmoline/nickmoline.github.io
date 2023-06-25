@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="The Tale as old as Time, is new again (twice) | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2012/03/22/the-tale-as-old-as-time-is-new-again-twice"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2012/03/22/the-tale-as-old-as-time-is-new-again-twice"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>The Tale as old as Time, is new again (twice) | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2012/03/22/the-tale-as-old-as-time-is-new-again-twice">
+        <link rel="canonical" href="https://www.nickmoline.com/2012/03/22/the-tale-as-old-as-time-is-new-again-twice">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -130,8 +120,8 @@
 
 <!--more-->
 
-<p><amp-img  title="Beauty and the Beast" alt="Beauty and the Beast" src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2012/03/Top1-e1332466623625.webp" width="280" height="249" layout="intrinsic" lightbox>
-    <amp-img fallback title="Beauty and the Beast" alt="Beauty and the Beast" src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2012/03/Top1-e1332466623625.jpg" width="280" height="249" layout="intrinsic" lightbox></amp-img>
+<p><amp-img  title="Beauty and the Beast" alt="Beauty and the Beast" src="https://www.nickmoline.com/wp-content/uploads/sites/4/2012/03/Top1-e1332466623625.webp" width="280" height="249" layout="intrinsic" lightbox>
+    <amp-img fallback title="Beauty and the Beast" alt="Beauty and the Beast" src="https://www.nickmoline.com/wp-content/uploads/sites/4/2012/03/Top1-e1332466623625.jpg" width="280" height="249" layout="intrinsic" lightbox></amp-img>
 </amp-img></p>
 
 <p>The play was good overall.  I like what they did to explain the characters appearing more &#8220;human.&#8221;  In order to excuse the fact that the characters are played by humans instead of animated candlesticks and teapots, is changed the story slightly so that the change from human to inanimate object is a gradual one.  A short time into the play the winder appeared on the back of Cogsworth, where previously he didn&#8217;t have it.</p>
@@ -159,13 +149,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2012/03/20/pubsubhubbub-headaches" title="Older Post: What&#039;s all the Hubbub about anyway?">
+                            <a href="https://www.nickmoline.com/2012/03/20/pubsubhubbub-headaches" title="Older Post: What&#039;s all the Hubbub about anyway?">
                     &LeftArrow; What&#039;s all the Hubbub about anyway?
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2012/03/27/google-io-sells-out-in-less-than-a-half-hour" title="Newer Post: Google I/O 2012 Sells out in less than a half hour">
+                            <a href="https://www.nickmoline.com/2012/03/27/google-io-sells-out-in-less-than-a-half-hour" title="Newer Post: Google I/O 2012 Sells out in less than a half hour">
                     Google I/O 2012 Sells out in less than a half hour &RightArrow;
                 </a>
                     </div>

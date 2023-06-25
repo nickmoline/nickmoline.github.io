@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Burning the midnight oil | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2004/08/15/midnight-oil"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/08/15/midnight-oil"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Burning the midnight oil | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2004/08/15/midnight-oil">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/08/15/midnight-oil">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -123,7 +113,7 @@
 
 <!--more-->
 
-<p>The reason I came here was to install the Battery Backup unit I <a href="https://jigsaw-blog-template.tighten.co/2004/08/15/generosity">mentioned in my earlier post</a>, as well as install a modem that we purchased at the same time in another computer that was going to go to a home user and therefore needed a modem to allow it to dial in.</p>
+<p>The reason I came here was to install the Battery Backup unit I <a href="https://www.nickmoline.com/2004/08/15/generosity">mentioned in my earlier post</a>, as well as install a modem that we purchased at the same time in another computer that was going to go to a home user and therefore needed a modem to allow it to dial in.</p>
 
 <p>Well the Battery Backup was installed easily enough. I unhooked the old battery backup, hooked the new one up, setup automated monitoring of the battery status on the server, then moved the old battery backup <em>(which still worked fine but didn&#8217;t provide battery power long enough for the highly important use of the servers)</em> to a workstation in the network where the battery backup it had was not functioning&#8230;. at all.</p>
 
@@ -144,13 +134,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2004/08/15/generosity" title="Older Post: Generosity of Others">
+                            <a href="https://www.nickmoline.com/2004/08/15/generosity" title="Older Post: Generosity of Others">
                     &LeftArrow; Generosity of Others
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2004/08/17/archive-tweaks" title="Newer Post: Archive Tweaks">
+                            <a href="https://www.nickmoline.com/2004/08/17/archive-tweaks" title="Newer Post: Archive Tweaks">
                     Archive Tweaks &RightArrow;
                 </a>
                     </div>

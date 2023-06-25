@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Bloggie BDay | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2004/07/11/blog-birthday"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/07/11/blog-birthday"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Bloggie BDay | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2004/07/11/blog-birthday">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/07/11/blog-birthday">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -119,7 +109,7 @@
         >Writing</a>
     
     <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
-        <p>Today marks the 1 year anniversary of <a href="https://jigsaw-blog-template.tighten.co/2003/07/11/pop-into-internet-pop-culture">the day I started my blog</a> last year, happy Birthday blog!</p>
+        <p>Today marks the 1 year anniversary of <a href="https://www.nickmoline.com/2003/07/11/pop-into-internet-pop-culture">the day I started my blog</a> last year, happy Birthday blog!</p>
 
 <p>Also, 5 days ago was the 1 year anniversary of the day I started writing my first story, Miles Apart over on fanfiction.net. Some of you know that I am currently working on writing my first two novels. Unlike that original story, these are not fanfiction but instead are stories set with my own characters in my own situations. I&#8217;m looking forward to finishing them.</p>
     </div>
@@ -140,13 +130,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2004/07/09/camping-on-the-rocks" title="Older Post: Camping on the Rocks">
+                            <a href="https://www.nickmoline.com/2004/07/09/camping-on-the-rocks" title="Older Post: Camping on the Rocks">
                     &LeftArrow; Camping on the Rocks
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2004/07/21/personality-disorder-redux" title="Newer Post: My Situation compared to a year ago">
+                            <a href="https://www.nickmoline.com/2004/07/21/personality-disorder-redux" title="Newer Post: My Situation compared to a year ago">
                     My Situation compared to a year ago &RightArrow;
                 </a>
                     </div>

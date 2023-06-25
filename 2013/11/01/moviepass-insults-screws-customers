@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="MoviePass Insults and screws its customers | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2013/11/01/moviepass-insults-screws-customers"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2013/11/01/moviepass-insults-screws-customers"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>MoviePass Insults and screws its customers | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2013/11/01/moviepass-insults-screws-customers">
+        <link rel="canonical" href="https://www.nickmoline.com/2013/11/01/moviepass-insults-screws-customers">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -134,8 +124,8 @@
 
 <p>Unfortunately yesterday MoviePass made a sudden change with no warning that I find absolutely unacceptable, and to make it worse they tried to pass it off as if it was some exciting new feature for their customers.  Yesterday I received an email from MoviePass with a subject line of &#8220;New Features.&#8221;  This is what MoviePass had to say</p>
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2013/11/Region-capture-12.webp" alt="Screenshot of Moviepass Email" title="Screenshot of Moviepass Email" width="819" height="820" layout="responsive" lightbox>
-    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2013/11/Region-capture-12.png" alt="Screenshot of Moviepass Email" title="Screenshot of Moviepass Email" width="819" height="820" layout="responsive" lightbox></amp-img>
+<p><amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2013/11/Region-capture-12.webp" alt="Screenshot of Moviepass Email" title="Screenshot of Moviepass Email" width="819" height="820" layout="responsive" lightbox>
+    <amp-img fallback src="https://www.nickmoline.com/wp-content/uploads/sites/4/2013/11/Region-capture-12.png" alt="Screenshot of Moviepass Email" title="Screenshot of Moviepass Email" width="819" height="820" layout="responsive" lightbox></amp-img>
 </amp-img></p>
 
 <blockquote>
@@ -183,13 +173,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2013/07/26/one-year-post-op" title="Older Post: One Year Post-Op">
+                            <a href="https://www.nickmoline.com/2013/07/26/one-year-post-op" title="Older Post: One Year Post-Op">
                     &LeftArrow; One Year Post-Op
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2013/12/12/automatically-post-wordpress-blog-google-jetpack" title="Newer Post: Automatically post your WordPress blog to Google+ with Jetpack">
+                            <a href="https://www.nickmoline.com/2013/12/12/automatically-post-wordpress-blog-google-jetpack" title="Newer Post: Automatically post your WordPress blog to Google+ with Jetpack">
                     Automatically post your WordPress blog to Google+ with Jetpack &RightArrow;
                 </a>
                     </div>

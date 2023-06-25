@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Facebook - whoops there goes another major site! | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2008/06/19/facebook-whoops-there-goes-another-major-site"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2008/06/19/facebook-whoops-there-goes-another-major-site"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Facebook - whoops there goes another major site! | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2008/06/19/facebook-whoops-there-goes-another-major-site">
+        <link rel="canonical" href="https://www.nickmoline.com/2008/06/19/facebook-whoops-there-goes-another-major-site">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -124,19 +114,19 @@
         >News</a>
     
     <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
-        <p>Two weeks ago <a href="https://jigsaw-blog-template.tighten.co/2008/06/06/amazon-down-but-not-out">I posted about Amazon.com being down for hours</a>, tonight, another major website has gone down without warning, and has a very ugly error message, just like Amazon did. At this time the error message (shown on the right) has been up for at least 20 minutes with no sign of repair, in fact, much the contrary, while the error message is still there, it is taking longer and longer for the error message to load, meaning that even facebook&#8217;s error page is under serious strain.</p>
+        <p>Two weeks ago <a href="https://www.nickmoline.com/2008/06/06/amazon-down-but-not-out">I posted about Amazon.com being down for hours</a>, tonight, another major website has gone down without warning, and has a very ugly error message, just like Amazon did. At this time the error message (shown on the right) has been up for at least 20 minutes with no sign of repair, in fact, much the contrary, while the error message is still there, it is taking longer and longer for the error message to load, meaning that even facebook&#8217;s error page is under serious strain.</p>
 
 <!--more-->
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2008/06/region-capture-11.webp" alt="Another major website comes crashing down!" title="Facebook Down!" width="1060" height="711" layout="responsive" lightbox>
-  <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2008/06/region-capture-11.png" alt="Another major website comes crashing down!" title="Facebook Down!" width="1060" height="711" layout="responsive" lightbox></amp-img></p>
+<p><amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2008/06/region-capture-11.webp" alt="Another major website comes crashing down!" title="Facebook Down!" width="1060" height="711" layout="responsive" lightbox>
+  <amp-img fallback src="https://www.nickmoline.com/wp-content/uploads/sites/4/2008/06/region-capture-11.png" alt="Another major website comes crashing down!" title="Facebook Down!" width="1060" height="711" layout="responsive" lightbox></amp-img></p>
 
 <p></amp-img></p>
 
 <p><strong>UPDATE:</strong> Update, the error message is still there, but at least facebook seems to have fixed their CSS, so as you can see to the left, the error message is much less &#8220;ugly&#8221; now.</p>
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2008/06/region-capture-12.webp" alt="Facebook fixes their stylesheet, story at 11!" title="Facebook fixes their stylesheet, story at 11!" width="873" height="329" layout="responsive" lightbox>
-  <amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2008/06/region-capture-12.png" alt="Facebook fixes their stylesheet, story at 11!" title="Facebook fixes their stylesheet, story at 11!" width="873" height="329" layout="responsive" lightbox></amp-img>
+<p><amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2008/06/region-capture-12.webp" alt="Facebook fixes their stylesheet, story at 11!" title="Facebook fixes their stylesheet, story at 11!" width="873" height="329" layout="responsive" lightbox>
+  <amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2008/06/region-capture-12.png" alt="Facebook fixes their stylesheet, story at 11!" title="Facebook fixes their stylesheet, story at 11!" width="873" height="329" layout="responsive" lightbox></amp-img>
 </amp-img></p>
 
 <p>Interesting a large outage like this happens on the evening of the day that <a href="https://www.businessinsider.com/2008/6/facebook-loses-long-time-exec">it is announced that Facebook is losing long time Executive Matt Cohler to Benchmark Capital</a></p>
@@ -165,13 +155,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2008/06/06/amazon-still-down-stocks-to" title="Older Post: Amazon Still down, money down too">
+                            <a href="https://www.nickmoline.com/2008/06/06/amazon-still-down-stocks-to" title="Older Post: Amazon Still down, money down too">
                     &LeftArrow; Amazon Still down, money down too
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2008/07/11/iphone-3g-not-today" title="Newer Post: iPhone 3G: Um, guess I&#039;m gonna wait...">
+                            <a href="https://www.nickmoline.com/2008/07/11/iphone-3g-not-today" title="Newer Post: iPhone 3G: Um, guess I&#039;m gonna wait...">
                     iPhone 3G: Um, guess I&#039;m gonna wait... &RightArrow;
                 </a>
                     </div>

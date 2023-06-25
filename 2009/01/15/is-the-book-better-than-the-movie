@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Is the book better than the movie? | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2009/01/15/is-the-book-better-than-the-movie"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2009/01/15/is-the-book-better-than-the-movie"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Is the book better than the movie? | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2009/01/15/is-the-book-better-than-the-movie">
+        <link rel="canonical" href="https://www.nickmoline.com/2009/01/15/is-the-book-better-than-the-movie">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -119,8 +109,8 @@
         >Reviews</a>
     
     <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
-        <p><amp-img title="caspian-book-dvd" src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2009/01/caspian-book-dvd.webp" alt="Is the book better than the movie?" width="197" height="131" layout="intrinsic" lightbox class="alignright">
-  <amp-img fallback title="caspian-book-dvd" src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2009/01/caspian-book-dvd.jpg" alt="Is the book better than the movie?" width="197" height="131" layout="intrinsic" lightbox class="alignright"></amp-img>
+        <p><amp-img title="caspian-book-dvd" src="https://www.nickmoline.com/wp-content/uploads/sites/4/2009/01/caspian-book-dvd.webp" alt="Is the book better than the movie?" width="197" height="131" layout="intrinsic" lightbox class="alignright">
+  <amp-img fallback title="caspian-book-dvd" src="https://www.nickmoline.com/wp-content/uploads/sites/4/2009/01/caspian-book-dvd.jpg" alt="Is the book better than the movie?" width="197" height="131" layout="intrinsic" lightbox class="alignright"></amp-img>
 </amp-img>It is no secret that <a title="Posts on Nick.pro Tagged Narnia" href="/tags/#narnia" target="_blank">I&#8217;m a fan of the Chronicles of Narnia</a> series of books and movies, and as a loyal fan, I follow news related to Narnia, and one of my favorite news sources for Narnia related news is <a title="Narnia Fans.com - Created by and for Fans of C.S. Lewis" href="http://www.narniafans.com/" target="_blank">NarniaFans.com</a>.  I don&#8217;t normally bother to post Narnia related news here, because I feel that I would never be able to do the justice that a dedicated site such as NarniaFans can do, however today my Google Reader showed me <a href="https://narniafans.com/2009/01/in-new-zealand-prince-caspian-dvd-rental-also-contains-book/" target="_blank">an article relating to Narnia that caught my attention for more reasons then The Lion</a>.</p>
 
 <!--more-->
@@ -157,13 +147,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2008/12/11/upgrades-and-hard-work" title="Older Post: Upgrades and hard work">
+                            <a href="https://www.nickmoline.com/2008/12/11/upgrades-and-hard-work" title="Older Post: Upgrades and hard work">
                     &LeftArrow; Upgrades and hard work
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2009/02/04/google-chrome-extensions-coming-out-by-may" title="Newer Post: Google Chrome Extensions Coming Out by May!">
+                            <a href="https://www.nickmoline.com/2009/02/04/google-chrome-extensions-coming-out-by-may" title="Newer Post: Google Chrome Extensions Coming Out by May!">
                     Google Chrome Extensions Coming Out by May! &RightArrow;
                 </a>
                     </div>

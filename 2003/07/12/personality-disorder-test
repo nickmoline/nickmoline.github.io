@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Boredom, Insane ACTD Characters, and a Personality Disorder test | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2003/07/12/personality-disorder-test"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2003/07/12/personality-disorder-test"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Boredom, Insane ACTD Characters, and a Personality Disorder test | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2003/07/12/personality-disorder-test">
+        <link rel="canonical" href="https://www.nickmoline.com/2003/07/12/personality-disorder-test">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -231,13 +221,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2003/07/11/pop-into-internet-pop-culture" title="Older Post: Pop into Internet Pop Culture">
+                            <a href="https://www.nickmoline.com/2003/07/11/pop-into-internet-pop-culture" title="Older Post: Pop into Internet Pop Culture">
                     &LeftArrow; Pop into Internet Pop Culture
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2003/07/16/resumes" title="Newer Post: Crack out the Resumes">
+                            <a href="https://www.nickmoline.com/2003/07/16/resumes" title="Newer Post: Crack out the Resumes">
                     Crack out the Resumes &RightArrow;
                 </a>
                     </div>

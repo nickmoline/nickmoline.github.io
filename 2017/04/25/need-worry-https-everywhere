@@ -8,12 +8,12 @@
 
         <meta property="og:title" content="What you need to worry about with HTTPS Everywhere | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2017/04/25/need-worry-https-everywhere"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2017/04/25/need-worry-https-everywhere"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>What you need to worry about with HTTPS Everywhere | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
         <link rel="canonical" href="https://onward.justia.com/2017/04/03/https-is-still-hard-but-necessary-for-your-success/">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -155,13 +145,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2017/02/02/amp-up-your-law-firms-mobile-site" title="Older Post: AMP up your Law Firm’s Mobile Site">
+                            <a href="https://www.nickmoline.com/2017/02/02/amp-up-your-law-firms-mobile-site" title="Older Post: AMP up your Law Firm’s Mobile Site">
                     &LeftArrow; AMP up your Law Firm’s Mobile Site
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2017/05/03/hide-content-search-engines" title="Newer Post: How To: Hide content from search engines, and why you would do it">
+                            <a href="https://www.nickmoline.com/2017/05/03/hide-content-search-engines" title="Newer Post: How To: Hide content from search engines, and why you would do it">
                     How To: Hide content from search engines, and why you would do it &RightArrow;
                 </a>
                     </div>

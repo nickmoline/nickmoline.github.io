@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Surgery has been scheduled | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2012/06/18/surgery-has-been-scheduled"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2012/06/18/surgery-has-been-scheduled"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Surgery has been scheduled | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2012/06/18/surgery-has-been-scheduled">
+        <link rel="canonical" href="https://www.nickmoline.com/2012/06/18/surgery-has-been-scheduled">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -119,7 +109,7 @@
         >Health</a>
     
     <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
-        <p>The Gastric sleeve surgery I mentioned in <a href="https://jigsaw-blog-template.tighten.co/2012/06/01/weight-loss-update-and-transparency" title="Weight Loss Update and transparency">my earlier post</a> has been scheduled for July 26, 2012 at 10:00am at <a href="https://www.elcaminohospital.org/Locations" target="_blank">El Camino Hospital</a>.  This is the same hospital I was in last fall when I had Cellulitis in my left leg.</p>
+        <p>The Gastric sleeve surgery I mentioned in <a href="https://www.nickmoline.com/2012/06/01/weight-loss-update-and-transparency" title="Weight Loss Update and transparency">my earlier post</a> has been scheduled for July 26, 2012 at 10:00am at <a href="https://www.elcaminohospital.org/Locations" target="_blank">El Camino Hospital</a>.  This is the same hospital I was in last fall when I had Cellulitis in my left leg.</p>
     </div>
 
             <div class="mb-10 pb-4">
@@ -138,13 +128,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2012/06/16/getting-near-full-resolution-on-a-macbook-pro-retina-display" title="Older Post: Getting full resolution on a Macbook Pro Retina Display">
+                            <a href="https://www.nickmoline.com/2012/06/16/getting-near-full-resolution-on-a-macbook-pro-retina-display" title="Older Post: Getting full resolution on a Macbook Pro Retina Display">
                     &LeftArrow; Getting full resolution on a Macbook Pro Retina Display
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2012/06/26/google-io-starts-tomorrow-morning" title="Newer Post: Google I/O 2012 starts tomorrow morning">
+                            <a href="https://www.nickmoline.com/2012/06/26/google-io-starts-tomorrow-morning" title="Newer Post: Google I/O 2012 starts tomorrow morning">
                     Google I/O 2012 starts tomorrow morning &RightArrow;
                 </a>
                     </div>

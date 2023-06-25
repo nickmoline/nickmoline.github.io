@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="A Month after Surgery, 21.2 pounds down since Surgery, 107.4 pounds lost total so far | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2012/08/21/a-month-surgery-21-2-pounds-since-surgery-107-4-pounds-lost-total-far"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2012/08/21/a-month-surgery-21-2-pounds-since-surgery-107-4-pounds-lost-total-far"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>A Month after Surgery, 21.2 pounds down since Surgery, 107.4 pounds lost total so far | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2012/08/21/a-month-surgery-21-2-pounds-since-surgery-107-4-pounds-lost-total-far">
+        <link rel="canonical" href="https://www.nickmoline.com/2012/08/21/a-month-surgery-21-2-pounds-since-surgery-107-4-pounds-lost-total-far">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -121,7 +111,7 @@
         >Health</a>
     
     <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
-        <p>2 days before the surgery <a title="Time for the clear liquids only" href="https://jigsaw-blog-template.tighten.co/2012/07/24/time-clear-liquids" target="_blank">I wrote that I was at 404.0 pounds</a> at my monthly weigh-in that day.  Today, one month later, I am at <strong>382.8</strong> pounds, which is 21.2 pounds less than 1 month ago, and 107.4 pounds lost total since I started my weight loss efforts.</p>
+        <p>2 days before the surgery <a title="Time for the clear liquids only" href="https://www.nickmoline.com/2012/07/24/time-clear-liquids" target="_blank">I wrote that I was at 404.0 pounds</a> at my monthly weigh-in that day.  Today, one month later, I am at <strong>382.8</strong> pounds, which is 21.2 pounds less than 1 month ago, and 107.4 pounds lost total since I started my weight loss efforts.</p>
     </div>
 
             <div class="mb-10 pb-4">
@@ -135,13 +125,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2012/07/26/midnight-t-10-hours-go-time-stop-drinking-water" title="Older Post: Midnight, T-10 hours to go, time to stop drinking water">
+                            <a href="https://www.nickmoline.com/2012/07/26/midnight-t-10-hours-go-time-stop-drinking-water" title="Older Post: Midnight, T-10 hours to go, time to stop drinking water">
                     &LeftArrow; Midnight, T-10 hours to go, time to stop drinking water
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2012/10/13/newsies-on-broadway" title="Newer Post: Extra Extra &amp;#8211; Read all about it!">
+                            <a href="https://www.nickmoline.com/2012/10/13/newsies-on-broadway" title="Newer Post: Extra Extra &amp;#8211; Read all about it!">
                     Extra Extra &amp;#8211; Read all about it! &RightArrow;
                 </a>
                     </div>

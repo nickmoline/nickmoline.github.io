@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Have I mentioned lately how much I hate Comcast? | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2014/06/04/mentioned-lately-much-hate-comcast"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2014/06/04/mentioned-lately-much-hate-comcast"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Have I mentioned lately how much I hate Comcast? | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2014/06/04/mentioned-lately-much-hate-comcast">
+        <link rel="canonical" href="https://www.nickmoline.com/2014/06/04/mentioned-lately-much-hate-comcast">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -125,8 +115,8 @@
 
 <p>Barbara left the DVR for me to setup when I got home, which because of a GDG meetup I had tonight, wasn&#8217;t until about 9:30 pm.  After getting home I spent a good 20-30 minutes reconfiguring our entertainment system to replace the new defunct TiVo with the Comcast DVR.  Once I got everything hooked up, I went to comcast.com/activate to activate the DVR.  I didn&#8217;t even get to the point where I could enter in the serial number of the new DVR before I was given the following error message.<!--more--></p>
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2014/06/Screenshot-2014-06-04-23.25.29.webp" alt="We're sorry, we were unable to complete your activation. Order service returned an OPEN Service Request with ScheduleDate before TECH activation." width="1039" height="755" layout="responsive" lightbox>
-    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2014/06/Screenshot-2014-06-04-23.25.29.png" alt="We're sorry, we were unable to complete your activation. Order service returned an OPEN Service Request with ScheduleDate before TECH activation." width="1039" height="755" layout="responsive" lightbox></amp-img>
+<p><amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2014/06/Screenshot-2014-06-04-23.25.29.webp" alt="We're sorry, we were unable to complete your activation. Order service returned an OPEN Service Request with ScheduleDate before TECH activation." width="1039" height="755" layout="responsive" lightbox>
+    <amp-img fallback src="https://www.nickmoline.com/wp-content/uploads/sites/4/2014/06/Screenshot-2014-06-04-23.25.29.png" alt="We're sorry, we were unable to complete your activation. Order service returned an OPEN Service Request with ScheduleDate before TECH activation." width="1039" height="755" layout="responsive" lightbox></amp-img>
 </amp-img></p>
 
 <blockquote>
@@ -326,7 +316,7 @@
 
 <p>So after all of that, no I don&#8217;t have any television service, and it doesn&#8217;t seem likely that I&#8217;m going to have television service in the foreseeable future.  All I have to say is <a href="http://google.com/fiber/newcities">Google Fiber can&#8217;t come to Sunnyvale fast enough</a>.</p>
 
-<p><a href="http://google.com/fiber/newcities"><amp-img  src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2014/06/bsd_google_fiber_firststep_an5_sunnyvale.webp" alt="Google Fiber can't come to Sunnyvale fast enough" width="600" height="600" layout="responsive"><amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2014/06/bsd_google_fiber_firststep_an5_sunnyvale.png" alt="Google Fiber can't come to Sunnyvale fast enough" width="600" height="600" layout="responsive"></amp-img></amp-img></a></p>
+<p><a href="http://google.com/fiber/newcities"><amp-img  src="https://www.nickmoline.com/wp-content/uploads/sites/4/2014/06/bsd_google_fiber_firststep_an5_sunnyvale.webp" alt="Google Fiber can't come to Sunnyvale fast enough" width="600" height="600" layout="responsive"><amp-img fallback src="https://www.nickmoline.com/wp-content/uploads/sites/4/2014/06/bsd_google_fiber_firststep_an5_sunnyvale.png" alt="Google Fiber can't come to Sunnyvale fast enough" width="600" height="600" layout="responsive"></amp-img></amp-img></a></p>
     </div>
 
             <div class="mb-10 pb-4">
@@ -345,13 +335,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2014/05/20/looking-forward-third-annual-24-hour-disney-day" title="Older Post: Looking forward to the Third annual 24 hour Disney Day">
+                            <a href="https://www.nickmoline.com/2014/05/20/looking-forward-third-annual-24-hour-disney-day" title="Older Post: Looking forward to the Third annual 24 hour Disney Day">
                     &LeftArrow; Looking forward to the Third annual 24 hour Disney Day
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2014/06/22/wearing-computer-mit-2-decade-dream-realized" title="Newer Post: Wearing a Computer at MIT, a Two Decade Dream Realized">
+                            <a href="https://www.nickmoline.com/2014/06/22/wearing-computer-mit-2-decade-dream-realized" title="Newer Post: Wearing a Computer at MIT, a Two Decade Dream Realized">
                     Wearing a Computer at MIT, a Two Decade Dream Realized &RightArrow;
                 </a>
                     </div>

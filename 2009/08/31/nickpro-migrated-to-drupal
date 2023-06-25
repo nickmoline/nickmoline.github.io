@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Nick.pro Migrated to Drupal | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2009/08/31/nickpro-migrated-to-drupal"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2009/08/31/nickpro-migrated-to-drupal"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Nick.pro Migrated to Drupal | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2009/08/31/nickpro-migrated-to-drupal">
+        <link rel="canonical" href="https://www.nickmoline.com/2009/08/31/nickpro-migrated-to-drupal">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -135,7 +125,7 @@
 
 <p>Unfortunately Nucleus never quite seemed a clean enough system for me, and BLOG:CMS made it much messier, and <a href="https://www.nick.pro/2004/07/22/busily-updating">upgrades to new versions were a real pain</a>, so I was always on the lookout for another blogging platform to switch to.</p>
 
-<p>The Nucleus system was such a pain to work with, that eventually I just stopped blogging entirely, and there came a point where there was a space of over 15 months with not a single post. Eventually I <a href="https://jigsaw-blog-template.tighten.co/2006/05/01/missing-year">Migrated to WordPress</a> in May, 2006 and used it continually until today.</p>
+<p>The Nucleus system was such a pain to work with, that eventually I just stopped blogging entirely, and there came a point where there was a space of over 15 months with not a single post. Eventually I <a href="https://www.nickmoline.com/2006/05/01/missing-year">Migrated to WordPress</a> in May, 2006 and used it continually until today.</p>
 
 <p>As I said above, WordPress is a phenomenal blogging software, the best there is, and I will miss some of it&#8217;s simplicity and functionality on my site now that I have <a href="http://www.drupal.org/">Gone Drupal</a>, but the time has come that I want more out of my personal site then a blog, and Drupal will give me the flexibility I need to do much more with my site then ever before.</p>
     </div>
@@ -166,13 +156,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2009/06/22/htc-magic-g2-vs-iphone-3g-and-3g-s" title="Older Post: HTC Magic (G2) vs iPhone 3G (and 3G S)">
+                            <a href="https://www.nickmoline.com/2009/06/22/htc-magic-g2-vs-iphone-3g-and-3g-s" title="Older Post: HTC Magic (G2) vs iPhone 3G (and 3G S)">
                     &LeftArrow; HTC Magic (G2) vs iPhone 3G (and 3G S)
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2009/11/16/mofusemobi-down-with-mysql-errors" title="Newer Post: Mofuse.mobi down with MySQL Errors">
+                            <a href="https://www.nickmoline.com/2009/11/16/mofusemobi-down-with-mysql-errors" title="Newer Post: Mofuse.mobi down with MySQL Errors">
                     Mofuse.mobi down with MySQL Errors &RightArrow;
                 </a>
                     </div>

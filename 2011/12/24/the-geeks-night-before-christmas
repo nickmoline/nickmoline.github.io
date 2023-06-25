@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="The Geek&#039;s Night Before Christmas | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2011/12/24/the-geeks-night-before-christmas"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2011/12/24/the-geeks-night-before-christmas"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>The Geek&#039;s Night Before Christmas | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2011/12/24/the-geeks-night-before-christmas">
+        <link rel="canonical" href="https://www.nickmoline.com/2011/12/24/the-geeks-night-before-christmas">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -179,11 +169,11 @@
   Each tech gift filled him with joy and hope</p>
   
   <p>My story is done, to me it did Psych<br />
-  A Geeky Christmas to all, if you enjoyed it click <amp-facebook-like width="90" height="20" layout="fixed" data-layout="button_count" data-href="https://jigsaw-blog-template.tighten.co/2011/12/24/the-geeks-night-before-christmas"></amp-facebook-like></p>
+  A Geeky Christmas to all, if you enjoyed it click <amp-facebook-like width="90" height="20" layout="fixed" data-layout="button_count" data-href="https://www.nickmoline.com/2011/12/24/the-geeks-night-before-christmas"></amp-facebook-like></p>
 </blockquote>
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2011/12/IMAG0124.webp" alt="TV Fireplace with 'Mantle' Shelf" title="TV Fireplace with 'Mantle' Shelf" width="1152" height="2048" layout="responsive" lightbox>
-  <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2011/12/IMAG0124.jpg" alt="TV Fireplace with 'Mantle' Shelf" title="TV Fireplace with 'Mantle' Shelf" width="1152" height="2048" layout="responsive" lightbox>
+<p><amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2011/12/IMAG0124.webp" alt="TV Fireplace with 'Mantle' Shelf" title="TV Fireplace with 'Mantle' Shelf" width="1152" height="2048" layout="responsive" lightbox>
+  <amp-img fallback src="https://www.nickmoline.com/wp-content/uploads/sites/4/2011/12/IMAG0124.jpg" alt="TV Fireplace with 'Mantle' Shelf" title="TV Fireplace with 'Mantle' Shelf" width="1152" height="2048" layout="responsive" lightbox>
 </amp-img><br />
 <em>My Makeshift Mantle that inspired this poem, technically speaking this is an LCD TV, not a Plasma TV, but Plasma flowed better</em></p>
     </div>
@@ -214,13 +204,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2011/11/11/thank-you-veterans" title="Older Post: Thank you Veterans">
+                            <a href="https://www.nickmoline.com/2011/11/11/thank-you-veterans" title="Older Post: Thank you Veterans">
                     &LeftArrow; Thank you Veterans
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2012/01/10/2011-on-nick-pro" title="Newer Post: 2011 on Nick.pro">
+                            <a href="https://www.nickmoline.com/2012/01/10/2011-on-nick-pro" title="Newer Post: 2011 on Nick.pro">
                     2011 on Nick.pro &RightArrow;
                 </a>
                     </div>

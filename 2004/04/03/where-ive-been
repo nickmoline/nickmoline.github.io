@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="You can&#039;t see where you are going... | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2004/04/03/where-ive-been"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/04/03/where-ive-been"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>You can&#039;t see where you are going... | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2004/04/03/where-ive-been">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/04/03/where-ive-been">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -125,15 +115,15 @@
 
 <!--more-->
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2004/04/2004-whereivebeen-states.gif" alt="2004-whereivebeen-states" width="580" height="300" lightbox></amp-img></p>
+<p><amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2004/04/2004-whereivebeen-states.gif" alt="2004-whereivebeen-states" width="580" height="300" lightbox></amp-img></p>
 
 <p>I&#8217;ve also generated one of the maps showing the one Canadian Province I&#8217;ve been in</p>
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2004/04/2004-whereivebeen-canada.gif" alt="2004-whereivebeen-canada" width="580" height="300" lightbox></amp-img></p>
+<p><amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2004/04/2004-whereivebeen-canada.gif" alt="2004-whereivebeen-canada" width="580" height="300" lightbox></amp-img></p>
 
 <p>Together this means I&#8217;ve been in the following countries:</p>
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2004/04/2004-whereivebeen-countries.gif" alt="2004-whereivebeen-countries" width="600" height="300" lightbox></amp-img></p>
+<p><amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2004/04/2004-whereivebeen-countries.gif" alt="2004-whereivebeen-countries" width="600" height="300" lightbox></amp-img></p>
     </div>
 
             <div class="mb-10 pb-4">
@@ -142,13 +132,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2004/03/31/slackin-and-poetry" title="Older Post: Slackin&#039; and Poetry">
+                            <a href="https://www.nickmoline.com/2004/03/31/slackin-and-poetry" title="Older Post: Slackin&#039; and Poetry">
                     &LeftArrow; Slackin&#039; and Poetry
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2004/04/04/dead-phone" title="Newer Post: Dead Phone">
+                            <a href="https://www.nickmoline.com/2004/04/04/dead-phone" title="Newer Post: Dead Phone">
                     Dead Phone &RightArrow;
                 </a>
                     </div>

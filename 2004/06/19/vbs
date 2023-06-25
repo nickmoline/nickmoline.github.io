@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Whew... Glad that&#039;s over | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2004/06/19/vbs"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/06/19/vbs"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Whew... Glad that&#039;s over | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2004/06/19/vbs">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/06/19/vbs">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -129,7 +119,7 @@
 
 <p>Goo is rather ticked at me lately since I was going to try and get this thing online over a week ago but haven't even plugged it in yet.</p>
 
-<p><amp-img width="1200" height="1600" src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2004/06/songames2004.jpg" alt="Son Games 2004 Logo" title="Son Games 2004 Logo" layout="responsive" lightbox></amp-img></p>
+<p><amp-img width="1200" height="1600" src="https://www.nickmoline.com/wp-content/uploads/sites/4/2004/06/songames2004.jpg" alt="Son Games 2004 Logo" title="Son Games 2004 Logo" layout="responsive" lightbox></amp-img></p>
     </div>
 
             <div class="mb-10 pb-4">
@@ -143,13 +133,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2004/06/09/wedding-and-graduation" title="Older Post: A Wedding, a Graduation, and other stories.">
+                            <a href="https://www.nickmoline.com/2004/06/09/wedding-and-graduation" title="Older Post: A Wedding, a Graduation, and other stories.">
                     &LeftArrow; A Wedding, a Graduation, and other stories.
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2004/06/29/blogcms" title="Newer Post: BLOG:CMS v3.0 XE">
+                            <a href="https://www.nickmoline.com/2004/06/29/blogcms" title="Newer Post: BLOG:CMS v3.0 XE">
                     BLOG:CMS v3.0 XE &RightArrow;
                 </a>
                     </div>

@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Personality Test 2020 | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2020/07/10/personality-test"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2020/07/10/personality-test"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Personality Test 2020 | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2020/07/10/personality-test">
+        <link rel="canonical" href="https://www.nickmoline.com/2020/07/10/personality-test">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -119,11 +109,11 @@
         >Life</a>
     
     <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
-        <p>This morning as a team building exercise, the Engineering Team at Justia took personality tests at the website <a href="https://www.dropbox.com/s/rx7hf4vd2isxptg/Screen%20Shot%202020-08-26%20at%201.08.18%20PM.png?dl=0">16 Personalities</a> and shared our results.  In the early days of this blog (was called Cap's Log back then) I took some online <a href="https://jigsaw-blog-template.tighten.co/tags/#personality-test">personality tests</a> from time to time and posted my results here, so I thought I'd do the same here.</p>
+        <p>This morning as a team building exercise, the Engineering Team at Justia took personality tests at the website <a href="https://www.dropbox.com/s/rx7hf4vd2isxptg/Screen%20Shot%202020-08-26%20at%201.08.18%20PM.png?dl=0">16 Personalities</a> and shared our results.  In the early days of this blog (was called Cap's Log back then) I took some online <a href="https://www.nickmoline.com/tags/#personality-test">personality tests</a> from time to time and posted my results here, so I thought I'd do the same here.</p>
 
 <!--more-->
 
-<p>This is a much more modern take on the Personality Test system than the ones I did between 2003 and <a href="https://jigsaw-blog-template.tighten.co/2006/05/30/personality-test">2006</a>.  Instead of focusing on a large number of attributes they focus on 5 characteristic pairs, and represent each pair as scale between the 2 extremes.</p>
+<p>This is a much more modern take on the Personality Test system than the ones I did between 2003 and <a href="https://www.nickmoline.com/2006/05/30/personality-test">2006</a>.  Instead of focusing on a large number of attributes they focus on 5 characteristic pairs, and represent each pair as scale between the 2 extremes.</p>
 
 <p>The pairs are categorized as:
 * <strong>Mind:</strong> <em>Introverted</em> vs. <em>Extroverted</em>
@@ -199,13 +189,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2019/05/30/google-io-2019-io19" title="Older Post: My Google I/O 2019 Experience">
+                            <a href="https://www.nickmoline.com/2019/05/30/google-io-2019-io19" title="Older Post: My Google I/O 2019 Experience">
                     &LeftArrow; My Google I/O 2019 Experience
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2020/08/20/migrating-to-jekyll" title="Newer Post: Migrating my blog and personal site to Jekyll">
+                            <a href="https://www.nickmoline.com/2020/08/20/migrating-to-jekyll" title="Newer Post: Migrating my blog and personal site to Jekyll">
                     Migrating my blog and personal site to Jekyll &RightArrow;
                 </a>
                     </div>

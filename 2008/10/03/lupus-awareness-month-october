@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Lupus Awareness Month - October | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2008/10/03/lupus-awareness-month-october"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2008/10/03/lupus-awareness-month-october"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Lupus Awareness Month - October | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2008/10/03/lupus-awareness-month-october">
+        <link rel="canonical" href="https://www.nickmoline.com/2008/10/03/lupus-awareness-month-october">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -127,8 +117,8 @@
 
 <p>Lupus is an auto-immune disease, which in layman&#8217;s terms is like the opposite of AIDS, instead of having no immune system, people like my wife have an over-active immune system. Their immune system is so vigilant in it&#8217;s destruction of things that it determines is a &#8220;foreign contaminant&#8221;, that it gets confused, and starts attacking tissues in the body as well. The end result is that the white blood cells literally destroy the body from the inside out.</p>
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2008/10/m-o.webp" title="Foreign Contaminant Detected" alt="Foreign Contaminant Detected" width="400" height="208" layout="responsive" lightbox>
-  <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2008/10/m-o.png" title="Foreign Contaminant Detected" alt="Foreign Contaminant Detected" width="400" height="208" layout="responsive" lightbox></amp-img>
+<p><amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2008/10/m-o.webp" title="Foreign Contaminant Detected" alt="Foreign Contaminant Detected" width="400" height="208" layout="responsive" lightbox>
+  <amp-img fallback src="https://www.nickmoline.com/wp-content/uploads/sites/4/2008/10/m-o.png" title="Foreign Contaminant Detected" alt="Foreign Contaminant Detected" width="400" height="208" layout="responsive" lightbox></amp-img>
 </amp-img></p>
 
 <p>There is no cure for Lupus, and it kills, and funds for research are desperately needed in the search for a cure. So please, check out <a href="http://www.lupus.org/">The Lupus Foundation of America</a> or <a href="http://www.lupusresearch.org/">the Alliance for Lupus Research</a> and learn how you can make a difference in the research of this deadly disease.</p>
@@ -157,13 +147,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2008/09/12/iphone-21-software-so-far-so-good" title="Older Post: iPhone 2.1 Software: So far so good">
+                            <a href="https://www.nickmoline.com/2008/09/12/iphone-21-software-so-far-so-good" title="Older Post: iPhone 2.1 Software: So far so good">
                     &LeftArrow; iPhone 2.1 Software: So far so good
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2008/11/11/mashup-camp-next-week" title="Newer Post: Mashup Camp, Next Week">
+                            <a href="https://www.nickmoline.com/2008/11/11/mashup-camp-next-week" title="Newer Post: Mashup Camp, Next Week">
                     Mashup Camp, Next Week &RightArrow;
                 </a>
                     </div>

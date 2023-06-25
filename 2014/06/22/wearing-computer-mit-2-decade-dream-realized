@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Wearing a Computer at MIT, a Two Decade Dream Realized | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2014/06/22/wearing-computer-mit-2-decade-dream-realized"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2014/06/22/wearing-computer-mit-2-decade-dream-realized"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Wearing a Computer at MIT, a Two Decade Dream Realized | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2014/06/22/wearing-computer-mit-2-decade-dream-realized">
+        <link rel="canonical" href="https://www.nickmoline.com/2014/06/22/wearing-computer-mit-2-decade-dream-realized">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -137,16 +127,16 @@
 
 <p>Now sadly I never got to attend MIT, in fact other than a little time at Tarrant County College (formerly Tarrant County Junior College) in which I didn&#8217;t even earn an associates degree, I didn&#8217;t get to go to college at all.  But I wanted to go to MIT</p>
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2014/06/image1.webp" alt="A free law coalition sign at #CALICon14"  width="2048" height="1504" layout="responsive" lightbox>
-    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2014/06/image1.jpg" alt="A free law coalition sign at #CALICon14"  width="2048" height="1504" layout="responsive" lightbox></amp-img>
+<p><amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2014/06/image1.webp" alt="A free law coalition sign at #CALICon14"  width="2048" height="1504" layout="responsive" lightbox>
+    <amp-img fallback src="https://www.nickmoline.com/wp-content/uploads/sites/4/2014/06/image1.jpg" alt="A free law coalition sign at #CALICon14"  width="2048" height="1504" layout="responsive" lightbox></amp-img>
 </amp-img></p>
 
 <p>This past week I&#8217;ve been attending the <a href="http://conference.cali.org/2014/" class="broken_link">24th Annual CALI Conference for Law School Computing</a> at Harvard Law School. As usual the conference was a blast and I have enjoyed checking out Harvard.</p>
 
 <p>But what was especially exciting for me was getting a chance to visit MIT. That PBS special 20 years ago is a big part of what set me on my path towards becoming a programmer. As well as making me as fascinated as I was towards technology and the future.</p>
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2014/06/IMG_20140619_202224.webp" alt="Nick at MIT"  width="3264" height="2448" layout="responsive" lightbox>
-    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2014/06/IMG_20140619_202224.jpg" alt="Nick at MIT"  width="3264" height="2448" layout="responsive" lightbox></amp-img>
+<p><amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2014/06/IMG_20140619_202224.webp" alt="Nick at MIT"  width="3264" height="2448" layout="responsive" lightbox>
+    <amp-img fallback src="https://www.nickmoline.com/wp-content/uploads/sites/4/2014/06/IMG_20140619_202224.jpg" alt="Nick at MIT"  width="3264" height="2448" layout="responsive" lightbox></amp-img>
 </amp-img></p>
 
 <p>As I stood in front of the main building of MIT, wearing Google Glass and posing for pictures with Tim and Mayra, it struck me that I was there. I was wearing a computer at MIT. True, I was never a student of the esteemed university, and also true that I wasn&#8217;t on a team making that wearable computer, but as a glass explorer, I have been working with the team that did over the past year, providing feedback, testing it, going to events, developing apps.</p>
@@ -157,8 +147,8 @@
 
 <p>Couple quick closing thoughts&#8230; First, If the man in the video I watched 2 decades ago was indeed Thad Starner, than it is extra cool because he is a <a href="http://www.cc.gatech.edu/home/thad/">Technical Lead/Manager on Google&#8217;s Project Glass</a> which means in the above picture I am literally wearing the culmination of his work from the project I was watching the video about in the first place.</p>
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2014/06/image2.webp" alt="This place was made for Tim"  width="2048" height="1504" layout="responsive" lightbox>
-    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2014/06/image2.jpg" alt="This place was made for Tim"  width="2048" height="1504" layout="responsive" lightbox></amp-img>
+<p><amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2014/06/image2.webp" alt="This place was made for Tim"  width="2048" height="1504" layout="responsive" lightbox>
+    <amp-img fallback src="https://www.nickmoline.com/wp-content/uploads/sites/4/2014/06/image2.jpg" alt="This place was made for Tim"  width="2048" height="1504" layout="responsive" lightbox></amp-img>
 </amp-img></p>
 
 <p>And finally. If you walk around a frosted glass with MIT on it and look at it from behind. It says &#8220;Tim.&#8221; My boss approves.</p>
@@ -200,13 +190,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2014/06/04/mentioned-lately-much-hate-comcast" title="Older Post: Have I mentioned lately how much I hate Comcast?">
+                            <a href="https://www.nickmoline.com/2014/06/04/mentioned-lately-much-hate-comcast" title="Older Post: Have I mentioned lately how much I hate Comcast?">
                     &LeftArrow; Have I mentioned lately how much I hate Comcast?
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2014/09/21/time-keeping-cycle" title="Newer Post: The Time Keeping Cycle">
+                            <a href="https://www.nickmoline.com/2014/09/21/time-keeping-cycle" title="Newer Post: The Time Keeping Cycle">
                     The Time Keeping Cycle &RightArrow;
                 </a>
                     </div>

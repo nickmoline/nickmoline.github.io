@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Image Editing Fool | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2006/05/16/image-editing-fool"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2006/05/16/image-editing-fool"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Image Editing Fool | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2006/05/16/image-editing-fool">
+        <link rel="canonical" href="https://www.nickmoline.com/2006/05/16/image-editing-fool">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -148,13 +138,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2006/05/15/trend-started" title="Older Post: Trend Started">
+                            <a href="https://www.nickmoline.com/2006/05/15/trend-started" title="Older Post: Trend Started">
                     &LeftArrow; Trend Started
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2006/05/16/updating-my-map-of-where-ive-been" title="Newer Post: Updating my map of where I&#039;ve been">
+                            <a href="https://www.nickmoline.com/2006/05/16/updating-my-map-of-where-ive-been" title="Newer Post: Updating my map of where I&#039;ve been">
                     Updating my map of where I&#039;ve been &RightArrow;
                 </a>
                     </div>

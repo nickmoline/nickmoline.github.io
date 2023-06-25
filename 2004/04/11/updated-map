@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Updated map | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2004/04/11/updated-map"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/04/11/updated-map"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Updated map | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2004/04/11/updated-map">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/04/11/updated-map">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -123,11 +113,11 @@
 
 <!--more-->
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2006/05/statemap2004-04.gif" alt="State Map, April 2004" title="State Map, April 2004" width="580" height="300" lightbox></amp-img></p>
+<p><amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2006/05/statemap2004-04.gif" alt="State Map, April 2004" title="State Map, April 2004" width="580" height="300" lightbox></amp-img></p>
 
 <p>I&#8217;ve also registered as a member on world66.com now which allows this nifty multicolor world map. Dark red means I&#8217;ve lived in this country, lighter red means I&#8217;ve visited this country, dark Grey means I WANT to visit this country, and light Grey means I have not visited this country nor do I have any plans to visit this country. Of course plans change and just because I don&#8217;t have your country highlighted dark Grey doesn&#8217;t mean I may not want to visit there one day, I just don&#8217;t currently have any plans to do so.</p>
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2006/05/membercolormap2004-04.gif" title="Country Map April 2004" alt="Country Map April 2004" width="600" height="300" lightbox></amp-img></p>
+<p><amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2006/05/membercolormap2004-04.gif" title="Country Map April 2004" alt="Country Map April 2004" width="600" height="300" lightbox></amp-img></p>
     </div>
 
             <div class="mb-10 pb-4">
@@ -136,13 +126,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2004/04/04/dead-phone" title="Older Post: Dead Phone">
+                            <a href="https://www.nickmoline.com/2004/04/04/dead-phone" title="Older Post: Dead Phone">
                     &LeftArrow; Dead Phone
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2004/04/22/server-woes" title="Newer Post: Server woes">
+                            <a href="https://www.nickmoline.com/2004/04/22/server-woes" title="Newer Post: Server woes">
                     Server woes &RightArrow;
                 </a>
                     </div>

@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Pottermore Cheats Update: Potions are Better now, but the site still has a way to go | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2011/09/14/pottermore-cheats-potions-better-still-needs-more"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2011/09/14/pottermore-cheats-potions-better-still-needs-more"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Pottermore Cheats Update: Potions are Better now, but the site still has a way to go | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2011/09/14/pottermore-cheats-potions-better-still-needs-more">
+        <link rel="canonical" href="https://www.nickmoline.com/2011/09/14/pottermore-cheats-potions-better-still-needs-more">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -119,14 +109,14 @@
         >Tech</a>
     
     <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
-        <p>I don&#8217;t know if the people from <a href="http://www.think.eu/">TH_NK</a> read <a href="https://jigsaw-blog-template.tighten.co/2011/08/27/pottermore-cheats-earning-more-house-points-through-failure-then-success-in-potion-making" title="Pottermore Cheats: Earning more house points through failure then success in potion making">my post about cheating</a> on <a href="https://jigsaw-blog-template.tighten.co/tags#pottermore">Pottermore</a> by purposeful failing at potion making, or one of the many other online forums posting about the issue, but a few days after my post went live, they posted on the Pottermore Insider blog that <a href="http://insider.pottermore.com/2011/09/from-duelling-to-potions.html">potions are being tweaked</a>.</p>
+        <p>I don&#8217;t know if the people from <a href="http://www.think.eu/">TH_NK</a> read <a href="https://www.nickmoline.com/2011/08/27/pottermore-cheats-earning-more-house-points-through-failure-then-success-in-potion-making" title="Pottermore Cheats: Earning more house points through failure then success in potion making">my post about cheating</a> on <a href="https://www.nickmoline.com/tags#pottermore">Pottermore</a> by purposeful failing at potion making, or one of the many other online forums posting about the issue, but a few days after my post went live, they posted on the Pottermore Insider blog that <a href="http://insider.pottermore.com/2011/09/from-duelling-to-potions.html">potions are being tweaked</a>.</p>
 
 <p>Today Sara Moton commented on my previous post to say that they stopped giving a point for failing.  I have logged in tonight to test it and indeed, it is true.  TH_NK has fixed this logic flaw, and it&#8217;s great.</p>
 
 <!--more-->
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2011/09/Region-capture-3-e1315985708703.webp" alt="Owl from Pottermore saying &quot;No point for you!&quot;" title="Owl from Pottermore saying &quot;No point for you!&quot;" width="600" height="80" layout="intrinsic" lightbox>
-  <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2011/09/Region-capture-3-e1315985708703.png" alt="Owl from Pottermore saying &quot;No point for you!&quot;" title="Owl from Pottermore saying &quot;No point for you!&quot;" width="600" height="80" layout="intrinsic" lightbox></amp-img>
+<p><amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2011/09/Region-capture-3-e1315985708703.webp" alt="Owl from Pottermore saying &quot;No point for you!&quot;" title="Owl from Pottermore saying &quot;No point for you!&quot;" width="600" height="80" layout="intrinsic" lightbox>
+  <amp-img fallback src="https://www.nickmoline.com/wp-content/uploads/sites/4/2011/09/Region-capture-3-e1315985708703.png" alt="Owl from Pottermore saying &quot;No point for you!&quot;" title="Owl from Pottermore saying &quot;No point for you!&quot;" width="600" height="80" layout="intrinsic" lightbox></amp-img>
 </amp-img></p>
 
 <p>Apparently there was another way of cheating with potions that I never tried cause I presumed they wouldn&#8217;t base things on system clock.  In what some are calling the &#8220;time turner&#8221; cheat of potion brewing, you can simply set your system clock ahead and return to the potion page, and skip the lengthy waiting/brewing period.</p>
@@ -158,13 +148,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2011/08/27/pottermore-cheats-earning-more-house-points-through-failure-then-success-in-potion-making" title="Older Post: Pottermore Cheats: Earning more house points through failure then success in potion making">
+                            <a href="https://www.nickmoline.com/2011/08/27/pottermore-cheats-earning-more-house-points-through-failure-then-success-in-potion-making" title="Older Post: Pottermore Cheats: Earning more house points through failure then success in potion making">
                     &LeftArrow; Pottermore Cheats: Earning more house points through failure then success in potion making
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2011/09/18/on-the-difficulty-of-pottermore-house-cup-competitions" title="Newer Post: On the Difficulty of Pottermore House Cup Competitions">
+                            <a href="https://www.nickmoline.com/2011/09/18/on-the-difficulty-of-pottermore-house-cup-competitions" title="Newer Post: On the Difficulty of Pottermore House Cup Competitions">
                     On the Difficulty of Pottermore House Cup Competitions &RightArrow;
                 </a>
                     </div>

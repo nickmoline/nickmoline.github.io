@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Conference, Visits, and Cuba | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2003/09/21/conference-visits-cuba"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2003/09/21/conference-visits-cuba"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Conference, Visits, and Cuba | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2003/09/21/conference-visits-cuba">
+        <link rel="canonical" href="https://www.nickmoline.com/2003/09/21/conference-visits-cuba">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -158,13 +148,13 @@ Then Friday I took a quick trip out to TN to meet with D, a most enjoyable if sa
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2003/09/11/tired-and-writing" title="Older Post: Tired and writing">
+                            <a href="https://www.nickmoline.com/2003/09/11/tired-and-writing" title="Older Post: Tired and writing">
                     &LeftArrow; Tired and writing
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2003/09/23/following-fedex" title="Newer Post: Following Fedex...">
+                            <a href="https://www.nickmoline.com/2003/09/23/following-fedex" title="Newer Post: Following Fedex...">
                     Following Fedex... &RightArrow;
                 </a>
                     </div>

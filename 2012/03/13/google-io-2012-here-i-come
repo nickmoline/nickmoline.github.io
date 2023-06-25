@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Google I/O 2012 Here I come | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2012/03/13/google-io-2012-here-i-come"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2012/03/13/google-io-2012-here-i-come"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Google I/O 2012 Here I come | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2012/03/13/google-io-2012-here-i-come">
+        <link rel="canonical" href="https://www.nickmoline.com/2012/03/13/google-io-2012-here-i-come">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -124,7 +114,7 @@
         >Tech</a>
     
     <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
-        <p>I&#8217;m <a href="http://twitter.com/NickMoline/status/179678092858630144">all registered</a> to go to Google I/O 2012 on June 27, 2012.  I&#8217;ve been to every Google I/O so far (and <a href="https://jigsaw-blog-template.tighten.co/2007/06/03/google-developer-day-2007">Google Developer Day before that</a>) and am really looking forward to going again.  The price was really hiked up this year ($900 as opposed to $450 last year), but they have done away with the Early Registration discount, and they have extended the conference from 2 to 3 days this year.</p>
+        <p>I&#8217;m <a href="http://twitter.com/NickMoline/status/179678092858630144">all registered</a> to go to Google I/O 2012 on June 27, 2012.  I&#8217;ve been to every Google I/O so far (and <a href="https://www.nickmoline.com/2007/06/03/google-developer-day-2007">Google Developer Day before that</a>) and am really looking forward to going again.  The price was really hiked up this year ($900 as opposed to $450 last year), but they have done away with the Early Registration discount, and they have extended the conference from 2 to 3 days this year.</p>
 
 <!--more-->
 
@@ -136,8 +126,8 @@
 
 <p>The &#8220;real&#8221; price last year was $550 with an early-bird discount of $450, so when you consider there are no early birds this year, the increase is 38.9% for 50% more conference, so perhaps the increase isn&#8217;t so bad.</p>
 
-<p><amp-img  src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2012/03/squg.webp" alt="Google I/O 2012 Confirmation Email" title="Google I/O 2012 Confirmation Email" width="785" height="642" layout="responsive" lightbox>
-    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2012/03/squg.png" alt="Google I/O 2012 Confirmation Email" title="Google I/O 2012 Confirmation Email" width="785" height="642" layout="responsive" lightbox></amp-img>
+<p><amp-img  src="https://www.nickmoline.com/wp-content/uploads/sites/4/2012/03/squg.webp" alt="Google I/O 2012 Confirmation Email" title="Google I/O 2012 Confirmation Email" width="785" height="642" layout="responsive" lightbox>
+    <amp-img fallback src="https://www.nickmoline.com/wp-content/uploads/sites/4/2012/03/squg.png" alt="Google I/O 2012 Confirmation Email" title="Google I/O 2012 Confirmation Email" width="785" height="642" layout="responsive" lightbox></amp-img>
 </amp-img></p>
     </div>
 
@@ -167,13 +157,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2012/01/10/2011-on-nick-pro" title="Older Post: 2011 on Nick.pro">
+                            <a href="https://www.nickmoline.com/2012/01/10/2011-on-nick-pro" title="Older Post: 2011 on Nick.pro">
                     &LeftArrow; 2011 on Nick.pro
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2012/03/20/pottermore-to-finally-open-up-on-april-1st-unless-its-a-cruel-joke" title="Newer Post: Pottermore to finally open up on April 1st, unless it&#039;s a cruel joke">
+                            <a href="https://www.nickmoline.com/2012/03/20/pottermore-to-finally-open-up-on-april-1st-unless-its-a-cruel-joke" title="Newer Post: Pottermore to finally open up on April 1st, unless it&#039;s a cruel joke">
                     Pottermore to finally open up on April 1st, unless it&#039;s a cruel joke &RightArrow;
                 </a>
                     </div>

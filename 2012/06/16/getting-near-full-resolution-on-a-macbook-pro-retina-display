@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Getting full resolution on a Macbook Pro Retina Display | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2012/06/16/getting-near-full-resolution-on-a-macbook-pro-retina-display"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2012/06/16/getting-near-full-resolution-on-a-macbook-pro-retina-display"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Getting full resolution on a Macbook Pro Retina Display | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2012/06/16/getting-near-full-resolution-on-a-macbook-pro-retina-display">
+        <link rel="canonical" href="https://www.nickmoline.com/2012/06/16/getting-near-full-resolution-on-a-macbook-pro-retina-display">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -125,14 +115,14 @@
 
 <!--more-->
 
-<p>I&#8217;ve used a 28&#8243; monitor plugged into a 17&#8243; Macbook Pro for a long time now, and it&#8217;s great to have all that screen real estate when coding for putting my editor window side by side with a browser window for testing, or a terminal window for running server side commands.  I would get so used to having such a high resolution display that when I would unplug to go into a meeting (or take a flight) going down to the 1920 x 1200 resolution that the 17&#8243; Macbook supported (max) was hard for me, there just wasn&#8217;t enough screen real estate to get work done effectively.  Add to that just how heavy the 17&#8243; Macbook Pro was and the fact that I am <a href="https://jigsaw-blog-template.tighten.co/2012/06/01/weight-loss-update-and-transparency" title="Weight Loss Update and transparency">so fat</a> that I can&#8217;t actually use the laptop on my lap on the plane, and it was just darn near unusable.</p>
+<p>I&#8217;ve used a 28&#8243; monitor plugged into a 17&#8243; Macbook Pro for a long time now, and it&#8217;s great to have all that screen real estate when coding for putting my editor window side by side with a browser window for testing, or a terminal window for running server side commands.  I would get so used to having such a high resolution display that when I would unplug to go into a meeting (or take a flight) going down to the 1920 x 1200 resolution that the 17&#8243; Macbook supported (max) was hard for me, there just wasn&#8217;t enough screen real estate to get work done effectively.  Add to that just how heavy the 17&#8243; Macbook Pro was and the fact that I am <a href="https://www.nickmoline.com/2012/06/01/weight-loss-update-and-transparency" title="Weight Loss Update and transparency">so fat</a> that I can&#8217;t actually use the laptop on my lap on the plane, and it was just darn near unusable.</p>
 
 <p>Because of this, I was understandably excited at the announcement of the new Macbook Pro with Retina Display which according to the <a href="http://www.apple.com/macbook-pro/specs/" target="_blank">tech specs</a> supports an astounding 2880 by 1800 resolution, higher resolution than even the 2560 x 1440 resolution of the 28&#8243; Display I use at work.</p>
 
 <p>Unfortunately, as many others have <a href="http://news.cnet.com/8301-33620_3-57454551-278/forget-retina-look-how-much-the-new-macbook-pro-displays/" target="_blank">pointed out</a>, you can&#8217;t actually set your Macbook Pro to the full 2880 x 1800 resolution.  The screen does support 2880 x 1800 resolution, but Apple&#8217;s &#8220;Retina Display&#8221; technique is to use the extra pixels to make things sharper, not to display more on the screen.</p>
 
-<p><amp-img  title="Maximum Resolution on Retina Display is 1920 x 1600" src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2012/06/Region-capture-1.webp" alt="Maximum Resolution on Retina Display is 1920 x 1600" data-recalc-dims="1" width="681" height="422" layout="responsive" lightbox>
-    <amp-img fallback title="Maximum Resolution on Retina Display is 1920 x 1600" src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2012/06/Region-capture-1.png" alt="Maximum Resolution on Retina Display is 1920 x 1600" data-recalc-dims="1" width="681" height="422" layout="responsive" lightbox></amp-img>
+<p><amp-img  title="Maximum Resolution on Retina Display is 1920 x 1600" src="https://www.nickmoline.com/wp-content/uploads/sites/4/2012/06/Region-capture-1.webp" alt="Maximum Resolution on Retina Display is 1920 x 1600" data-recalc-dims="1" width="681" height="422" layout="responsive" lightbox>
+    <amp-img fallback title="Maximum Resolution on Retina Display is 1920 x 1600" src="https://www.nickmoline.com/wp-content/uploads/sites/4/2012/06/Region-capture-1.png" alt="Maximum Resolution on Retina Display is 1920 x 1600" data-recalc-dims="1" width="681" height="422" layout="responsive" lightbox></amp-img>
 </amp-img></p>
 
 <p>The maximum resolution you can set the display to happens to be 1920 x 1200, which happens to be the same resolution of the older 17&#8243; model (at least it is on a much ligher 15&#8243; model, but it still doesn&#8217;t give me any more screen real-estate).</p>
@@ -143,8 +133,8 @@
 
 <p>&#8220;How?&#8221; you may ask.  &#8220;Haven&#8217;t the others said it is impossible?&#8221;  Indeed they have, but it is possible, it&#8217;s just not very useful, yet.</p>
 
-<p><amp-img  title="Look at that high-resolution laptop screen" src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2012/06/100_0150-e1339900862458.webp" alt="Look at that high-resolution laptop screen" data-recalc-dims="1" width="3064" height="2949" layout="responsive" lightbox>
-    <amp-img fallback title="Look at that high-resolution laptop screen" src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2012/06/100_0150-e1339900862458.jpg" alt="Look at that high-resolution laptop screen" data-recalc-dims="1" width="3064" height="2949" layout="responsive" lightbox></amp-img>
+<p><amp-img  title="Look at that high-resolution laptop screen" src="https://www.nickmoline.com/wp-content/uploads/sites/4/2012/06/100_0150-e1339900862458.webp" alt="Look at that high-resolution laptop screen" data-recalc-dims="1" width="3064" height="2949" layout="responsive" lightbox>
+    <amp-img fallback title="Look at that high-resolution laptop screen" src="https://www.nickmoline.com/wp-content/uploads/sites/4/2012/06/100_0150-e1339900862458.jpg" alt="Look at that high-resolution laptop screen" data-recalc-dims="1" width="3064" height="2949" layout="responsive" lightbox></amp-img>
 </amp-img></p>
 
 <p>It turns out that since the monitor is capable of displaying up to 2880 x 1800 resolution, that when you put the display options in mirrored mode (where the laptop screen shows the same thing as the monitor you are plugged into), it will happily scale the laptop screen up to the full resolution of the monitor you are plugged into.  In this case, an older Apple Cinema HD 30&#8243; monitor with a resolution of 2550 x 1600 resolution.</p>
@@ -179,13 +169,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2012/06/01/weight-loss-update-and-transparency" title="Older Post: Weight Loss Update and transparency">
+                            <a href="https://www.nickmoline.com/2012/06/01/weight-loss-update-and-transparency" title="Older Post: Weight Loss Update and transparency">
                     &LeftArrow; Weight Loss Update and transparency
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2012/06/18/surgery-has-been-scheduled" title="Newer Post: Surgery has been scheduled">
+                            <a href="https://www.nickmoline.com/2012/06/18/surgery-has-been-scheduled" title="Newer Post: Surgery has been scheduled">
                     Surgery has been scheduled &RightArrow;
                 </a>
                     </div>

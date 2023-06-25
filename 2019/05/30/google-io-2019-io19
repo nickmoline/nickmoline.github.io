@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="My Google I/O 2019 Experience | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2019/05/30/google-io-2019-io19"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2019/05/30/google-io-2019-io19"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>My Google I/O 2019 Experience | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2019/05/30/google-io-2019-io19">
+        <link rel="canonical" href="https://www.nickmoline.com/2019/05/30/google-io-2019-io19">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -131,7 +121,7 @@
         >Writing</a>
     
     <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
-        <p>Barbara and I attended the Google I/O 2019 developer conference earlier this month. We&#8217;ve attended the conference every year since the first in 2008. I also attended its predecessor, the original <a href="https://jigsaw-blog-template.tighten.co/2007/06/03/google-developer-day-2007">Google Developer Day</a> the year before. This marks my 13th annual general Google Developer conference, and my 12th Google I/O specifically.</p>
+        <p>Barbara and I attended the Google I/O 2019 developer conference earlier this month. We&#8217;ve attended the conference every year since the first in 2008. I also attended its predecessor, the original <a href="https://www.nickmoline.com/2007/06/03/google-developer-day-2007">Google Developer Day</a> the year before. This marks my 13th annual general Google Developer conference, and my 12th Google I/O specifically.</p>
 
 <!--more-->
 
@@ -267,16 +257,16 @@
 
 <h2>Final Thoughts from Google I/O 2019</h2>
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2019/05/MVIMG_20190507_083220-1-e1559243854902.webp" alt="Nick and Barbara showing their Google Fandom as they wait for the Google I/O 2019 Keynote to begin" width="2519" height="1572"  layout="responsive" lightbox>
-    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2019/05/MVIMG_20190507_083220-1-e1559243854902.jpg" alt="Nick and Barbara showing their Google Fandom as they wait for the Google I/O 2019 Keynote to begin" width="2519" height="1572"  layout="responsive" lightbox></amp-img>
+<p><amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2019/05/MVIMG_20190507_083220-1-e1559243854902.webp" alt="Nick and Barbara showing their Google Fandom as they wait for the Google I/O 2019 Keynote to begin" width="2519" height="1572"  layout="responsive" lightbox>
+    <amp-img fallback src="https://www.nickmoline.com/wp-content/uploads/sites/4/2019/05/MVIMG_20190507_083220-1-e1559243854902.jpg" alt="Nick and Barbara showing their Google Fandom as they wait for the Google I/O 2019 Keynote to begin" width="2519" height="1572"  layout="responsive" lightbox></amp-img>
 </amp-img></p>
 
 <p>Google I/O is a high point of my year, every year for the last 13 years. I show my excitement for it by doing crazy things like coloring my hair. Barbara even does face paint to celebrate.</p>
 
 <p>This year&#8217;s conference felt different from recent years past. I still got sun burned in spite of tons of sunscreen. Yes, I still ended each day so exhausted that I could barely walk to my bedroom. But it has been a long time since I&#8217;ve left Google I/O feeling so inspired. Inspired to make great things, to push the future of technology, and to follow that great adage:</p>
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2019/05/MVIMG_20190507_093246-1.webp" alt="The quote &quot;If at first you don't succeed, sudo&quot; appeared on the main screen as we waited for the Google I/O 2019 Keynote address"  width="4032" height="3024" layout="responsive" lightbox>
-    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2019/05/MVIMG_20190507_093246-1.jpg" alt="The quote &quot;If at first you don't succeed, sudo&quot; appeared on the main screen as we waited for the Google I/O 2019 Keynote address"  width="4032" height="3024" layout="responsive" lightbox></amp-img>
+<p><amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2019/05/MVIMG_20190507_093246-1.webp" alt="The quote &quot;If at first you don't succeed, sudo&quot; appeared on the main screen as we waited for the Google I/O 2019 Keynote address"  width="4032" height="3024" layout="responsive" lightbox>
+    <amp-img fallback src="https://www.nickmoline.com/wp-content/uploads/sites/4/2019/05/MVIMG_20190507_093246-1.jpg" alt="The quote &quot;If at first you don't succeed, sudo&quot; appeared on the main screen as we waited for the Google I/O 2019 Keynote address"  width="4032" height="3024" layout="responsive" lightbox></amp-img>
 </amp-img></p>
 
 <p>Never give up. Push the limits of creativity and animation like Glen Keane. Teach a car to drive itself like Waymo. Solve the greatest mysteries of the universe like Michio Kaku. Whatever you do, keep moving forward.</p>
@@ -340,13 +330,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2018/02/09/amp-update" title="Older Post: AMP Update: Get Even More AMPed in 2018">
+                            <a href="https://www.nickmoline.com/2018/02/09/amp-update" title="Older Post: AMP Update: Get Even More AMPed in 2018">
                     &LeftArrow; AMP Update: Get Even More AMPed in 2018
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2020/07/10/personality-test" title="Newer Post: Personality Test 2020">
+                            <a href="https://www.nickmoline.com/2020/07/10/personality-test" title="Newer Post: Personality Test 2020">
                     Personality Test 2020 &RightArrow;
                 </a>
                     </div>

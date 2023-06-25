@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Vegas Vacation | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2008/08/19/hours-away-from-vacation"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2008/08/19/hours-away-from-vacation"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Vegas Vacation | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2008/08/19/hours-away-from-vacation">
+        <link rel="canonical" href="https://www.nickmoline.com/2008/08/19/hours-away-from-vacation">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -138,30 +128,30 @@
 <p><strong>UPDATE</strong> Here's a gallery of some seleted photos from this trip</p>
 
 <p><amp-carousel lightbox width="1600" height="1600" layout="responsive" type="slides">
-   <amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2008/08/vegas/IMG_0098.jpg" title="Virgin America Sign" alt="Virgin America Sign" width="1200" height="1600" layout="responsive"></amp-img>
-   <amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2008/08/vegas/IMG_0007.jpg" title="Welcome to Las Vegas" alt="Welcome to Las Vegas" width="1200" height="1600" layout="responsive"></amp-img>
-   <amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2008/08/vegas/IMG_0009.jpg" title="Cancun Resort, Las Vegas" alt="Cancun Resort, Las Vegas" width="1600" height="1200" layout="responsive"></amp-img>
-   <amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2008/08/vegas/100_0966.jpg" title="Meeting up with my Parents" alt="Meeting up with my Parents" width="2832" height="2128" layout="responsive"></amp-img>
-   <amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2008/08/vegas/IMG_0015.jpg" title="Rainforest Cafe, Las Vegas" alt="Rainforest Cafe, Las Vegas" width="1200" height="1600" layout="responsive"></amp-img>
-   <amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2008/08/vegas/IMG_0017.jpg" title="Rainforest Cafe, Las Vegas" alt="Rainforest Cafe, Las Vegas" width="1600" height="1200" layout="responsive"></amp-img>
-   <amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2008/08/vegas/IMG_0015.jpg" title="MGM Grand, Las Vegas" alt="MGM Grand, Las Vegas" width="1200" height="1600" layout="responsive"></amp-img>
-   <amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2008/08/vegas/IMG_0028.jpg" title="Mamma Mia, Mandalay Bay" alt="Mamma Mia, Mandalay Bay" width="1200" height="1600" layout="responsive"></amp-img>
-   <amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2008/08/vegas/IMG_0029.jpg" title="Mamma Mia, Mandalay Bay" alt="Mamma Mia, Mandalay Bay" width="1600" height="1200" layout="responsive"></amp-img>
-   <amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2008/08/vegas/IMG_0031.jpg" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1200" height="1600" layout="responsive"></amp-img>
-   <amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2008/08/vegas/IMG_0032.jpg" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1600" height="1200" layout="responsive"></amp-img>
-   <amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2008/08/vegas/IMG_0034.jpg" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1200" height="1600" layout="responsive"></amp-img>
-   <amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2008/08/vegas/IMG_0041.jpg" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1600" height="1200" layout="responsive"></amp-img>
-   <amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2008/08/vegas/IMG_0044.jpg" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1600" height="1200" layout="responsive"></amp-img>
-   <amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2008/08/vegas/IMG_0065.jpg" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1600" height="1200" layout="responsive"></amp-img>
-   <amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2008/08/vegas/IMG_0067.jpg" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1200" height="1600" layout="responsive"></amp-img>
-   <amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2008/08/vegas/IMG_0070.jpg" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1600" height="1200" layout="responsive"></amp-img>
-   <amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2008/08/vegas/IMG_0071.jpg" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1600" height="1200" layout="responsive"></amp-img>
-   <amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2008/08/vegas/IMG_0072.jpg" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1600" height="1200" layout="responsive"></amp-img>
-   <amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2008/08/vegas/IMG_0073.jpg" title="Tournament of Kings, The Exalibur" alt="Tournament of Kings, The Exalibur" width="1600" height="1200" layout="responsive"></amp-img>
-   <amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2008/08/vegas/IMG_0075.jpg" title="Tournament of Kings, The Exalibur" alt="Tournament of Kings, The Exalibur" width="1600" height="1200" layout="responsive"></amp-img>
-   <amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2008/08/vegas/IMG_0076.jpg" title="The Exalibur, Las Vegas" alt="The Exalibur, Las Vegas" width="1200" height="1600" layout="responsive"></amp-img>
-   <amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2008/08/vegas/IMG_0078.jpg" title="The Exalibur, Las Vegas" alt="The Exalibur, Las Vegas" width="1200" height="1600" layout="responsive"></amp-img>
-   <amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2008/08/vegas/IMG_0090.jpg" title="Back at the Las Vegas Airport" alt="Back at the Las Vegas Airport" width="1600" height="1200" layout="responsive"></amp-img>
+   <amp-img src="https://www.nickmoline.com/assets/images/2008/08/vegas/IMG_0098.jpg" title="Virgin America Sign" alt="Virgin America Sign" width="1200" height="1600" layout="responsive"></amp-img>
+   <amp-img src="https://www.nickmoline.com/assets/images/2008/08/vegas/IMG_0007.jpg" title="Welcome to Las Vegas" alt="Welcome to Las Vegas" width="1200" height="1600" layout="responsive"></amp-img>
+   <amp-img src="https://www.nickmoline.com/assets/images/2008/08/vegas/IMG_0009.jpg" title="Cancun Resort, Las Vegas" alt="Cancun Resort, Las Vegas" width="1600" height="1200" layout="responsive"></amp-img>
+   <amp-img src="https://www.nickmoline.com/assets/images/2008/08/vegas/100_0966.jpg" title="Meeting up with my Parents" alt="Meeting up with my Parents" width="2832" height="2128" layout="responsive"></amp-img>
+   <amp-img src="https://www.nickmoline.com/assets/images/2008/08/vegas/IMG_0015.jpg" title="Rainforest Cafe, Las Vegas" alt="Rainforest Cafe, Las Vegas" width="1200" height="1600" layout="responsive"></amp-img>
+   <amp-img src="https://www.nickmoline.com/assets/images/2008/08/vegas/IMG_0017.jpg" title="Rainforest Cafe, Las Vegas" alt="Rainforest Cafe, Las Vegas" width="1600" height="1200" layout="responsive"></amp-img>
+   <amp-img src="https://www.nickmoline.com/assets/images/2008/08/vegas/IMG_0015.jpg" title="MGM Grand, Las Vegas" alt="MGM Grand, Las Vegas" width="1200" height="1600" layout="responsive"></amp-img>
+   <amp-img src="https://www.nickmoline.com/assets/images/2008/08/vegas/IMG_0028.jpg" title="Mamma Mia, Mandalay Bay" alt="Mamma Mia, Mandalay Bay" width="1200" height="1600" layout="responsive"></amp-img>
+   <amp-img src="https://www.nickmoline.com/assets/images/2008/08/vegas/IMG_0029.jpg" title="Mamma Mia, Mandalay Bay" alt="Mamma Mia, Mandalay Bay" width="1600" height="1200" layout="responsive"></amp-img>
+   <amp-img src="https://www.nickmoline.com/assets/images/2008/08/vegas/IMG_0031.jpg" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1200" height="1600" layout="responsive"></amp-img>
+   <amp-img src="https://www.nickmoline.com/assets/images/2008/08/vegas/IMG_0032.jpg" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1600" height="1200" layout="responsive"></amp-img>
+   <amp-img src="https://www.nickmoline.com/assets/images/2008/08/vegas/IMG_0034.jpg" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1200" height="1600" layout="responsive"></amp-img>
+   <amp-img src="https://www.nickmoline.com/assets/images/2008/08/vegas/IMG_0041.jpg" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1600" height="1200" layout="responsive"></amp-img>
+   <amp-img src="https://www.nickmoline.com/assets/images/2008/08/vegas/IMG_0044.jpg" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1600" height="1200" layout="responsive"></amp-img>
+   <amp-img src="https://www.nickmoline.com/assets/images/2008/08/vegas/IMG_0065.jpg" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1600" height="1200" layout="responsive"></amp-img>
+   <amp-img src="https://www.nickmoline.com/assets/images/2008/08/vegas/IMG_0067.jpg" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1200" height="1600" layout="responsive"></amp-img>
+   <amp-img src="https://www.nickmoline.com/assets/images/2008/08/vegas/IMG_0070.jpg" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1600" height="1200" layout="responsive"></amp-img>
+   <amp-img src="https://www.nickmoline.com/assets/images/2008/08/vegas/IMG_0071.jpg" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1600" height="1200" layout="responsive"></amp-img>
+   <amp-img src="https://www.nickmoline.com/assets/images/2008/08/vegas/IMG_0072.jpg" title="Star Trek: The Experience (1 week before closure)" alt="Star Trek: The Experience (1 week before closure)" width="1600" height="1200" layout="responsive"></amp-img>
+   <amp-img src="https://www.nickmoline.com/assets/images/2008/08/vegas/IMG_0073.jpg" title="Tournament of Kings, The Exalibur" alt="Tournament of Kings, The Exalibur" width="1600" height="1200" layout="responsive"></amp-img>
+   <amp-img src="https://www.nickmoline.com/assets/images/2008/08/vegas/IMG_0075.jpg" title="Tournament of Kings, The Exalibur" alt="Tournament of Kings, The Exalibur" width="1600" height="1200" layout="responsive"></amp-img>
+   <amp-img src="https://www.nickmoline.com/assets/images/2008/08/vegas/IMG_0076.jpg" title="The Exalibur, Las Vegas" alt="The Exalibur, Las Vegas" width="1200" height="1600" layout="responsive"></amp-img>
+   <amp-img src="https://www.nickmoline.com/assets/images/2008/08/vegas/IMG_0078.jpg" title="The Exalibur, Las Vegas" alt="The Exalibur, Las Vegas" width="1200" height="1600" layout="responsive"></amp-img>
+   <amp-img src="https://www.nickmoline.com/assets/images/2008/08/vegas/IMG_0090.jpg" title="Back at the Las Vegas Airport" alt="Back at the Las Vegas Airport" width="1600" height="1200" layout="responsive"></amp-img>
 </amp-carousel></p>
     </div>
 
@@ -191,13 +181,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2008/08/11/gmail-down" title="Older Post: GMail Down">
+                            <a href="https://www.nickmoline.com/2008/08/11/gmail-down" title="Older Post: GMail Down">
                     &LeftArrow; GMail Down
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2008/08/27/all-primed-up-amazon-is-brilliant" title="Newer Post: All Primed Up: Amazon is Brilliant">
+                            <a href="https://www.nickmoline.com/2008/08/27/all-primed-up-amazon-is-brilliant" title="Newer Post: All Primed Up: Amazon is Brilliant">
                     All Primed Up: Amazon is Brilliant &RightArrow;
                 </a>
                     </div>

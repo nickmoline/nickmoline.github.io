@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Rolling up a New Character | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2020/10/04/the-next-adventure"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2020/10/04/the-next-adventure"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Rolling up a New Character | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2020/10/04/the-next-adventure">
+        <link rel="canonical" href="https://www.nickmoline.com/2020/10/04/the-next-adventure">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -163,8 +153,8 @@
 
 <p>It isn't the house with a yard and a garage I can use as a workshop yet, but in order to save money on breaking my lease early, I had to choose an apartment owned by the same organization that owns my current apartment complex.</p>
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2020/10/new-kitchen.webp" alt="Check out that Kitchen!" width="6342" height="2406" layout="responsive" lightbox>
-    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/assets/images/2020/10/new-kitchen.png" alt="Check out that Kitchen!" width="6342" height="2406" layout="responsive"></amp-img>
+<p><amp-img src="https://www.nickmoline.com/assets/images/2020/10/new-kitchen.webp" alt="Check out that Kitchen!" width="6342" height="2406" layout="responsive" lightbox>
+    <amp-img fallback src="https://www.nickmoline.com/assets/images/2020/10/new-kitchen.png" alt="Check out that Kitchen!" width="6342" height="2406" layout="responsive"></amp-img>
 </amp-img></p>
 
 <p>While it doesn't give me my dream home right away, it is a lot more space and should be a lot more comfortable. The <a href="https://my.matterport.com/show/?m=LBF9qr6AHpw&amp;sr=-2.55,.79&amp;ss=3">kitchen is also glorious</a> being much larger than my current kitchen and containing advantages over my current kitchen, including a gas stove. My plan is to move again later, to a house that matches my desired criteria.</p>
@@ -202,13 +192,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2020/08/30/welcome-to-nickmoline" title="Older Post: Welcome to the new NickMoline.com">
+                            <a href="https://www.nickmoline.com/2020/08/30/welcome-to-nickmoline" title="Older Post: Welcome to the new NickMoline.com">
                     &LeftArrow; Welcome to the new NickMoline.com
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2020/10/26/weather-tracking" title="Newer Post: Monitoring Weather Conditions">
+                            <a href="https://www.nickmoline.com/2020/10/26/weather-tracking" title="Newer Post: Monitoring Weather Conditions">
                     Monitoring Weather Conditions &RightArrow;
                 </a>
                     </div>

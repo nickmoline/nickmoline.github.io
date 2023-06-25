@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Two new Justia Services, Thanks Google! | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2007/07/18/two-new-justia-services-thanks-google"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2007/07/18/two-new-justia-services-thanks-google"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Two new Justia Services, Thanks Google! | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2007/07/18/two-new-justia-services-thanks-google">
+        <link rel="canonical" href="https://www.nickmoline.com/2007/07/18/two-new-justia-services-thanks-google">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -162,13 +152,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2007/06/14/riding-on-air" title="Older Post: Riding on air">
+                            <a href="https://www.nickmoline.com/2007/06/14/riding-on-air" title="Older Post: Riding on air">
                     &LeftArrow; Riding on air
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2007/08/24/justia-dockets-upgraded-and-interview" title="Newer Post: Justia Dockets Upgraded and Interview">
+                            <a href="https://www.nickmoline.com/2007/08/24/justia-dockets-upgraded-and-interview" title="Newer Post: Justia Dockets Upgraded and Interview">
                     Justia Dockets Upgraded and Interview &RightArrow;
                 </a>
                     </div>

@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="The Time Keeping Cycle | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2014/09/21/time-keeping-cycle"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2014/09/21/time-keeping-cycle"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>The Time Keeping Cycle | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2014/09/21/time-keeping-cycle">
+        <link rel="canonical" href="https://www.nickmoline.com/2014/09/21/time-keeping-cycle">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -136,8 +126,8 @@
 
 <p>It is interesting though that timepieces have moved from inside the pocket, to the wrist, back into the pocket, and now back to the wrist again.  For the enjoyment of anyone who cares, I&#8217;m including a brief history of the watch, ending with my personal history with watches after the break.</p>
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2014/09/German_-_Spherical_Table_Watch_Melanchthons_Watch_-_Walters_5817_-_View_C.webp" alt="German - Spherical Table Watch (Melanchthon's Watch) - Walters 5817 - View C"  width="1800" height="1184" layout="responsive" title="German &#8211; Spherical Table Watch (Melanchthon&#8217;s Watch) &#8211; Walters 5817" lightbox>
-    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2014/09/German_-_Spherical_Table_Watch_Melanchthons_Watch_-_Walters_5817_-_View_C.jpg" alt="German - Spherical Table Watch (Melanchthon's Watch) - Walters 5817 - View C"  width="1800" height="1184" layout="responsive" title="German &#8211; Spherical Table Watch (Melanchthon&#8217;s Watch) &#8211; Walters 5817" lightbox></amp-img>
+<p><amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2014/09/German_-_Spherical_Table_Watch_Melanchthons_Watch_-_Walters_5817_-_View_C.webp" alt="German - Spherical Table Watch (Melanchthon's Watch) - Walters 5817 - View C"  width="1800" height="1184" layout="responsive" title="German &#8211; Spherical Table Watch (Melanchthon&#8217;s Watch) &#8211; Walters 5817" lightbox>
+    <amp-img fallback src="https://www.nickmoline.com/wp-content/uploads/sites/4/2014/09/German_-_Spherical_Table_Watch_Melanchthons_Watch_-_Walters_5817_-_View_C.jpg" alt="German - Spherical Table Watch (Melanchthon's Watch) - Walters 5817 - View C"  width="1800" height="1184" layout="responsive" title="German &#8211; Spherical Table Watch (Melanchthon&#8217;s Watch) &#8211; Walters 5817" lightbox></amp-img>
 </amp-img></p>
 
 <p>The invention of the watch is usually credited to German clockmaker <a title="Peter Henlein" href="http://en.wikipedia.org/wiki/Peter_Henlein" target="_blank" rel="noopener noreferrer">Peter Henlein</a> in the early 1500s.  Henlein was one of the first to make what was known as <em>taschenuhr</em> or &#8220;clock-watches,&#8221; which was a clock worn as a pendant around the neck.</p>
@@ -146,8 +136,8 @@
 
 <p>The earliest dated known watch is the one seen here which is dated 1530.  It had a metal cover to protect the delicate hour hand.</p>
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2014/09/1015824_56041469.webp" alt="Pocket Watch"  width="2549" height="2098" layout="responsive" title="100 Years ago, people kept their timepieces in their pockets" lightbox>
-    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2014/09/1015824_56041469.jpg" alt="Pocket Watch"  width="2549" height="2098" layout="responsive" title="100 Years ago, people kept their timepieces in their pockets" lightbox></amp-img>
+<p><amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2014/09/1015824_56041469.webp" alt="Pocket Watch"  width="2549" height="2098" layout="responsive" title="100 Years ago, people kept their timepieces in their pockets" lightbox>
+    <amp-img fallback src="https://www.nickmoline.com/wp-content/uploads/sites/4/2014/09/1015824_56041469.jpg" alt="Pocket Watch"  width="2549" height="2098" layout="responsive" title="100 Years ago, people kept their timepieces in their pockets" lightbox></amp-img>
 </amp-img></p>
 
 <p>In the late 17th century, the watch got smaller and <a title="The History of Watches" href="http://en.wikipedia.org/wiki/History_of_watches#Pocketwatches" target="_blank" rel="noopener noreferrer">began to be kept in pockets</a>, rather than as pendants.  The pocketwatch remained in fashion for quite some time, being the chosen timepiece for men until the 20th century.</p>
@@ -156,8 +146,8 @@
 
 <p>Men chose to stick with pocketwatches for quite some time, not just because of fashion, but because watches of the time had a tendancy to be damaged by exposure to the elements, so by keeping the watch sealed and in a pocket, they would last longer.</p>
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2014/09/6a00d83452989a69e201156f35715b970b-800wi.webp" alt="Casio Calculator Watch" title="Believe it or not, Casio still makes these!"  width="342" height="539" layout="intrinsic" lightbox>
-    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2014/09/6a00d83452989a69e201156f35715b970b-800wi.jpg" alt="Casio Calculator Watch" title="Believe it or not, Casio still makes these!"  width="342" height="539" layout="intrinsic" lightbox></amp-img>
+<p><amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2014/09/6a00d83452989a69e201156f35715b970b-800wi.webp" alt="Casio Calculator Watch" title="Believe it or not, Casio still makes these!"  width="342" height="539" layout="intrinsic" lightbox>
+    <amp-img fallback src="https://www.nickmoline.com/wp-content/uploads/sites/4/2014/09/6a00d83452989a69e201156f35715b970b-800wi.jpg" alt="Casio Calculator Watch" title="Believe it or not, Casio still makes these!"  width="342" height="539" layout="intrinsic" lightbox></amp-img>
 </amp-img></p>
 
 <p>Like many advancements, it is because of the military that men started wearing watches on their wrists.  At the end of the 19th century, the importance of synchronizing maneuvers (&#8220;Synchronize your watches!&#8221;) made constantly pulling a watch out of your pocket to be impractical, and so officers of the British Army began using wistwatches during military campaigns in the 1880s.</p>
@@ -166,8 +156,8 @@
 
 <p>By the time I got my first watch in the late &#8217;80s or early &#8217;90s, digital watches were available.  As I mentioned in the beginning of this post, I favored a Casio Calculator watch to help me be lazy with arithmetic while also telling me just how behind schedule I was.</p>
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2014/09/Screen-shot-2013-03-27-at-7.00.48-AM.webp" alt="Cellphones, the new pocketwatch"  title="Cell-phones, the new pocketwatch" width="384" height="360" layout="intrinsic" lightbox>
-    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2014/09/Screen-shot-2013-03-27-at-7.00.48-AM.png" alt="Cellphones, the new pocketwatch"  title="Cell-phones, the new pocketwatch" width="384" height="360" layout="intrinsic" lightbox></amp-img>
+<p><amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2014/09/Screen-shot-2013-03-27-at-7.00.48-AM.webp" alt="Cellphones, the new pocketwatch"  title="Cell-phones, the new pocketwatch" width="384" height="360" layout="intrinsic" lightbox>
+    <amp-img fallback src="https://www.nickmoline.com/wp-content/uploads/sites/4/2014/09/Screen-shot-2013-03-27-at-7.00.48-AM.png" alt="Cellphones, the new pocketwatch"  title="Cell-phones, the new pocketwatch" width="384" height="360" layout="intrinsic" lightbox></amp-img>
 </amp-img></p>
 
 <p>I wore a wristwatch through pretty much all of my childhood and teen years, but in early adulthood, at some point after I got my first easily pocketable cell-phone, I stopped wearing it.</p>
@@ -178,13 +168,13 @@
 
 <p>When I got the first iPhone back in late 2007 it became an indispensable part of my life.  I haven&#8217;t been without a smartphone since.  But something was missing.  I have long found myself missing text message chimes, and I missed the convenience factor of being able to just glance at my wrist when I wanted to know the time.</p>
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2013/04/MG_7150-2346688102-O.webp" alt="Nick Moline, Glass Explorer" title="Nick Moline, Glass Explorer"  width="864" height="1296" layout="responsive" lightbox>
-    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2013/04/MG_7150-2346688102-O.jpg" alt="Nick Moline, Glass Explorer" title="Nick Moline, Glass Explorer"  width="864" height="1296" layout="responsive" lightbox></amp-img>
+<p><amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2013/04/MG_7150-2346688102-O.webp" alt="Nick Moline, Glass Explorer" title="Nick Moline, Glass Explorer"  width="864" height="1296" layout="responsive" lightbox>
+    <amp-img fallback src="https://www.nickmoline.com/wp-content/uploads/sites/4/2013/04/MG_7150-2346688102-O.jpg" alt="Nick Moline, Glass Explorer" title="Nick Moline, Glass Explorer"  width="864" height="1296" layout="responsive" lightbox></amp-img>
 </amp-img></p>
 
 <p>Because of this I&#8217;ve been following the wearables trend very closely for the last few years.  I was very tempted a few years ago to get the <a href="http://www.cnet.com/products/fossil-caller-id-wristwatch-w-bluetooth/" target="_blank" rel="noopener noreferrer">Fossil Caller ID Wristwatch</a> which was one of the early attempts at merging data from your phone to a watch, but the price was high and the feature set was minimal.  It just didn&#8217;t seem to be worth it.  So I waited.</p>
 
-<p>In 2012 2 different projects grabbed my attention.  The <a href="http://www.amazon.com/gp/product/B00BKEQBI0/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00BKEQBI0&linkCode=as2&tag=nickdotpro-20&linkId=ELSRGANHGGU27CR7" target="_blank" rel="noopener noreferrer" class="broken_link">Pebble</a> which had a <a href="https://www.kickstarter.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android" target="_blank" rel="noopener noreferrer">very successful kickstarter campaign</a> that showed there was very much interest in a fully functional smartwatch, and of course <a href="https://jigsaw-blog-template.tighten.co/2013/04/16/looking-at-life-from-the-other-side-of-the-glass">Google Glass</a>.  Both of these projects sought to bring information closer to me, allowing me to interact with it faster and get back to my life.</p>
+<p>In 2012 2 different projects grabbed my attention.  The <a href="http://www.amazon.com/gp/product/B00BKEQBI0/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00BKEQBI0&linkCode=as2&tag=nickdotpro-20&linkId=ELSRGANHGGU27CR7" target="_blank" rel="noopener noreferrer" class="broken_link">Pebble</a> which had a <a href="https://www.kickstarter.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android" target="_blank" rel="noopener noreferrer">very successful kickstarter campaign</a> that showed there was very much interest in a fully functional smartwatch, and of course <a href="https://www.nickmoline.com/2013/04/16/looking-at-life-from-the-other-side-of-the-glass">Google Glass</a>.  Both of these projects sought to bring information closer to me, allowing me to interact with it faster and get back to my life.</p>
 
 <p>I have loved exploring with Google Glass, and I still wear it most of the time.  The problem with Google Glass is that due to my high prescription and Glass&#8217; notoriously bad battery life, I can&#8217;t feasibly wear glass all of the time.</p>
 
@@ -206,14 +196,14 @@
 
 <p>For the couple months following I/O before we got our 360 watches, I wore the LG, and Barbara the Samsung.  Both were great watches, but I liked the way the LG fit on my wrist better than the Samsung.  We were both (and still are) incredibly happy with Android Wear.  All the notification functionality of Glass, with easier controls.</p>
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2014/09/IMG_20140920_160725-e1411275704172.webp" alt="Moto 360 on my wrist" title="Yes that is a Moto 360 on my wrist, and I am happy to see it."  width="1852" height="1852" layout="responsive" lightbox>
-    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2014/09/IMG_20140920_160725-e1411275704172.jpg" alt="Moto 360 on my wrist" title="Yes that is a Moto 360 on my wrist, and I am happy to see it."  width="1852" height="1852" layout="responsive" lightbox></amp-img>
+<p><amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2014/09/IMG_20140920_160725-e1411275704172.webp" alt="Moto 360 on my wrist" title="Yes that is a Moto 360 on my wrist, and I am happy to see it."  width="1852" height="1852" layout="responsive" lightbox>
+    <amp-img fallback src="https://www.nickmoline.com/wp-content/uploads/sites/4/2014/09/IMG_20140920_160725-e1411275704172.jpg" alt="Moto 360 on my wrist" title="Yes that is a Moto 360 on my wrist, and I am happy to see it."  width="1852" height="1852" layout="responsive" lightbox></amp-img>
 </amp-img></p>
 
 <p>Barbara and I have both switched to Moto 360 now and are very happy with it.  The round watch feels so much more natural on our wrists.  Of course now that I look at my circular watch on my wrist, I realize that <em>The Time Keeping Cycle</em> has come full circle.  I&#8217;m guessing in another 20 &#8211; 30 years we&#8217;ll once again find a reason to put time back in our pockets again.</p>
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2014/09/Time-Keeping-Cycle.webp" width="1180" height="1180" layout="responsive" lightbox>
-    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2014/09/Time-Keeping-Cycle.jpg" width="1180" height="1180" layout="responsive" lightbox></amp-img>
+<p><amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2014/09/Time-Keeping-Cycle.webp" width="1180" height="1180" layout="responsive" lightbox>
+    <amp-img fallback src="https://www.nickmoline.com/wp-content/uploads/sites/4/2014/09/Time-Keeping-Cycle.jpg" width="1180" height="1180" layout="responsive" lightbox></amp-img>
 </amp-img></p>
     </div>
 
@@ -253,13 +243,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2014/06/22/wearing-computer-mit-2-decade-dream-realized" title="Older Post: Wearing a Computer at MIT, a Two Decade Dream Realized">
+                            <a href="https://www.nickmoline.com/2014/06/22/wearing-computer-mit-2-decade-dream-realized" title="Older Post: Wearing a Computer at MIT, a Two Decade Dream Realized">
                     &LeftArrow; Wearing a Computer at MIT, a Two Decade Dream Realized
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2016/10/04/curious-google-assistant-stacks-siri-alexa-cortana" title="Newer Post: Curious how the Google Assistant stacks up against Siri, Alexa and Cortana?  So was I">
+                            <a href="https://www.nickmoline.com/2016/10/04/curious-google-assistant-stacks-siri-alexa-cortana" title="Newer Post: Curious how the Google Assistant stacks up against Siri, Alexa and Cortana?  So was I">
                     Curious how the Google Assistant stacks up against Siri, Alexa and Cortana?  So was I &RightArrow;
                 </a>
                     </div>

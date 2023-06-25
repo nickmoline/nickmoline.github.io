@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Google List Message Headers Changing - Could real Google Groups for Domains be on the way? | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2009/12/08/google-list-message-headers-changing-could-real-google-groups-for-domains-be-on-way"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2009/12/08/google-list-message-headers-changing-could-real-google-groups-for-domains-be-on-way"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Google List Message Headers Changing - Could real Google Groups for Domains be on the way? | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2009/12/08/google-list-message-headers-changing-could-real-google-groups-for-domains-be-on-way">
+        <link rel="canonical" href="https://www.nickmoline.com/2009/12/08/google-list-message-headers-changing-could-real-google-groups-for-domains-be-on-way">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -130,14 +120,14 @@
 
 <!--more-->
 
-<p><amp-img title="Old Mailing List MIME Headers" alt="Old Mailing List MIME Headers" src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2011/05/oldmailinglist.webp" width="958" height="187" layout="responsive" lightbox>
-  <amp-img fallback title="Old Mailing List MIME Headers" alt="Old Mailing List MIME Headers" src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2011/05/oldmailinglist.png" width="958" height="187" layout="responsive" lightbox></amp-img>
+<p><amp-img title="Old Mailing List MIME Headers" alt="Old Mailing List MIME Headers" src="https://www.nickmoline.com/wp-content/uploads/sites/4/2011/05/oldmailinglist.webp" width="958" height="187" layout="responsive" lightbox>
+  <amp-img fallback title="Old Mailing List MIME Headers" alt="Old Mailing List MIME Headers" src="https://www.nickmoline.com/wp-content/uploads/sites/4/2011/05/oldmailinglist.png" width="958" height="187" layout="responsive" lightbox></amp-img>
 </amp-img></p>
 
 <p>On the other hand here is the bottom of the email headers on an email sent to that same group today:</p>
 
-<p><amp-img title="New Mailing List MIME Headers" alt="New Mailing List MIME Headers" src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2011/05/newmailinglist.webp" width="953" height="255" layout="responsive" lightbox>
-  <amp-img fallback title="New Mailing List MIME Headers" alt="New Mailing List MIME Headers" src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2011/05/newmailinglist.png" width="953" height="255" layout="responsive" lightbox></amp-img>
+<p><amp-img title="New Mailing List MIME Headers" alt="New Mailing List MIME Headers" src="https://www.nickmoline.com/wp-content/uploads/sites/4/2011/05/newmailinglist.webp" width="953" height="255" layout="responsive" lightbox>
+  <amp-img fallback title="New Mailing List MIME Headers" alt="New Mailing List MIME Headers" src="https://www.nickmoline.com/wp-content/uploads/sites/4/2011/05/newmailinglist.png" width="953" height="255" layout="responsive" lightbox></amp-img>
 </amp-img></p>
 
 <p>As you can see in these images, a few new list specific header lines have been added that make lists appear more like they were handled by more traditional mailing list software, rather then a simple email forwarder.</p>
@@ -179,13 +169,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2009/11/16/mofusemobi-down-with-mysql-errors" title="Older Post: Mofuse.mobi down with MySQL Errors">
+                            <a href="https://www.nickmoline.com/2009/11/16/mofusemobi-down-with-mysql-errors" title="Older Post: Mofuse.mobi down with MySQL Errors">
                     &LeftArrow; Mofuse.mobi down with MySQL Errors
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2009/12/23/cloud-is-falling-cloud-is-falling-amazon-walmart-salesforce-and-others-down-on-dece" title="Newer Post: The Cloud is falling, the Cloud is falling! Amazon, Walmart, Salesforce and others down on December 23rd">
+                            <a href="https://www.nickmoline.com/2009/12/23/cloud-is-falling-cloud-is-falling-amazon-walmart-salesforce-and-others-down-on-dece" title="Newer Post: The Cloud is falling, the Cloud is falling! Amazon, Walmart, Salesforce and others down on December 23rd">
                     The Cloud is falling, the Cloud is falling! Amazon, Walmart, Salesforce and others down on December 23rd &RightArrow;
                 </a>
                     </div>

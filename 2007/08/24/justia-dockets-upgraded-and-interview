@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Justia Dockets Upgraded and Interview | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2007/08/24/justia-dockets-upgraded-and-interview"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2007/08/24/justia-dockets-upgraded-and-interview"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Justia Dockets Upgraded and Interview | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2007/08/24/justia-dockets-upgraded-and-interview">
+        <link rel="canonical" href="https://www.nickmoline.com/2007/08/24/justia-dockets-upgraded-and-interview">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -123,7 +113,7 @@
 
 <!--more-->
 
-<p>The bigger upgrade however is that we have now taken the cases back further and instead of just showing cases filed since 2006, we have gone all the way back to the beginning of 2004. The reason we have added 2 additional years of cases into our system is so that we can also add in even more information about cases then ever before. We have retrieved from the Federal courts, thousands of written opinions, orders, and decisions by Judges and made them available for downloading. Cases that have written opinions are signified on Justia Federal Court filings and Dockets with a Gavel Icon (<amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/justia/gavel.webp" alt="Gavel" title="Gavel" layout="fixed" width="16" height="16"><amp-img fallback src="https://jigsaw-blog-template.tighten.co/assets/images/justia/gavel.png" alt="Gavel" title="Gavel" layout="fixed" width="16" height="16"></amp-img></amp-img>), while featured cases where we have retrieved all documents filed in the case are signified with a Star icon (<amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/justia/star.webp" alt="Star" title="Star" layout="fixed" width="16" height="16"><amp-img fallback src="https://jigsaw-blog-template.tighten.co/assets/images/justia/star.png" alt="Star" title="Star" layout="fixed" width="16" height="16"></amp-img></amp-img>).</p>
+<p>The bigger upgrade however is that we have now taken the cases back further and instead of just showing cases filed since 2006, we have gone all the way back to the beginning of 2004. The reason we have added 2 additional years of cases into our system is so that we can also add in even more information about cases then ever before. We have retrieved from the Federal courts, thousands of written opinions, orders, and decisions by Judges and made them available for downloading. Cases that have written opinions are signified on Justia Federal Court filings and Dockets with a Gavel Icon (<amp-img src="https://www.nickmoline.com/assets/images/justia/gavel.webp" alt="Gavel" title="Gavel" layout="fixed" width="16" height="16"><amp-img fallback src="https://www.nickmoline.com/assets/images/justia/gavel.png" alt="Gavel" title="Gavel" layout="fixed" width="16" height="16"></amp-img></amp-img>), while featured cases where we have retrieved all documents filed in the case are signified with a Star icon (<amp-img src="https://www.nickmoline.com/assets/images/justia/star.webp" alt="Star" title="Star" layout="fixed" width="16" height="16"><amp-img fallback src="https://www.nickmoline.com/assets/images/justia/star.png" alt="Star" title="Star" layout="fixed" width="16" height="16"></amp-img></amp-img>).</p>
 
 <p>To make the Cases that have written opinions and orders easy to find we have added 2 new features. First the search box on the top of <a href="https://dockets.justia.com/">dockets.justia.com</a> has a new option to only search cases that have written opinions filed in them. Second, we have added an entirely new site Justia Federal District Court Opinions &amp; Orders which is like a filtered down version of the Justia Dockets site, showing only cases that have opinions in them, and ordered slightly differently. Instead of being ordered by the date the case was filed, the Opinions &amp; Orders site orders the cases by the date of the last filed opinion or order.</p>
 
@@ -148,13 +138,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2007/07/18/two-new-justia-services-thanks-google" title="Older Post: Two new Justia Services, Thanks Google!">
+                            <a href="https://www.nickmoline.com/2007/07/18/two-new-justia-services-thanks-google" title="Older Post: Two new Justia Services, Thanks Google!">
                     &LeftArrow; Two new Justia Services, Thanks Google!
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2007/09/26/the-infamous-carl-sandberg-not-the-famous" title="Newer Post: The infamous Carl Sandberg, not the famous.">
+                            <a href="https://www.nickmoline.com/2007/09/26/the-infamous-carl-sandberg-not-the-famous" title="Newer Post: The infamous Carl Sandberg, not the famous.">
                     The infamous Carl Sandberg, not the famous. &RightArrow;
                 </a>
                     </div>

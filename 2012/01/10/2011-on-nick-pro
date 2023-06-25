@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="2011 on Nick.pro | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2012/01/10/2011-on-nick-pro"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2012/01/10/2011-on-nick-pro"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>2011 on Nick.pro | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2012/01/10/2011-on-nick-pro">
+        <link rel="canonical" href="https://www.nickmoline.com/2012/01/10/2011-on-nick-pro">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -125,13 +115,13 @@
 
 <!--more-->
 
-<p><amp-img  src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2012/01/Fireworks.webp" alt="Happy New Year" title="Happy New Year" width="260" height="260" layout="intrinsic" lightbox>
-    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2012/01/Fireworks.jpg" alt="Happy New Year" title="Happy New Year" width="260" height="260" layout="intrinsic" lightbox></amp-img>
+<p><amp-img  src="https://www.nickmoline.com/wp-content/uploads/sites/4/2012/01/Fireworks.webp" alt="Happy New Year" title="Happy New Year" width="260" height="260" layout="intrinsic" lightbox>
+    <amp-img fallback src="https://www.nickmoline.com/wp-content/uploads/sites/4/2012/01/Fireworks.jpg" alt="Happy New Year" title="Happy New Year" width="260" height="260" layout="intrinsic" lightbox></amp-img>
 </amp-img></p>
 
 <p>In 2011 I wrote only 12 posts, which is really pathetic, but nowhere near as bad as 2010 where I posted a whopping 3 posts. I resolve in 2012 to write more often.</p>
 
-<p>My most popular post of the year? <a href="https://jigsaw-blog-template.tighten.co/2011/08/27/pottermore-cheats-earning-more-house-points-through-failure-then-success-in-potion-making/">Pottermore Cheats: Earning more house points through failure then success in potion making</a> where I outlined the flaws evident in the Potions system on Pottermore, which have since been fixed as I mentioned in my <a href="https://jigsaw-blog-template.tighten.co/2011/09/14/pottermore-cheats-potions-better-still-needs-more">second most popular post of the year</a>.</p>
+<p>My most popular post of the year? <a href="https://www.nickmoline.com/2011/08/27/pottermore-cheats-earning-more-house-points-through-failure-then-success-in-potion-making/">Pottermore Cheats: Earning more house points through failure then success in potion making</a> where I outlined the flaws evident in the Potions system on Pottermore, which have since been fixed as I mentioned in my <a href="https://www.nickmoline.com/2011/09/14/pottermore-cheats-potions-better-still-needs-more">second most popular post of the year</a>.</p>
 
 <p>Check out Jetpack.me&#8217;s full <a href="http://jetpack.me/annual-report/1079684/2011/" target="_blank">2011 year in blogging on nick.pro</a> report.</p>
     </div>
@@ -152,13 +142,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2011/12/24/the-geeks-night-before-christmas" title="Older Post: The Geek&#039;s Night Before Christmas">
+                            <a href="https://www.nickmoline.com/2011/12/24/the-geeks-night-before-christmas" title="Older Post: The Geek&#039;s Night Before Christmas">
                     &LeftArrow; The Geek&#039;s Night Before Christmas
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2012/03/13/google-io-2012-here-i-come" title="Newer Post: Google I/O 2012 Here I come">
+                            <a href="https://www.nickmoline.com/2012/03/13/google-io-2012-here-i-come" title="Newer Post: Google I/O 2012 Here I come">
                     Google I/O 2012 Here I come &RightArrow;
                 </a>
                     </div>

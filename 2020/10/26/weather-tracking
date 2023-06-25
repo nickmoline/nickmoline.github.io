@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Monitoring Weather Conditions | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2020/10/26/weather-tracking"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2020/10/26/weather-tracking"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Monitoring Weather Conditions | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2020/10/26/weather-tracking">
+        <link rel="canonical" href="https://www.nickmoline.com/2020/10/26/weather-tracking">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -130,12 +120,12 @@
 
 <p>A couple of months ago, on a day the AQI in Sunnyvale was particularly bad (everything outside was tinted orange), I went ahead and purchased the <a href="https://ambientweather.com/amws2902.html">WS-2902C</a> along with the optional addon units for measuring the PM2.5 Air Quality (one of the main factors that the AQI is calculated from) both inside and outside my apartment.  I went with the Ambient Weather unit for a number of reasons.  Of course having those Air Quality sensors were a big part of it, but I also was interested in being able to track weather online.  The Ambient Weather unit had the extra interesting improvements of integration with both IFTTT and Google Assistant, which fits into my smarthome setup quite well.</p>
 
-<p>By the time my unit arrived however the air quality was marginally better, and more importantly it was looking more and more likely that I was going to end up moving out of the bay area (<a href="https://jigsaw-blog-template.tighten.co/2020/10/04/the-next-adventure">I did</a>) so I didn't set it up.</p>
+<p>By the time my unit arrived however the air quality was marginally better, and more importantly it was looking more and more likely that I was going to end up moving out of the bay area (<a href="https://www.nickmoline.com/2020/10/04/the-next-adventure">I did</a>) so I didn't set it up.</p>
 
 <p>I haven't been in Irvine an entire month yet (heck I haven't even reached 2 weeks yet) and now there are evacuations in this very city because of wildfires down here.  At the moment my new home (shown below as the blue dot) is not yet under evacuation orders (or an evacuation warning), but the smoke is in the air and the air quality is once again bad.</p>
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2020/10/weather/fire-evacuations.webp" alt="Map of Fire Evacuations in Irvine" width="1355" height="1252" layout="responsive" lightbox>
-    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/assets/images/2020/10/weather/fire-evacuations.png" alt="Map of Fire Evacuations in Irvine" width="1355" height="1252" layout="responsive"></amp-img>
+<p><amp-img src="https://www.nickmoline.com/assets/images/2020/10/weather/fire-evacuations.webp" alt="Map of Fire Evacuations in Irvine" width="1355" height="1252" layout="responsive" lightbox>
+    <amp-img fallback src="https://www.nickmoline.com/assets/images/2020/10/weather/fire-evacuations.png" alt="Map of Fire Evacuations in Irvine" width="1355" height="1252" layout="responsive"></amp-img>
 </amp-img></p>
 
 <p>Since the air quality was bad again, the time was right to finally crack open the box and setup our new weather station.  While it looked complicated, assembly was fairly simple and I now have a fully functional internet connected weather station on my patio.</p>
@@ -144,26 +134,26 @@
 
 <p>On the patio I have the Osprey Sensor array which includes a weather vane, speed cups, an Ambient/UV Light sensor, a Thermo-Hygrometer, and a rain gauge.  The unit is primarily powered by a solar panel on the top of the unit, with 2 AA batteries to provide backup power if not enough solar energy is collected in a given day.  The unit transmits via RF (at 915 MHz) to a console located inside the apartment.</p>
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2020/10/weather/PXL_20201027_064916207.NIGHT.webp" alt="The Weather Unit on my patio, yes there is construction outside, great view" width="4032" height="3024" layout="responsive" lightbox>
-    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/assets/images/2020/10/weather/PXL_20201027_064916207.NIGHT.jpg" alt="The Weather Unit on my patio, yes there is construction outside, great view" width="4032" height="3024" layout="responsive"></amp-img>
+<p><amp-img src="https://www.nickmoline.com/assets/images/2020/10/weather/PXL_20201027_064916207.NIGHT.webp" alt="The Weather Unit on my patio, yes there is construction outside, great view" width="4032" height="3024" layout="responsive" lightbox>
+    <amp-img fallback src="https://www.nickmoline.com/assets/images/2020/10/weather/PXL_20201027_064916207.NIGHT.jpg" alt="The Weather Unit on my patio, yes there is construction outside, great view" width="4032" height="3024" layout="responsive"></amp-img>
 </amp-img></p>
 
 <p>Also on the patio is a separate solar powered unit which is the Outdoor version of the PM2.5 Particulate Monitor, which also communicates with the console inside via 915 MHz RF.</p>
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2020/10/weather/PXL_20201027_064931760.NIGHT.webp" alt="Air Quality Sensor PM 2.5" width="4032" height="3024" layout="responsive" lightbox>
-    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/assets/images/2020/10/weather/PXL_20201027_064931760.NIGHT.jpg" alt="Air Quality Sensor PM 2.5" width="4032" height="3024" layout="responsive"></amp-img>
+<p><amp-img src="https://www.nickmoline.com/assets/images/2020/10/weather/PXL_20201027_064931760.NIGHT.webp" alt="Air Quality Sensor PM 2.5" width="4032" height="3024" layout="responsive" lightbox>
+    <amp-img fallback src="https://www.nickmoline.com/assets/images/2020/10/weather/PXL_20201027_064931760.NIGHT.jpg" alt="Air Quality Sensor PM 2.5" width="4032" height="3024" layout="responsive"></amp-img>
 </amp-img></p>
 
 <p>Inside the apartment is the centralized console.  The console contains an LED display unit.  Note when I say it is an LED, it is not a video screen.  The individual LEDs light up like a traditional LCD calculator (but lit) and each LED can only light a particular area of the display.  On the display are readouts for Wind Speed and Direction, Rainfall, Outdoor Temperature and Humidity, Time and Date, Moon Phase, Barometric Pressure, a Weather Forecaast, Solar Radiation, and the UV Index.  There is also a display for the Indoor temperature and Humidity which comes from another Thermo-Hygrometer sensor located in the console itself.</p>
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2020/10/weather/PXL_20201027_065019498.webp" alt="The Main Console Display" width="4032" height="3024" layout="responsive" lightbox>
-    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/assets/images/2020/10/weather/PXL_20201027_065019498.jpg" alt="The Main Console Display" width="4032" height="3024" layout="responsive"></amp-img>
+<p><amp-img src="https://www.nickmoline.com/assets/images/2020/10/weather/PXL_20201027_065019498.webp" alt="The Main Console Display" width="4032" height="3024" layout="responsive" lightbox>
+    <amp-img fallback src="https://www.nickmoline.com/assets/images/2020/10/weather/PXL_20201027_065019498.jpg" alt="The Main Console Display" width="4032" height="3024" layout="responsive"></amp-img>
 </amp-img></p>
 
 <p>In addition to the 915 MHz RF receiver that receives communications from the other devices, this also contains a 2.4 GHz WiFi radio inside which is used to connect to your home WiFi connection for transmitting the data to the internet.  You'll note I did not mention anything on the display that mentioned displaying the PM2.5 Particulate Monitor data, this data is only available on the internet dashboards and mobile app.</p>
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2020/10/weather/Screenshot_20201027-001612.webp" alt="Viewing Air Quality on the Mobile App" width="1080" height="2160" layout="responsive" lightbox>
-    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/assets/images/2020/10/weather/Screenshot_20201027-001612.png" alt="Viewing Air Quality on the Mobile App" width="1080" height="2160" layout="responsive"></amp-img>
+<p><amp-img src="https://www.nickmoline.com/assets/images/2020/10/weather/Screenshot_20201027-001612.webp" alt="Viewing Air Quality on the Mobile App" width="1080" height="2160" layout="responsive" lightbox>
+    <amp-img fallback src="https://www.nickmoline.com/assets/images/2020/10/weather/Screenshot_20201027-001612.png" alt="Viewing Air Quality on the Mobile App" width="1080" height="2160" layout="responsive"></amp-img>
 </amp-img></p>
 
 <p>The unit can also receive from a second PM2.5 Particulate Monitor unit, which instead of being powered by solar is powered by a USB charger.  This is for monitoring the air quality inside the apartment, we placed this unit in our bedroom to get an indication of what the air quality is where Barbara will be spending most of her time.  The console can also receive from (and upload) data from up to 8 additional Thermo-Hygrometers.  We placed one of these in our bedroom to sense the temperature and humidity in our room, as well as another one in Joey's (Barbara's Brother) room.</p>
@@ -172,8 +162,8 @@
 
 <p>With everything setup, I can now access my data in a variety of places.  The unit's native home is <a href="https://ambientweather.net/dashboard/435a5c93160dc349b6a8f4b1cc27f054">Ambient Weather's own weather data service</a> which works very well, but you can also set the unit up to upload directly to <a href="https://www.wunderground.com/dashboard/pws/KCAIRVIN182">Weather Underground</a> or <a href="https://app.weathercloud.net/d2434962961#profile">Weathercloud</a>.  You aren't limited to one of these services either, those links are links to the public versions of the weather data from my weather station on all 3 services.</p>
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2020/10/weather/dashboard.webp" alt="Web Based Dashboard" width="1727" height="1444" layout="responsive" lightbox>
-    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/assets/images/2020/10/weather/dashboard.png" alt="Web Based Dashboard" width="1727" height="1444" layout="responsive"></amp-img>
+<p><amp-img src="https://www.nickmoline.com/assets/images/2020/10/weather/dashboard.webp" alt="Web Based Dashboard" width="1727" height="1444" layout="responsive" lightbox>
+    <amp-img fallback src="https://www.nickmoline.com/assets/images/2020/10/weather/dashboard.png" alt="Web Based Dashboard" width="1727" height="1444" layout="responsive"></amp-img>
 </amp-img></p>
 
 <p>From Ambient Weather you can also integrate with a number of other 3rd party services.  The first is PWS Weather which doesn't have as nice of an interface as any of the direct services, but what is nice is the ability to easily download a CSV log of the data, there's no public view of this one that I can find so no link here.  If you don't want to have your unit upload to Weather Underground directly, you can also just upload to Ambient Weather and have them integrate with Weather Underground from their service.</p>
@@ -208,13 +198,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2020/10/04/the-next-adventure" title="Older Post: Rolling up a New Character">
+                            <a href="https://www.nickmoline.com/2020/10/04/the-next-adventure" title="Older Post: Rolling up a New Character">
                     &LeftArrow; Rolling up a New Character
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2021/03/04/learning-behind-the-stage" title="Newer Post: Growing Behind the Stage">
+                            <a href="https://www.nickmoline.com/2021/03/04/learning-behind-the-stage" title="Newer Post: Growing Behind the Stage">
                     Growing Behind the Stage &RightArrow;
                 </a>
                     </div>

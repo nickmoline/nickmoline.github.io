@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Losing my Geek Cred: Nick.pro hacked | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2012/11/12/losing-my-geek-cred-nick-pro-hacked"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2012/11/12/losing-my-geek-cred-nick-pro-hacked"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Losing my Geek Cred: Nick.pro hacked | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2012/11/12/losing-my-geek-cred-nick-pro-hacked">
+        <link rel="canonical" href="https://www.nickmoline.com/2012/11/12/losing-my-geek-cred-nick-pro-hacked">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -149,13 +139,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2012/10/22/october-weight-loss-update-48-2-pounds-since-surgery-134-4-pounds-total" title="Older Post: October Weight Loss Update &amp;#8211; 48.2 pounds since surgery, 134.4 pounds total">
+                            <a href="https://www.nickmoline.com/2012/10/22/october-weight-loss-update-48-2-pounds-since-surgery-134-4-pounds-total" title="Older Post: October Weight Loss Update &amp;#8211; 48.2 pounds since surgery, 134.4 pounds total">
                     &LeftArrow; October Weight Loss Update &amp;#8211; 48.2 pounds since surgery, 134.4 pounds total
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2012/12/26/not-too-fat-to-journey-through-space-mountain" title="Newer Post: Not too fat to journey through space&amp;#8230; mountain!">
+                            <a href="https://www.nickmoline.com/2012/12/26/not-too-fat-to-journey-through-space-mountain" title="Newer Post: Not too fat to journey through space&amp;#8230; mountain!">
                     Not too fat to journey through space&amp;#8230; mountain! &RightArrow;
                 </a>
                     </div>

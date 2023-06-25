@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Time for the clear liquids only | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2012/07/24/time-clear-liquids"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2012/07/24/time-clear-liquids"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Time for the clear liquids only | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2012/07/24/time-clear-liquids">
+        <link rel="canonical" href="https://www.nickmoline.com/2012/07/24/time-clear-liquids">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -129,7 +119,7 @@
 
 <p>For those of my friends and family who believe in the power of prayer, please pray for me as I go through this final diet step before surgery, and on Thursday at 10 am Pacific time, when the operation will begin.</p>
 
-<p><em>Note for those confused why losing 2.7 more pounds only brings me to 86.2 pounds when I had <a href="https://jigsaw-blog-template.tighten.co/2012/07/10/pre-op-appointment-day-down-86-pounds" title="Pre-Op Appointment Day, Down over 83 pounds!">previously stated</a> I had lost 86.1 pounds. I apparently was mistaken <a href="https://jigsaw-blog-template.tighten.co/2012/06/01/weight-loss-update-and-transparency" title="Weight Loss Update and transparency">when I wrote that my initial weigh in number was 492.8 pounds</a> back in January, 2011.  My initial weigh in was actually 490.2 pounds.  I have adjusted the numbers from my previous 2 posts accordingly to indicate that at my previous post the number should have been 83.5 pounds.</em></p>
+<p><em>Note for those confused why losing 2.7 more pounds only brings me to 86.2 pounds when I had <a href="https://www.nickmoline.com/2012/07/10/pre-op-appointment-day-down-86-pounds" title="Pre-Op Appointment Day, Down over 83 pounds!">previously stated</a> I had lost 86.1 pounds. I apparently was mistaken <a href="https://www.nickmoline.com/2012/06/01/weight-loss-update-and-transparency" title="Weight Loss Update and transparency">when I wrote that my initial weigh in number was 492.8 pounds</a> back in January, 2011.  My initial weigh in was actually 490.2 pounds.  I have adjusted the numbers from my previous 2 posts accordingly to indicate that at my previous post the number should have been 83.5 pounds.</em></p>
     </div>
 
             <div class="mb-10 pb-4">
@@ -148,13 +138,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2012/07/18/just-week-go" title="Older Post: Just over a week to go...">
+                            <a href="https://www.nickmoline.com/2012/07/18/just-week-go" title="Older Post: Just over a week to go...">
                     &LeftArrow; Just over a week to go...
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2012/07/26/midnight-t-10-hours-go-time-stop-drinking-water" title="Newer Post: Midnight, T-10 hours to go, time to stop drinking water">
+                            <a href="https://www.nickmoline.com/2012/07/26/midnight-t-10-hours-go-time-stop-drinking-water" title="Newer Post: Midnight, T-10 hours to go, time to stop drinking water">
                     Midnight, T-10 hours to go, time to stop drinking water &RightArrow;
                 </a>
                     </div>

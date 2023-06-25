@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Mofuse.mobi down with MySQL Errors | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2009/11/16/mofusemobi-down-with-mysql-errors"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2009/11/16/mofusemobi-down-with-mysql-errors"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Mofuse.mobi down with MySQL Errors | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2009/11/16/mofusemobi-down-with-mysql-errors">
+        <link rel="canonical" href="https://www.nickmoline.com/2009/11/16/mofusemobi-down-with-mysql-errors">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -121,8 +111,8 @@
     <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
         <p>The Blog Mobile Site creator service <a href="http://mofuse.mobi/">Mofuse</a> is down today with a MySQL Error.
 <!--more-->
-<amp-img title="Mofuse.mobi down with MySQL Errors" alt="Mofuse.mobi down with MySQL Errors" src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2011/05/mofusedown.webp" width="494" height="404" layout="responsive" lightbox>
-  <amp-img fallback title="Mofuse.mobi down with MySQL Errors" alt="Mofuse.mobi down with MySQL Errors" src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2011/05/mofusedown.png" width="494" height="404" layout="responsive" lightbox></amp-img>
+<amp-img title="Mofuse.mobi down with MySQL Errors" alt="Mofuse.mobi down with MySQL Errors" src="https://www.nickmoline.com/wp-content/uploads/sites/4/2011/05/mofusedown.webp" width="494" height="404" layout="responsive" lightbox>
+  <amp-img fallback title="Mofuse.mobi down with MySQL Errors" alt="Mofuse.mobi down with MySQL Errors" src="https://www.nickmoline.com/wp-content/uploads/sites/4/2011/05/mofusedown.png" width="494" height="404" layout="responsive" lightbox></amp-img>
 </amp-img></p>
     </div>
 
@@ -142,13 +132,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2009/08/31/nickpro-migrated-to-drupal" title="Older Post: Nick.pro Migrated to Drupal">
+                            <a href="https://www.nickmoline.com/2009/08/31/nickpro-migrated-to-drupal" title="Older Post: Nick.pro Migrated to Drupal">
                     &LeftArrow; Nick.pro Migrated to Drupal
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2009/12/08/google-list-message-headers-changing-could-real-google-groups-for-domains-be-on-way" title="Newer Post: Google List Message Headers Changing - Could real Google Groups for Domains be on the way?">
+                            <a href="https://www.nickmoline.com/2009/12/08/google-list-message-headers-changing-could-real-google-groups-for-domains-be-on-way" title="Newer Post: Google List Message Headers Changing - Could real Google Groups for Domains be on the way?">
                     Google List Message Headers Changing - Could real Google Groups for Domains be on the way? &RightArrow;
                 </a>
                     </div>

@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Pop goes the... | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2004/07/28/pop"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/07/28/pop"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Pop goes the... | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2004/07/28/pop">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/07/28/pop">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -125,7 +115,7 @@
 
 <p>I was just about to pass Discount Tire Company at the time, so I pulled into the parking lot and got out and saw that lo and behold, my front right tire was completely flat. Not being a man of muscle, I called the house to ask for help. David came to my aid, changed the tire with the spare, and escorted me home. I then had to wait for mother to get home (which she showed up an hour and a half later then Dad expected she would) and then drove her car here to get the job done (I&#8217;m still at the District Office uploading pictures to Angela&#8217;s Photo Gallery).</p>
 
-<p>I&#8217;m in a Catch 22 situation (&#8220;I&#8217;m curious, <a href="https://jigsaw-blog-template.tighten.co/2004/07/28/catch22">what is the <em>etymology</em> of that idiom?</a>&#8221;) in that I have to work to get money to pay for new tires, but I cannot get to jobs to work unless I have a car that has tires. Oh well, something will get figured out&#8230;. I hope.</p>
+<p>I&#8217;m in a Catch 22 situation (&#8220;I&#8217;m curious, <a href="https://www.nickmoline.com/2004/07/28/catch22">what is the <em>etymology</em> of that idiom?</a>&#8221;) in that I have to work to get money to pay for new tires, but I cannot get to jobs to work unless I have a car that has tires. Oh well, something will get figured out&#8230;. I hope.</p>
     </div>
 
             <div class="mb-10 pb-4">
@@ -134,13 +124,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2004/07/28/jibjab" title="Older Post: JibJab">
+                            <a href="https://www.nickmoline.com/2004/07/28/jibjab" title="Older Post: JibJab">
                     &LeftArrow; JibJab
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2004/07/30/busy" title="Newer Post: Busy">
+                            <a href="https://www.nickmoline.com/2004/07/30/busy" title="Newer Post: Busy">
                     Busy &RightArrow;
                 </a>
                     </div>

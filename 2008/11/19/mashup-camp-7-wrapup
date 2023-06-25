@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Mashup Camp 7 Wrapup | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2008/11/19/mashup-camp-7-wrapup"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2008/11/19/mashup-camp-7-wrapup"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Mashup Camp 7 Wrapup | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2008/11/19/mashup-camp-7-wrapup">
+        <link rel="canonical" href="https://www.nickmoline.com/2008/11/19/mashup-camp-7-wrapup">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -124,7 +114,7 @@
         >Tech</a>
     
     <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
-        <p>As I <a href="https://jigsaw-blog-template.tighten.co/2008/11/11/mashup-camp-next-week">Posted about last week</a>, I attended Mashup Camp at the Computer History Museum this week. It has been a packed couple of days. I mentioned before I was not really considering entering the Speedgeeking Contest that occurs at each Mashup Camp. Last Spring&#8217;s Mashup Camp I was a bit depressed to come in last place, but this contest was different, this time they had one top prize (A MacBook Pro) awarded by attendee voting, but then the individual providers sponsoring the event also had their own contests of who had the best mashup using their service.</p>
+        <p>As I <a href="https://www.nickmoline.com/2008/11/11/mashup-camp-next-week">Posted about last week</a>, I attended Mashup Camp at the Computer History Museum this week. It has been a packed couple of days. I mentioned before I was not really considering entering the Speedgeeking Contest that occurs at each Mashup Camp. Last Spring&#8217;s Mashup Camp I was a bit depressed to come in last place, but this contest was different, this time they had one top prize (A MacBook Pro) awarded by attendee voting, but then the individual providers sponsoring the event also had their own contests of who had the best mashup using their service.</p>
 
 <!--more-->
 
@@ -138,12 +128,12 @@
 
 <p>I&#8217;m so excited about this, that I&#8217;m going to cut this blog post short and go celebrate. Thank you to Wet Paint for both putting up an incredible Wiki Injection API for adding wiki content to pages (rather then adding pages to wikis), and for choosing my project for the Win, and thank you to the organizers of <a href="http://www.mashupcamp.com/">Mashup Camp</a> for organizing a great Unconference.</p>
 
-<p><amp-img class="alignright" src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2008/11/cc09_125x125an-imattending.gif" title="I&#039;m Attending Cloud Connect January 20-22, 2009" alt="I&#039;m Attending Cloud Connect January 20-22, 2009" width="125" height="125" layout="fixed"></amp-img>The Organizers of Mashup Camp have announced another event at the Computer History Museum in January called <a href="http://www.cloudconnectevent.com/">Cloud Connect</a>, and I&#8217;ve already registered for that one, so if you come, I&#8217;ll <a href="http://www.cloudconnectevent.com/">see you there</a>.</p>
+<p><amp-img class="alignright" src="https://www.nickmoline.com/wp-content/uploads/sites/4/2008/11/cc09_125x125an-imattending.gif" title="I&#039;m Attending Cloud Connect January 20-22, 2009" alt="I&#039;m Attending Cloud Connect January 20-22, 2009" width="125" height="125" layout="fixed"></amp-img>The Organizers of Mashup Camp have announced another event at the Computer History Museum in January called <a href="http://www.cloudconnectevent.com/">Cloud Connect</a>, and I&#8217;ve already registered for that one, so if you come, I&#8217;ll <a href="http://www.cloudconnectevent.com/">see you there</a>.</p>
 
 <p><strong>UPDATE 2008-12-03:</strong> I just noticed the <a href="https://web.archive.org/web/20110812164552/http://blog.wetpaintinjected.com/?p=53">WetPaint team&#8217;s Blog Post wrapping up their experiences at MashupCamp</a> and wanted to thank them for the prize (which arrived Today via FedEx), and for the card which is now pinned to the wall of my Cubicle. Check out their <a href="https://web.archive.org/web/20110812164552/http://blog.wetpaintinjected.com/?p=53">tales of upgrades to First Class</a> at the end of their post, which I presume is on Virgin America, due to the mention of Massage Chairs.</p>
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2008/12/img_0001.webp" title="Wet Paint Prize and Swag" alt="Wet Paint Prize and Swag" width="1600" height="1200" layout="responsive" lightbox>
-  <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2008/12/img_0001.jpg" title="Wet Paint Prize and Swag" alt="Wet Paint Prize and Swag" width="1600" height="1200" layout="responsive" lightbox></amp-img>
+<p><amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2008/12/img_0001.webp" title="Wet Paint Prize and Swag" alt="Wet Paint Prize and Swag" width="1600" height="1200" layout="responsive" lightbox>
+  <amp-img fallback src="https://www.nickmoline.com/wp-content/uploads/sites/4/2008/12/img_0001.jpg" title="Wet Paint Prize and Swag" alt="Wet Paint Prize and Swag" width="1600" height="1200" layout="responsive" lightbox></amp-img>
 </amp-img></p>
     </div>
 
@@ -168,13 +158,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2008/11/11/mashup-camp-next-week" title="Older Post: Mashup Camp, Next Week">
+                            <a href="https://www.nickmoline.com/2008/11/11/mashup-camp-next-week" title="Older Post: Mashup Camp, Next Week">
                     &LeftArrow; Mashup Camp, Next Week
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2008/12/11/upgrades-and-hard-work" title="Newer Post: Upgrades and hard work">
+                            <a href="https://www.nickmoline.com/2008/12/11/upgrades-and-hard-work" title="Newer Post: Upgrades and hard work">
                     Upgrades and hard work &RightArrow;
                 </a>
                     </div>

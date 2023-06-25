@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Seven Blog Posts in Three Days | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2017/05/22/seven-blog-posts-three-days"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2017/05/22/seven-blog-posts-three-days"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Seven Blog Posts in Three Days | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2017/05/22/seven-blog-posts-three-days">
+        <link rel="canonical" href="https://www.nickmoline.com/2017/05/22/seven-blog-posts-three-days">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -126,7 +116,7 @@
         >Events</a>
     
     <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
-        <p>Last week Barbara and I attended the annual Google I/O Developer&#8217;s conference in Mountain View. &nbsp;We&#8217;ve attended every year since the <a href="https://jigsaw-blog-template.tighten.co/2008/06/01/google-io-part-1-google-app-engine">first one</a> back in 2008 and were glad to continue the streak.</p>
+        <p>Last week Barbara and I attended the annual Google I/O Developer&#8217;s conference in Mountain View. &nbsp;We&#8217;ve attended every year since the <a href="https://www.nickmoline.com/2008/06/01/google-io-part-1-google-app-engine">first one</a> back in 2008 and were glad to continue the streak.</p>
 
 <!--more-->
 
@@ -196,13 +186,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2017/05/03/hide-content-search-engines" title="Older Post: How To: Hide content from search engines, and why you would do it">
+                            <a href="https://www.nickmoline.com/2017/05/03/hide-content-search-engines" title="Older Post: How To: Hide content from search engines, and why you would do it">
                     &LeftArrow; How To: Hide content from search engines, and why you would do it
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2017/07/05/page-performance-tips-and-tools" title="Newer Post: Page Performance Tips and Tools — Speed Up Your Website Today!">
+                            <a href="https://www.nickmoline.com/2017/07/05/page-performance-tips-and-tools" title="Newer Post: Page Performance Tips and Tools — Speed Up Your Website Today!">
                     Page Performance Tips and Tools — Speed Up Your Website Today! &RightArrow;
                 </a>
                     </div>

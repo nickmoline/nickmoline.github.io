@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Weight Loss Update and transparency | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2012/06/01/weight-loss-update-and-transparency"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2012/06/01/weight-loss-update-and-transparency"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Weight Loss Update and transparency | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2012/06/01/weight-loss-update-and-transparency">
+        <link rel="canonical" href="https://www.nickmoline.com/2012/06/01/weight-loss-update-and-transparency">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -121,7 +111,7 @@
         >Health</a>
     
     <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
-        <p>As everyone who has ever seen me (or a picture of me) can attest, I am extremely obese.  After I wrote <a href="https://jigsaw-blog-template.tighten.co/2011/08/27/pottermore-cheats-earning-more-house-points-through-failure-then-success-in-potion-making" title="Pottermore Cheats: Earning more house points through failure then success in potion making">my most popular blog post ever</a>, one wiki (which doesn&#8217;t seem to be online anymore) linked to my article and credited me only as &#8220;a very large man&#8221; and it is true, I was and still am quite huge.</p>
+        <p>As everyone who has ever seen me (or a picture of me) can attest, I am extremely obese.  After I wrote <a href="https://www.nickmoline.com/2011/08/27/pottermore-cheats-earning-more-house-points-through-failure-then-success-in-potion-making" title="Pottermore Cheats: Earning more house points through failure then success in potion making">my most popular blog post ever</a>, one wiki (which doesn&#8217;t seem to be online anymore) linked to my article and credited me only as &#8220;a very large man&#8221; and it is true, I was and still am quite huge.</p>
 
 <p>What those closer to me know, is I have since January 2011 been working on this problem.  I started working on losing some of that excess weight and have made some great progress.  As of just last week I&#8217;ve reached an important milestone in this progress and I wanted to finally come clean and share the real numbers with the world.</p>
 
@@ -137,8 +127,8 @@
 
 <p>There are basically 3 main types of Gastric surgery done commonly today (there are others, but these 3 are the most common and safest).  Gastric Bypass, Gastric Sleeve, and Gastric Band.  Bypass is the one credited with the most weight loss, but also has the biggest impact on your life and has many dangers related to it (as it reroutes part of your small intestine to decrease absorption of nutrients in foods, many people end up severely malnourished after getting Bypass).  Band is the most reversible (you put a small tube around the top of the stomach and insert saline solution into it to squeeze the stomach, tricking the body into thinking the stomach is smaller and killing your hunger) but has the least amount of weight loss success.</p>
 
-<p><amp-img  title="Diagram Gastric Sleeve" alt="Diagram Gastric Sleeve" src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2012/06/DiagramGastricSleeve.webp" width="349" height="324" layout="intrinsic" lightbox>
-    <amp-img fallback title="Diagram Gastric Sleeve" alt="Diagram Gastric Sleeve" src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2012/06/DiagramGastricSleeve.jpg" width="349" height="324" layout="intrinsic" lightbox></amp-img>
+<p><amp-img  title="Diagram Gastric Sleeve" alt="Diagram Gastric Sleeve" src="https://www.nickmoline.com/wp-content/uploads/sites/4/2012/06/DiagramGastricSleeve.webp" width="349" height="324" layout="intrinsic" lightbox>
+    <amp-img fallback title="Diagram Gastric Sleeve" alt="Diagram Gastric Sleeve" src="https://www.nickmoline.com/wp-content/uploads/sites/4/2012/06/DiagramGastricSleeve.jpg" width="349" height="324" layout="intrinsic" lightbox></amp-img>
 </amp-img></p>
 
 <p>I&#8217;m going for the middle ground, Gastric Sleeve.  With Gastric Sleeve, they cut out a large portion of my stomach leaving a small cylindrical stomach.  Most surgeons will make it about the size of a banana (my mother&#8217;s did that for her).  My surgeon is a little more agressive and says it will be about the size of a Magic Marker.  With a stomach so small, naturally I will feel full with far less food (they say I will basically be able to &#8220;stomach&#8221; about 2-3 ounces of food per meal).  This, along with continuing my healthier diet and exercise will help me to return to the rapid progress I had in the beginning.</p>
@@ -171,13 +161,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2012/05/30/web-intents-atom-annoyance" title="Older Post: Web Intents are Great | Web Intents are Horrible">
+                            <a href="https://www.nickmoline.com/2012/05/30/web-intents-atom-annoyance" title="Older Post: Web Intents are Great | Web Intents are Horrible">
                     &LeftArrow; Web Intents are Great | Web Intents are Horrible
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2012/06/16/getting-near-full-resolution-on-a-macbook-pro-retina-display" title="Newer Post: Getting full resolution on a Macbook Pro Retina Display">
+                            <a href="https://www.nickmoline.com/2012/06/16/getting-near-full-resolution-on-a-macbook-pro-retina-display" title="Newer Post: Getting full resolution on a Macbook Pro Retina Display">
                     Getting full resolution on a Macbook Pro Retina Display &RightArrow;
                 </a>
                     </div>

@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Busy | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2004/07/30/busy"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/07/30/busy"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Busy | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2004/07/30/busy">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/07/30/busy">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -114,7 +104,7 @@
             
         
     <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
-        <p>Following my <a href="https://jigsaw-blog-template.tighten.co/2004/07/30/tired">Restless night&#8217;s sleep</a> I had a rather busy day. I received calls for support from the SWDCMA, from ERCC, and from FTMC. FTMC I handled over the phone, SWDCMA I started to handle remotely, but in the process of trying to fix their problem I had to upgrade the firmware on their router, which of course resulted in resetting the router&#8217;s settings to factory conditions. So I had to bum a ride from one of David&#8217;s friends to get over to the SWDCMA office and set the router back up.</p>
+        <p>Following my <a href="https://www.nickmoline.com/2004/07/30/tired">Restless night&#8217;s sleep</a> I had a rather busy day. I received calls for support from the SWDCMA, from ERCC, and from FTMC. FTMC I handled over the phone, SWDCMA I started to handle remotely, but in the process of trying to fix their problem I had to upgrade the firmware on their router, which of course resulted in resetting the router&#8217;s settings to factory conditions. So I had to bum a ride from one of David&#8217;s friends to get over to the SWDCMA office and set the router back up.</p>
 
 <!--more-->
 
@@ -133,13 +123,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2004/07/28/pop" title="Older Post: Pop goes the...">
+                            <a href="https://www.nickmoline.com/2004/07/28/pop" title="Older Post: Pop goes the...">
                     &LeftArrow; Pop goes the...
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2004/07/30/tired" title="Newer Post: Tired">
+                            <a href="https://www.nickmoline.com/2004/07/30/tired" title="Newer Post: Tired">
                     Tired &RightArrow;
                 </a>
                     </div>

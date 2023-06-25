@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Google Chrome will probably support Firefox Extensions! - UPDATED | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2008/09/02/google-chrome-will-probably-support-firefox-extensions"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2008/09/02/google-chrome-will-probably-support-firefox-extensions"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Google Chrome will probably support Firefox Extensions! - UPDATED | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2008/09/02/google-chrome-will-probably-support-firefox-extensions">
+        <link rel="canonical" href="https://www.nickmoline.com/2008/09/02/google-chrome-will-probably-support-firefox-extensions">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -129,13 +119,13 @@
 
 <p><a href="http://strongdynamic.blogspot.com/2008/09/google-chrome-no-extensions.html">A</a> <a href="http://cf-bill.blogspot.com/2008/09/google-chrome-early-impressions.html">lot</a> <a href="http://ostatic.com/172340-blog/hands-on-with-chrome-clean-and-crisp-but-needs-extensions">of</a> <a href="http://www.jillesvangurp.com/2008/09/02/google-chrome-first-impressions/">people</a> <a href="http://internetducttape.com/2008/09/02/why-google-chrome-isnt-my-default-browser/">are</a> <a href="http://mamchenkov.net/wordpress/2008/09/03/google-chrome-a-new-punch-in-the-browser-fight/">complaining</a> that <a href="http://www.google.com/support/chrome/bin/answer.py?answer=95695">Firefox Extensions do not work in Google Chrome</a>, and why would they, they are Firefox extensions, not <a href="http://www.google.com/chrome/">Google Chrome</a> extensions. The Firefox Extensions are not built to be compatible with Webkit, which Google Chrome is based on.</p>
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2008/09/region-capture-1.webp" title="Get Bookmark Add-ons" alt="Get Bookmark Add-ons" width="172" height="29" layout="fixed">
-  <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2008/09/region-capture-1.png" title="Get Bookmark Add-ons" alt="Get Bookmark Add-ons" width="172" height="29" layout="fixed"></amp-img>
+<p><amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2008/09/region-capture-1.webp" title="Get Bookmark Add-ons" alt="Get Bookmark Add-ons" width="172" height="29" layout="fixed">
+  <amp-img fallback src="https://www.nickmoline.com/wp-content/uploads/sites/4/2008/09/region-capture-1.png" title="Get Bookmark Add-ons" alt="Get Bookmark Add-ons" width="172" height="29" layout="fixed"></amp-img>
 </amp-img>
 But what a lot of people seem to be missing is that on the new tab page/home page screen there&#8217;s a link that reads <strong>Get Bookmark Add-ons</strong>. When you click this link you are taken&#8230; to the Firefox Add-on site to find Bookmark Firefox Extensions. This seems to me to indicate that Google is planning on supporting Firefox plugins, why else would they link there.</p>
 
-<p><amp-img class="aligncenter" src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2008/09/region-capture-2.png" title="Firefox Add-ons in Google Chrome" alt="Firefox Add-ons in Google Chrome" width="978" height="728" layout="responsive" lightbox>
-  <amp-img fallback class="aligncenter" src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2008/09/region-capture-2.png" title="Firefox Add-ons in Google Chrome" alt="Firefox Add-ons in Google Chrome" width="978" height="728" layout="responsive" lightbox></amp-img>
+<p><amp-img class="aligncenter" src="https://www.nickmoline.com/wp-content/uploads/sites/4/2008/09/region-capture-2.png" title="Firefox Add-ons in Google Chrome" alt="Firefox Add-ons in Google Chrome" width="978" height="728" layout="responsive" lightbox>
+  <amp-img fallback class="aligncenter" src="https://www.nickmoline.com/wp-content/uploads/sites/4/2008/09/region-capture-2.png" title="Firefox Add-ons in Google Chrome" alt="Firefox Add-ons in Google Chrome" width="978" height="728" layout="responsive" lightbox></amp-img>
 </amp-img></p>
 
 <p>Google Chrome is nice, it has some of the features I&#8217;ve long liked in Safari (like dragging a tab out of a window to keep work flow better) and a great UI. I&#8217;m also fond of the syntax hilighting in the address bar that shows you different parts of the URL, and the integrated searching is fast and easy to use. I&#8217;m also intrigued by the concept of separating each tab into it&#8217;s own little process world. It makes sense in some ways, but I&#8217;m always leery of having lots of processes running.</p>
@@ -164,13 +154,13 @@ But what a lot of people seem to be missing is that on the new tab page/home pag
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2008/08/27/keeping-in-step-how-to-sync-your-iphones-calendar-with-google-calendar" title="Older Post: Keeping in Step, how to Sync your iPhone&#039;s Calendar with Google Calendar">
+                            <a href="https://www.nickmoline.com/2008/08/27/keeping-in-step-how-to-sync-your-iphones-calendar-with-google-calendar" title="Older Post: Keeping in Step, how to Sync your iPhone&#039;s Calendar with Google Calendar">
                     &LeftArrow; Keeping in Step, how to Sync your iPhone&#039;s Calendar with Google Calendar
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2008/09/10/amazon-kindle-reader-for-the-iphone" title="Newer Post: Amazon Kindle Reader for the iPhone">
+                            <a href="https://www.nickmoline.com/2008/09/10/amazon-kindle-reader-for-the-iphone" title="Newer Post: Amazon Kindle Reader for the iPhone">
                     Amazon Kindle Reader for the iPhone &RightArrow;
                 </a>
                     </div>

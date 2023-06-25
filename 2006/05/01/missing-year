@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="525,600 minutes, how do you measure a year | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2006/05/01/missing-year"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2006/05/01/missing-year"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>525,600 minutes, how do you measure a year | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2006/05/01/missing-year">
+        <link rel="canonical" href="https://www.nickmoline.com/2006/05/01/missing-year">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -133,7 +123,7 @@
 
 <!--more-->
 
-<p>First of all, the play I mentioned in a <a href="https://jigsaw-blog-template.tighten.co/2005/01/24/drama-king" title="Don't be such a Drama King">previous post</a> went on pretty well, and you can find pictures of the play in my photo gallery. While it was one of the most exhausting things I&#8217;ve ever done, acting as Roger in Musical Comedy Murders of 1940 was a blast and lit a fire within me letting me know I was far more interested in Acting then I ever dreamed I would be. So much so that this year when given the chance again, I again took the stage playing a character in a play, but more about that later.</p>
+<p>First of all, the play I mentioned in a <a href="https://www.nickmoline.com/2005/01/24/drama-king" title="Don't be such a Drama King">previous post</a> went on pretty well, and you can find pictures of the play in my photo gallery. While it was one of the most exhausting things I&#8217;ve ever done, acting as Roger in Musical Comedy Murders of 1940 was a blast and lit a fire within me letting me know I was far more interested in Acting then I ever dreamed I would be. So much so that this year when given the chance again, I again took the stage playing a character in a play, but more about that later.</p>
 
 <p>The job interview I mentioned in a previous post did turn out to getting me a new job. I have for the past year been working for <a href="http://www.wantabetterwebsite.com/">Want a Better Website, Inc.</a> in Fort Worth, which is probably the primary reason I stopped writing blog entries. I have been so busy since then that I haven&#8217;t had any time whatsoever. The job is stressful and at times I don&#8217;t like it, but at other times it can be a lot of fun. In the last year I have learned PHP and now program in it almost exclusively. I&#8217;ve accomplished many interesting things in programming over the past year including learning CSS and even (more recently AJAX).</p>
 
@@ -143,8 +133,8 @@
 
 <p>Speaking of ACTD, I don&#8217;t remember if this happened before or after I stopped writing or not, but I am now the SM (once upon a time known as AGM) of <a href="http://arcadia.stations.acalltoduty.com/">Arcadia Station</a>. It is a lot of fun to come up with plotlines for the crew members to act out, and I enjoy each week sitting down to start a new mission.</p>
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2006/05/hphbp.webp" title="Harry Potter and the Half-Blood Prince (Book 6)" alt="Harry Potter and the Half-Blood Prince (Book 6)" width="662" height="1000" layout="responsive" lightbox>
-  <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2006/05/hphbp.jpg" title="Harry Potter and the Half-Blood Prince (Book 6)" alt="Harry Potter and the Half-Blood Prince (Book 6)" width="662" height="1000" layout="responsive" lightbox></amp-img>
+<p><amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2006/05/hphbp.webp" title="Harry Potter and the Half-Blood Prince (Book 6)" alt="Harry Potter and the Half-Blood Prince (Book 6)" width="662" height="1000" layout="responsive" lightbox>
+  <amp-img fallback src="https://www.nickmoline.com/wp-content/uploads/sites/4/2006/05/hphbp.jpg" title="Harry Potter and the Half-Blood Prince (Book 6)" alt="Harry Potter and the Half-Blood Prince (Book 6)" width="662" height="1000" layout="responsive" lightbox></amp-img>
 </amp-img></p>
 
 <p>In July <a href="https://smile.amazon.com/o/ASIN/0439784549/132-6113714-8782916?SubscriptionId=0P20NKJGP78BQ061KR02/132-6113714-8782916&amp;sa-no-redirect=1" title="View product details at Amazon">Harry Potter and the Half Blood Prince</a> came out. Surely you are thinking, why is that something I care about enough to remember, two reasons. First of all it was a really good book, by far the best in the series and if you haven&#8217;t read it yet, then I strongly recommend you <a href="https://smile.amazon.com/o/ASIN/0439784549/132-6113714-8782916?SubscriptionId=0P20NKJGP78BQ061KR02/132-6113714-8782916&amp;sa-no-redirect=1" title="View product details at Amazon">read it</a>. The second, and far sadder reason that I am posting about the release of HBP is because I planned a trip around it&#8217;s release date. The Thursday before the release I flew to Tennessee to visit my girlfriend, the hope being that we would have a good time together and actually get a chance to read the book as well.</p>
@@ -161,8 +151,8 @@
 
 <p>I became a staff member on <a href="http://www.hogwartslive.com/">HogwartsLive</a>, a Harry Potter RPG running the Legend of the Green Dragon code at some point in the year and I&#8217;m glad I did, because in October I met Barbara Garcia on the site. We became friends very quickly, always making sure to chat when we had time.</p>
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2006/05/hpgfmov.webp" title="Harry Potter and the Goblet of Fire (Movie 4)" alt="Harry Potter and the Goblet of Fire (Movie 4)" width="473" height="679" layout="responsive" lightbox>
-  <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2006/05/hpgfmov.jpg" title="Harry Potter and the Goblet of Fire (Movie 4)" alt="Harry Potter and the Goblet of Fire (Movie 4)" width="473" height="679" layout="responsive" lightbox></amp-img>
+<p><amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2006/05/hpgfmov.webp" title="Harry Potter and the Goblet of Fire (Movie 4)" alt="Harry Potter and the Goblet of Fire (Movie 4)" width="473" height="679" layout="responsive" lightbox>
+  <amp-img fallback src="https://www.nickmoline.com/wp-content/uploads/sites/4/2006/05/hpgfmov.jpg" title="Harry Potter and the Goblet of Fire (Movie 4)" alt="Harry Potter and the Goblet of Fire (Movie 4)" width="473" height="679" layout="responsive" lightbox></amp-img>
 </amp-img></p>
 
 <p>In November I travelled to Phoenix to visit my friend <a href="http://www.goosite.net/">Mike</a> (also known as MrGoo or Gooey). We saw Harry Potter and the Goblet of Fire in IMAX on the day of release with his family. It was a fun week and a half trip and a nice getaway from Texas. The movie was definitely the best of the Harry Potter movies (far better then Prisoner of Azkaban which I was mad at because it skipped the central plotline of the book!) In addition to the movie I was also introduced to an interesting new food item, Pine Burgers, which Mike&#8217;s family introduced me to. Pineapple on a burger, yum!</p>
@@ -229,13 +219,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2005/02/15/its-the-simple-things" title="Older Post: It&#039;s the Simple Things...">
+                            <a href="https://www.nickmoline.com/2005/02/15/its-the-simple-things" title="Older Post: It&#039;s the Simple Things...">
                     &LeftArrow; It&#039;s the Simple Things...
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2006/05/15/trend-started" title="Newer Post: Trend Started">
+                            <a href="https://www.nickmoline.com/2006/05/15/trend-started" title="Newer Post: Trend Started">
                     Trend Started &RightArrow;
                 </a>
                     </div>

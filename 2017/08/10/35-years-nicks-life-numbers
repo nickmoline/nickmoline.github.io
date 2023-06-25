@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="35 Years of Nicks Life, by the Numbers | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2017/08/10/35-years-nicks-life-numbers"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2017/08/10/35-years-nicks-life-numbers"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>35 Years of Nicks Life, by the Numbers | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2017/08/10/35-years-nicks-life-numbers">
+        <link rel="canonical" href="https://www.nickmoline.com/2017/08/10/35-years-nicks-life-numbers">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -157,8 +147,8 @@
     </tr>
 </table>
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2017/08/nickslifebystate-e1502403863541.webp" alt="My Life by State"  width="546" height="362" layout="responsive" lightbox>
-    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2017/08/nickslifebystate-e1502403863541.png" alt="My Life by State"  width="546" height="362" layout="responsive" lightbox></amp-img>
+<p><amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2017/08/nickslifebystate-e1502403863541.webp" alt="My Life by State"  width="546" height="362" layout="responsive" lightbox>
+    <amp-img fallback src="https://www.nickmoline.com/wp-content/uploads/sites/4/2017/08/nickslifebystate-e1502403863541.png" alt="My Life by State"  width="546" height="362" layout="responsive" lightbox></amp-img>
 </amp-img></p>
 
 <p><small><em><sup>*</sup> Note, when I was very young I spent 6 months each in Texas and Florida.  Since I do not have the precise move in and out days for those locations, I&#8217;m estimating under the assumption that I spent half a year in each location (182 days, giving the extra 1 day back to California).  I likely did not spend exactly 182 days in each of Florida and Texas, so the exact number of days for California, Texas and Florida may be slightly off.</em></small></p>
@@ -189,14 +179,14 @@
 
 <h2>About that Picture</h2>
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2017/08/IMG_20170730_184705.webp" alt="Nick's Birthday Dessert from my recent trip to Disneyland"  width="4048" height="3036" layout="responsive" lightbox>
-    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2017/08/IMG_20170730_184705.jpg" alt="Nick's Birthday Dessert from my recent trip to Disneyland"  width="4048" height="3036" layout="responsive" lightbox></amp-img>
+<p><amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2017/08/IMG_20170730_184705.webp" alt="Nick's Birthday Dessert from my recent trip to Disneyland"  width="4048" height="3036" layout="responsive" lightbox>
+    <amp-img fallback src="https://www.nickmoline.com/wp-content/uploads/sites/4/2017/08/IMG_20170730_184705.jpg" alt="Nick's Birthday Dessert from my recent trip to Disneyland"  width="4048" height="3036" layout="responsive" lightbox></amp-img>
 </amp-img></p>
 
 <p>The Featured photo for this post was one of the birthday desserts Disneyland gave me while I was there celebrating last week.  This chocolate mousse was incredibly delicious and it was super cute too.  The dessert itself comes with the <em>Fantasmic</em> Dining Package at the Blue Bayou.  The meal was delicious and the reserved viewing area for people who ate at the Blue Bayou had a fantastic vantage point to watch the newly revamped <em>Fantasmic</em> show.</p>
 
-<p><amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2017/08/IMG_20170730_205939.webp" alt="Our view for Fantasmic"  width="4048" height="3036" layout="responsive" lightbox>
-    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2017/08/IMG_20170730_205939.jpg" alt="Our view for Fantasmic"  width="4048" height="3036" layout="responsive" lightbox></amp-img>
+<p><amp-img src="https://www.nickmoline.com/wp-content/uploads/sites/4/2017/08/IMG_20170730_205939.webp" alt="Our view for Fantasmic"  width="4048" height="3036" layout="responsive" lightbox>
+    <amp-img fallback src="https://www.nickmoline.com/wp-content/uploads/sites/4/2017/08/IMG_20170730_205939.jpg" alt="Our view for Fantasmic"  width="4048" height="3036" layout="responsive" lightbox></amp-img>
 </amp-img></p>
     </div>
 
@@ -216,13 +206,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2017/07/28/instant-messaging-services" title="Older Post: Collaborative Firm: Instant Messaging Services">
+                            <a href="https://www.nickmoline.com/2017/07/28/instant-messaging-services" title="Older Post: Collaborative Firm: Instant Messaging Services">
                     &LeftArrow; Collaborative Firm: Instant Messaging Services
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2017/09/08/hurry-migrate-to-https" title="Newer Post: Hurry! Time Is Running Out to Migrate Your Site to HTTPS!">
+                            <a href="https://www.nickmoline.com/2017/09/08/hurry-migrate-to-https" title="Newer Post: Hurry! Time Is Running Out to Migrate Your Site to HTTPS!">
                     Hurry! Time Is Running Out to Migrate Your Site to HTTPS! &RightArrow;
                 </a>
                     </div>

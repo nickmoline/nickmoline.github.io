@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Twitter Tip: A Better @replies List in TweetDeck | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2009/03/06/twitter-tip-better-replies-in-tweetdeck"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2009/03/06/twitter-tip-better-replies-in-tweetdeck"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Twitter Tip: A Better @replies List in TweetDeck | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2009/03/06/twitter-tip-better-replies-in-tweetdeck">
+        <link rel="canonical" href="https://www.nickmoline.com/2009/03/06/twitter-tip-better-replies-in-tweetdeck">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -119,19 +109,19 @@
         >Tech</a>
     
     <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
-        <p>Both Twitter and TweetDeck (as well as most other Twitter Clients) give you an easy way to get a list of responses people sent you.  On Twitter itself, this is the @Replies tab off of your home page. TweetDeck gives you a Replies column by default, and if you delete it, you can get it back by clicking on the replies button <amp-img title="Replies button in TweetDeck" src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2009/03/region-capture-3.png" alt="Replies button in TweetDeck" width="30" height="28" layout="fixed"></amp-img> on the top of the screen.  TweetDeck&#8217;s replies button uses the replies twitter feed feature from the Twitter API to work, so it returns the exact same list that you get on the home page.</p>
+        <p>Both Twitter and TweetDeck (as well as most other Twitter Clients) give you an easy way to get a list of responses people sent you.  On Twitter itself, this is the @Replies tab off of your home page. TweetDeck gives you a Replies column by default, and if you delete it, you can get it back by clicking on the replies button <amp-img title="Replies button in TweetDeck" src="https://www.nickmoline.com/wp-content/uploads/sites/4/2009/03/region-capture-3.png" alt="Replies button in TweetDeck" width="30" height="28" layout="fixed"></amp-img> on the top of the screen.  TweetDeck&#8217;s replies button uses the replies twitter feed feature from the Twitter API to work, so it returns the exact same list that you get on the home page.</p>
 
 <p>I&#8217;ve found however, that I often want to track everything that is said to or about me, even if they are not technically @replies.  Because of this I&#8217;ve ditched the replies column in my TweetDeck and instead have created my own @replies list of sorts using the Search feature in TweetDeck which uses the Twitter Search API. To do this yourself follow the simple instructions after the break.</p>
 
 <!--more-->
 
-<p><amp-img title="@Replies tab on Twitter" src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2009/03/region-capture-2.png" alt="@Replies tab on Twitter" width="799" height="218" layout="responsive" lightbox>
-  <amp-img fallback title="@Replies tab on Twitter" src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2009/03/region-capture-2.png" alt="@Replies tab on Twitter" width="799" height="218" layout="responsive" lightbox></amp-img>
+<p><amp-img title="@Replies tab on Twitter" src="https://www.nickmoline.com/wp-content/uploads/sites/4/2009/03/region-capture-2.png" alt="@Replies tab on Twitter" width="799" height="218" layout="responsive" lightbox>
+  <amp-img fallback title="@Replies tab on Twitter" src="https://www.nickmoline.com/wp-content/uploads/sites/4/2009/03/region-capture-2.png" alt="@Replies tab on Twitter" width="799" height="218" layout="responsive" lightbox></amp-img>
 </amp-img></p>
 
 <ol>
-<li>Click on the Search icon in TweetDeck <amp-img title="Search Button in TweetDeck" src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2009/03/region-capture-4.png" alt="Search Button in TweetDeck" width="26" height="30" layout="fixed">
-<amp-img title="Tweet Deck: What are you Searching for?" src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2009/03/region-capture-5.png" alt="Tweet Deck: What are you Searching for?" width="447" height="69" layout="responsive" lightbox></amp-img></li>
+<li>Click on the Search icon in TweetDeck <amp-img title="Search Button in TweetDeck" src="https://www.nickmoline.com/wp-content/uploads/sites/4/2009/03/region-capture-4.png" alt="Search Button in TweetDeck" width="26" height="30" layout="fixed">
+<amp-img title="Tweet Deck: What are you Searching for?" src="https://www.nickmoline.com/wp-content/uploads/sites/4/2009/03/region-capture-5.png" alt="Tweet Deck: What are you Searching for?" width="447" height="69" layout="responsive" lightbox></amp-img></li>
 <li>When you receive the to enter in what you are searching for, enter in a search where you put in all of the possibilities that someone could find a tweet about you separated by OR and end it with <strong>-from:<em>YourTwitterName</em></strong></li>
 </ol>
 
@@ -168,13 +158,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2009/02/26/keeping-in-step-2-iphone-mac-and-google-calendar-syncing-now-better-and-cheaper" title="Older Post: Keeping in Step 2: iPhone, Mac, and Google Calendar Syncing, now Better, and cheaper.">
+                            <a href="https://www.nickmoline.com/2009/02/26/keeping-in-step-2-iphone-mac-and-google-calendar-syncing-now-better-and-cheaper" title="Older Post: Keeping in Step 2: iPhone, Mac, and Google Calendar Syncing, now Better, and cheaper.">
                     &LeftArrow; Keeping in Step 2: iPhone, Mac, and Google Calendar Syncing, now Better, and cheaper.
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2009/03/18/iphone-30-supports-both-local-and-exchange-calendars-and-contacts" title="Newer Post: iPhone 3.0 Supports Both Local AND Exchange Calendars and Contacts">
+                            <a href="https://www.nickmoline.com/2009/03/18/iphone-30-supports-both-local-and-exchange-calendars-and-contacts" title="Newer Post: iPhone 3.0 Supports Both Local AND Exchange Calendars and Contacts">
                     iPhone 3.0 Supports Both Local AND Exchange Calendars and Contacts &RightArrow;
                 </a>
                     </div>

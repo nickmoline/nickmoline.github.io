@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="You&#039;ll &lt;del&gt;never&lt;/del&gt; &lt;ins&gt;probably&lt;/ins&gt; need to delete another message | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2012/04/24/youll-neverpossibly-need-to-delete-another-message"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2012/04/24/youll-neverpossibly-need-to-delete-another-message"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>You&#039;ll &lt;del&gt;never&lt;/del&gt; &lt;ins&gt;probably&lt;/ins&gt; need to delete another message | NickMoline.com</title>
 
-        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2012/04/24/youll-neverpossibly-need-to-delete-another-message">
+        <link rel="canonical" href="https://www.nickmoline.com/2012/04/24/youll-neverpossibly-need-to-delete-another-message">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -51,10 +51,6 @@
         About
     </a>
 
-    <a title="NickMoline.com Contact" href="/contact"
-        class="ml-6 text-gray-700 hover:text-blue-600 ">
-        Contact
-    </a>
 </nav>
 
                     <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
@@ -93,13 +89,7 @@
                 class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
             >About</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="NickMoline.com Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
-            >Contact</a>
-        </li>
+
     </ul>
 </nav>
 
@@ -125,8 +115,8 @@
 
 <p>Why did the message go away?  Because the users proved that 1GB (then 2GB, then 4GB, then 7GB) simply wasn&#8217;t enough to store EVERY email.  To combat this, back in 2007, Google released a means of <a href="http://googleblog.blogspot.com/2007/08/simple-way-to-get-more-storage.html" target="_blank">purchasing more storage space</a> at a rate of 6GB for $20/year, this storage would be shared amongst your Google Docs, GMail, and Picasa accounts.  Over time these prices got even better.  Yesterday you could buy 20GB of storage for <strong>$5 a year</strong>.</p>
 
-<p><amp-img title="Announcing Google Drive" src="Announcing Google Drive" src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2012/04/gdrive-is-here.webp" width="500" height="280" layout="intrinsic" lightbox>
-    <amp-img fallback title="Announcing Google Drive" src="Announcing Google Drive" src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2012/04/gdrive-is-here.png" width="500" height="280" layout="intrinsic" lightbox></amp-img>
+<p><amp-img title="Announcing Google Drive" src="Announcing Google Drive" src="https://www.nickmoline.com/wp-content/uploads/sites/4/2012/04/gdrive-is-here.webp" width="500" height="280" layout="intrinsic" lightbox>
+    <amp-img fallback title="Announcing Google Drive" src="Announcing Google Drive" src="https://www.nickmoline.com/wp-content/uploads/sites/4/2012/04/gdrive-is-here.png" width="500" height="280" layout="intrinsic" lightbox></amp-img>
 </amp-img></p>
 
 <p>Today however, with the <a href="http://googleblog.blogspot.com/2012/04/introducing-google-drive-yes-really.html" target="_blank">Google Drive release</a>, the <a href="http://support.google.com/drive/bin/answer.py?hl=en&answer=39567&p=butter_old_storage" target="_blank">prices have changed</a> from being yearly, to being monthly, while yesterday you could get 20GB for $5 a year, today the cheapest plan is 25GB for <strong>$2.49 a</strong> <strong>month</strong> (which comes out to $29.88/year).  This is a very significant increase, but it&#8217;s not what I find the most annoying:  GMail storage space is now completely separate than Google Drive (formerly Google Docs) and Picasa storage.  The 25GB you are purchasing is only for Google Drive and Picasa, not for GMail.</p>
@@ -135,8 +125,8 @@
 
 <p>There is no longer any option available to purchase more than 25GB of space on GMail whatsoever, no matter how much you may want it so that you <em>never have to delete another email</em></p>
 
-<p><amp-img title="Never delete another email" alt="Never delete another email" src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2012/04/Region-capture-29.webp" width="497" height="46" layout="intrinsic" lightbox>
-    <amp-img fallback title="Never delete another email" alt="Never delete another email" src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2012/04/Region-capture-29.png" width="497" height="46" layout="intrinsic" lightbox></amp-img>
+<p><amp-img title="Never delete another email" alt="Never delete another email" src="https://www.nickmoline.com/wp-content/uploads/sites/4/2012/04/Region-capture-29.webp" width="497" height="46" layout="intrinsic" lightbox>
+    <amp-img fallback title="Never delete another email" alt="Never delete another email" src="https://www.nickmoline.com/wp-content/uploads/sites/4/2012/04/Region-capture-29.png" width="497" height="46" layout="intrinsic" lightbox></amp-img>
 </amp-img></p>
 
 <p>I&#8217;d like to say I have hope that they will allow this option soon, but I don&#8217;t really.  The premium Google Apps for Business has long given 25GB of space for GMail, and even though I have personally wanted to buy more space, Google has never given me the option to buy more on a Google Apps account.  It seems the dream of limitless email storage is no longer alive.</p>
@@ -168,13 +158,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2012/04/19/googles-code-mistake-and-what-they-did-to-make-it-right" title="Older Post: Google&#039;s Code Mistake, and what they did to make it right">
+                            <a href="https://www.nickmoline.com/2012/04/19/googles-code-mistake-and-what-they-did-to-make-it-right" title="Older Post: Google&#039;s Code Mistake, and what they did to make it right">
                     &LeftArrow; Google&#039;s Code Mistake, and what they did to make it right
                 </a>
                     </div>
 
         <div>
-                            <a href="https://jigsaw-blog-template.tighten.co/2012/05/30/web-intents-atom-annoyance" title="Newer Post: Web Intents are Great | Web Intents are Horrible">
+                            <a href="https://www.nickmoline.com/2012/05/30/web-intents-atom-annoyance" title="Newer Post: Web Intents are Great | Web Intents are Horrible">
                     Web Intents are Great | Web Intents are Horrible &RightArrow;
                 </a>
                     </div>
