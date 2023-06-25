@@ -5,9 +5,9 @@
     <div class="cover-image" style="background-image: url('{{ $page->coverp ? $page->coverp : $page->cover }}')">
 @endif
         <div class="post-heading">
-            <h1>{{ $page->title }}</h1>
+            <h1>{!! $page->title !!}</h1>
             @if ($page->subtitle)
-                <h2>{{ $page->subtitle }}</h2>
+                <h2>{!! $page->subtitle !!}</h2>
             @endif
             <div class="byline">
                 Posted by <a href="{{ $page->authorlink ? $page->authorlink : '/about' }}" rel="author">{{ $page->author ? $page->author : 'Nick Moline' }}</a> on <time datetime="{{ $page->updatedAtom() }}">{{ $page->dateString() }}</time>

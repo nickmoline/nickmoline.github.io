@@ -1,5 +1,15 @@
 @extends('_layouts.main')
 
+@section('hero')
+    <div class="cover-image bg-top" style="background-image: url('/background-jellybean.webp'); background-position-y: 50%;">
+        <div class="post-heading" style="max-width: 600px;">
+            <h1 class="filter blur-none">Welcome to NickMoline.com</h1>
+            <h2 class="filter blur-none">The Personal Website of Nicholas Moline</h2>
+            @include("_components.social")
+        </div>
+    </div>
+@endsection
+
 @section('body')
     @foreach ($posts->where('featured', true) as $featuredPost)
         <div class="w-full mb-6">
@@ -28,14 +38,6 @@
             <hr class="border-b my-6">
         @endif
     @endforeach
-
-    <section id="bio" itemscope itemtype="http://schema.org/Person" lang="en-US">
-        @include("_components.social")
-
-        <p><span itemprop="name"><span itemprop="givenName">Nicholas</span> <span itemprop="additionalName">Scott</span> <span itemprop="familyName">Moline</span></span> is <span itemprop="jobTitle">Head of Engineering</span> at <span itemprop="worksFor" itemtype="http://schema.org/ProfessionalService" itemscope><a href="http://www.jobscan.co/" itemprop="url"><span itemprop="name">Jobscan</span></a> dedicated to making it easier for job seekers everywhere</span>.</p>
-        <p>Check out <a href="{{ $page->baseUrl }}/blog" rel="me">Nick Moline's blog</a> to find out more about him. He can also be found on <a href="{{ $page->social['mastodon'] }}" rel="me">the Fediverse as @nickmoline@subspacelinkcom</a>, as well as on <a href="https://www.facebook.com/nickmoline" rel="me">Facebook</a> and <a href="http://www.linkedin.com/in/nickmoline" rel="me">LinkedIn</a>.</p>
-        <p>Nick currently lives in <span itemprop="homeLocation" itemtype="http://schema.org/City" itemscope><span itemprop="name">Irvine</span>, <span itemprop="containedIn" itemtype="http://schema.org/State" itemscope><span itemprop="name">California</span></span></span> with his wife <span itemprop="spouse" itemtype="http://schema.org/Person" itemscope><a href="http://www.barbara.pro/" rel="spouse sweetheart date met" itemprop="url"><span itemprop="givenName">Barbara</span> <span itemprop="familyName">Moline</span></a></span>, and their three cats Joules, Chase, and Patches.</p>
-    </section>
 
     @foreach ($posts->where('featured', false)->take(6)->chunk(2) as $row)
         <div class="flex flex-col md:flex-row md:-mx-6">

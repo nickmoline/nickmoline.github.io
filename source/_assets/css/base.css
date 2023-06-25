@@ -157,10 +157,7 @@ pre {
         @apply text-gray-600;
         @apply hover:text-gray-800;
         @apply transition-colors;
-
-        :hover {
-            @apply fill-blue-600;
-        }
+        @apply hover:fill-blue-600;
     }
 }
 
@@ -211,6 +208,15 @@ pre {
         @apply font-light;
         @apply text-right;
     }
+
+    .social-icons-block {
+        a, svg {
+            @apply fill-white;
+            @apply hover:fill-cyan-200;
+            @apply w-8;
+            @apply h-8;
+        }
+    }
 }
 
 .cover-image {
@@ -227,18 +233,22 @@ pre {
     @apply items-end;
 
     .post-heading {
+        backdrop-filter: blur(10px);
         @apply text-center;
         @apply text-white;
         @apply block;
         @apply shadow-lg;
-        @apply rounded-md;
+        @apply rounded-xl;
         @apply align-middle;
-        @apply bg-gray-700/80;
+        @apply bg-gray-700/60;
         @apply p-5;
         @apply m-auto;
         @apply h-auto;
-        @apply max-h-40;
+        @apply max-h-44;
         @apply align-middle;
+        @apply border-slate-600;
+        @apply border;
+        @apply shadow-neutral-800;
 
         h1 {
             @apply text-white;
