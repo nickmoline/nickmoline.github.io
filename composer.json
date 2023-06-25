@@ -1,0 +1,14 @@
+{
+    "require": {
+        "tightenco/jigsaw": "^1.7",
+        "tightenco/jigsaw-blog-template": "^1.3",
+        "samdark/sitemap": "^2.2.1",
+        "league/flysystem": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\Listeners\\": "listeners/",
+            "NickMoline\\" : "src/"
+        }
+    }
+}
