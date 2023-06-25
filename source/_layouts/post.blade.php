@@ -64,4 +64,8 @@
             @endif
         </div>
     </nav>
+
+    @if ($page->coverp || $page->cover)
+        <img src="{{ $page->coverp ? $page->coverp : $page->cover }}" alt="{{ $page->title }} cover image" class="mb-6">
+    @endif
 @endsection

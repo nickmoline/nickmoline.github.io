@@ -1,5 +1,6 @@
 ---
-title: Monitoring Weather Conditions With the Ambient Weather WS-2902C
+title: Monitoring Weather Conditions 
+subtitle: My setup and review of the Ambient Weather WS-2902C
 permalink: /2020/10/26/weather-tracking/
 dsq_thread_id: 202010261942
 cover: /assets/images/2020/10/weather/weatherstation-cropped.jpg
