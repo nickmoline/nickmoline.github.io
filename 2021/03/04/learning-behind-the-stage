@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="description" content="The Personal website of Nick Moline">
+
+        <meta property="og:title" content="Growing Behind the Stage | NickMoline.com"/>
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2021/03/04/learning-behind-the-stage"/>
+        <meta property="og:description" content="The Personal website of Nick Moline" />
+
+        <title>Growing Behind the Stage | NickMoline.com</title>
+
+        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="icon" href="/favicon.ico">
+        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2021/03/04/learning-behind-the-stage">
+        <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
+
+                    <!-- Insert analytics code here -->
+        
+        <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,300i,400,400i,700,700i,800,800i" rel="stylesheet">
+        <link rel="stylesheet" href="/assets/build/css/main.css?id=4f7c8e6b7f5e00fba0e8a3b439818ebb">
+    </head>
+
+    <body class="flex flex-col justify-between min-h-screen bg-gray-100 text-gray-800 leading-normal font-sans">
+        <header class="flex items-center shadow bg-white border-b h-24 py-4" role="banner">
+            <div class="container flex items-center max-w-8xl mx-auto px-4 lg:px-8">
+                <div class="flex items-center">
+                    <a href="/" title="NickMoline.com home" class="inline-flex items-center">
+                        <picture class="h-8 md:h-10 mr-3" title="Nick Moline">
+                            <source srcset="/monogram-250.webp" type="image/webp">
+                            <source srcset="/monogram-250.png" type="image/png">
+                            <img src="/monogram-250.png" alt="Nick Moline">
+                        </picture>
+                    </a>
+                </div>
+
+                <div id="vue-search" class="flex flex-1 justify-end items-center">
+                    <search></search>
+
+                    <nav class="hidden lg:flex items-center justify-end text-lg">
+    <a title="NickMoline.com Blog" href="/blog"
+        class="ml-6 text-gray-700 hover:text-blue-600 ">
+        Blog
+    </a>
+
+    <a title="NickMoline.com About" href="/about"
+        class="ml-6 text-gray-700 hover:text-blue-600 ">
+        About
+    </a>
+
+    <a title="NickMoline.com Contact" href="/contact"
+        class="ml-6 text-gray-700 hover:text-blue-600 ">
+        Contact
+    </a>
+</nav>
+
+                    <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
+    onclick="navMenu.toggle()"
+>
+    <svg id="js-nav-menu-show" xmlns="http://www.w3.org/2000/svg"
+        class="fill-current text-white h-9 w-4" viewBox="0 0 32 32"
+    >
+        <path d="M4,10h24c1.104,0,2-0.896,2-2s-0.896-2-2-2H4C2.896,6,2,6.896,2,8S2.896,10,4,10z M28,14H4c-1.104,0-2,0.896-2,2  s0.896,2,2,2h24c1.104,0,2-0.896,2-2S29.104,14,28,14z M28,22H4c-1.104,0-2,0.896-2,2s0.896,2,2,2h24c1.104,0,2-0.896,2-2  S29.104,22,28,22z"/>
+    </svg>
+
+    <svg id="js-nav-menu-hide" xmlns="http://www.w3.org/2000/svg"
+        class="hidden fill-current text-white h-9 w-4" viewBox="0 0 36 30"
+    >
+        <polygon points="32.8,4.4 28.6,0.2 18,10.8 7.4,0.2 3.2,4.4 13.8,15 3.2,25.6 7.4,29.8 18,19.2 28.6,29.8 32.8,25.6 22.2,15 "/>
+    </svg>
+</button>
+
+                </div>
+            </div>
+        </header>
+
+        <nav id="js-nav-menu" class="w-auto px-2 pt-6 pb-2 bg-gray-200 shadow hidden lg:hidden">
+    <ul class="my-0">
+        <li class="pl-4">
+            <a
+                title="NickMoline.com Blog"
+                href="/blog"
+                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
+            >Blog</a>
+        </li>
+        <li class="pl-4">
+            <a
+                title="NickMoline.com About"
+                href="/about"
+                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
+            >About</a>
+        </li>
+        <li class="pl-4">
+            <a
+                title="NickMoline.com Contact"
+                href="/contact"
+                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
+            >Contact</a>
+        </li>
+    </ul>
+</nav>
+
+            <div class="cover-image" style="background-image: url('/assets/images/2021/03/Panorama1.webp')">
+        <div class="post-heading">
+            <h1>Growing Behind the Stage</h1>
+                            <h2>Learning Something New with Every Show</h2>
+                        <div class="byline">
+                Posted by <a href="/about" rel="author">Nick Moline</a> on <time datetime="2021-03-04T11:00:00+00:00">March 4, 2021</time>
+            </div>
+        </div>
+    </div>
+
+        <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
+            
+            <a
+            href="/blog/categories/theatre"
+            title="View posts in Theatre"
+            class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
+        >Theatre</a>
+            <a
+            href="/blog/categories/learning"
+            title="View posts in Learning"
+            class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
+        >Learning</a>
+    
+    <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
+        <p>I love Live Theatre, I love attending as an audience member, I love acting (though I haven't gotten to do that in a decade and a half), and I love working behind the scenes (mostly in Sound Design, but I've done a number of different jobs).</p>
+
+<p>Over the last few years I've made an effort to try something new with most shows I do.  I either learn a new skill or try a new experiment.  With my latest show open, I thought I'd go over some of the new things I've learned or tried in the last few years of shows, as well as a peek at what i've done for <a href="http://www.zoomtheater.com/index.php/shows/the-tempest"><em>The Tempest</em></a>.</p>
+
+<h2>My Theatrical past</h2>
+
+<h3>The College Years 2005-2006</h3>
+
+<p><amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2021/03/mcm1940.webp" alt="Musical Comedy Murders of 1940" width="768" height="1024" layout="responsive" lightbox>
+    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/assets/images/2021/03/mcm1940.jpg" alt="Musical Comedy Murders of 1940" width="768" height="1024" layout="responsive"></amp-img>
+</amp-img></p>
+
+<p>I never finished college, but while I was there at <a href="https://www.tccd.edu">Tarrant County College</a> in Arlington, TX I did get to participate in 3 productions.  In February of 2005, I <a href="https://jigsaw-blog-template.tighten.co/2005/01/24/drama-king">acted in a production</a> of <a href="https://en.wikipedia.org/wiki/The_Musical_Comedy_Murders_of_1940"><em>The Musical Comedy Murders of 1940</em></a> as the character of Roger Hopewell.  I had long loved theatre before this, but after acting in that show, I was hooked.</p>
+
+<p>Later that spring I served as Light Board Operator for the school's production of William Shakespeare's <a href="https://en.wikipedia.org/wiki/A_Midsummer_Night%27s_Dream"><em>A Midsummer Night's Dream</em></a>, which I found every bit as enjoyable as acting.  This was in a way the beginning of my learning new tasks with shows as I did not have much prior experience with theatrical lighting (other than the simple light system at my church at the time).</p>
+
+<p><amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2021/03/rumors.webp" alt="Rumors" width="1024" height="768" layout="responsive" lightbox>
+    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/assets/images/2021/03/rumors.jpg" alt="Rumors" width="1024" height="768" layout="responsive"></amp-img>
+</amp-img></p>
+
+<p>The following winter I acted in another production, <a href="https://en.wikipedia.org/wiki/Rumors_(play)"><em>Rumors</em></a> by Neil Simon in the role of Ken Gorman.</p>
+
+<h3>The lost decade 2007-2017</h3>
+
+<p>When I moved to California to work for Justia, I focused my energy on working for a while and did not get any opportunities to act in or crew any shows.  I did however get multiple opportunities to see theatrical productions, however.  I enjoyed seeing professional productions of <em>Wicked</em>, <em>Promises, Promises</em>, <em>Spamalot</em>, <a href="https://jigsaw-blog-template.tighten.co/2012/10/13/newsies-on-broadway"><em>Newsies</em></a>, <em>How to Succeed in Business Without Really Trying</em>, and more.</p>
+
+<p>I also saw a number of community theatre productions including: <em>A Funny Thing Happens on the Way to the Forum</em>, <em>Into the Woods</em>, and <em>The Mystery of Edwin Drood</em> (at my future community theatre home of Sunnyvale Community Players).</p>
+
+<h3>Returning to Theatre, 2017</h3>
+
+<p>In 2017, after working with Justia for 10 full years, I decided the time was right to return to the theatre in some capacity.  I didn't think I had the free time available to act again, but when I saw an email from SCP (I ended up on their mailing list after I attended <em>Drood</em>) that they were looking for sound people.</p>
+
+<p><amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2021/03/drowsy.webp" alt="The Drowsy Chaperone" width="3000" height="1686" layout="responsive" lightbox>
+    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/assets/images/2021/03/drowsy.jpg" alt="The Drowsy Chaperone" width="3000" height="1686" layout="responsive"></amp-img>
+</amp-img></p>
+
+<p>Having had some experience with sound from my time at <em>Eden Road</em>, I reached out and came on as a sound board operator for SCP's production of <a href="https://web.archive.org/web/20170613202413/http://www.sunnyvaleplayers.org/the-drowsy-chaperone.html"><em>The Drowsy Chaperone</em></a>.  With this production just learning how live sound works in the 2010s was a learning curve for me.  The last sound-board I had used before then was an analog board, so just learning digital sound with the <a href="https://www.midasconsoles.com/product.html?modelCode=P0B3I">Midas M32</a> was a learning curve.</p>
+
+<p>Over the 2017 summer I got a chance to run sound for <a href="https://jigsaw-blog-template.tighten.co/2017/07/10/next-normal-next-perfect"><em>Next to Normal</em></a> up in San Francisco.</p>
+
+<p><amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2021/03/fiddler.webp" alt="SCP Fiddler on the Roof" width="4048" height="3036" layout="responsive" lightbox>
+    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/assets/images/2021/03/fiddler.jpg" alt="SCP Fiddler on the Roof" width="4048" height="3036" layout="responsive"></amp-img>
+</amp-img></p>
+
+<p>In the fall of 2017 I had one of the most pivotal events of my life when I worked on my second SCP production, <em>Fiddler on the Roof</em>.  This show was so incredible that I am embarrassed for myself that I haven't really written a full post about it before.  I will have to write up a full retrospective of that show in the future, but it changed my life in many ways.  The show was also big thanks to the incredible contribution of Eric Sun as our Fiddler.  The show was actually written up in <a href="https://www.newyorker.com/magazine/2018/01/01/a-tech-pioneers-final-unexpected-act">The New Yorker</a>.</p>
+
+<h4>Introduction of Video, <em>Avenue Q</em></h4>
+
+<p>With <a href="https://web.archive.org/web/20170923135233/http://www.sunnyvaleplayers.org/avenue-q.html"><em>Avenue Q</em></a>, I got my first experience with dealing with video effects in a show.  I was just an operator on the show, so I didn't learn too much, but I did get to experiment with video from QLab for the first time in this show.</p>
+
+<h2>Learning Sound Design, 2018</h2>
+
+<h4><em>Addams Family</em></h4>
+
+<p><amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2021/03/addams.webp" alt="Addams Family" width="2833" height="1500" layout="responsive" lightbox>
+    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/assets/images/2021/03/addams.jpg" alt="Addams Family" width="2833" height="1500" layout="responsive"></amp-img>
+</amp-img></p>
+
+<p>With Addams Family in early 2018 I got my first opportunity to design sound.  I co-designed sound with the great Dan Singletary and learned how to create my own sound effects, and learned a lot about balancing a band and equalization techniques.</p>
+
+<p>Due to overlapping shows, I went back to an operator for <em>La Cage aux Folles</em> but I learned a lot in that show as well.</p>
+
+<h2>2018-2019</h2>
+
+<h3>Producing, Pins, and Jukebox</h3>
+
+<h4><em>High School Musical, JR</em> and <em>Grease</em></h4>
+
+<p>In hindsight, my first experiences with producing probably should not have been 2 shows at the same time, but due to overlapping production schedules I was learning on my feet with producing 2 shows at the same time.</p>
+
+<p><amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2021/03/pins.webp" alt="SCP50 Pins" width="4032" height="3024" layout="responsive" lightbox>
+    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/assets/images/2021/03/pins.jpg" alt="SCP50 Pins" width="4032" height="3024" layout="responsive"></amp-img>
+</amp-img></p>
+
+<p><em>Grease</em> marked the first show in SCP's 50th season, so to celebrate, I got my first experience with physical product design as I designed a run of collectable pins for the season.  The pins were popular and it gave me an opportunity to do some actual design.  With the help of my artistic brother, I designed a unique pin for each show in the 50th season, as well as a season pin that brought aspects of the 4 pins together into a single pin.</p>
+
+<p><em>Grease</em> also marked the beginning of my concept of wanting to "plus" my designs.  I learned how to have QLab actually control the sound board, and I used this skill to have the show's pre-show music not come from a predefined playlist like usual.  Instead I used 2 tablets to create a jukebox, one in the lobby in a jukebox facadé, and one in the sound booth plugged into an input on the sound board.  With this I had a number of 50s era songs put up for selection in the jukebox and the audience got to choose the songs that would play both before the show and in intermission.</p>
+
+<p>As it was set in the same general time-frame, I re-used this jukebox in <em>Bye, Bye, Birdie</em> in the spring.</p>
+
+<h3>Sound Design Programmed Tricks</h3>
+
+<p>Starting with <em>Bye, Bye, Birdie</em> I started experimenting with programming more unique audio effects into the shows I did sound design for.  <em>Birdie</em> has both <a href="https://en.wikipedia.org/wiki/Diegetic_music">diegetic</a> and non-diegetic, in that some of the songs in the show are "performances" by Conrad Birdie and are thus "really" happening within the context of the show.  I decided a nice way to differentiate this is by having a different reverb on Birdie's voice when the song was diegetic then when he was singing a song that was non-diegetic.  It was a simple effect, but it added a little something extra to a show.</p>
+
+<h3>Going overkill, <em>Jekyll and Hyde</em></h3>
+
+<p>For <em>Jekyll &amp; Hyde</em> I returned to the producer role, but I also sound designed again.  As a producer on this show, I spent some time learning photoshop and InDesign and created all of the marketing materials of the show myself.  I was very proud of my poster designs which was also used in the show's program.</p>
+
+<p>In my sound design of the show I continued with my trend of special audio effects by having a different equalization on Hyde's voice than Jekyll's.  This helped push the narrative that these characters were distinct as the quality of their voices were different.  I also played some with audio panning of vocals in this show.  In the pivotal "Confrontation" song I had Jekyll &amp; Hyde's voices coming from different sides of the stage, which was difficult considering both parts are sung by the same person.</p>
+
+<p><amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2021/03/D85_4702.webp" alt="The Magic Mirror" width="3500" height="2333" layout="responsive" lightbox>
+    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/assets/images/2021/03/D85_4702.jpg" alt="The Magic Mirror" width="3500" height="2333" layout="responsive"></amp-img>
+</amp-img></p>
+
+<p>If producing and sound design weren't enough, I also took on the task of doing a special visual effect for the show.  The director wanted a "magic mirror" effect in the show, so I learned video editing and how to use QLab to dynamically switch between a live camera feed and a pre-recorded video.  The effect was impressive, for most of the show this "mirror" actually "reflected" the environment around by showing a live camera feed, but at pivotal moments, Hyde or Jekyll would appear in the mirror to contrast the opposing character that was currently in control of Doctor Jekyll's body.</p>
+
+<h3>The Magic Hourglass, <em>Freaky Friday</em></h3>
+
+<p><amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2021/03/D85_6238.webp" alt="Freaky Friday Hourglass" width="2400" height="2400" layout="responsive" lightbox>
+    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/assets/images/2021/03/D85_6238.jpg" alt="Freaky Friday Hourglass" width="2400" height="2400" layout="responsive"></amp-img>
+</amp-img></p>
+
+<p>In <em>Freaky Friday</em>, the magical McGuffin that sets the story in motion is a magical hourglass.  The hourglass breaks immediately after its magic causes the body-swap to take place, and they spend the rest of the show trying to find another magic hourglass to switch them back.</p>
+
+<p>I decided to take on a task of making this magic hourglass for the show.  In this I learned a bit of building physical props, including recycling items (coke bottles), a bit of wood-working, creating secret ways to break the device apart.  Most importantly I used this to get into Internet-of-Things devices by creating small wifi controlled light pods which could be put into compartments in the top and bottom of the hourglass.  With some python and third party tools I made it where the lights in the hourglass could be controlled by the theatre light-board so the lighting designer could include the glowing in his lighting design.</p>
+
+<h2>The Pandemic</h2>
+
+<p>Unfortunately 1 week after the show closed, the pandemic hit and we could no longer produce live theatre in front of audiences.  I spent the better part of the year not being involved in any theatre at all, but then one of my friends who I worked with at SCP contacted me about a show he was doing with <a href="https://www.zoomtheatre.com">Zoom Theatre</a> over Zoom.</p>
+
+<p>While I had seen a number of zoom shot shows over the year of the pandemic, this was unique in that they invited the audience to actually join the zoom meeting and enable their microphones so that the actors can get real-time feedback.</p>
+
+<h3>Theatre over Zoom, <em>I and You</em></h3>
+
+<p>My learning in <em>I and You</em> was mostly about learning how theatre works over zoom.  Zoom Theatre is great in that rather than just having actors read over a zoom like a dramatic reading, they actually work to both exemplify the strengths of zoom (like the ability to switch cameras and switch backgrounds easily), and minimize the weaknesses to really make it feel like actors are together in the same room.</p>
+
+<p>I love how they actively slice up background images so that the different zoom windows of the individual actors line up.  They then work with duplicate props and careful choreography to do things like prop hand-offs, helping to sell the idea that people are actually together in the same room.</p>
+
+<p>Live Theatre has always required suspension of disbelief, which takes on another meaning when acting over Zoom.  Since actors aren't physically in the same space, you need to do everything you can to allow the audience to suspend their disbelief and actually believe that people are in the same space.</p>
+
+<h3>Real-Time Visual Effects, <em>The Tempest</em></h3>
+
+<p><amp-img src="https://jigsaw-blog-template.tighten.co/assets/images/2021/03/tempest-1260x717.webp" alt="The Tempest" width="1260" height="717" layout="responsive" lightbox>
+    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/assets/images/2021/03/tempest-1260x717.png" alt="The Tempest" width="1260" height="717" layout="responsive"></amp-img>
+</amp-img></p>
+
+<p>Finally after a very long post, I get to the show I'm currently working on.  <em>The Tempest</em> is also being put on by Zoom Theatre and it is phenomenal.  For this show however I was tasked with creating some real-time visual effects using a combination of <a href="https://obsproject.com/">OBS Studio</a> and, believe-it-or-not, Snapchat's <a href="https://snapcamera.snapchat.com/">Snap Camera</a>.</p>
+
+<p>Using the filter creation tool <a href="https://lensstudio.snapchat.com/">Lens Studio</a> (also by Snap), I created a number of unique snap filters which at key points in the show can be switched on.</p>
+
+<p>When the show is over I'll put up another post outlining exactly how I created the snap filters as well as the effects in OBS Studio that actually allow characters to break out of their zoom window in real time.</p>
+
+<p>If you want to see these effects in action, <a href="https://zoomtheatre.com/index.php/shows/the-tempest">come see <em>The Tempest</em></a>, it is as close as you can get to live theatre while having everyone involved practicing social distancing.</p>
+
+<p>The best part, you can see this phenomenal show, and my visual effects for FREE!.  The tickets cost you nothing, we have 4 performances remaining (as of the time of publication).</p>
+
+<ul>
+<li><a href="https://us02web.zoom.us/webinar/register/WN_s0AKRLrZT9C3yik6ifmB9w"><time datetime="2021-03-04T19:00:00-08:00">Thursday, March 4th, 2021, 7pm PST</time></a></li>
+<li><a href="https://us02web.zoom.us/webinar/register/WN_ZJtUql_JQ0STaTkjjSK8Ig"><time datetime="2021-03-05T19:00:00-08:00">Friday, March 5th, 2021, 7pm PST</time></a></li>
+<li><a href="https://us02web.zoom.us/webinar/register/WN__-ZxjMspQ3CaNLuRSiqXag"><time datetime="2021-03-06T17:00:00-08:00">Saturday, March 6th, 2021, 5pm PST</time></a></li>
+<li><a href="https://us02web.zoom.us/webinar/register/WN_rusyR1vJQ86l3MN_IFVbtQ"><time datetime="2021-03-07T14:00:00-08:00">Sunday, March 7th, 2021, 2pm PST</time></a></li>
+</ul>
+    </div>
+
+            <div class="mb-10 pb-4">
+            Tagged: 
+                    <a
+                href="/blog/tags/sound-design"
+                title="View posts tagged with Sound Design"
+                class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
+            >Sound Design</a>
+                    <a
+                href="/blog/tags/visual-effects"
+                title="View posts tagged with Visual Effects"
+                class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
+            >Visual Effects</a>
+                    <a
+                href="/blog/tags/photo-editing"
+                title="View posts tagged with Photo Editing"
+                class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
+            >Photo Editing</a>
+                </div>
+    
+    <nav class="flex justify-between text-sm md:text-base">
+        <div>
+                            <a href="https://jigsaw-blog-template.tighten.co/2020/10/26/weather-tracking" title="Older Post: Monitoring Weather Conditions">
+                    &LeftArrow; Monitoring Weather Conditions
+                </a>
+                    </div>
+
+        <div>
+                            <a href="https://jigsaw-blog-template.tighten.co/2021/03/15/making-a-harpy" title="Newer Post: That Time I Made a Harpy">
+                    That Time I Made a Harpy &RightArrow;
+                </a>
+                    </div>
+    </nav>
+
+            <img src="/assets/images/2021/03/Panorama1.webp" alt="Growing Behind the Stage cover image" class="mb-6">
+            </main>
+
+        <footer class="bg-white text-center text-sm mt-12 py-4" role="contentinfo">
+            <div class="social-icons-block">
+    
+        <a href="https://subspacelink.com/@nickmoline" rel="me" target="_blank" class="social-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 512 512" width="24" height="24">
+            <title>Mastodon</title>
+            <path d="M256 0c141.284 0 256 114.563 256 256 0 141.284-114.563 256-256 256C114.716 512 0 397.437 0 256 0 114.716 114.563 0 256 0zm134.506 175.487c-4.177-31.049-31.239-55.52-63.32-60.261-5.412-.801-25.918-3.717-73.421-3.717h-.354c-47.516 0-57.709 2.916-63.121 3.717-31.188 4.61-59.669 26.596-66.579 58.014-3.323 15.472-3.678 32.627-3.06 48.361.879 22.566 1.05 45.091 3.101 67.564a317.689 317.689 0 007.395 44.317c6.567 26.924 33.157 49.331 59.208 58.474a158.807 158.807 0 0086.622 4.57 126.28 126.28 0 009.367-2.561c6.988-2.22 15.173-4.701 21.191-9.063a.692.692 0 00.275-.525V362.6a.667.667 0 00-.066-.277.652.652 0 00-.721-.341 240.065 240.065 0 01-56.213 6.569c-32.58 0-41.342-15.46-43.849-21.895a67.833 67.833 0 01-3.812-17.259.611.611 0 01.054-.289.62.62 0 01.441-.361.644.644 0 01.293.006 235.518 235.518 0 0055.293 6.568c4.479 0 8.947 0 13.426-.12 18.732-.524 38.478-1.484 56.907-5.083.461-.091.921-.17 1.314-.288 29.073-5.583 56.739-23.104 59.55-67.472.104-1.748.368-18.296.368-20.108.012-6.16 1.983-43.699-.289-66.763zm-46.057 34.885v77.139H313.88v-74.867c0-15.761-6.569-23.8-19.929-23.8-14.689 0-22.045 9.511-22.045 28.291v40.981h-30.383v-40.981c0-18.78-7.371-28.291-22.058-28.291-13.281 0-19.915 8.039-19.915 23.8v74.867h-30.556v-77.139c0-15.761 4.025-28.283 12.072-37.565 8.303-9.26 19.193-14.014 32.711-14.014 15.645 0 27.468 6.016 35.35 18.033l7.607 12.767 7.62-12.767c7.881-12.017 19.705-18.033 35.323-18.033 13.506 0 24.395 4.754 32.724 14.014 8.041 9.274 12.056 21.796 12.048 37.565z"/>
+        </svg>
+    </a>
+    
+        <a href="https://facebook.com/NickMoline" rel="me" target="_blank" class="social-icon" aria-label="Link to Facebook">
+        <svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 24 24" width="24px" height="24px">
+            <title>Facebook</title>
+            <path d="M12,2C6.477,2,2,6.477,2,12c0,5.013,3.693,9.153,8.505,9.876V14.65H8.031v-2.629h2.474v-1.749 c0-2.896,1.411-4.167,3.818-4.167c1.153,0,1.762,0.085,2.051,0.124v2.294h-1.642c-1.022,0-1.379,0.969-1.379,2.061v1.437h2.995 l-0.406,2.629h-2.588v7.247C18.235,21.236,22,17.062,22,12C22,6.477,17.523,2,12,2z"/>
+        </svg>
+    </a>
+    
+        <a href="http://www.linkedin.com/in/NickMoline" rel="me" title="Nick on LinkedIn" class="social-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="24" height="24" viewBox="0 0 50 50">
+            <title>LinkedIn</title>
+            <path d="M25,2C12.318,2,2,12.317,2,25s10.318,23,23,23s23-10.317,23-23S37.682,2,25,2z M18,35h-4V20h4V35z M16,17 c-1.105,0-2-0.895-2-2c0-1.105,0.895-2,2-2s2,0.895,2,2C18,16.105,17.105,17,16,17z M37,35h-4v-5v-2.5c0-1.925-1.575-3.5-3.5-3.5 S26,25.575,26,27.5V35h-4V20h4v1.816C27.168,20.694,28.752,20,30.5,20c3.59,0,6.5,2.91,6.5,6.5V35z"></path>
+        </svg>
+    </a>
+    
+        <a href="https://github.com/NickMoline" rel="me" target="_blank" class="social-icon" aria-label="Link to AMP HTML github">
+        <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="24" height="24" viewBox="0 0 50 50">
+            <title>GitHub</title>
+            <path d="M17.791,46.836C18.502,46.53,19,45.823,19,45v-5.4c0-0.197,0.016-0.402,0.041-0.61C19.027,38.994,19.014,38.997,19,39 c0,0-3,0-3.6,0c-1.5,0-2.8-0.6-3.4-1.8c-0.7-1.3-1-3.5-2.8-4.7C8.9,32.3,9.1,32,9.7,32c0.6,0.1,1.9,0.9,2.7,2c0.9,1.1,1.8,2,3.4,2 c2.487,0,3.82-0.125,4.622-0.555C21.356,34.056,22.649,33,24,33v-0.025c-5.668-0.182-9.289-2.066-10.975-4.975 c-3.665,0.042-6.856,0.405-8.677,0.707c-0.058-0.327-0.108-0.656-0.151-0.987c1.797-0.296,4.843-0.647,8.345-0.714 c-0.112-0.276-0.209-0.559-0.291-0.849c-3.511-0.178-6.541-0.039-8.187,0.097c-0.02-0.332-0.047-0.663-0.051-0.999 c1.649-0.135,4.597-0.27,8.018-0.111c-0.079-0.5-0.13-1.011-0.13-1.543c0-1.7,0.6-3.5,1.7-5c-0.5-1.7-1.2-5.3,0.2-6.6 c2.7,0,4.6,1.3,5.5,2.1C21,13.4,22.9,13,25,13s4,0.4,5.6,1.1c0.9-0.8,2.8-2.1,5.5-2.1c1.5,1.4,0.7,5,0.2,6.6c1.1,1.5,1.7,3.2,1.6,5 c0,0.484-0.045,0.951-0.11,1.409c3.499-0.172,6.527-0.034,8.204,0.102c-0.002,0.337-0.033,0.666-0.051,0.999 c-1.671-0.138-4.775-0.28-8.359-0.089c-0.089,0.336-0.197,0.663-0.325,0.98c3.546,0.046,6.665,0.389,8.548,0.689 c-0.043,0.332-0.093,0.661-0.151,0.987c-1.912-0.306-5.171-0.664-8.879-0.682C35.112,30.873,31.557,32.75,26,32.969V33 c2.6,0,5,3.9,5,6.6V45c0,0.823,0.498,1.53,1.209,1.836C41.37,43.804,48,35.164,48,25C48,12.318,37.683,2,25,2S2,12.318,2,25 C2,35.164,8.63,43.804,17.791,46.836z"></path>
+        </svg>
+    </a>
+        
+        <a href="http://www.youtube.com/nickmoline" rel="me" title="Nick's Videos" class="social-icon">
+        <svg fill="#000000" width="24" height="24" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+            <title>YouTube</title>
+            <path d="M11.603 9.833L9.357 8.785C9.161 8.694 9 8.796 9 9.013v1.974c0 .217.161.319.357.228l2.245-1.048c.197-.092.197-.242.001-.334zM10 .4C4.698.4.4 4.698.4 10s4.298 9.6 9.6 9.6 9.6-4.298 9.6-9.6S15.302.4 10 .4zm0 13.5c-4.914 0-5-.443-5-3.9s.086-3.9 5-3.9 5 .443 5 3.9-.086 3.9-5 3.9z"/>
+        </svg>
+    </a>
+    
+        <a href="https://twitter.com/NickMoline" rel="me" target="_blank" class="social-icon" aria-label="Link to AMP HTML Twitter">
+        <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="24" height="24" viewBox="0 0 50 50">
+            <title>Twitter</title>
+            <path d="M25,2C12.317,2,2,12.317,2,25s10.317,23,23,23s23-10.317,23-23S37.683,2,25,2z M36.237,20.524 c0.01,0.236,0.016,0.476,0.016,0.717C36.253,28.559,30.68,37,20.491,37c-3.128,0-6.041-0.917-8.491-2.489 c0.433,0.052,0.872,0.077,1.321,0.077c2.596,0,4.985-0.884,6.879-2.37c-2.424-0.044-4.468-1.649-5.175-3.847 c0.339,0.065,0.686,0.1,1.044,0.1c0.505,0,0.995-0.067,1.458-0.195c-2.532-0.511-4.441-2.747-4.441-5.432c0-0.024,0-0.047,0-0.07 c0.747,0.415,1.6,0.665,2.509,0.694c-1.488-0.995-2.464-2.689-2.464-4.611c0-1.015,0.272-1.966,0.749-2.786 c2.733,3.351,6.815,5.556,11.418,5.788c-0.095-0.406-0.145-0.828-0.145-1.262c0-3.059,2.48-5.539,5.54-5.539 c1.593,0,3.032,0.672,4.042,1.749c1.261-0.248,2.448-0.709,3.518-1.343c-0.413,1.292-1.292,2.378-2.437,3.064 c1.122-0.136,2.188-0.432,3.183-0.873C38.257,18.766,37.318,19.743,36.237,20.524z"></path>
+        </svg>
+    </a>
+    </div>
+            <ul class="flex flex-col md:flex-row justify-center list-none">
+                <li class="md:mr-2">
+                    &copy;  2023 <a href="https://nickmoline.com" title="Nick Moline">Nick Moline</a>.
+                </li>
+
+                <li>
+                    Built with <a href="http://jigsaw.tighten.co" title="Jigsaw by Tighten">Jigsaw</a>
+                    and <a href="https://tailwindcss.com" title="Tailwind CSS, a utility-first CSS framework">Tailwind CSS</a>.
+                </li>
+            </ul>
+        </footer>
+
+        <script src="/assets/build/js/main.js?id=fda736dbb5cead1720328f2bc93203e1"></script>
+
+        <script>
+    const navMenu = {
+        toggle() {
+            const menu = document.getElementById('js-nav-menu');
+            menu.classList.toggle('hidden');
+            menu.classList.toggle('lg:block');
+            document.getElementById('js-nav-menu-hide').classList.toggle('hidden');
+            document.getElementById('js-nav-menu-show').classList.toggle('hidden');
+        },
+    }
+</script>
+    </body>
+</html>

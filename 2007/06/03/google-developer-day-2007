@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="description" content="The Personal website of Nick Moline">
+
+        <meta property="og:title" content="Google Developer Day 2007 | NickMoline.com"/>
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://jigsaw-blog-template.tighten.co/2007/06/03/google-developer-day-2007"/>
+        <meta property="og:description" content="The Personal website of Nick Moline" />
+
+        <title>Google Developer Day 2007 | NickMoline.com</title>
+
+        <link rel="home" href="https://jigsaw-blog-template.tighten.co">
+        <link rel="icon" href="/favicon.ico">
+        <link rel="canonical" href="https://jigsaw-blog-template.tighten.co/2007/06/03/google-developer-day-2007">
+        <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
+
+                    <!-- Insert analytics code here -->
+        
+        <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,300i,400,400i,700,700i,800,800i" rel="stylesheet">
+        <link rel="stylesheet" href="/assets/build/css/main.css?id=4f7c8e6b7f5e00fba0e8a3b439818ebb">
+    </head>
+
+    <body class="flex flex-col justify-between min-h-screen bg-gray-100 text-gray-800 leading-normal font-sans">
+        <header class="flex items-center shadow bg-white border-b h-24 py-4" role="banner">
+            <div class="container flex items-center max-w-8xl mx-auto px-4 lg:px-8">
+                <div class="flex items-center">
+                    <a href="/" title="NickMoline.com home" class="inline-flex items-center">
+                        <picture class="h-8 md:h-10 mr-3" title="Nick Moline">
+                            <source srcset="/monogram-250.webp" type="image/webp">
+                            <source srcset="/monogram-250.png" type="image/png">
+                            <img src="/monogram-250.png" alt="Nick Moline">
+                        </picture>
+                    </a>
+                </div>
+
+                <div id="vue-search" class="flex flex-1 justify-end items-center">
+                    <search></search>
+
+                    <nav class="hidden lg:flex items-center justify-end text-lg">
+    <a title="NickMoline.com Blog" href="/blog"
+        class="ml-6 text-gray-700 hover:text-blue-600 ">
+        Blog
+    </a>
+
+    <a title="NickMoline.com About" href="/about"
+        class="ml-6 text-gray-700 hover:text-blue-600 ">
+        About
+    </a>
+
+    <a title="NickMoline.com Contact" href="/contact"
+        class="ml-6 text-gray-700 hover:text-blue-600 ">
+        Contact
+    </a>
+</nav>
+
+                    <button class="flex justify-center items-center bg-blue-500 border border-blue-500 h-10 px-5 rounded-full lg:hidden focus:outline-none"
+    onclick="navMenu.toggle()"
+>
+    <svg id="js-nav-menu-show" xmlns="http://www.w3.org/2000/svg"
+        class="fill-current text-white h-9 w-4" viewBox="0 0 32 32"
+    >
+        <path d="M4,10h24c1.104,0,2-0.896,2-2s-0.896-2-2-2H4C2.896,6,2,6.896,2,8S2.896,10,4,10z M28,14H4c-1.104,0-2,0.896-2,2  s0.896,2,2,2h24c1.104,0,2-0.896,2-2S29.104,14,28,14z M28,22H4c-1.104,0-2,0.896-2,2s0.896,2,2,2h24c1.104,0,2-0.896,2-2  S29.104,22,28,22z"/>
+    </svg>
+
+    <svg id="js-nav-menu-hide" xmlns="http://www.w3.org/2000/svg"
+        class="hidden fill-current text-white h-9 w-4" viewBox="0 0 36 30"
+    >
+        <polygon points="32.8,4.4 28.6,0.2 18,10.8 7.4,0.2 3.2,4.4 13.8,15 3.2,25.6 7.4,29.8 18,19.2 28.6,29.8 32.8,25.6 22.2,15 "/>
+    </svg>
+</button>
+
+                </div>
+            </div>
+        </header>
+
+        <nav id="js-nav-menu" class="w-auto px-2 pt-6 pb-2 bg-gray-200 shadow hidden lg:hidden">
+    <ul class="my-0">
+        <li class="pl-4">
+            <a
+                title="NickMoline.com Blog"
+                href="/blog"
+                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
+            >Blog</a>
+        </li>
+        <li class="pl-4">
+            <a
+                title="NickMoline.com About"
+                href="/about"
+                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
+            >About</a>
+        </li>
+        <li class="pl-4">
+            <a
+                title="NickMoline.com Contact"
+                href="/contact"
+                class="block mt-0 mb-4 text-sm no-underline text-gray-800 hover:text-blue-500"
+            >Contact</a>
+        </li>
+    </ul>
+</nav>
+
+            <div class="cover-image" style="background-image: url('/wp-content/uploads/sites/4/2007/06/main-stage.webp')">
+        <div class="post-heading">
+            <h1>Google Developer Day 2007</h1>
+                        <div class="byline">
+                Posted by <a href="/about" rel="author">nickmoline</a> on <time datetime="2007-06-03T21:34:02+00:00">June 3, 2007</time>
+            </div>
+        </div>
+    </div>
+
+        <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
+            
+            <a
+            href="/blog/categories/events"
+            title="View posts in Events"
+            class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
+        >Events</a>
+    
+    <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
+        <p>This thursday I went over to my second Tech Conference since moving to the San Francisco Bay area, the first being MacWorld back in January, this time, I went to the San Jose convention Center for the 2nd annual <a href="http://code.google.com/events/developerday/mv-home.html">Google Developer Day</a>. I must say I hope that Google&#8217;s CEO tells the Apple Board of Directors a thing or two about how to hold a Tech Conference.</p>
+
+<p><strong>Google Developer Day 2007</strong> was fantastic fun, and Google made a lot of fantastic announcements just for developers, several of which I&#8217;m going to start implementing in my work at Justia.</p>
+
+<!--more-->
+
+<p>I really didn&#8217;t know what to expect, nothing on the website had mentioned anything about a cost or anything, and while I was reasonably sure that the sessions were free and my registration was free, I thought for sure that food would cost money, and that there would be things to buy at the event (shirts and trinkets and such), but I was wrong. I didn&#8217;t spend a dime, the entire day. When I registered, they handed me an info pamphlet, a namebadge, and a coupon to walk over to the left and pick up a free Google Developer Day 2007 t-shirt.</p>
+
+<p><amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2007/06/google-day-lounge.webp" alt="Blogging Lounge" title="Blogging Lounge" layout="responsive" width="950" height="396" lightbox>
+  <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2007/06/google-day-lounge.jpg" alt="Blogging Lounge" title="Blogging Lounge" layout="responsive" width="950" height="396" lightbox></amp-img>
+</amp-img></p>
+
+<p>The event began with a keynote by Jeff Huber, VP of Engineering at Google. He announced several new features and tools for developers. He focused on 3 particular new announcements, Maplets, the <a href="http://code.google.com/gme/" target="_blank">Google Mashup Editor</a>, and <a href="http://code.google.com/apis/gears/" target="_blank">Google Gears</a>. But throughout the rest of the day there would be announcements of several other new features for coders. Google has put up the keynote (and many other sessions up on YouTube. Click play below to watch the keynote.</p>
+
+<p><amp-youtube data-videoid="7vrSx3DSh90" layout="responsive" width="480" height="360"></amp-youtube></p>
+
+<p>The most difficult part of going to this event was deciding which of the <a href="http://code.google.com/events/developerday/mv-sessions.html" target="_blank">many sessions</a> to go to. There were between 5 and 6 different sessions to attend in each session timeslot and several times through the day I had a very difficult time choosing a session to attend.</p>
+
+<p>In the 11 o&#8217;clock session I chose to attend the <strong>Special Session: Building AJAX applications with Google Gears</strong> session led by Andy Palay. This session focused on Google Gears, a new combination of API and browser extension by Google that allows developers to bring their AJAX applications offline. With the announcement of Google Gears, they proved the concept by adding this new API to <a href="http://googlereader.blogspot.com/2007/05/oh-sam-i-am-can-i-read-it-on-tram.html" target="_blank">Google Reader</a>.</p>
+
+<p>Google Reader is a fantasic online RSS newsreader, but one of it&#8217;s drawbacks has always been that you had to be online to use it. Now when you are online, Google Reader will use the Gears API to sync a copy of the data on your local machine, so that when you get on your airplane, you can just simply point your web browser to the google.com/reader URL like normal, and still read your newsfeeds, even mark them as read, tag them, and star them like normal, next time you get online, your changes will sync with the server, saving all your changes.</p>
+
+<p>Several sessions throughout the day (starting with this one) focused on explaining how this API works and how it can be used to take <em>any</em> Ajax application offline bringing the advantages of web based applications off of the web and into environments that previously only desktop applications could enter. This is a fantastic new enhancement to the web, and I&#8217;m looking forward to implementing the Google Gears API in several projects I&#8217;m working on with Justia and personally. At the end of this session, they had us line up in the back to pick up, yet another free T-shirt, advertising Google Gears. Like the Keynote a video of this presentation is available on YouTube, click play below to see it.</p>
+
+<p><amp-youtube data-videoid="Z4zkhY61pus" layout="responsive" width="480" height="360"></amp-youtube></p>
+
+<p>Following this first session, it was time to break for lunch, and wow what a lunch. Exhibit Hall 1 was laid out in a massive grid of tables in the four google colors, 4 triangular shaped sections of tables, red, blue, yellow, and green. In the center of the hall was a circular arrangement of buffet tables. 16 different lunch lines to the various tables filled the room, and a variety of food choices were available, all for free. A couple tables were chinese containing Chinese Chicken Salad, beef skewers, and vegetable spring rolls. An itallian line included ravioli and something that looked like lasagna (I didn&#8217;t get close enough to this table to see what it featured), a Mexican line featured chicken fajitas and nachos, and a deli line contained various deli sandwiches.</p>
+
+<p>There were also various arrangements of cakes at each buffet table, tables of sodas, juices, coffee, tea and water, and large fridges of ice cream (<a href="http://www.nestle-icecream.com/Pages/drumstick.asp">Drumsticks</a> and <a href="http://www.nestle-icecream.com/Pages/crunchbar.asp">Nestle Crunch bars</a>). I was shocked that such a fantastic buffet could be free.</p>
+
+<p>Ok, back to the sessions, in the first session timeslot after Lunch I picked to go to the Google AJAX APIs session, and this is where I thought I made my mistake during the day, the session wasn&#8217;t bad over all, but it was the only session I went to during the day that didn&#8217;t announce anything new, and everything it did talk about, I had already worked with so I didn&#8217;t learn anything new during this session. The AJAX Search and AJAX Feed APIs are fantastic APIs put out by google that allow you to embed searches and RSS and atom feeds on web pages with very little programming.</p>
+
+<p>The Feed API is particularly impressive, as it is one of the only free ways I&#8217;ve seen to embed any RSS or AJAX feed in any web page without any server side component, the way they got around the cross site scripting locks on javascript is astounding. But as I said, I knew all of this way before Google Developer Day, and so this session was not particularly interesting to me.</p>
+
+<p><amp-youtube data-videoid="AXgFj_3I_80" layout="responsive" width="480" height="360"></amp-youtube></p>
+
+<p>I should have gone to the session &#8220;A Computing System for the World&#8217;s Information: A Look Behind the Scenes at Google&#8221; instead, which I heard was a fantastic session. Fortunately for me, like the rest of the sessions at GDD07, the video is up on YouTube.</p>
+
+<p><amp-youtube data-videoid="TQKs27Yqg-8" layout="responsive" width="480" height="360"></amp-youtube></p>
+
+<p>The next session I went to was <strong>New Features in Maps API</strong> and a few of the new announcements in this session more then made up for the disappointment of the previous session. I have done a lot with the Google Maps API in the two years since it has been announced, and there is one thing in particular that I and many of the other people have worked with the Google Maps API have long wished would be added.</p>
+
+<p>When the new Driving Directions functions were described in the session, a few of us actually broke into applause. The new Driving Directions functions not only leverage the fantastic driving directions functions from Google Maps and allow us to put driving directions on our own websites, but they do it in such a way that allows us to style, change, manipulate, and work with those directions so that they can fit in with the style of a site. I&#8217;ve already thought of a way to use it on a few sites to apply a simple change to the last direction based on a few factors to make the directions even better.</p>
+
+<p>One of the things that has always been lacking on those driving directions is most of them don&#8217;t bother to tell you which side of the street the address you are looking for is. Well thanks to this API we can now make better directions by substituting the text of the last direction with text that is more specific, imagine changing the simple &#8220;End at 123 Tester&#8217;s Lane&#8221; to &#8220;123 Tester&#8217;s Lane is the 3rd building on the left, use the 2nd parking lot entrance you find, we are on the 3rd floor, room 208&#8221;, much better directions!</p>
+
+<p>The other enhancement they announced was the Traffic overlays, introduced in google maps a few months ago, you can now add the traffic overlays into your google maps api on your own site if you wish. What will be cool is if they ever add in the ability to mesh that up with the previous api to provide alternate driving directions if someone is wanting directions right now and traffic is backed up on the route they want to take, but that will probably be a while, if ever. Watch the session, you will probably hear my audible cheers throughout the presentation.</p>
+
+<p><amp-youtube data-videoid="0wmfBiGv1t8" layout="responsive" width="480" height="360"></amp-youtube></p>
+
+<p>Believe it or not, even after our big lunch earlier, 2 hours later I was a tiny bit hungry, fortunately for me, Google provided a 30 minute snack break at this time, featuring fruit trays, and big warm soft pretzels to snack on, after a pretzel and some fruit and a bottle of water I was ready for another session.</p>
+
+<p>In the 3:30 to 4:30 hour session I decided to go to the <strong>Special Session: Making Maps Mashups Discoverable with Google Mapplets</strong> session. Google Mapplets is one of the 3 new products I mentioned they were focusing the developer day on, and it&#8217;s every bit as cool as Google Gears, in fact, it&#8217;s something I&#8217;m actually going to implement on an important project I&#8217;m working on. Google Mapplets are simply a combination of the Google Gadgets API (used to make elements for the iGoogle personalized home page), and the Google Maps API (that I just mentioned). Mapplets allow you to take your Maps API applications and convert them into a format that can be Added to maps.google.com.</p>
+
+<p>It&#8217;s a bit hard to describe (though if you watch either the keynote or this session you&#8217;ll understand soon enough) but it&#8217;s a way to do what they are calling a Mashup of Mashups. The example that they give is perhaps the best example I can come up with to explain how this works. Lets say you are looking for a place to live in Chicago. Let&#8217;s say for the sake of example that you also want a home that is close enough to the mass transit lines in Chicago that you can get around easily, and of course nobody wants to live in a place with a lot of crime.</p>
+
+<p>ChicagoCrime.org is a popular google maps api mashup that maps places where crime has been reported in Chicago. Meanwhile Google has a Real Estate Search mashup of their own to find places to live, and finally there is a simple mashup that maps the mass transit lines in Chicago. You could go to these 3 sites separately, look for a home on the Google Real Estate Search, then check on chicagocrime.org and on the mass transit map to see if the home you like is far enough away from crime, but close to mass transit, but this is complicated, and no one of those 3 sites allows you to see the data from the other two, each is special in it&#8217;s own way.</p>
+
+<p>Enter Google Mapplets. Google Mapplets lets you map the crime points from chicagocrime.org, the mass transit, and the real estate search results ALL on maps.google.com at the same time, and then for good measure (if you do drive), add in the GasBuddy.com gas price reports so you won&#8217;t have to live right next to the most expensive gas station in town. Really cool, and I&#8217;m already working on converting some of my Maps mashups to Mapplets so that they can be added to maps.google.com&#8217;s mapplet directory.</p>
+
+<p><amp-youtube data-videoid="QJIMioKRozQ" layout="responsive" width="480" height="360"></amp-youtube></p>
+
+<p>In the final session I had another difficult decision between 3 sessions I was interested in, one was <strong>KML Search and Developing Maps mashups using KML/GeoRSS</strong>, the second was <strong>Custom Search Engine &#8211; Google Search in Your Hands</strong>, and the other was <strong>Special Session: Building Better AJAX Applications: Nuts &amp; Bolts&#8230;and Gears</strong>. I decided on the second of those sessions, and I&#8217;m glad I did.</p>
+
+<p>Several months ago I was working with Google Custom Search Engines to create very many different Search Engines for Justia and Justia Projects. The process was slow, first starting with the online wizard, and then creating XML files to do it better. The problem, and slow down was not in the creating the XML files, I was able to create the over 2000 XML files I needed to create efficiently enough, the problem was the only way to upload these XML files to google was through an HTTP Upload form. This means it had to be done one at a time. To make matters worse, every time you uploaded an XML file, the order of the CSEs on the manage CSE page changed (as it was in order of last update) and this made making sure I uploaded them all properly a bit complicated.</p>
+
+<p>In this session, Google announced a brand new enhancement to Google CSEs where you no longer have to create your different CSEs individually in a web based form and then upload XML files through HTTP upload, instead, now all you need is to put the URL of the xml file in the search form, and Google will do the rest. This means it&#8217;s now possible to create hundreds of thousands of different CSEs even faster, and what&#8217;s more we can now change the definition of the Custom Search Engines on the fly, creating new CSEs programmatically.</p>
+
+<p>This is such a fantastic new feature that I got up, walked to the microphone and thanked them for doing this, it makes my job working with the CSEs tons simpler, and gives me a higher level of control then I ever had before, it also allows a ton of different enhancements. In the file you can now add an <code>&lt;Include&gt;</code> tag to include another xml file, so it&#8217;s now possible to do things like create universally global blacklists or whitelists of websites and share them with other people.</p>
+
+<p>I&#8217;m sure such a service of a universal blacklist of spam sites will be available for people to include in their CSEs soon, I am even tempted to create this myself. Anyway, a great session, though I&#8217;m sure the other two were just as great. At the end of the session, they handed out yet another free t-shirt, this one with blanks to write on (a customizable t-shirt, to advertise the customizable search engine).</p>
+
+<p><amp-youtube data-videoid="qi0Ys2EZXVY" layout="responsive" width="480" height="360"></amp-youtube></p>
+
+<p>It&#8217;s hard to believe that after a day of great informative sessions, free food, and tons of new tools and apis for us to use to make our scripts even better then before, that Google wouldn&#8217;t be done giving to us, but Google doesn&#8217;t do things small. Following the sessions, Google provided free busses from the San Jose Convention Center to the Googleplex, and at the Googleplex they provided a free party for Google Developer Day attendees with free food, free drinks (even free beer and wine), free games to play, and even more free gifts to take home.</p>
+
+<p>I got a Google branded Rubik&#8217;s Cube, and four really cool cups with glow-sticks built into them, so that you crack the cup on the side of a table to break the glow-sticks and then the cup glows brightly for the rest of the night. The food was carnival style, there were hot dogs, hamburgers, corn dogs, kettle corn, churros, snow cones, cotton candy, funnel cakes, and more. Inside they had pool tables, a DJ, and a whole bunch of arcade games (PacMan anyone?).</p>
+
+<p>The above photos were mine, but I have misplaced my photos of the after party.  The following photos were not taken by me, photo credits go to <a href="http://javamagician.blogspot.com/2007/06/google-developer-day-evening-reception.html">The Java Magician</a> and <a href="https://ed.agadak.net/2007/06/google-developer-day-2007">edilee</a>, be sure to check out their posts for their opinions of Google Developer Day and the After Party.</p>
+
+<p><amp-carousel lightbox width="512" height="384" layout="responsive" type="slides">
+  <amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2007/06/IMG_1029.webp" title="Party Bus to the After Party" alt="Party Bus to the After Party" width="512" height="384" layout="responsive">
+    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2007/06/IMG_1029.JPG" title="Party Bus to the After Party" alt="Party Bus to the After Party" width="512" height="384" layout="responsive"></amp-img>
+  </amp-img>
+  <amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2007/06/IMG_1028.webp" title="Inside the Party Bus to the After Party" alt="Inside the Party Bus to the After Party" width="512" height="384" layout="responsive">
+    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2007/06/IMG_1028.JPG" title="Inside the Party Bus to the After Party" alt="Inside the Party Bus to the After Party" width="512" height="384" layout="responsive"></amp-img>
+  </amp-img>
+  <amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2007/06/IMG_1024.webp" title="The After Party Carnival" alt="The After Party Carnival" width="512" height="384" layout="responsive">
+    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2007/06/IMG_1024.JPG" title="The After Party Carnival" alt="The After Party Carnival" width="512" height="384" layout="responsive"></amp-img>
+  </amp-img>
+  <amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2007/06/IMG_1020.webp" title="White Board Tables" alt="White Board Tables" width="512" height="384" layout="responsive">
+    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2007/06/IMG_1020.JPG" title="White Board Tables" alt="White Board Tables" width="512" height="384" layout="responsive"></amp-img>
+  </amp-img>
+  <amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2007/06/IMG_1022.webp" title="Inside portion of the party" alt="Inside portion of the party" width="512" height="384" layout="responsive">
+    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2007/06/IMG_1022.JPG" title="Inside portion of the party" alt="Inside portion of the party" width="512" height="384" layout="responsive"></amp-img>
+  </amp-img>
+  <amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2007/06/IMG_1021.webp" title="Arcade Games" alt="Arcade Games" width="512" height="384" layout="responsive">
+    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2007/06/IMG_1021.JPG" title="Arcade Games" alt="Arcade Games" width="512" height="384" layout="responsive"></amp-img>
+  </amp-img>
+  <amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2007/06/library-1007.webp" title="Party Cups - Unlit" alt="Party Cups - Unlit" width="1024" height="768" layout="responsive">
+    <amp-img fallback src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2007/06/library-1007.jpg" title="Party Cups - Unlit" alt="Party Cups - Unlit" width="1024" height="768" layout="responsive"></amp-img>
+  </amp-img>
+  <amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2007/06/library-1006.webp" title="Party Cups - Lit" alt="Party Cups - Lit" width="1024" height="768" layout="responsive">
+    <amp-img src="https://jigsaw-blog-template.tighten.co/wp-content/uploads/sites/4/2007/06/library-1006.jpg" title="Party Cups - Lit" alt="Party Cups - Lit" width="1024" height="768" layout="responsive"></amp-img>
+  </amp-img>
+</amp-carousel></p>
+
+<p>I had a fantastic time networking with other developers and learning about these great new tools and apis from Google.</p>
+
+<p>One interesting thing I thought I should point out, is that the other day when I was doing a google blogsearch to see if anyone new had said anything about Justia, I was somewhat surprised to notice that someone who had heard me stand up and thank the CSE team for the new enhancement had gone through the trouble of noting both my name and company from my name badge and mentioned me on their blog, so here&#8217;s a shoutout to James Briggs who <a href="http://www.jebriggs.com/blog/2007/05/google-developer-day-2007/">mentioned my being at GDD07</a> before I even had the chance to write this blog post myself.</p>
+    </div>
+
+            <div class="mb-10 pb-4">
+            Tagged: 
+                    <a
+                href="/blog/tags/google"
+                title="View posts tagged with Google"
+                class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
+            >Google</a>
+                    <a
+                href="/blog/tags/google-io"
+                title="View posts tagged with Google I/O"
+                class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
+            >Google I/O</a>
+                    <a
+                href="/blog/tags/google-developer-day"
+                title="View posts tagged with Google Developer Day"
+                class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
+            >Google Developer Day</a>
+                    <a
+                href="/blog/tags/conference"
+                title="View posts tagged with Conference"
+                class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
+            >Conference</a>
+                    <a
+                href="/blog/tags/justia"
+                title="View posts tagged with Justia"
+                class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
+            >Justia</a>
+                </div>
+    
+    <nav class="flex justify-between text-sm md:text-base">
+        <div>
+                            <a href="https://jigsaw-blog-template.tighten.co/2007/04/08/wizardcast-3" title="Older Post: WizardCast 3">
+                    &LeftArrow; WizardCast 3
+                </a>
+                    </div>
+
+        <div>
+                            <a href="https://jigsaw-blog-template.tighten.co/2007/06/06/i-prefer-sir-nicholas-if-you-dont-mind" title="Newer Post: I prefer &#039;Sir Nicholas&#039; if you don&#039;t mind.">
+                    I prefer &#039;Sir Nicholas&#039; if you don&#039;t mind. &RightArrow;
+                </a>
+                    </div>
+    </nav>
+
+            <img src="/wp-content/uploads/sites/4/2007/06/main-stage.webp" alt="Google Developer Day 2007 cover image" class="mb-6">
+            </main>
+
+        <footer class="bg-white text-center text-sm mt-12 py-4" role="contentinfo">
+            <div class="social-icons-block">
+    
+        <a href="https://subspacelink.com/@nickmoline" rel="me" target="_blank" class="social-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 512 512" width="24" height="24">
+            <title>Mastodon</title>
+            <path d="M256 0c141.284 0 256 114.563 256 256 0 141.284-114.563 256-256 256C114.716 512 0 397.437 0 256 0 114.716 114.563 0 256 0zm134.506 175.487c-4.177-31.049-31.239-55.52-63.32-60.261-5.412-.801-25.918-3.717-73.421-3.717h-.354c-47.516 0-57.709 2.916-63.121 3.717-31.188 4.61-59.669 26.596-66.579 58.014-3.323 15.472-3.678 32.627-3.06 48.361.879 22.566 1.05 45.091 3.101 67.564a317.689 317.689 0 007.395 44.317c6.567 26.924 33.157 49.331 59.208 58.474a158.807 158.807 0 0086.622 4.57 126.28 126.28 0 009.367-2.561c6.988-2.22 15.173-4.701 21.191-9.063a.692.692 0 00.275-.525V362.6a.667.667 0 00-.066-.277.652.652 0 00-.721-.341 240.065 240.065 0 01-56.213 6.569c-32.58 0-41.342-15.46-43.849-21.895a67.833 67.833 0 01-3.812-17.259.611.611 0 01.054-.289.62.62 0 01.441-.361.644.644 0 01.293.006 235.518 235.518 0 0055.293 6.568c4.479 0 8.947 0 13.426-.12 18.732-.524 38.478-1.484 56.907-5.083.461-.091.921-.17 1.314-.288 29.073-5.583 56.739-23.104 59.55-67.472.104-1.748.368-18.296.368-20.108.012-6.16 1.983-43.699-.289-66.763zm-46.057 34.885v77.139H313.88v-74.867c0-15.761-6.569-23.8-19.929-23.8-14.689 0-22.045 9.511-22.045 28.291v40.981h-30.383v-40.981c0-18.78-7.371-28.291-22.058-28.291-13.281 0-19.915 8.039-19.915 23.8v74.867h-30.556v-77.139c0-15.761 4.025-28.283 12.072-37.565 8.303-9.26 19.193-14.014 32.711-14.014 15.645 0 27.468 6.016 35.35 18.033l7.607 12.767 7.62-12.767c7.881-12.017 19.705-18.033 35.323-18.033 13.506 0 24.395 4.754 32.724 14.014 8.041 9.274 12.056 21.796 12.048 37.565z"/>
+        </svg>
+    </a>
+    
+        <a href="https://facebook.com/NickMoline" rel="me" target="_blank" class="social-icon" aria-label="Link to Facebook">
+        <svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 24 24" width="24px" height="24px">
+            <title>Facebook</title>
+            <path d="M12,2C6.477,2,2,6.477,2,12c0,5.013,3.693,9.153,8.505,9.876V14.65H8.031v-2.629h2.474v-1.749 c0-2.896,1.411-4.167,3.818-4.167c1.153,0,1.762,0.085,2.051,0.124v2.294h-1.642c-1.022,0-1.379,0.969-1.379,2.061v1.437h2.995 l-0.406,2.629h-2.588v7.247C18.235,21.236,22,17.062,22,12C22,6.477,17.523,2,12,2z"/>
+        </svg>
+    </a>
+    
+        <a href="http://www.linkedin.com/in/NickMoline" rel="me" title="Nick on LinkedIn" class="social-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="24" height="24" viewBox="0 0 50 50">
+            <title>LinkedIn</title>
+            <path d="M25,2C12.318,2,2,12.317,2,25s10.318,23,23,23s23-10.317,23-23S37.682,2,25,2z M18,35h-4V20h4V35z M16,17 c-1.105,0-2-0.895-2-2c0-1.105,0.895-2,2-2s2,0.895,2,2C18,16.105,17.105,17,16,17z M37,35h-4v-5v-2.5c0-1.925-1.575-3.5-3.5-3.5 S26,25.575,26,27.5V35h-4V20h4v1.816C27.168,20.694,28.752,20,30.5,20c3.59,0,6.5,2.91,6.5,6.5V35z"></path>
+        </svg>
+    </a>
+    
+        <a href="https://github.com/NickMoline" rel="me" target="_blank" class="social-icon" aria-label="Link to AMP HTML github">
+        <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="24" height="24" viewBox="0 0 50 50">
+            <title>GitHub</title>
+            <path d="M17.791,46.836C18.502,46.53,19,45.823,19,45v-5.4c0-0.197,0.016-0.402,0.041-0.61C19.027,38.994,19.014,38.997,19,39 c0,0-3,0-3.6,0c-1.5,0-2.8-0.6-3.4-1.8c-0.7-1.3-1-3.5-2.8-4.7C8.9,32.3,9.1,32,9.7,32c0.6,0.1,1.9,0.9,2.7,2c0.9,1.1,1.8,2,3.4,2 c2.487,0,3.82-0.125,4.622-0.555C21.356,34.056,22.649,33,24,33v-0.025c-5.668-0.182-9.289-2.066-10.975-4.975 c-3.665,0.042-6.856,0.405-8.677,0.707c-0.058-0.327-0.108-0.656-0.151-0.987c1.797-0.296,4.843-0.647,8.345-0.714 c-0.112-0.276-0.209-0.559-0.291-0.849c-3.511-0.178-6.541-0.039-8.187,0.097c-0.02-0.332-0.047-0.663-0.051-0.999 c1.649-0.135,4.597-0.27,8.018-0.111c-0.079-0.5-0.13-1.011-0.13-1.543c0-1.7,0.6-3.5,1.7-5c-0.5-1.7-1.2-5.3,0.2-6.6 c2.7,0,4.6,1.3,5.5,2.1C21,13.4,22.9,13,25,13s4,0.4,5.6,1.1c0.9-0.8,2.8-2.1,5.5-2.1c1.5,1.4,0.7,5,0.2,6.6c1.1,1.5,1.7,3.2,1.6,5 c0,0.484-0.045,0.951-0.11,1.409c3.499-0.172,6.527-0.034,8.204,0.102c-0.002,0.337-0.033,0.666-0.051,0.999 c-1.671-0.138-4.775-0.28-8.359-0.089c-0.089,0.336-0.197,0.663-0.325,0.98c3.546,0.046,6.665,0.389,8.548,0.689 c-0.043,0.332-0.093,0.661-0.151,0.987c-1.912-0.306-5.171-0.664-8.879-0.682C35.112,30.873,31.557,32.75,26,32.969V33 c2.6,0,5,3.9,5,6.6V45c0,0.823,0.498,1.53,1.209,1.836C41.37,43.804,48,35.164,48,25C48,12.318,37.683,2,25,2S2,12.318,2,25 C2,35.164,8.63,43.804,17.791,46.836z"></path>
+        </svg>
+    </a>
+        
+        <a href="http://www.youtube.com/nickmoline" rel="me" title="Nick's Videos" class="social-icon">
+        <svg fill="#000000" width="24" height="24" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+            <title>YouTube</title>
+            <path d="M11.603 9.833L9.357 8.785C9.161 8.694 9 8.796 9 9.013v1.974c0 .217.161.319.357.228l2.245-1.048c.197-.092.197-.242.001-.334zM10 .4C4.698.4.4 4.698.4 10s4.298 9.6 9.6 9.6 9.6-4.298 9.6-9.6S15.302.4 10 .4zm0 13.5c-4.914 0-5-.443-5-3.9s.086-3.9 5-3.9 5 .443 5 3.9-.086 3.9-5 3.9z"/>
+        </svg>
+    </a>
+    
+        <a href="https://twitter.com/NickMoline" rel="me" target="_blank" class="social-icon" aria-label="Link to AMP HTML Twitter">
+        <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="24" height="24" viewBox="0 0 50 50">
+            <title>Twitter</title>
+            <path d="M25,2C12.317,2,2,12.317,2,25s10.317,23,23,23s23-10.317,23-23S37.683,2,25,2z M36.237,20.524 c0.01,0.236,0.016,0.476,0.016,0.717C36.253,28.559,30.68,37,20.491,37c-3.128,0-6.041-0.917-8.491-2.489 c0.433,0.052,0.872,0.077,1.321,0.077c2.596,0,4.985-0.884,6.879-2.37c-2.424-0.044-4.468-1.649-5.175-3.847 c0.339,0.065,0.686,0.1,1.044,0.1c0.505,0,0.995-0.067,1.458-0.195c-2.532-0.511-4.441-2.747-4.441-5.432c0-0.024,0-0.047,0-0.07 c0.747,0.415,1.6,0.665,2.509,0.694c-1.488-0.995-2.464-2.689-2.464-4.611c0-1.015,0.272-1.966,0.749-2.786 c2.733,3.351,6.815,5.556,11.418,5.788c-0.095-0.406-0.145-0.828-0.145-1.262c0-3.059,2.48-5.539,5.54-5.539 c1.593,0,3.032,0.672,4.042,1.749c1.261-0.248,2.448-0.709,3.518-1.343c-0.413,1.292-1.292,2.378-2.437,3.064 c1.122-0.136,2.188-0.432,3.183-0.873C38.257,18.766,37.318,19.743,36.237,20.524z"></path>
+        </svg>
+    </a>
+    </div>
+            <ul class="flex flex-col md:flex-row justify-center list-none">
+                <li class="md:mr-2">
+                    &copy;  2023 <a href="https://nickmoline.com" title="Nick Moline">Nick Moline</a>.
+                </li>
+
+                <li>
+                    Built with <a href="http://jigsaw.tighten.co" title="Jigsaw by Tighten">Jigsaw</a>
+                    and <a href="https://tailwindcss.com" title="Tailwind CSS, a utility-first CSS framework">Tailwind CSS</a>.
+                </li>
+            </ul>
+        </footer>
+
+        <script src="/assets/build/js/main.js?id=fda736dbb5cead1720328f2bc93203e1"></script>
+
+        <script>
+    const navMenu = {
+        toggle() {
+            const menu = document.getElementById('js-nav-menu');
+            menu.classList.toggle('hidden');
+            menu.classList.toggle('lg:block');
+            document.getElementById('js-nav-menu-hide').classList.toggle('hidden');
+            document.getElementById('js-nav-menu-show').classList.toggle('hidden');
+        },
+    }
+</script>
+    </body>
+</html>
