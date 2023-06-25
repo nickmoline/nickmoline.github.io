@@ -1,4 +1,4 @@
-name: Build and deploy Jekyll site to GitHub Pages
+name: Build and deploy Jigsaw site to GitHub Pages
 
 on:
   push:
@@ -7,19 +7,70 @@ on:
 
 jobs:
   github-pages:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
+    env:
+      JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
+      JEKYLL_GITHUB_TOKEN: ${{ secrets.JEKYLL_PAT }}
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/cache@v2
+      - name: Cancel Previous Runs
+        uses: styfle/cancel-workflow-action@0.4.0
         with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          access_token: ${{ secrets.JEKYLL_PAT }}
+
+      - name: Checkout Codebase
+        uses: actions/checkout@v2
+
+      - name: Setup Cache Environment
+        id: extcache
+        uses: shivammathur/cache-extensions@v1
+        with:
+          php-version: 8.2
+          key: ${{ runner.os }}-php-${{ hashFiles('**/composer.lock') }}
+
+      - name: Cache extensions
+        uses: actions/cache@v2
+        with:
+          path: ${{ steps.extcache.outputs.dir }}
+          key: ${{ steps.extcache.outputs.key }}
+          restore-keys: ${{ steps.extcache.outputs.key }}
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: 8.2
+          ini-values: max_execution_time=3000
+          coverage: none
+
+      - name: Get Composer Cache Directory
+        id: composer-cache
+        run: |
+          echo "::set-output name=dir::$(composer config cache-files-dir)"
+
+      - name: Cache Composer Files
+        uses: actions/cache@v2
+        with:
+          path: ${{ steps.composer-cache.outputs.dir }}
+          key: ${{ runner.os }}-composer-${{ hashFiles('**/composer.lock') }}
           restore-keys: |
-            ${{ runner.os }}-gems-
-      - uses: helaili/jekyll-action@v2
+            ${{ runner.os }}-composer-
+
+      - name: Install Composer Development dependencies
+        run: composer install --no-ansi --no-interaction --no-progress --dev
+
+      - name: NPM Install
+        run: npm install
+      
+      - name: NPM Build
+        run: npm run prod
+
+      - name: Build Jigsaw Site
+        run: ./vendor/bin/jigsaw build production
+      
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          token: ${{ secrets.JEKYLL_PAT }}
-          target_branch: 'master'
-        env:
-          JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
-          JEKYLL_GITHUB_TOKEN: ${{ secrets.JEKYLL_PAT }}
+          github_token: ${{ secrets.JEKYLL_PAT }}
+          personal_token: ${{ secrets.JEKYLL_PAT }}
+          publish_dir: ./build_production
+          publish_branch: master
+          cname: www.nickmoline.com
