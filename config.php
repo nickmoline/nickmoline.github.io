@@ -2,6 +2,7 @@
 
 use Carbon\Carbon;
 use Illuminate\Support\Str;
+use Illuminate\Support\Arr;
 use NickMoline\Models\Post;
 
 return [
@@ -30,21 +31,15 @@ return [
                 return Post::fromItem($post);
             },
             'author' => 'Nick Moline', // Default author, if not provided in a post
-            'sort' => '-filename',
+            'sort' => '-published',
             'path' => function ($page) {
-                if ($page->permalink) {
-                    return preg_replace("@/*$@", "/", $page->permalink);
-                }
-                if (preg_match("@^(\d{4})-(\d{2})-(\d{2})-(.*)$@msi", $page->getFilename(), $matches)) {
-                    return "/{$matches[1]}/{$matches[2]}/{$matches[3]}/{$matches[4]}/";
-                }
-                return preg_replace("@/*$@", "/", $page->getFilename());
+                return $page->getPermalink();
             },
             'extends' => '_layouts.post',
             'section' => 'content',
         ],
         'categories' => [
-            'path' => '/blog/categories/{filename}',
+            'path' => '/blog/categories/{filename}/',
             'posts' => function ($page, $allPosts) {
                 return $allPosts->filter(function ($post) use ($page) {
                     return $post->inCategory($page->getFilename());
@@ -52,7 +47,7 @@ return [
             },
         ],
         'tags' => [
-            'path' => '/blog/tags/{filename}',
+            'path' => '/blog/tags/{filename}/',
             'posts' => function ($page, $allPosts) {
                 return $allPosts->filter(function ($post) use ($page) {
                     return $post->tags ? in_array($page->getFilename(), $post->tags, true) : false;
@@ -72,6 +67,26 @@ return [
             return $page->collection[$filename]->getUrl();
         }
         return $filename;
+    },
+
+    'publishDate' => function ($page) {
+        if (Arr::has($page->items, 'published')) {
+            return Carbon::parse($page->published);
+        } elseif (Arr::has($page->items, 'date')) {
+            return Carbon::parse($page->date);
+        } elseif (preg_match("(\d{4}-\d{2}-\d{2})", $page->getFilename(), $matches)) {
+            return Carbon::parse($matches[0]);
+        }
+        return Carbon::now();
+    },
+
+    'getPermalink' => function ($page) {
+        if ($page->permalink) {
+            return preg_replace("@/?$@", ".html", $page->permalink);
+        }
+        $date = $page->publishDate();
+        $slug = preg_replace("@^(\d{4}-\d{2}-\d{2}-)@", "", $page->getFilename());
+        return $date->format("/Y/m/d/") . $slug . '.html';
     },
 
     'postLink' => function ($page, $filename, $text = null) {

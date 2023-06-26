@@ -14,19 +14,19 @@ class Post extends CollectionItem
     public function getPermalink(): string
     {
         if ($this->permalink) {
-            return preg_replace("@/*$@", "/", $this->permalink);
+            return preg_replace("@/?$@", ".html", $this->permalink);
         }
         $date = $this->publishDate();
         $slug = preg_replace("@^(\d{4}-\d{2}-\d{2}-)@", "", $this->getFilename());
-        return $date->format("/Y/m/d/") . $slug . '/';
+        return $date->format("/Y/m/d/") . $slug . '.html';
     }
 
     public function getPath($key = null): string
     {
         if ($key) {
-            return preg_replace("@/*$@", "/", parent::getPath($key));
+            return preg_replace("@/?$@", ".html", parent::getPath($key));
         }
-        return $this->getPermalink();
+        return preg_replace("@/?$@", ".html", $this->getPermalink());
     }
 
     public function categoryCollection(): Collection
