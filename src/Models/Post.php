@@ -14,17 +14,17 @@ class Post extends CollectionItem
     public function getPermalink(): string
     {
         if ($this->permalink) {
-            return $this->permalink;
+            return preg_replace("@/*$@", "/", $this->permalink);
         }
         $date = $this->publishDate();
         $slug = preg_replace("@^(\d{4}-\d{2}-\d{2}-)@", "", $this->getFilename());
-        return $date->format("/Y/m/d/") . $slug;
+        return $date->format("/Y/m/d/") . $slug . '/';
     }
 
     public function getPath($key = null): string
     {
         if ($key) {
-            return parent::getPath($key);
+            return preg_replace("@/*$@", "/", parent::getPath($key));
         }
         return $this->getPermalink();
     }
@@ -45,7 +45,7 @@ class Post extends CollectionItem
                 'slug' => $slug,
                 'filename' => $filename,
                 'full_path' => $fullPath,
-                'path' => "/blog/categories/{$slug}"
+                'path' => "/blog/categories/{$slug}/"
             ];
         }
         return $data;
@@ -67,7 +67,7 @@ class Post extends CollectionItem
                 'slug' => $slug,
                 'filename' => $filename,
                 'full_path' => $fullPath,
-                'path' => "/blog/tags/{$slug}"
+                'path' => "/blog/tags/{$slug}/"
             ];
         }
         return $data;

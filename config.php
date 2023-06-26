@@ -33,12 +33,12 @@ return [
             'sort' => '-filename',
             'path' => function ($page) {
                 if ($page->permalink) {
-                    return $page->permalink;
+                    return preg_replace("@/*$@", "/", $page->permalink);
                 }
                 if (preg_match("@^(\d{4})-(\d{2})-(\d{2})-(.*)$@msi", $page->getFilename(), $matches)) {
-                    return "/{$matches[1]}/{$matches[2]}/{$matches[3]}/{$matches[4]}";
+                    return "/{$matches[1]}/{$matches[2]}/{$matches[3]}/{$matches[4]}/";
                 }
-                return $page->getFilename();
+                return preg_replace("@/*$@", "/", $page->getFilename());
             },
             'extends' => '_layouts.post',
             'section' => 'content',
