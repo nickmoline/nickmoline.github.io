@@ -31,7 +31,7 @@ return [
                 return Post::fromItem($post);
             },
             'author' => 'Nick Moline', // Default author, if not provided in a post
-            'sort' => '-published',
+            'sort' => '-filename',
             'path' => function ($page) {
                 return $page->getPermalink();
             },
