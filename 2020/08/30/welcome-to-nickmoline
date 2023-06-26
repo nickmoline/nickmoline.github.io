@@ -211,14 +211,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/10/30/ben-fix-legislature.html.html" title="Older Post: On Ben’s view on how to fix the Legislature">
-                    &LeftArrow; On Ben’s view on how to fix the Legislature
+                            <a href="https://www.nickmoline.com/2020/08/21/automating-progress-bar-in-jekyll.html.html" title="Older Post: Automating the site migration progress bar in Jekyll">
+                    &LeftArrow; Automating the site migration progress bar in Jekyll
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2012/07/24/time-clear-liquids.html.html" title="Newer Post: Time for the clear liquids only">
-                    Time for the clear liquids only &RightArrow;
+                            <a href="https://www.nickmoline.com/2020/10/04/the-next-adventure.html.html" title="Newer Post: Rolling up a New Character">
+                    Rolling up a New Character &RightArrow;
                 </a>
                     </div>
     </nav>

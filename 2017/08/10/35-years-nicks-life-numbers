@@ -206,14 +206,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2011/05/31/migrated-back-to-wordpress.html.html" title="Older Post: Migrated Back to WordPress">
-                    &LeftArrow; Migrated Back to WordPress
+                            <a href="https://www.nickmoline.com/2017/07/28/instant-messaging-services.html" title="Older Post: Collaborative Firm: Instant Messaging Services">
+                    &LeftArrow; Collaborative Firm: Instant Messaging Services
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2003/09/23/following-fedex.html.html" title="Newer Post: Following Fedex...">
-                    Following Fedex... &RightArrow;
+                            <a href="https://www.nickmoline.com/2017/09/08/hurry-migrate-to-https.html" title="Newer Post: Hurry! Time Is Running Out to Migrate Your Site to HTTPS!">
+                    Hurry! Time Is Running Out to Migrate Your Site to HTTPS! &RightArrow;
                 </a>
                     </div>
     </nav>

@@ -162,14 +162,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2020/08/21/automating-progress-bar-in-jekyll.html.html" title="Older Post: Automating the site migration progress bar in Jekyll">
-                    &LeftArrow; Automating the site migration progress bar in Jekyll
+                            <a href="https://www.nickmoline.com/2008/05/17/for-narnia-and-for-aslan.html.html" title="Older Post: For Narnia, and for Aslan!">
+                    &LeftArrow; For Narnia, and for Aslan!
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/08/02/hes-gone.html.html" title="Newer Post: He&#039;s gone!">
-                    He&#039;s gone! &RightArrow;
+                            <a href="https://www.nickmoline.com/2008/06/01/google-io-part-ii-the-opening-keynote.html.html" title="Newer Post: Google I/O Part II: The Opening Keynote">
+                    Google I/O Part II: The Opening Keynote &RightArrow;
                 </a>
                     </div>
     </nav>

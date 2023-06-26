@@ -135,14 +135,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2013/12/12/automatically-post-wordpress-blog-google-jetpack.html.html" title="Older Post: Automatically post your WordPress blog to Google+ with Jetpack">
-                    &LeftArrow; Automatically post your WordPress blog to Google+ with Jetpack
+                            <a href="https://www.nickmoline.com/2007/03/25/tivo-making-a-come-back-watch-out-apple-tv.html.html" title="Older Post: TiVo making a come back?  Watch out Apple TV.">
+                    &LeftArrow; TiVo making a come back?  Watch out Apple TV.
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2006/05/21/yet-another-wp-installation.html.html" title="Newer Post: Yet another WP Installation">
-                    Yet another WP Installation &RightArrow;
+                            <a href="https://www.nickmoline.com/2007/06/03/google-developer-day-2007.html.html" title="Newer Post: Google Developer Day 2007">
+                    Google Developer Day 2007 &RightArrow;
                 </a>
                     </div>
     </nav>

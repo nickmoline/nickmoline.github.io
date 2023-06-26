@@ -122,14 +122,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/02/22/plugins.html.html" title="Older Post: MT Plugins">
-                    &LeftArrow; MT Plugins
+                            <a href="https://www.nickmoline.com/2004/02/22/a-gaggle-of-gifts.html.html" title="Older Post: A Gaggle of Gifts">
+                    &LeftArrow; A Gaggle of Gifts
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2009/11/16/mofusemobi-down-with-mysql-errors.html.html" title="Newer Post: Mofuse.mobi down with MySQL Errors">
-                    Mofuse.mobi down with MySQL Errors &RightArrow;
+                            <a href="https://www.nickmoline.com/2004/02/22/plugins.html.html" title="Newer Post: MT Plugins">
+                    MT Plugins &RightArrow;
                 </a>
                     </div>
     </nav>

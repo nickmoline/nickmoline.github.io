@@ -130,14 +130,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2012/10/13/newsies-on-broadway.html.html" title="Older Post: Extra Extra &amp;#8211; Read all about it!">
-                    &LeftArrow; Extra Extra &amp;#8211; Read all about it!
+                            <a href="https://www.nickmoline.com/2004/02/22/new-blog-client.html.html" title="Older Post: New Blog Client">
+                    &LeftArrow; New Blog Client
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/02/22/new-blog-client.html.html" title="Newer Post: New Blog Client">
-                    New Blog Client &RightArrow;
+                            <a href="https://www.nickmoline.com/2004/02/23/grand-theft-of-cow.html.html" title="Newer Post: Grand Theft of Cow">
+                    Grand Theft of Cow &RightArrow;
                 </a>
                     </div>
     </nav>

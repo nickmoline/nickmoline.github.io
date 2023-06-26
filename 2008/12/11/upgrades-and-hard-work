@@ -138,14 +138,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/05/02/gallery.html.html" title="Older Post: New Site Area">
-                    &LeftArrow; New Site Area
+                            <a href="https://www.nickmoline.com/2008/11/19/mashup-camp-7-wrapup.html.html" title="Older Post: Mashup Camp 7 Wrapup">
+                    &LeftArrow; Mashup Camp 7 Wrapup
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/04/22/week-from-hell.html.html" title="Newer Post: The Week from Hell">
-                    The Week from Hell &RightArrow;
+                            <a href="https://www.nickmoline.com/2009/01/15/is-the-book-better-than-the-movie.html.html" title="Newer Post: Is the book better than the movie?">
+                    Is the book better than the movie? &RightArrow;
                 </a>
                     </div>
     </nav>

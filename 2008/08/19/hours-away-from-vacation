@@ -181,11 +181,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
+                            <a href="https://www.nickmoline.com/2008/08/11/gmail-down.html.html" title="Older Post: GMail Down">
+                    &LeftArrow; GMail Down
+                </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2013/04/16/looking-at-life-from-the-other-side-of-the-glass.html.html" title="Newer Post: Looking at Life from the Other Side of the Glass">
-                    Looking at Life from the Other Side of the Glass &RightArrow;
+                            <a href="https://www.nickmoline.com/2008/08/27/all-primed-up-amazon-is-brilliant.html.html" title="Newer Post: All Primed Up: Amazon is Brilliant">
+                    All Primed Up: Amazon is Brilliant &RightArrow;
                 </a>
                     </div>
     </nav>

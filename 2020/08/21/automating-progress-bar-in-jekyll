@@ -248,14 +248,14 @@ out of &lt;strong&gt;{{ total_post_count | floor }}&lt;/strong&gt; posts migrate
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/07/24/vpn.html.html" title="Older Post: VPNs and old bosses">
-                    &LeftArrow; VPNs and old bosses
+                            <a href="https://www.nickmoline.com/2020/08/20/migrating-to-jekyll.html" title="Older Post: Migrating my blog and personal site to Jekyll">
+                    &LeftArrow; Migrating my blog and personal site to Jekyll
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2008/06/01/google-io-part-1-google-app-engine.html.html" title="Newer Post: Google I/O Part I: Google App Engine">
-                    Google I/O Part I: Google App Engine &RightArrow;
+                            <a href="https://www.nickmoline.com/2020/08/30/welcome-to-nickmoline.html.html" title="Newer Post: Welcome to the new NickMoline.com">
+                    Welcome to the new NickMoline.com &RightArrow;
                 </a>
                     </div>
     </nav>

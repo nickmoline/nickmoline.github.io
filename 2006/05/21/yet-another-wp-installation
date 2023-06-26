@@ -128,14 +128,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2007/04/08/wizardcast-3.html.html" title="Older Post: WizardCast 3">
-                    &LeftArrow; WizardCast 3
+                            <a href="https://www.nickmoline.com/2006/05/21/a-wedding.html.html" title="Older Post: A Wedding">
+                    &LeftArrow; A Wedding
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2006/05/16/image-editing-fool.html.html" title="Newer Post: Image Editing Fool">
-                    Image Editing Fool &RightArrow;
+                            <a href="https://www.nickmoline.com/2006/05/30/personality-test.html.html" title="Newer Post: Personality Test">
+                    Personality Test &RightArrow;
                 </a>
                     </div>
     </nav>

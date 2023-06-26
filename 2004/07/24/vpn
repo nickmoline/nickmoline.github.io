@@ -138,14 +138,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2008/06/01/google-io-part-ii-the-opening-keynote.html.html" title="Older Post: Google I/O Part II: The Opening Keynote">
-                    &LeftArrow; Google I/O Part II: The Opening Keynote
+                            <a href="https://www.nickmoline.com/2004/07/22/busy-updating.html.html" title="Older Post: Busily Updating">
+                    &LeftArrow; Busily Updating
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2020/08/21/automating-progress-bar-in-jekyll.html.html" title="Newer Post: Automating the site migration progress bar in Jekyll">
-                    Automating the site migration progress bar in Jekyll &RightArrow;
+                            <a href="https://www.nickmoline.com/2004/07/28/catch22.html.html" title="Newer Post: Catch 22">
+                    Catch 22 &RightArrow;
                 </a>
                     </div>
     </nav>

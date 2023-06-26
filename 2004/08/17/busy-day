@@ -137,14 +137,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/08/27/blogshares.html.html" title="Older Post: How do you measure its worth">
-                    &LeftArrow; How do you measure its worth
+                            <a href="https://www.nickmoline.com/2004/08/17/archive-tweaks.html.html" title="Older Post: Archive Tweaks">
+                    &LeftArrow; Archive Tweaks
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2020/10/04/the-next-adventure.html.html" title="Newer Post: Rolling up a New Character">
-                    Rolling up a New Character &RightArrow;
+                            <a href="https://www.nickmoline.com/2004/08/27/blogshares.html.html" title="Newer Post: How do you measure its worth">
+                    How do you measure its worth &RightArrow;
                 </a>
                     </div>
     </nav>

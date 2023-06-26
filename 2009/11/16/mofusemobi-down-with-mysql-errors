@@ -132,14 +132,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/02/22/new-blog-client.html.html" title="Older Post: New Blog Client">
-                    &LeftArrow; New Blog Client
+                            <a href="https://www.nickmoline.com/2009/08/31/nickpro-migrated-to-drupal.html.html" title="Older Post: Nick.pro Migrated to Drupal">
+                    &LeftArrow; Nick.pro Migrated to Drupal
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2017/05/22/seven-blog-posts-three-days.html.html" title="Newer Post: Seven Blog Posts in Three Days">
-                    Seven Blog Posts in Three Days &RightArrow;
+                            <a href="https://www.nickmoline.com/2009/12/08/google-list-message-headers-changing-could-real-google-groups-for-domains-be-on-way.html.html" title="Newer Post: Google List Message Headers Changing - Could real Google Groups for Domains be on the way?">
+                    Google List Message Headers Changing - Could real Google Groups for Domains be on the way? &RightArrow;
                 </a>
                     </div>
     </nav>

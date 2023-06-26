@@ -120,14 +120,14 @@ fun, I should look into writing a few of my own, rather then just modifying the 
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2007/01/16/family-in-the-bay.html.html" title="Older Post: Family in the Bay">
-                    &LeftArrow; Family in the Bay
+                            <a href="https://www.nickmoline.com/2004/02/28/road-warrior.html.html" title="Older Post: Road Warrior">
+                    &LeftArrow; Road Warrior
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2012/10/22/october-weight-loss-update-48-2-pounds-since-surgery-134-4-pounds-total.html.html" title="Newer Post: October Weight Loss Update &amp;#8211; 48.2 pounds since surgery, 134.4 pounds total">
-                    October Weight Loss Update &amp;#8211; 48.2 pounds since surgery, 134.4 pounds total &RightArrow;
+                            <a href="https://www.nickmoline.com/2004/03/02/has-beens-and-wannabies.html.html" title="Newer Post: Has Beens and Wannabies">
+                    Has Beens and Wannabies &RightArrow;
                 </a>
                     </div>
     </nav>

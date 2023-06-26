@@ -132,14 +132,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/07/11/blog-birthday.html.html" title="Older Post: Bloggie BDay">
-                    &LeftArrow; Bloggie BDay
+                            <a href="https://www.nickmoline.com/2004/02/21/breakdown.html.html" title="Older Post: Breakdown">
+                    &LeftArrow; Breakdown
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/04/04/dead-phone.html.html" title="Newer Post: Dead Phone">
-                    Dead Phone &RightArrow;
+                            <a href="https://www.nickmoline.com/2004/02/22/new-blog-client.html.html" title="Newer Post: New Blog Client">
+                    New Blog Client &RightArrow;
                 </a>
                     </div>
     </nav>

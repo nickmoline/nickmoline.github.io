@@ -189,14 +189,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/07/09/camping-on-the-rocks.html.html" title="Older Post: Camping on the Rocks">
-                    &LeftArrow; Camping on the Rocks
+                            <a href="https://www.nickmoline.com/2019/05/30/google-io-2019-io19.html.html" title="Older Post: My Google I/O 2019 Experience">
+                    &LeftArrow; My Google I/O 2019 Experience
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2006/12/19/california-here-i-come.html.html" title="Newer Post: Life Changes">
-                    Life Changes &RightArrow;
+                            <a href="https://www.nickmoline.com/2020/08/20/migrating-to-jekyll.html" title="Newer Post: Migrating my blog and personal site to Jekyll">
+                    Migrating my blog and personal site to Jekyll &RightArrow;
                 </a>
                     </div>
     </nav>

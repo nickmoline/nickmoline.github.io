@@ -120,14 +120,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2012/05/30/web-intents-atom-annoyance.html.html" title="Older Post: Web Intents are Great | Web Intents are Horrible">
-                    &LeftArrow; Web Intents are Great | Web Intents are Horrible
+                            <a href="https://www.nickmoline.com/2004/02/23/grand-theft-of-cow.html.html" title="Older Post: Grand Theft of Cow">
+                    &LeftArrow; Grand Theft of Cow
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/03/27/jobs-and-odd-things.html.html" title="Newer Post: Jobs and Odd Tasks to do">
-                    Jobs and Odd Tasks to do &RightArrow;
+                            <a href="https://www.nickmoline.com/2004/02/27/cleaning-up-clearing-out.html.html" title="Newer Post: Cleaning Up and Clearing Out">
+                    Cleaning Up and Clearing Out &RightArrow;
                 </a>
                     </div>
     </nav>

@@ -118,14 +118,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2016/11/01/little-bit-structured-data-semantic-web.html.html" title="Older Post: A little bit about Structured Data and the Semantic Web">
-                    &LeftArrow; A little bit about Structured Data and the Semantic Web
+                            <a href="https://www.nickmoline.com/2004/02/22/plugins.html.html" title="Older Post: MT Plugins">
+                    &LeftArrow; MT Plugins
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2008/06/06/amazon-down-but-not-out.html.html" title="Newer Post: Amazon down but not out">
-                    Amazon down but not out &RightArrow;
+                            <a href="https://www.nickmoline.com/2004/02/25/blog-surfing.html.html" title="Newer Post: Blog Surfing">
+                    Blog Surfing &RightArrow;
                 </a>
                     </div>
     </nav>

@@ -141,14 +141,11 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2005/02/11/blogs-and-suffering.html.html" title="Older Post: On Blogs and Suffering">
-                    &LeftArrow; On Blogs and Suffering
-                </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/03/25/microsoft-actd-phone.html.html" title="Newer Post: Microsoft, ACTD, and cell phones">
-                    Microsoft, ACTD, and cell phones &RightArrow;
+                            <a href="https://www.nickmoline.com/2003/07/12/personality-disorder-test.html.html" title="Newer Post: Boredom, Insane ACTD Characters, and a Personality Disorder test">
+                    Boredom, Insane ACTD Characters, and a Personality Disorder test &RightArrow;
                 </a>
                     </div>
     </nav>

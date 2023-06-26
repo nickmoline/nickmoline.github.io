@@ -147,14 +147,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2008/07/22/blogging-on-the-iphone.html.html" title="Older Post: Blogging on the iPhone">
-                    &LeftArrow; Blogging on the iPhone
+                            <a href="https://www.nickmoline.com/2011/11/11/my-last-binary-day-nerdnewyear.html.html" title="Older Post: My Last Binary Day (probably) #NerdNewYear">
+                    &LeftArrow; My Last Binary Day (probably) #NerdNewYear
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2020/10/26/weather-tracking.html.html" title="Newer Post: Monitoring Weather Conditions">
-                    Monitoring Weather Conditions &RightArrow;
+                            <a href="https://www.nickmoline.com/2011/12/24/the-geeks-night-before-christmas.html.html" title="Newer Post: The Geek&#039;s Night Before Christmas">
+                    The Geek&#039;s Night Before Christmas &RightArrow;
                 </a>
                     </div>
     </nav>
