@@ -142,12 +142,12 @@
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/law"
+                href="/blog/tags/law/"
                 title="View posts tagged with Law"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Law</a>
                     <a
-                href="/blog/tags/politics"
+                href="/blog/tags/politics/"
                 title="View posts tagged with Politics"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Politics</a>

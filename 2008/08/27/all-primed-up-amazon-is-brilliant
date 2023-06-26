@@ -103,7 +103,7 @@
         <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
             
             <a
-            href="/blog/categories/tech"
+            href="/blog/categories/tech/"
             title="View posts in Tech"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Tech</a>
@@ -125,12 +125,12 @@ ref=prime_assoc_bt&amp;tag=nickdotpro-20) and see how much happier it makes you 
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/amazon"
+                href="/blog/tags/amazon/"
                 title="View posts tagged with Amazon"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Amazon</a>
                     <a
-                href="/blog/tags/reviews"
+                href="/blog/tags/reviews/"
                 title="View posts tagged with Reviews"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Reviews</a>

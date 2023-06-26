@@ -105,7 +105,7 @@
         <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
             
             <a
-            href="/blog/categories/events"
+            href="/blog/categories/events/"
             title="View posts in Events"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Events</a>
@@ -158,22 +158,22 @@
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/theatre"
+                href="/blog/tags/theatre/"
                 title="View posts tagged with Theatre"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Theatre</a>
                     <a
-                href="/blog/tags/travel"
+                href="/blog/tags/travel/"
                 title="View posts tagged with Travel"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Travel</a>
                     <a
-                href="/blog/tags/las-vegas"
+                href="/blog/tags/las-vegas/"
                 title="View posts tagged with Las Vegas"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Las Vegas</a>
                     <a
-                href="/blog/tags/star-trek"
+                href="/blog/tags/star-trek/"
                 title="View posts tagged with Star Trek"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Star Trek</a>

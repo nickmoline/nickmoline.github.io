@@ -136,7 +136,7 @@
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/movies"
+                href="/blog/tags/movies/"
                 title="View posts tagged with Movies"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Movies</a>

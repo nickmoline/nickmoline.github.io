@@ -119,12 +119,12 @@
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/love"
+                href="/blog/tags/love/"
                 title="View posts tagged with Love"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Love</a>
                     <a
-                href="/blog/tags/actd"
+                href="/blog/tags/actd/"
                 title="View posts tagged with ACTD"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >ACTD</a>

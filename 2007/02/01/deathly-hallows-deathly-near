@@ -103,7 +103,7 @@
         <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
             
             <a
-            href="/blog/categories/news"
+            href="/blog/categories/news/"
             title="View posts in News"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >News</a>
@@ -115,17 +115,17 @@
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/podcasting"
+                href="/blog/tags/podcasting/"
                 title="View posts tagged with Podcasting"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Podcasting</a>
                     <a
-                href="/blog/tags/harry-potter"
+                href="/blog/tags/harry-potter/"
                 title="View posts tagged with Harry Potter"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Harry Potter</a>
                     <a
-                href="/blog/tags/books"
+                href="/blog/tags/books/"
                 title="View posts tagged with Books"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Books</a>

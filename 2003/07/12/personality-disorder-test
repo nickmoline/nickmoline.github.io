@@ -103,12 +103,12 @@
         <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
             
             <a
-            href="/blog/categories/writing"
+            href="/blog/categories/writing/"
             title="View posts in Writing"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Writing</a>
             <a
-            href="/blog/categories/life"
+            href="/blog/categories/life/"
             title="View posts in Life"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Life</a>
@@ -193,27 +193,27 @@
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/personality-test"
+                href="/blog/tags/personality-test/"
                 title="View posts tagged with Personality Test"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Personality Test</a>
                     <a
-                href="/blog/tags/actd"
+                href="/blog/tags/actd/"
                 title="View posts tagged with ACTD"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >ACTD</a>
                     <a
-                href="/blog/tags/boredom"
+                href="/blog/tags/boredom/"
                 title="View posts tagged with Boredom"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Boredom</a>
                     <a
-                href="/blog/tags/blogging"
+                href="/blog/tags/blogging/"
                 title="View posts tagged with Blogging"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Blogging</a>
                     <a
-                href="/blog/tags/software"
+                href="/blog/tags/software/"
                 title="View posts tagged with Software"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Software</a>

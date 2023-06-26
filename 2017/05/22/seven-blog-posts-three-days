@@ -105,12 +105,12 @@
         <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
             
             <a
-            href="/blog/categories/tech"
+            href="/blog/categories/tech/"
             title="View posts in Tech"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Tech</a>
             <a
-            href="/blog/categories/events"
+            href="/blog/categories/events/"
             title="View posts in Events"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Events</a>
@@ -138,47 +138,47 @@
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/google-io"
+                href="/blog/tags/google-io/"
                 title="View posts tagged with Google I/O"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Google I/O</a>
                     <a
-                href="/blog/tags/conference"
+                href="/blog/tags/conference/"
                 title="View posts tagged with Conference"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Conference</a>
                     <a
-                href="/blog/tags/google"
+                href="/blog/tags/google/"
                 title="View posts tagged with Google"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Google</a>
                     <a
-                href="/blog/tags/polymer"
+                href="/blog/tags/polymer/"
                 title="View posts tagged with Polymer"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Polymer</a>
                     <a
-                href="/blog/tags/amp"
+                href="/blog/tags/amp/"
                 title="View posts tagged with AMP"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >AMP</a>
                     <a
-                href="/blog/tags/pwa"
+                href="/blog/tags/pwa/"
                 title="View posts tagged with PWA"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >PWA</a>
                     <a
-                href="/blog/tags/https"
+                href="/blog/tags/https/"
                 title="View posts tagged with HTTPS"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >HTTPS</a>
                     <a
-                href="/blog/tags/justia"
+                href="/blog/tags/justia/"
                 title="View posts tagged with Justia"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Justia</a>
                     <a
-                href="/blog/tags/onward-blog"
+                href="/blog/tags/onward-blog/"
                 title="View posts tagged with Onward Blog"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Onward Blog</a>

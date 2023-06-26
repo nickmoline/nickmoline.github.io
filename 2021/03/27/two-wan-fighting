@@ -106,17 +106,17 @@
         <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
             
             <a
-            href="/blog/categories/tech"
+            href="/blog/categories/tech/"
             title="View posts in Tech"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Tech</a>
             <a
-            href="/blog/categories/work"
+            href="/blog/categories/work/"
             title="View posts in Work"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Work</a>
             <a
-            href="/blog/categories/reviews"
+            href="/blog/categories/reviews/"
             title="View posts in Reviews"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Reviews</a>
@@ -202,22 +202,22 @@
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/networking"
+                href="/blog/tags/networking/"
                 title="View posts tagged with Networking"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Networking</a>
                     <a
-                href="/blog/tags/routers"
+                href="/blog/tags/routers/"
                 title="View posts tagged with Routers"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Routers</a>
                     <a
-                href="/blog/tags/tp-link"
+                href="/blog/tags/tp-link/"
                 title="View posts tagged with TP-Link"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >TP-Link</a>
                     <a
-                href="/blog/tags/internet"
+                href="/blog/tags/internet/"
                 title="View posts tagged with Internet"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Internet</a>

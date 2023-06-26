@@ -103,7 +103,7 @@
         <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
             
             <a
-            href="/blog/categories/general"
+            href="/blog/categories/general/"
             title="View posts in General"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >General</a>
@@ -161,27 +161,27 @@ On the right hand side of the group page, I noticed that the first &#8220;Relate
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/school"
+                href="/blog/tags/school/"
                 title="View posts tagged with School"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >School</a>
                     <a
-                href="/blog/tags/social-media"
+                href="/blog/tags/social-media/"
                 title="View posts tagged with Social Media"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Social Media</a>
                     <a
-                href="/blog/tags/facebook"
+                href="/blog/tags/facebook/"
                 title="View posts tagged with Facebook"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Facebook</a>
                     <a
-                href="/blog/tags/myspace"
+                href="/blog/tags/myspace/"
                 title="View posts tagged with MySpace"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >MySpace</a>
                     <a
-                href="/blog/tags/death"
+                href="/blog/tags/death/"
                 title="View posts tagged with Death"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Death</a>

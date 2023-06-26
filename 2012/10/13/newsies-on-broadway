@@ -105,12 +105,12 @@
         <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
             
             <a
-            href="/blog/categories/theatre"
+            href="/blog/categories/theatre/"
             title="View posts in Theatre"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Theatre</a>
             <a
-            href="/blog/categories/travel"
+            href="/blog/categories/travel/"
             title="View posts in Travel"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Travel</a>
@@ -233,17 +233,17 @@
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/disney"
+                href="/blog/tags/disney/"
                 title="View posts tagged with Disney"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Disney</a>
                     <a
-                href="/blog/tags/newsies"
+                href="/blog/tags/newsies/"
                 title="View posts tagged with Newsies"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Newsies</a>
                     <a
-                href="/blog/tags/new-york"
+                href="/blog/tags/new-york/"
                 title="View posts tagged with New York"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >New York</a>

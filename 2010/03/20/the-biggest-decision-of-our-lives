@@ -103,7 +103,7 @@
         <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
             
             <a
-            href="/blog/categories/life"
+            href="/blog/categories/life/"
             title="View posts in Life"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Life</a>
@@ -150,12 +150,12 @@
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/love"
+                href="/blog/tags/love/"
                 title="View posts tagged with Love"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Love</a>
                     <a
-                href="/blog/tags/family"
+                href="/blog/tags/family/"
                 title="View posts tagged with Family"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Family</a>

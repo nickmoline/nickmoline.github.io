@@ -103,7 +103,7 @@
         <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
             
             <a
-            href="/blog/categories/tech"
+            href="/blog/categories/tech/"
             title="View posts in Tech"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Tech</a>
@@ -151,27 +151,27 @@
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/google"
+                href="/blog/tags/google/"
                 title="View posts tagged with Google"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Google</a>
                     <a
-                href="/blog/tags/guides"
+                href="/blog/tags/guides/"
                 title="View posts tagged with Guides"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Guides</a>
                     <a
-                href="/blog/tags/google-calendar"
+                href="/blog/tags/google-calendar/"
                 title="View posts tagged with Google Calendar"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Google Calendar</a>
                     <a
-                href="/blog/tags/iphone"
+                href="/blog/tags/iphone/"
                 title="View posts tagged with iPhone"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >iPhone</a>
                     <a
-                href="/blog/tags/gsuite"
+                href="/blog/tags/gsuite/"
                 title="View posts tagged with GSuite"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >GSuite</a>

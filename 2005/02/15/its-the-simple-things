@@ -118,17 +118,17 @@
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/theatre"
+                href="/blog/tags/theatre/"
                 title="View posts tagged with Theatre"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Theatre</a>
                     <a
-                href="/blog/tags/school"
+                href="/blog/tags/school/"
                 title="View posts tagged with School"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >School</a>
                     <a
-                href="/blog/tags/work"
+                href="/blog/tags/work/"
                 title="View posts tagged with Work"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Work</a>

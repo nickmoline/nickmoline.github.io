@@ -103,12 +103,12 @@
         <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
             
             <a
-            href="/blog/categories/movies"
+            href="/blog/categories/movies/"
             title="View posts in Movies"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Movies</a>
             <a
-            href="/blog/categories/theatre"
+            href="/blog/categories/theatre/"
             title="View posts in Theatre"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Theatre</a>
@@ -136,12 +136,12 @@
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/disney"
+                href="/blog/tags/disney/"
                 title="View posts tagged with Disney"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Disney</a>
                     <a
-                href="/blog/tags/beauty-and-the-beast"
+                href="/blog/tags/beauty-and-the-beast/"
                 title="View posts tagged with Beauty and the Beast"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Beauty and the Beast</a>

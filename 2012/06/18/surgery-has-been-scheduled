@@ -103,7 +103,7 @@
         <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
             
             <a
-            href="/blog/categories/health"
+            href="/blog/categories/health/"
             title="View posts in Health"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Health</a>
@@ -115,12 +115,12 @@
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/weight-loss"
+                href="/blog/tags/weight-loss/"
                 title="View posts tagged with Weight Loss"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Weight Loss</a>
                     <a
-                href="/blog/tags/surgery"
+                href="/blog/tags/surgery/"
                 title="View posts tagged with Surgery"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Surgery</a>

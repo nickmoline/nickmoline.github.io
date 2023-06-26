@@ -105,12 +105,12 @@
         <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
             
             <a
-            href="/blog/categories/tech"
+            href="/blog/categories/tech/"
             title="View posts in Tech"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Tech</a>
             <a
-            href="/blog/categories/history"
+            href="/blog/categories/history/"
             title="View posts in History"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >History</a>
@@ -210,32 +210,32 @@
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/watches"
+                href="/blog/tags/watches/"
                 title="View posts tagged with Watches"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Watches</a>
                     <a
-                href="/blog/tags/time-pieces"
+                href="/blog/tags/time-pieces/"
                 title="View posts tagged with Time Pieces"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Time Pieces</a>
                     <a
-                href="/blog/tags/cell-phones"
+                href="/blog/tags/cell-phones/"
                 title="View posts tagged with Cell Phones"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Cell Phones</a>
                     <a
-                href="/blog/tags/android-wear"
+                href="/blog/tags/android-wear/"
                 title="View posts tagged with Android Wear"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Android Wear</a>
                     <a
-                href="/blog/tags/google-glass"
+                href="/blog/tags/google-glass/"
                 title="View posts tagged with Google Glass"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Google Glass</a>
                     <a
-                href="/blog/tags/wearables"
+                href="/blog/tags/wearables/"
                 title="View posts tagged with Wearables"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Wearables</a>

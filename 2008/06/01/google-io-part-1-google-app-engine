@@ -105,12 +105,12 @@
         <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
             
             <a
-            href="/blog/categories/events"
+            href="/blog/categories/events/"
             title="View posts in Events"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Events</a>
             <a
-            href="/blog/categories/tech"
+            href="/blog/categories/tech/"
             title="View posts in Tech"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Tech</a>
@@ -139,22 +139,22 @@
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/google-io"
+                href="/blog/tags/google-io/"
                 title="View posts tagged with Google I/O"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Google I/O</a>
                     <a
-                href="/blog/tags/google"
+                href="/blog/tags/google/"
                 title="View posts tagged with Google"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Google</a>
                     <a
-                href="/blog/tags/google-cloud"
+                href="/blog/tags/google-cloud/"
                 title="View posts tagged with Google Cloud"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Google Cloud</a>
                     <a
-                href="/blog/tags/google-app-engine"
+                href="/blog/tags/google-app-engine/"
                 title="View posts tagged with Google App Engine"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Google App Engine</a>

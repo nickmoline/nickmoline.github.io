@@ -103,7 +103,7 @@
         <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
             
             <a
-            href="/blog/categories/writing"
+            href="/blog/categories/writing/"
             title="View posts in Writing"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Writing</a>
@@ -115,22 +115,22 @@
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/fanfic"
+                href="/blog/tags/fanfic/"
                 title="View posts tagged with Fanfic"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Fanfic</a>
                     <a
-                href="/blog/tags/enterprise"
+                href="/blog/tags/enterprise/"
                 title="View posts tagged with Enterprise"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Enterprise</a>
                     <a
-                href="/blog/tags/star-trek"
+                href="/blog/tags/star-trek/"
                 title="View posts tagged with Star Trek"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Star Trek</a>
                     <a
-                href="/blog/tags/holodeck3"
+                href="/blog/tags/holodeck3/"
                 title="View posts tagged with Holodeck3"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Holodeck3</a>
