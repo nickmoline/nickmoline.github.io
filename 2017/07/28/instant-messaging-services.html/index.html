@@ -6,16 +6,16 @@
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="description" content="The Personal website of Nick Moline">
 
-        <meta property="og:title" content="Migrating my blog and personal site to Jekyll | NickMoline.com"/>
+        <meta property="og:title" content="Collaborative Firm: Instant Messaging Services | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2020/08/20/migrating-to-jekyll"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2017/07/28/instant-messaging-services.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
-        <title>Migrating my blog and personal site to Jekyll | NickMoline.com</title>
+        <title>Collaborative Firm: Instant Messaging Services | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2020/08/20/migrating-to-jekyll">
+        <link rel="canonical" href="https://onward.justia.com/2017/07/28/collaborative-law-firm-instant-messaging/">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -93,116 +93,55 @@
     </ul>
 </nav>
 
-            <div class="cover-image" style="background-image: url('/assets/images/2020/08/20/wordpress-to-jekyll.webp')">
-        <div class="post-heading">
-            <h1>Migrating my blog and personal site to Jekyll</h1>
+                <div class="post-heading">
+            <h1>Collaborative Firm: Instant Messaging Services</h1>
                         <div class="byline">
-                Posted by <a href="/about" rel="author">Nick Moline</a> on <time datetime="2020-08-20T00:00:00+00:00">August 20, 2020</time>
+                Posted by <a href="/about" rel="author">nickmoline</a> on <time datetime="2017-07-28T22:31:00+00:00">July 28, 2017</time>
             </div>
         </div>
-    </div>
 
         <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
             
-            <a
-            href="/blog/categories/web/"
-            title="View posts in Web"
-            class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
-        >Web</a>
-    
+        
     <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
-        <p>After several years of using <a href="https://www.wordpress.org">Wordpress</a> as my blogging platform of choice, I've made the decision to move my personal site to <a href="https://jekyllrb.com">Jekyll static site generator</a>.</p>
+        <p>For a small business, it can be hard to decide which tech products and services you want to use to solve the various needs of your employees and clients.  To that end I've started a <a href="https://onward.justia.com/tag/the-collaborative-law-firm/">new series</a> of posts on Justia's Legal Marketing &amp; Technology Blog to help business owners make an informed decision for their business.</p>
 
-<!--more-->
-
-<h2>Why I'm doing this</h2>
-
-<h3>Super Fast</h3>
-
-<p>As I've blogged about on Justia's Legal Marketing &amp; Technology Blog several times, <a href="https://onward.justia.com/2017/07/05/page-speed-tips-and-tools/">web performance matters</a>.  47% of users expect a web page to load in under 2 seconds, and 40% of users will abandon a page that takes longer than 3 seconds to load.</p>
-
-<p>WordPress is a fantastic blogging platform, and it is possible using a combination of best practices, extensive hosting infrastructure, and plugins such as <a href="https://wordpress.org/plugins/w3-total-cache/">W3 Total Cache</a> to make WordPress pages perform very well.  But nothing is faster than serving static files that require no server side code to view.</p>
-
-<p>While I know quite a bit about optimizing WordPress, having done it for years, I've never bothered to spend any significant time optimizing this blog, and frankly it is not the best use of my time to do so.</p>
-
-<h3>Infrastructure Light</h3>
-
-<p>I mentioned that part of making a WordPress powered site perform optimally is having the server infrastructure in place to handle the demand.  This means a web server with plenty of CPU available for the code, and a MySQL server with plenty of CPU and Ram to handle requests quickly.  You then also have to be careful not to weigh your blog down with too many plugins that may impact performance.</p>
-
-<p>For my own personal site, which doesn't make money, investing in this infrastructure to keep this site performing optimally would not be an efficient use of my money.</p>
-
-<p>GitHub offers a free service called <a href="https://pages.github.com/">GitHub Pages</a> which can host free static html sites on their servers.  While I've never had a problem running my own server (and still do for advanced projects), for my blog in particular I'd love to not have to worry about maintaining the server.  Since the output from jekyll is static html pages, the limitations of GitHub Pages (basically no server side code or database) are not a problem and it can handle this easily.</p>
-
-<p>What's more is that GitHub pages supports jekyll natively, meaning that while I <em>can</em> serve Jekyll pages anywhere on any web server, I don't even have to run the builder to process the files when hosting them on GitHub Pages.</p>
-
-<h3>Coder Friendly</h3>
-
-<p>As a coder I'm comfortable working in <a href="http://daringfireball.net/projects/markdown/">Markdown</a>, especially the derivitive known as <a href="https://github.github.com/gfm/">GitHub Flavored Markdown</a> which adds a number of coder friendly improvements over the top of the <a href="https://spec.commonmark.org/current/">CommonMark spec</a>.</p>
-
-<p>As Jekyll sites are built from a markdown base (by default, you can also use plugins to build from other markup languages or just use plain html files) I'm able to author posts very quickly.</p>
-
-<p>GitHub Pages and <abbr title="GitHub Flavored Markdown">GFM</abbr> allows me to integrate features from GitHub into my pages very simply.  For example I can easily <a href="https://gist.github.com/">embed a gist</a> in a page with a simple tag.  And I can insert code into my pages with syntax hilighting that matches the syntax hilighting on GitHub.  As like many developers I host my code repositories on GitHub, this makes it very easy to blog about my coding exploits.</p>
-
-<p>Another interesting feature of GitHub Pages is that I can <a href="https://docs.github.com/en/github/working-with-github-pages/using-submodules-with-github-pages">host documentation pages for my own GitHub hosted projects</a> by using Git Submodules to embed the other github hosted repo in a subfolder of this.  As I work on more open source projects I intend on hosting my documentation on this site using this feature.</p>
-
-<h3>Version Controlled Site</h3>
-
-<p>I love the idea of version controlling my live site, it allows me to see my edits over time.  This blog is now hosted on a <a href="https://github.com/nickmoline/nickmoline.github.io">public repo</a> on my GitHub account @nickmoline.</p>
-
-<p>This makes it very easy to track what changes I've made over time, both to the layout of the site and even the content of individual pages.  It allows me all of the power of the <a href="https://git-scm.com/">Git</a> Version Control System over my own content.</p>
-
-<h2>I still love WordPress</h2>
-
-<p>I've thought about doing this many times over the years.  What held me back is that I happen to love WordPress.  I'm not alone in this, as of the time I'm writing this, <a href="https://w3techs.com/technologies/details/cm-wordpress">38.1% of all websites are hosted on WordPress</a> accounting for 63.5% of websites hosted by a known <abbr title="Content Management System">CMS</abbr> according to W3techs.  When over a third of all websites in the world are powered by WordPress, there is a good reason for that.  WordPress is extremely flexible allowing you to host any type of website from a blog like this one to a fully fledged eCommerce site using freely available plugins to add functionality needed for a particular site.</p>
-
-<p>I still use WordPress in a number of projects both for work and for personal side projects such as <a href="https://www.hp-lexicon.org/">The Harry Potter Lexicon</a> and the website for <a href="https://sunnyvaleplayers.org">Sunnyvale Community Players</a>.</p>
-
-<h2>Migration Progress</h2>
-
-<p>Rather than dump all of the posts at once, I'm taking the time to go through the posts and fix the formatting to match the new layout.  For your amusement, here is the migration progress statistics:</p>
-
-<p>{% include migration-progress.html %}</p>
+<p>While the series is aimed at Law Firms, it contains helpful comparisons that are helpful to any small business.  The <a href="https://onward.justia.com/2017/07/28/collaborative-law-firm-instant-messaging/">first post</a> in this series is about Instant Messaging services.  I review several mainstream services (Skype, Google Hangouts, Facebook Messenger, AOL Instant Messenger, and Yahoo Messenger), as well as business hosted services (Skype for Business, GSuite Hangouts), and even describe how you can host your own instant messaging service within your company using XMPP.</p>
     </div>
 
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/jekyll/"
-                title="View posts tagged with Jekyll"
+                href="/blog/tags/justia/"
+                title="View posts tagged with Justia"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
-            >Jekyll</a>
+            >Justia</a>
                     <a
-                href="/blog/tags/github/"
-                title="View posts tagged with GitHub"
+                href="/blog/tags/onward-blog/"
+                title="View posts tagged with Onward Blog"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
-            >GitHub</a>
+            >Onward Blog</a>
                     <a
-                href="/blog/tags/wordpress/"
-                title="View posts tagged with WordPress"
+                href="/blog/tags/collaborative-firm-series/"
+                title="View posts tagged with Collaborative Firm Series"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
-            >WordPress</a>
-                    <a
-                href="/blog/tags/markdown/"
-                title="View posts tagged with Markdown"
-                class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
-            >Markdown</a>
+            >Collaborative Firm Series</a>
                 </div>
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2020/07/10/personality-test" title="Older Post: Personality Test 2020">
-                    &LeftArrow; Personality Test 2020
+                            <a href="https://www.nickmoline.com/2021/03/15/making-a-harpy.html.html" title="Older Post: That Time I Made a Harpy">
+                    &LeftArrow; That Time I Made a Harpy
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2020/08/21/automating-progress-bar-in-jekyll" title="Newer Post: Automating the site migration progress bar in Jekyll">
-                    Automating the site migration progress bar in Jekyll &RightArrow;
+                            <a href="https://www.nickmoline.com/2010/05/24/another-fantastic-google-io.html.html" title="Newer Post: Another Fantastic Google I/O">
+                    Another Fantastic Google I/O &RightArrow;
                 </a>
                     </div>
     </nav>
 
-            <img src="/assets/images/2020/08/20/wordpress-to-jekyll.webp" alt="Migrating my blog and personal site to Jekyll cover image" class="mb-6">
             </main>
 
         <footer class="bg-white text-center text-sm mt-12 py-4" role="contentinfo">

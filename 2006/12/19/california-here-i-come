@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Life Changes | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2006/12/19/california-here-i-come"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2006/12/19/california-here-i-come.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Life Changes | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2006/12/19/california-here-i-come">
+        <link rel="canonical" href="https://www.nickmoline.com/2006/12/19/california-here-i-come.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -156,14 +156,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2006/08/31/nick-moline-is-on-the-air" title="Older Post: Nick Moline is on the air">
-                    &LeftArrow; Nick Moline is on the air
+                            <a href="https://www.nickmoline.com/2020/07/10/personality-test.html" title="Older Post: Personality Test 2020">
+                    &LeftArrow; Personality Test 2020
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2007/01/03/2006-a-nick-oddity" title="Newer Post: 2006: A Nick Oddity">
-                    2006: A Nick Oddity &RightArrow;
+                            <a href="https://www.nickmoline.com/2017/02/02/amp-up-your-law-firms-mobile-site.html" title="Newer Post: AMP up your Law Firm’s Mobile Site">
+                    AMP up your Law Firm’s Mobile Site &RightArrow;
                 </a>
                     </div>
     </nav>

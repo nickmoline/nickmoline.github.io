@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Catch 22 | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/07/28/catch22"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/07/28/catch22.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Catch 22 | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/07/28/catch22">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/07/28/catch22.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -109,7 +109,7 @@
         >Writing</a>
     
     <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
-        <p>Curiously enough, when I finished my post, I viewed it and clicked the Google Search button and it told me exactly the <a href="https://www.nickmoline.com/2004/07/28/pop">etymology of the phrase &#8220;Catch-22&#8221;</a> on the very first <a href="http://www.wordorigins.org/wordorc.htm#catch-22">search hit</a></p>
+        <p>Curiously enough, when I finished my post, I viewed it and clicked the Google Search button and it told me exactly the <a href="https://www.nickmoline.com/2004/07/28/pop.html.html">etymology of the phrase &#8220;Catch-22&#8221;</a> on the very first <a href="http://www.wordorigins.org/wordorc.htm#catch-22">search hit</a></p>
 
 <!--more-->
 
@@ -150,14 +150,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/07/24/vpn" title="Older Post: VPNs and old bosses">
-                    &LeftArrow; VPNs and old bosses
+                            <a href="https://www.nickmoline.com/2011/09/18/on-the-difficulty-of-pottermore-house-cup-competitions.html.html" title="Older Post: On the Difficulty of Pottermore House Cup Competitions">
+                    &LeftArrow; On the Difficulty of Pottermore House Cup Competitions
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/07/28/jibjab" title="Newer Post: JibJab">
-                    JibJab &RightArrow;
+                            <a href="https://www.nickmoline.com/2004/07/11/blog-birthday.html.html" title="Newer Post: Bloggie BDay">
+                    Bloggie BDay &RightArrow;
                 </a>
                     </div>
     </nav>

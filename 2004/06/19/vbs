@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Whew... Glad that&#039;s over | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/06/19/vbs"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/06/19/vbs.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Whew... Glad that&#039;s over | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/06/19/vbs">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/06/19/vbs.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -133,14 +133,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/06/09/wedding-and-graduation" title="Older Post: A Wedding, a Graduation, and other stories.">
-                    &LeftArrow; A Wedding, a Graduation, and other stories.
+                            <a href="https://www.nickmoline.com/2003/11/22/online-with-flu.html.html" title="Older Post: Back online and battling the flu">
+                    &LeftArrow; Back online and battling the flu
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/06/29/blogcms" title="Newer Post: BLOG:CMS v3.0 XE">
-                    BLOG:CMS v3.0 XE &RightArrow;
+                            <a href="https://www.nickmoline.com/2008/09/12/iphone-21-software-so-far-so-good.html.html" title="Newer Post: iPhone 2.1 Software: So far so good">
+                    iPhone 2.1 Software: So far so good &RightArrow;
                 </a>
                     </div>
     </nav>

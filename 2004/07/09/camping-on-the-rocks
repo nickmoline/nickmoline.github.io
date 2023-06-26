@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Camping on the Rocks | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/07/09/camping-on-the-rocks"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/07/09/camping-on-the-rocks.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Camping on the Rocks | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/07/09/camping-on-the-rocks">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/07/09/camping-on-the-rocks.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -182,14 +182,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/06/29/blogcms" title="Older Post: BLOG:CMS v3.0 XE">
-                    &LeftArrow; BLOG:CMS v3.0 XE
+                            <a href="https://www.nickmoline.com/2008/04/04/april-fools-the-finger.html.html" title="Older Post: 7-11 Gave me the Finger - and other stories...">
+                    &LeftArrow; 7-11 Gave me the Finger - and other stories...
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/07/11/blog-birthday" title="Newer Post: Bloggie BDay">
-                    Bloggie BDay &RightArrow;
+                            <a href="https://www.nickmoline.com/2020/07/10/personality-test.html" title="Newer Post: Personality Test 2020">
+                    Personality Test 2020 &RightArrow;
                 </a>
                     </div>
     </nav>

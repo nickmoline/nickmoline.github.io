@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Image Editing Fool | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2006/05/16/image-editing-fool"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2006/05/16/image-editing-fool.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Image Editing Fool | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2006/05/16/image-editing-fool">
+        <link rel="canonical" href="https://www.nickmoline.com/2006/05/16/image-editing-fool.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -138,14 +138,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2006/05/15/trend-started" title="Older Post: Trend Started">
-                    &LeftArrow; Trend Started
+                            <a href="https://www.nickmoline.com/2006/05/21/yet-another-wp-installation.html.html" title="Older Post: Yet another WP Installation">
+                    &LeftArrow; Yet another WP Installation
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2006/05/16/updating-my-map-of-where-ive-been" title="Newer Post: Updating my map of where I&#039;ve been">
-                    Updating my map of where I&#039;ve been &RightArrow;
+                            <a href="https://www.nickmoline.com/2012/03/27/perhaps-it-isnt-april-fools-day-after-all-pottermore-shop-now-open.html.html" title="Newer Post: Perhaps it isn&#039;t April Fools day after all!  Pottermore Shop now open">
+                    Perhaps it isn&#039;t April Fools day after all!  Pottermore Shop now open &RightArrow;
                 </a>
                     </div>
     </nav>

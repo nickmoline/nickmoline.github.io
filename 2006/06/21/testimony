@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Testimony | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2006/06/21/testimony"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2006/06/21/testimony.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Testimony | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2006/06/21/testimony">
+        <link rel="canonical" href="https://www.nickmoline.com/2006/06/21/testimony.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -144,14 +144,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2006/06/03/a-funeral-and-almost-another" title="Older Post: A Funeral (and almost another)">
-                    &LeftArrow; A Funeral (and almost another)
+                            <a href="https://www.nickmoline.com/2003/09/21/conference-visits-cuba.html.html" title="Older Post: Conference, Visits, and Cuba">
+                    &LeftArrow; Conference, Visits, and Cuba
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2006/07/19/a-wedding-2" title="Newer Post: A Wedding">
-                    A Wedding &RightArrow;
+                            <a href="https://www.nickmoline.com/2003/09/05/internet-fads.html.html" title="Newer Post: Remembering Internet Fads">
+                    Remembering Internet Fads &RightArrow;
                 </a>
                     </div>
     </nav>

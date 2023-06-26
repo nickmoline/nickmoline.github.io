@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Automating the site migration progress bar in Jekyll | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2020/08/21/automating-progress-bar-in-jekyll"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2020/08/21/automating-progress-bar-in-jekyll.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Automating the site migration progress bar in Jekyll | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2020/08/21/automating-progress-bar-in-jekyll">
+        <link rel="canonical" href="https://www.nickmoline.com/2020/08/21/automating-progress-bar-in-jekyll.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -248,14 +248,14 @@ out of &lt;strong&gt;{{ total_post_count | floor }}&lt;/strong&gt; posts migrate
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2020/08/20/migrating-to-jekyll" title="Older Post: Migrating my blog and personal site to Jekyll">
-                    &LeftArrow; Migrating my blog and personal site to Jekyll
+                            <a href="https://www.nickmoline.com/2004/07/24/vpn.html.html" title="Older Post: VPNs and old bosses">
+                    &LeftArrow; VPNs and old bosses
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2020/08/30/welcome-to-nickmoline" title="Newer Post: Welcome to the new NickMoline.com">
-                    Welcome to the new NickMoline.com &RightArrow;
+                            <a href="https://www.nickmoline.com/2008/06/01/google-io-part-1-google-app-engine.html.html" title="Newer Post: Google I/O Part I: Google App Engine">
+                    Google I/O Part I: Google App Engine &RightArrow;
                 </a>
                     </div>
     </nav>

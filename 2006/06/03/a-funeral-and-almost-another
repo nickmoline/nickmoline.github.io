@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="A Funeral (and almost another) | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2006/06/03/a-funeral-and-almost-another"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2006/06/03/a-funeral-and-almost-another.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>A Funeral (and almost another) | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2006/06/03/a-funeral-and-almost-another">
+        <link rel="canonical" href="https://www.nickmoline.com/2006/06/03/a-funeral-and-almost-another.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -144,14 +144,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2006/05/30/personality-test" title="Older Post: Personality Test">
-                    &LeftArrow; Personality Test
+                            <a href="https://www.nickmoline.com/2012/03/20/pubsubhubbub-headaches.html.html" title="Older Post: What&#039;s all the Hubbub about anyway?">
+                    &LeftArrow; What&#039;s all the Hubbub about anyway?
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2006/06/21/testimony" title="Newer Post: Testimony">
-                    Testimony &RightArrow;
+                            <a href="https://www.nickmoline.com/2007/06/03/google-developer-day-2007.html.html" title="Newer Post: Google Developer Day 2007">
+                    Google Developer Day 2007 &RightArrow;
                 </a>
                     </div>
     </nav>

@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Interview with Nick Moline published in PC World Magazine! | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2008/06/02/nick-moline-in-pc-world"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2008/06/02/nick-moline-in-pc-world.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Interview with Nick Moline published in PC World Magazine! | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2008/06/02/nick-moline-in-pc-world">
+        <link rel="canonical" href="https://www.nickmoline.com/2008/06/02/nick-moline-in-pc-world.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -143,14 +143,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2008/06/01/google-io-part-ii-the-opening-keynote" title="Older Post: Google I/O Part II: The Opening Keynote">
-                    &LeftArrow; Google I/O Part II: The Opening Keynote
+                            <a href="https://www.nickmoline.com/2009/01/15/is-the-book-better-than-the-movie.html.html" title="Older Post: Is the book better than the movie?">
+                    &LeftArrow; Is the book better than the movie?
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2008/06/06/amazon-down-but-not-out" title="Newer Post: Amazon down but not out">
-                    Amazon down but not out &RightArrow;
+                            <a href="https://www.nickmoline.com/2008/09/02/google-chrome-will-probably-support-firefox-extensions.html.html" title="Newer Post: Google Chrome will probably support Firefox Extensions! - UPDATED">
+                    Google Chrome will probably support Firefox Extensions! - UPDATED &RightArrow;
                 </a>
                     </div>
     </nav>

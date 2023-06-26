@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Headaches, Work Hatred, and worries of love | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2003/09/02/headaches-hatred-worries"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2003/09/02/headaches-hatred-worries.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Headaches, Work Hatred, and worries of love | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2003/09/02/headaches-hatred-worries">
+        <link rel="canonical" href="https://www.nickmoline.com/2003/09/02/headaches-hatred-worries.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -124,14 +124,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2003/08/28/meetings-av-laptop" title="Older Post: Meetings, A/V and my new Laptop">
-                    &LeftArrow; Meetings, A/V and my new Laptop
+                            <a href="https://www.nickmoline.com/2007/02/01/deathly-hallows-deathly-near.html.html" title="Older Post: Deathly Hallows Deathly Near">
+                    &LeftArrow; Deathly Hallows Deathly Near
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2003/09/05/internet-fads" title="Newer Post: Remembering Internet Fads">
-                    Remembering Internet Fads &RightArrow;
+                            <a href="https://www.nickmoline.com/2004/04/22/server-woes.html.html" title="Newer Post: Server woes">
+                    Server woes &RightArrow;
                 </a>
                     </div>
     </nav>

@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Getting full resolution on a Macbook Pro Retina Display | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2012/06/16/getting-near-full-resolution-on-a-macbook-pro-retina-display"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2012/06/16/getting-near-full-resolution-on-a-macbook-pro-retina-display.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Getting full resolution on a Macbook Pro Retina Display | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2012/06/16/getting-near-full-resolution-on-a-macbook-pro-retina-display">
+        <link rel="canonical" href="https://www.nickmoline.com/2012/06/16/getting-near-full-resolution-on-a-macbook-pro-retina-display.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -115,7 +115,7 @@
 
 <!--more-->
 
-<p>I&#8217;ve used a 28&#8243; monitor plugged into a 17&#8243; Macbook Pro for a long time now, and it&#8217;s great to have all that screen real estate when coding for putting my editor window side by side with a browser window for testing, or a terminal window for running server side commands.  I would get so used to having such a high resolution display that when I would unplug to go into a meeting (or take a flight) going down to the 1920 x 1200 resolution that the 17&#8243; Macbook supported (max) was hard for me, there just wasn&#8217;t enough screen real estate to get work done effectively.  Add to that just how heavy the 17&#8243; Macbook Pro was and the fact that I am <a href="https://www.nickmoline.com/2012/06/01/weight-loss-update-and-transparency" title="Weight Loss Update and transparency">so fat</a> that I can&#8217;t actually use the laptop on my lap on the plane, and it was just darn near unusable.</p>
+<p>I&#8217;ve used a 28&#8243; monitor plugged into a 17&#8243; Macbook Pro for a long time now, and it&#8217;s great to have all that screen real estate when coding for putting my editor window side by side with a browser window for testing, or a terminal window for running server side commands.  I would get so used to having such a high resolution display that when I would unplug to go into a meeting (or take a flight) going down to the 1920 x 1200 resolution that the 17&#8243; Macbook supported (max) was hard for me, there just wasn&#8217;t enough screen real estate to get work done effectively.  Add to that just how heavy the 17&#8243; Macbook Pro was and the fact that I am <a href="https://www.nickmoline.com/2012/06/01/weight-loss-update-and-transparency.html.html" title="Weight Loss Update and transparency">so fat</a> that I can&#8217;t actually use the laptop on my lap on the plane, and it was just darn near unusable.</p>
 
 <p>Because of this, I was understandably excited at the announcement of the new Macbook Pro with Retina Display which according to the <a href="http://www.apple.com/macbook-pro/specs/" target="_blank">tech specs</a> supports an astounding 2880 by 1800 resolution, higher resolution than even the 2560 x 1440 resolution of the 28&#8243; Display I use at work.</p>
 
@@ -169,14 +169,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2012/06/01/weight-loss-update-and-transparency" title="Older Post: Weight Loss Update and transparency">
-                    &LeftArrow; Weight Loss Update and transparency
+                            <a href="https://www.nickmoline.com/2004/07/28/pop.html.html" title="Older Post: Pop goes the...">
+                    &LeftArrow; Pop goes the...
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2012/06/18/surgery-has-been-scheduled" title="Newer Post: Surgery has been scheduled">
-                    Surgery has been scheduled &RightArrow;
+                            <a href="https://www.nickmoline.com/2011/05/31/migrated-back-to-wordpress.html.html" title="Newer Post: Migrated Back to WordPress">
+                    Migrated Back to WordPress &RightArrow;
                 </a>
                     </div>
     </nav>

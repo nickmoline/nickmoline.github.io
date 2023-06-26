@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Say a little prayer | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/03/22/a-little-prayer"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/03/22/a-little-prayer.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Say a little prayer | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/03/22/a-little-prayer">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/03/22/a-little-prayer.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -118,14 +118,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/03/21/jmac-rules" title="Older Post: JMac Rules">
-                    &LeftArrow; JMac Rules
+                            <a href="https://www.nickmoline.com/2012/10/22/october-weight-loss-update-48-2-pounds-since-surgery-134-4-pounds-total.html.html" title="Older Post: October Weight Loss Update &amp;#8211; 48.2 pounds since surgery, 134.4 pounds total">
+                    &LeftArrow; October Weight Loss Update &amp;#8211; 48.2 pounds since surgery, 134.4 pounds total
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/03/25/microsoft-actd-phone" title="Newer Post: Microsoft, ACTD, and cell phones">
-                    Microsoft, ACTD, and cell phones &RightArrow;
+                            <a href="https://www.nickmoline.com/2004/11/06/a-good-day.html.html" title="Newer Post: A Good Day">
+                    A Good Day &RightArrow;
                 </a>
                     </div>
     </nav>

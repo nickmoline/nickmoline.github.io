@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Has Beens and Wannabies | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/03/02/has-beens-and-wannabies"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/03/02/has-beens-and-wannabies.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Has Beens and Wannabies | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/03/02/has-beens-and-wannabies">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/03/02/has-beens-and-wannabies.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -144,14 +144,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/02/29/plug-in-crazy" title="Older Post: Plug-in Crazy">
-                    &LeftArrow; Plug-in Crazy
+                            <a href="https://www.nickmoline.com/2020/08/20/migrating-to-jekyll.html" title="Older Post: Migrating my blog and personal site to Jekyll">
+                    &LeftArrow; Migrating my blog and personal site to Jekyll
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/03/13/disapproval" title="Newer Post: Disapproval all around">
-                    Disapproval all around &RightArrow;
+                            <a href="https://www.nickmoline.com/2011/09/14/pottermore-cheats-potions-better-still-needs-more.html.html" title="Newer Post: Pottermore Cheats Update: Potions are Better now, but the site still has a way to go">
+                    Pottermore Cheats Update: Potions are Better now, but the site still has a way to go &RightArrow;
                 </a>
                     </div>
     </nav>

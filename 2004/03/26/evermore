@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Evermore | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/03/26/evermore"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/03/26/evermore.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Evermore | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/03/26/evermore">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/03/26/evermore.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -137,14 +137,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/03/25/microsoft-actd-phone" title="Older Post: Microsoft, ACTD, and cell phones">
-                    &LeftArrow; Microsoft, ACTD, and cell phones
+                            <a href="https://www.nickmoline.com/2017/05/22/seven-blog-posts-three-days.html.html" title="Older Post: Seven Blog Posts in Three Days">
+                    &LeftArrow; Seven Blog Posts in Three Days
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/03/27/great-depression" title="Newer Post: The Great Depression, No not mine">
-                    The Great Depression, No not mine &RightArrow;
+                            <a href="https://www.nickmoline.com/2003/07/16/resumes.html.html" title="Newer Post: Crack out the Resumes">
+                    Crack out the Resumes &RightArrow;
                 </a>
                     </div>
     </nav>

@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Generosity of Others | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/08/15/generosity"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/08/15/generosity.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Generosity of Others | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/08/15/generosity">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/08/15/generosity.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -135,14 +135,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/08/10/birthday" title="Older Post: My Birthday">
-                    &LeftArrow; My Birthday
+                            <a href="https://www.nickmoline.com/2014/04/18/walk-end-lupus.html.html" title="Older Post: Walk with me to End Lupus">
+                    &LeftArrow; Walk with me to End Lupus
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/08/15/midnight-oil" title="Newer Post: Burning the midnight oil">
-                    Burning the midnight oil &RightArrow;
+                            <a href="https://www.nickmoline.com/2005/01/24/drama-king.html.html" title="Newer Post: Don&#039;t be such a Drama King">
+                    Don&#039;t be such a Drama King &RightArrow;
                 </a>
                     </div>
     </nav>

@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Vegas Vacation | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2008/08/19/hours-away-from-vacation"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2008/08/19/hours-away-from-vacation.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Vegas Vacation | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2008/08/19/hours-away-from-vacation">
+        <link rel="canonical" href="https://www.nickmoline.com/2008/08/19/hours-away-from-vacation.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -181,14 +181,11 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2008/08/11/gmail-down" title="Older Post: GMail Down">
-                    &LeftArrow; GMail Down
-                </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2008/08/27/all-primed-up-amazon-is-brilliant" title="Newer Post: All Primed Up: Amazon is Brilliant">
-                    All Primed Up: Amazon is Brilliant &RightArrow;
+                            <a href="https://www.nickmoline.com/2013/04/16/looking-at-life-from-the-other-side-of-the-glass.html.html" title="Newer Post: Looking at Life from the Other Side of the Glass">
+                    Looking at Life from the Other Side of the Glass &RightArrow;
                 </a>
                     </div>
     </nav>

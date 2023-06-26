@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="School! | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/11/09/school"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/11/09/school.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>School! | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/11/09/school">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/11/09/school.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -158,14 +158,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/11/06/a-good-day" title="Older Post: A Good Day">
-                    &LeftArrow; A Good Day
+                            <a href="https://www.nickmoline.com/2007/08/24/justia-dockets-upgraded-and-interview.html.html" title="Older Post: Justia Dockets Upgraded and Interview">
+                    &LeftArrow; Justia Dockets Upgraded and Interview
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/12/05/blog-upgrades" title="Newer Post: Blog Updated">
-                    Blog Updated &RightArrow;
+                            <a href="https://www.nickmoline.com/2008/06/19/facebook-whoops-there-goes-another-major-site.html.html" title="Newer Post: Facebook - whoops there goes another major site!">
+                    Facebook - whoops there goes another major site! &RightArrow;
                 </a>
                     </div>
     </nav>

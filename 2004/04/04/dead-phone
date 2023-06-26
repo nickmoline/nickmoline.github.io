@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Dead Phone | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/04/04/dead-phone"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/04/04/dead-phone.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Dead Phone | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/04/04/dead-phone">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/04/04/dead-phone.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -133,14 +133,14 @@ There will be a few concessions of course, but overall I think the new phone wil
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/04/03/where-ive-been" title="Older Post: You can&#039;t see where you are going...">
-                    &LeftArrow; You can&#039;t see where you are going...
+                            <a href="https://www.nickmoline.com/2004/02/22/a-gaggle-of-gifts.html.html" title="Older Post: A Gaggle of Gifts">
+                    &LeftArrow; A Gaggle of Gifts
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/04/11/updated-map" title="Newer Post: Updated map">
-                    Updated map &RightArrow;
+                            <a href="https://www.nickmoline.com/2003/09/21/conference-visits-cuba.html.html" title="Newer Post: Conference, Visits, and Cuba">
+                    Conference, Visits, and Cuba &RightArrow;
                 </a>
                     </div>
     </nav>

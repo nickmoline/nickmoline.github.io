@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Communication | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/03/21/communication"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/03/21/communication.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Communication | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/03/21/communication">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/03/21/communication.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -143,14 +143,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/03/13/disapproval" title="Older Post: Disapproval all around">
-                    &LeftArrow; Disapproval all around
+                            <a href="https://www.nickmoline.com/2007/03/25/tivo-making-a-come-back-watch-out-apple-tv.html.html" title="Older Post: TiVo making a come back?  Watch out Apple TV.">
+                    &LeftArrow; TiVo making a come back?  Watch out Apple TV.
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/03/21/jmac-rules" title="Newer Post: JMac Rules">
-                    JMac Rules &RightArrow;
+                            <a href="https://www.nickmoline.com/2003/08/28/meetings-av-laptop.html.html" title="Newer Post: Meetings, A/V and my new Laptop">
+                    Meetings, A/V and my new Laptop &RightArrow;
                 </a>
                     </div>
     </nav>

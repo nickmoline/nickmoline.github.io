@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Meetings, A/V and my new Laptop | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2003/08/28/meetings-av-laptop"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2003/08/28/meetings-av-laptop.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Meetings, A/V and my new Laptop | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2003/08/28/meetings-av-laptop">
+        <link rel="canonical" href="https://www.nickmoline.com/2003/08/28/meetings-av-laptop.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -129,14 +129,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2003/08/27/laptop-freeside-andmore" title="Older Post: New Laptop, Freeside, and more">
-                    &LeftArrow; New Laptop, Freeside, and more
+                            <a href="https://www.nickmoline.com/2004/03/21/communication.html.html" title="Older Post: Communication">
+                    &LeftArrow; Communication
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2003/09/02/headaches-hatred-worries" title="Newer Post: Headaches, Work Hatred, and worries of love">
-                    Headaches, Work Hatred, and worries of love &RightArrow;
+                            <a href="https://www.nickmoline.com/2006/07/19/a-wedding-2.html.html" title="Newer Post: A Wedding">
+                    A Wedding &RightArrow;
                 </a>
                     </div>
     </nav>

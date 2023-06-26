@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="A Gaggle of Gifts | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/02/22/a-gaggle-of-gifts"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/02/22/a-gaggle-of-gifts.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>A Gaggle of Gifts | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/02/22/a-gaggle-of-gifts">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/02/22/a-gaggle-of-gifts.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -132,14 +132,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/02/21/breakdown" title="Older Post: Breakdown">
-                    &LeftArrow; Breakdown
+                            <a href="https://www.nickmoline.com/2004/07/11/blog-birthday.html.html" title="Older Post: Bloggie BDay">
+                    &LeftArrow; Bloggie BDay
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/02/22/new-blog-client" title="Newer Post: New Blog Client">
-                    New Blog Client &RightArrow;
+                            <a href="https://www.nickmoline.com/2004/04/04/dead-phone.html.html" title="Newer Post: Dead Phone">
+                    Dead Phone &RightArrow;
                 </a>
                     </div>
     </nav>

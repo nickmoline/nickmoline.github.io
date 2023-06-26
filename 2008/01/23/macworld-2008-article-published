@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Macworld 2008 Article Published! | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2008/01/23/macworld-2008-article-published"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2008/01/23/macworld-2008-article-published.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Macworld 2008 Article Published! | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2008/01/23/macworld-2008-article-published">
+        <link rel="canonical" href="https://www.nickmoline.com/2008/01/23/macworld-2008-article-published.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -145,14 +145,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2008/01/01/happy-new-year-2008" title="Older Post: Happy New Year 2008!">
-                    &LeftArrow; Happy New Year 2008!
+                            <a href="https://www.nickmoline.com/2017/04/25/need-worry-https-everywhere.html.html" title="Older Post: What you need to worry about with HTTPS Everywhere">
+                    &LeftArrow; What you need to worry about with HTTPS Everywhere
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2008/04/04/april-fools-the-finger" title="Newer Post: 7-11 Gave me the Finger - and other stories...">
-                    7-11 Gave me the Finger - and other stories... &RightArrow;
+                            <a href="https://www.nickmoline.com/2003/08/23/damp-sheets.html.html" title="Newer Post: Damp Sheets and late night writing">
+                    Damp Sheets and late night writing &RightArrow;
                 </a>
                     </div>
     </nav>

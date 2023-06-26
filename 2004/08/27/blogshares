@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="How do you measure its worth | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/08/27/blogshares"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/08/27/blogshares.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>How do you measure its worth | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/08/27/blogshares">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/08/27/blogshares.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -129,14 +129,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/08/17/busy-day" title="Older Post: Busy Day">
-                    &LeftArrow; Busy Day
+                            <a href="https://www.nickmoline.com/2010/03/05/memories-of-spelling-bees-gone.html.html" title="Older Post: Memories of Spelling Bees gone by.">
+                    &LeftArrow; Memories of Spelling Bees gone by.
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/08/29/fame" title="Newer Post: My new claim to fame">
-                    My new claim to fame &RightArrow;
+                            <a href="https://www.nickmoline.com/2004/08/17/busy-day.html.html" title="Newer Post: Busy Day">
+                    Busy Day &RightArrow;
                 </a>
                     </div>
     </nav>

@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Thank you Veterans | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2011/11/11/thank-you-veterans"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2011/11/11/thank-you-veterans.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Thank you Veterans | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2011/11/11/thank-you-veterans">
+        <link rel="canonical" href="https://www.nickmoline.com/2011/11/11/thank-you-veterans.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -147,14 +147,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2011/11/11/my-last-binary-day-nerdnewyear" title="Older Post: My Last Binary Day (probably) #NerdNewYear">
-                    &LeftArrow; My Last Binary Day (probably) #NerdNewYear
+                            <a href="https://www.nickmoline.com/2008/07/22/blogging-on-the-iphone.html.html" title="Older Post: Blogging on the iPhone">
+                    &LeftArrow; Blogging on the iPhone
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2011/12/24/the-geeks-night-before-christmas" title="Newer Post: The Geek&#039;s Night Before Christmas">
-                    The Geek&#039;s Night Before Christmas &RightArrow;
+                            <a href="https://www.nickmoline.com/2020/10/26/weather-tracking.html.html" title="Newer Post: Monitoring Weather Conditions">
+                    Monitoring Weather Conditions &RightArrow;
                 </a>
                     </div>
     </nav>

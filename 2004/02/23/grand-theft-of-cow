@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Grand Theft of Cow | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/02/23/grand-theft-of-cow"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/02/23/grand-theft-of-cow.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Grand Theft of Cow | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/02/23/grand-theft-of-cow">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/02/23/grand-theft-of-cow.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -118,14 +118,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/02/22/plugins" title="Older Post: MT Plugins">
-                    &LeftArrow; MT Plugins
+                            <a href="https://www.nickmoline.com/2016/11/01/little-bit-structured-data-semantic-web.html.html" title="Older Post: A little bit about Structured Data and the Semantic Web">
+                    &LeftArrow; A little bit about Structured Data and the Semantic Web
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/02/25/blog-surfing" title="Newer Post: Blog Surfing">
-                    Blog Surfing &RightArrow;
+                            <a href="https://www.nickmoline.com/2008/06/06/amazon-down-but-not-out.html.html" title="Newer Post: Amazon down but not out">
+                    Amazon down but not out &RightArrow;
                 </a>
                     </div>
     </nav>

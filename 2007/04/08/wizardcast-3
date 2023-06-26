@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="WizardCast 3 | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2007/04/08/wizardcast-3"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2007/04/08/wizardcast-3.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>WizardCast 3 | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2007/04/08/wizardcast-3">
+        <link rel="canonical" href="https://www.nickmoline.com/2007/04/08/wizardcast-3.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -135,14 +135,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2007/03/25/tivo-making-a-come-back-watch-out-apple-tv" title="Older Post: TiVo making a come back?  Watch out Apple TV.">
-                    &LeftArrow; TiVo making a come back?  Watch out Apple TV.
+                            <a href="https://www.nickmoline.com/2013/12/12/automatically-post-wordpress-blog-google-jetpack.html.html" title="Older Post: Automatically post your WordPress blog to Google+ with Jetpack">
+                    &LeftArrow; Automatically post your WordPress blog to Google+ with Jetpack
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2007/06/03/google-developer-day-2007" title="Newer Post: Google Developer Day 2007">
-                    Google Developer Day 2007 &RightArrow;
+                            <a href="https://www.nickmoline.com/2006/05/21/yet-another-wp-installation.html.html" title="Newer Post: Yet another WP Installation">
+                    Yet another WP Installation &RightArrow;
                 </a>
                     </div>
     </nav>

@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Bloggie BDay | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/07/11/blog-birthday"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/07/11/blog-birthday.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Bloggie BDay | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/07/11/blog-birthday">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/07/11/blog-birthday.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -109,7 +109,7 @@
         >Writing</a>
     
     <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
-        <p>Today marks the 1 year anniversary of <a href="https://www.nickmoline.com/2003/07/11/pop-into-internet-pop-culture">the day I started my blog</a> last year, happy Birthday blog!</p>
+        <p>Today marks the 1 year anniversary of <a href="https://www.nickmoline.com/2003/07/11/pop-into-internet-pop-culture.html.html">the day I started my blog</a> last year, happy Birthday blog!</p>
 
 <p>Also, 5 days ago was the 1 year anniversary of the day I started writing my first story, Miles Apart over on fanfiction.net. Some of you know that I am currently working on writing my first two novels. Unlike that original story, these are not fanfiction but instead are stories set with my own characters in my own situations. I&#8217;m looking forward to finishing them.</p>
     </div>
@@ -130,14 +130,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/07/09/camping-on-the-rocks" title="Older Post: Camping on the Rocks">
-                    &LeftArrow; Camping on the Rocks
+                            <a href="https://www.nickmoline.com/2004/07/28/catch22.html.html" title="Older Post: Catch 22">
+                    &LeftArrow; Catch 22
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/07/21/personality-disorder-redux" title="Newer Post: My Situation compared to a year ago">
-                    My Situation compared to a year ago &RightArrow;
+                            <a href="https://www.nickmoline.com/2004/02/22/a-gaggle-of-gifts.html.html" title="Newer Post: A Gaggle of Gifts">
+                    A Gaggle of Gifts &RightArrow;
                 </a>
                     </div>
     </nav>

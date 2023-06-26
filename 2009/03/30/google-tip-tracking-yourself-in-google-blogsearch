@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Google Tip: Tracking Yourself in Google Blogsearch | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2009/03/30/google-tip-tracking-yourself-in-google-blogsearch"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2009/03/30/google-tip-tracking-yourself-in-google-blogsearch.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Google Tip: Tracking Yourself in Google Blogsearch | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2009/03/30/google-tip-tracking-yourself-in-google-blogsearch">
+        <link rel="canonical" href="https://www.nickmoline.com/2009/03/30/google-tip-tracking-yourself-in-google-blogsearch.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -109,7 +109,7 @@
         >Tech</a>
     
     <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
-        <p>Earlier this month, I wrote about <a href="https://www.nickmoline.com/2009/03/06/twitter-tip-better-replies-in-tweetdeck" title="Twitter Tip: A Better @replies List in TweetDeck">tracking mentions of yourself on twitter</a> more completly then just checking the <a href="http://twitter.com/replies" target="_blank">@replies tab on twitter</a> (or in tweetdeck).  Keeping tabs on what people say about you in twitter is only one step in effectively tracking references to yourself online.</p>
+        <p>Earlier this month, I wrote about <a href="https://www.nickmoline.com/2009/03/06/twitter-tip-better-replies-in-tweetdeck.html.html" title="Twitter Tip: A Better @replies List in TweetDeck">tracking mentions of yourself on twitter</a> more completly then just checking the <a href="http://twitter.com/replies" target="_blank">@replies tab on twitter</a> (or in tweetdeck).  Keeping tabs on what people say about you in twitter is only one step in effectively tracking references to yourself online.</p>
 
 <!--more-->
 
@@ -155,14 +155,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2009/03/29/shut-down-for-an-hour" title="Older Post: Shut down for an hour">
-                    &LeftArrow; Shut down for an hour
+                            <a href="https://www.nickmoline.com/2012/03/13/google-io-2012-here-i-come.html.html" title="Older Post: Google I/O 2012 Here I come">
+                    &LeftArrow; Google I/O 2012 Here I come
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2009/04/24/internetcomputer-classics-dieing-off" title="Newer Post: Internet/Computer Classics Dieing off">
-                    Internet/Computer Classics Dieing off &RightArrow;
+                            <a href="https://www.nickmoline.com/2010/03/05/memories-of-spelling-bees-gone.html.html" title="Newer Post: Memories of Spelling Bees gone by.">
+                    Memories of Spelling Bees gone by. &RightArrow;
                 </a>
                     </div>
     </nav>

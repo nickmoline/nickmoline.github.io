@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Slackin&#039; and Poetry | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/03/31/slackin-and-poetry"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/03/31/slackin-and-poetry.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Slackin&#039; and Poetry | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/03/31/slackin-and-poetry">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/03/31/slackin-and-poetry.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -132,14 +132,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/03/27/jobs-and-odd-things" title="Older Post: Jobs and Odd Tasks to do">
-                    &LeftArrow; Jobs and Odd Tasks to do
+                            <a href="https://www.nickmoline.com/2012/07/18/just-week-go.html.html" title="Older Post: Just over a week to go...">
+                    &LeftArrow; Just over a week to go...
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/04/03/where-ive-been" title="Newer Post: You can&#039;t see where you are going...">
-                    You can&#039;t see where you are going... &RightArrow;
+                            <a href="https://www.nickmoline.com/2004/03/27/great-depression.html.html" title="Newer Post: The Great Depression, No not mine">
+                    The Great Depression, No not mine &RightArrow;
                 </a>
                     </div>
     </nav>

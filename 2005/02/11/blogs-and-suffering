@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="On Blogs and Suffering | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2005/02/11/blogs-and-suffering"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2005/02/11/blogs-and-suffering.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>On Blogs and Suffering | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2005/02/11/blogs-and-suffering">
+        <link rel="canonical" href="https://www.nickmoline.com/2005/02/11/blogs-and-suffering.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -150,14 +150,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2005/01/24/drama-king" title="Older Post: Don&#039;t be such a Drama King">
-                    &LeftArrow; Don&#039;t be such a Drama King
+                            <a href="https://www.nickmoline.com/2006/05/21/a-wedding.html.html" title="Older Post: A Wedding">
+                    &LeftArrow; A Wedding
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2005/02/15/its-the-simple-things" title="Newer Post: It&#039;s the Simple Things...">
-                    It&#039;s the Simple Things... &RightArrow;
+                            <a href="https://www.nickmoline.com/2003/07/11/pop-into-internet-pop-culture.html.html" title="Newer Post: Pop into Internet Pop Culture">
+                    Pop into Internet Pop Culture &RightArrow;
                 </a>
                     </div>
     </nav>

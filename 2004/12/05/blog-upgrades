@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Blog Updated | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/12/05/blog-upgrades"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/12/05/blog-upgrades.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Blog Updated | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/12/05/blog-upgrades">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/12/05/blog-upgrades.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -132,14 +132,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/11/09/school" title="Older Post: School!">
-                    &LeftArrow; School!
+                            <a href="https://www.nickmoline.com/2007/09/26/the-infamous-carl-sandberg-not-the-famous.html.html" title="Older Post: The infamous Carl Sandberg, not the famous.">
+                    &LeftArrow; The infamous Carl Sandberg, not the famous.
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/12/09/and-two-of-those-mudflaps" title="Newer Post: And two of those mudflaps&amp;#8230;">
-                    And two of those mudflaps&amp;#8230; &RightArrow;
+                            <a href="https://www.nickmoline.com/2018/02/09/amp-update.html" title="Newer Post: AMP Update: Get Even More AMPed in 2018">
+                    AMP Update: Get Even More AMPed in 2018 &RightArrow;
                 </a>
                     </div>
     </nav>

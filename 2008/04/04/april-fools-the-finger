@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="7-11 Gave me the Finger - and other stories... | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2008/04/04/april-fools-the-finger"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2008/04/04/april-fools-the-finger.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>7-11 Gave me the Finger - and other stories... | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2008/04/04/april-fools-the-finger">
+        <link rel="canonical" href="https://www.nickmoline.com/2008/04/04/april-fools-the-finger.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -151,14 +151,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2008/01/23/macworld-2008-article-published" title="Older Post: Macworld 2008 Article Published!">
-                    &LeftArrow; Macworld 2008 Article Published!
+                            <a href="https://www.nickmoline.com/2003/08/23/damp-sheets.html.html" title="Older Post: Damp Sheets and late night writing">
+                    &LeftArrow; Damp Sheets and late night writing
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2008/05/17/for-narnia-and-for-aslan" title="Newer Post: For Narnia, and for Aslan!">
-                    For Narnia, and for Aslan! &RightArrow;
+                            <a href="https://www.nickmoline.com/2004/07/09/camping-on-the-rocks.html.html" title="Newer Post: Camping on the Rocks">
+                    Camping on the Rocks &RightArrow;
                 </a>
                     </div>
     </nav>

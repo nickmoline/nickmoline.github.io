@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Mashup Camp 7 Wrapup | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2008/11/19/mashup-camp-7-wrapup"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2008/11/19/mashup-camp-7-wrapup.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Mashup Camp 7 Wrapup | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2008/11/19/mashup-camp-7-wrapup">
+        <link rel="canonical" href="https://www.nickmoline.com/2008/11/19/mashup-camp-7-wrapup.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -114,7 +114,7 @@
         >Tech</a>
     
     <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
-        <p>As I <a href="https://www.nickmoline.com/2008/11/11/mashup-camp-next-week">Posted about last week</a>, I attended Mashup Camp at the Computer History Museum this week. It has been a packed couple of days. I mentioned before I was not really considering entering the Speedgeeking Contest that occurs at each Mashup Camp. Last Spring&#8217;s Mashup Camp I was a bit depressed to come in last place, but this contest was different, this time they had one top prize (A MacBook Pro) awarded by attendee voting, but then the individual providers sponsoring the event also had their own contests of who had the best mashup using their service.</p>
+        <p>As I <a href="https://www.nickmoline.com/2008/11/11/mashup-camp-next-week.html.html">Posted about last week</a>, I attended Mashup Camp at the Computer History Museum this week. It has been a packed couple of days. I mentioned before I was not really considering entering the Speedgeeking Contest that occurs at each Mashup Camp. Last Spring&#8217;s Mashup Camp I was a bit depressed to come in last place, but this contest was different, this time they had one top prize (A MacBook Pro) awarded by attendee voting, but then the individual providers sponsoring the event also had their own contests of who had the best mashup using their service.</p>
 
 <!--more-->
 
@@ -158,14 +158,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2008/11/11/mashup-camp-next-week" title="Older Post: Mashup Camp, Next Week">
-                    &LeftArrow; Mashup Camp, Next Week
+                            <a href="https://www.nickmoline.com/2006/07/19/a-wedding-2.html.html" title="Older Post: A Wedding">
+                    &LeftArrow; A Wedding
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2008/12/11/upgrades-and-hard-work" title="Newer Post: Upgrades and hard work">
-                    Upgrades and hard work &RightArrow;
+                            <a href="https://www.nickmoline.com/2014/06/04/mentioned-lately-much-hate-comcast.html.html" title="Newer Post: Have I mentioned lately how much I hate Comcast?">
+                    Have I mentioned lately how much I hate Comcast? &RightArrow;
                 </a>
                     </div>
     </nav>

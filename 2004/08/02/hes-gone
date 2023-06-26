@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="He&#039;s gone! | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/08/02/hes-gone"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/08/02/hes-gone.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>He&#039;s gone! | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/08/02/hes-gone">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/08/02/hes-gone.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -120,14 +120,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/07/30/tired" title="Older Post: Tired">
-                    &LeftArrow; Tired
+                            <a href="https://www.nickmoline.com/2008/06/01/google-io-part-1-google-app-engine.html.html" title="Older Post: Google I/O Part I: Google App Engine">
+                    &LeftArrow; Google I/O Part I: Google App Engine
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/08/10/birthday" title="Newer Post: My Birthday">
-                    My Birthday &RightArrow;
+                            <a href="https://www.nickmoline.com/2012/10/13/newsies-on-broadway.html.html" title="Newer Post: Extra Extra &amp;#8211; Read all about it!">
+                    Extra Extra &amp;#8211; Read all about it! &RightArrow;
                 </a>
                     </div>
     </nav>

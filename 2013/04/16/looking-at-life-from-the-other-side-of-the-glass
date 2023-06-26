@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Looking at Life from the Other Side of the Glass | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2013/04/16/looking-at-life-from-the-other-side-of-the-glass"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2013/04/16/looking-at-life-from-the-other-side-of-the-glass.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Looking at Life from the Other Side of the Glass | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2013/04/16/looking-at-life-from-the-other-side-of-the-glass">
+        <link rel="canonical" href="https://www.nickmoline.com/2013/04/16/looking-at-life-from-the-other-side-of-the-glass.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -250,14 +250,14 @@ height="270"></amp-youtube></li>
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2013/03/29/180-pounds-down" title="Older Post: 180 Pounds Down">
-                    &LeftArrow; 180 Pounds Down
+                            <a href="https://www.nickmoline.com/2008/08/19/hours-away-from-vacation.html.html" title="Older Post: Vegas Vacation">
+                    &LeftArrow; Vegas Vacation
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2013/04/23/warning-wordpress-brute-force-attack" title="Newer Post: Warning: WordPress Brute Force Attack">
-                    Warning: WordPress Brute Force Attack &RightArrow;
+                            <a href="https://www.nickmoline.com/2012/04/24/youll-neverpossibly-need-to-delete-another-message.html.html" title="Newer Post: You&#039;ll &lt;del&gt;never&lt;/del&gt; &lt;ins&gt;probably&lt;/ins&gt; need to delete another message">
+                    You&#039;ll &lt;del&gt;never&lt;/del&gt; &lt;ins&gt;probably&lt;/ins&gt; need to delete another message &RightArrow;
                 </a>
                     </div>
     </nav>

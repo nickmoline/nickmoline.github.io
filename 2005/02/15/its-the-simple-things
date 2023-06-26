@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="It&#039;s the Simple Things... | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2005/02/15/its-the-simple-things"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2005/02/15/its-the-simple-things.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>It&#039;s the Simple Things... | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2005/02/15/its-the-simple-things">
+        <link rel="canonical" href="https://www.nickmoline.com/2005/02/15/its-the-simple-things.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -136,14 +136,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2005/02/11/blogs-and-suffering" title="Older Post: On Blogs and Suffering">
-                    &LeftArrow; On Blogs and Suffering
+                            <a href="https://www.nickmoline.com/2004/12/11/still-here.html.html" title="Older Post: I&amp;#8217;m still here!">
+                    &LeftArrow; I&amp;#8217;m still here!
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2006/05/01/missing-year" title="Newer Post: 525,600 minutes, how do you measure a year">
-                    525,600 minutes, how do you measure a year &RightArrow;
+                            <a href="https://www.nickmoline.com/2012/04/19/googles-code-mistake-and-what-they-did-to-make-it-right.html.html" title="Newer Post: Google&#039;s Code Mistake, and what they did to make it right">
+                    Google&#039;s Code Mistake, and what they did to make it right &RightArrow;
                 </a>
                     </div>
     </nav>

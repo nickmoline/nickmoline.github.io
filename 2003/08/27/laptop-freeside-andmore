@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="New Laptop, Freeside, and more | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2003/08/27/laptop-freeside-andmore"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2003/08/27/laptop-freeside-andmore.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>New Laptop, Freeside, and more | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2003/08/27/laptop-freeside-andmore">
+        <link rel="canonical" href="https://www.nickmoline.com/2003/08/27/laptop-freeside-andmore.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -130,14 +130,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2003/08/23/damp-sheets" title="Older Post: Damp Sheets and late night writing">
-                    &LeftArrow; Damp Sheets and late night writing
+                            <a href="https://www.nickmoline.com/2004/03/21/jmac-rules.html.html" title="Older Post: JMac Rules">
+                    &LeftArrow; JMac Rules
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2003/08/28/meetings-av-laptop" title="Newer Post: Meetings, A/V and my new Laptop">
-                    Meetings, A/V and my new Laptop &RightArrow;
+                            <a href="https://www.nickmoline.com/2004/07/30/tired.html.html" title="Newer Post: Tired">
+                    Tired &RightArrow;
                 </a>
                     </div>
     </nav>

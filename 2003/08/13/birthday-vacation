@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Birthday updates | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2003/08/13/birthday-vacation"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2003/08/13/birthday-vacation.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Birthday updates | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2003/08/13/birthday-vacation">
+        <link rel="canonical" href="https://www.nickmoline.com/2003/08/13/birthday-vacation.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -156,14 +156,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2003/07/18/no-brotherly-visit" title="Older Post: No brotherly visit">
-                    &LeftArrow; No brotherly visit
+                            <a href="https://www.nickmoline.com/2009/03/06/twitter-tip-better-replies-in-tweetdeck.html.html" title="Older Post: Twitter Tip: A Better @replies List in TweetDeck">
+                    &LeftArrow; Twitter Tip: A Better @replies List in TweetDeck
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2003/08/14/loss-of-a-laptop-and-a-book" title="Newer Post: Loss of a laptop and a book">
-                    Loss of a laptop and a book &RightArrow;
+                            <a href="https://www.nickmoline.com/2003/12/01/gaming-and-listening-to-music.html.html" title="Newer Post: Gaming and listening to music">
+                    Gaming and listening to music &RightArrow;
                 </a>
                     </div>
     </nav>

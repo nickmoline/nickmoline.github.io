@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="My new claim to fame | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/08/29/fame"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/08/29/fame.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>My new claim to fame | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/08/29/fame">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/08/29/fame.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -168,14 +168,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/08/27/blogshares" title="Older Post: How do you measure its worth">
-                    &LeftArrow; How do you measure its worth
+                            <a href="https://www.nickmoline.com/2007/01/17/justia-in-the-news-again.html.html" title="Older Post: Justia in the News Again">
+                    &LeftArrow; Justia in the News Again
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/09/01/corporate-worlds" title="Newer Post: Corporate worlds">
-                    Corporate worlds &RightArrow;
+                            <a href="https://www.nickmoline.com/2009/08/31/nickpro-migrated-to-drupal.html.html" title="Newer Post: Nick.pro Migrated to Drupal">
+                    Nick.pro Migrated to Drupal &RightArrow;
                 </a>
                     </div>
     </nav>

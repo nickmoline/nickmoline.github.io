@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="The Tale as old as Time, is new again (twice) | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2012/03/22/the-tale-as-old-as-time-is-new-again-twice"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2012/03/22/the-tale-as-old-as-time-is-new-again-twice.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>The Tale as old as Time, is new again (twice) | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2012/03/22/the-tale-as-old-as-time-is-new-again-twice">
+        <link rel="canonical" href="https://www.nickmoline.com/2012/03/22/the-tale-as-old-as-time-is-new-again-twice.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -149,14 +149,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2012/03/20/pubsubhubbub-headaches" title="Older Post: What&#039;s all the Hubbub about anyway?">
-                    &LeftArrow; What&#039;s all the Hubbub about anyway?
+                            <a href="https://www.nickmoline.com/2014/06/22/wearing-computer-mit-2-decade-dream-realized.html.html" title="Older Post: Wearing a Computer at MIT, a Two Decade Dream Realized">
+                    &LeftArrow; Wearing a Computer at MIT, a Two Decade Dream Realized
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2012/03/27/google-io-sells-out-in-less-than-a-half-hour" title="Newer Post: Google I/O 2012 Sells out in less than a half hour">
-                    Google I/O 2012 Sells out in less than a half hour &RightArrow;
+                            <a href="https://www.nickmoline.com/2018/01/03/2017-year-in-review.html" title="Newer Post: Top SEO and Marketing Trends of 2017 (Plus a Look Ahead at 2018)">
+                    Top SEO and Marketing Trends of 2017 (Plus a Look Ahead at 2018) &RightArrow;
                 </a>
                     </div>
     </nav>

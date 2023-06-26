@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Damp Sheets and late night writing | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2003/08/23/damp-sheets"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2003/08/23/damp-sheets.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Damp Sheets and late night writing | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2003/08/23/damp-sheets">
+        <link rel="canonical" href="https://www.nickmoline.com/2003/08/23/damp-sheets.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -146,14 +146,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2003/08/17/birthday-shopping-and-play-watching" title="Older Post: Birthday Shopping and Play watching">
-                    &LeftArrow; Birthday Shopping and Play watching
+                            <a href="https://www.nickmoline.com/2008/01/23/macworld-2008-article-published.html.html" title="Older Post: Macworld 2008 Article Published!">
+                    &LeftArrow; Macworld 2008 Article Published!
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2003/08/27/laptop-freeside-andmore" title="Newer Post: New Laptop, Freeside, and more">
-                    New Laptop, Freeside, and more &RightArrow;
+                            <a href="https://www.nickmoline.com/2008/04/04/april-fools-the-finger.html.html" title="Newer Post: 7-11 Gave me the Finger - and other stories...">
+                    7-11 Gave me the Finger - and other stories... &RightArrow;
                 </a>
                     </div>
     </nav>

@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="VPNs and old bosses | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/07/24/vpn"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/07/24/vpn.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>VPNs and old bosses | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/07/24/vpn">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/07/24/vpn.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -138,14 +138,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/07/22/busy-updating" title="Older Post: Busily Updating">
-                    &LeftArrow; Busily Updating
+                            <a href="https://www.nickmoline.com/2008/06/01/google-io-part-ii-the-opening-keynote.html.html" title="Older Post: Google I/O Part II: The Opening Keynote">
+                    &LeftArrow; Google I/O Part II: The Opening Keynote
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/07/28/catch22" title="Newer Post: Catch 22">
-                    Catch 22 &RightArrow;
+                            <a href="https://www.nickmoline.com/2020/08/21/automating-progress-bar-in-jekyll.html.html" title="Newer Post: Automating the site migration progress bar in Jekyll">
+                    Automating the site migration progress bar in Jekyll &RightArrow;
                 </a>
                     </div>
     </nav>

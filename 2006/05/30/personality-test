@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Personality Test | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2006/05/30/personality-test"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2006/05/30/personality-test.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Personality Test | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2006/05/30/personality-test">
+        <link rel="canonical" href="https://www.nickmoline.com/2006/05/30/personality-test.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -320,14 +320,14 @@ messy, depressed, introverted, feels invisible, does not make friends easily, ni
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2006/05/21/yet-another-wp-installation" title="Older Post: Yet another WP Installation">
-                    &LeftArrow; Yet another WP Installation
+                            <a href="https://www.nickmoline.com/2017/02/02/amp-up-your-law-firms-mobile-site.html" title="Older Post: AMP up your Law Firm’s Mobile Site">
+                    &LeftArrow; AMP up your Law Firm’s Mobile Site
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2006/06/03/a-funeral-and-almost-another" title="Newer Post: A Funeral (and almost another)">
-                    A Funeral (and almost another) &RightArrow;
+                            <a href="https://www.nickmoline.com/2007/06/06/its-not-brain-surgery.html.html" title="Newer Post: It&#039;s not Brain Surgery">
+                    It&#039;s not Brain Surgery &RightArrow;
                 </a>
                     </div>
     </nav>

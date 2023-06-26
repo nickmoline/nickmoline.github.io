@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Tired | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/07/30/tired"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/07/30/tired.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Tired | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/07/30/tired">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/07/30/tired.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -124,14 +124,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/07/30/busy" title="Older Post: Busy">
-                    &LeftArrow; Busy
+                            <a href="https://www.nickmoline.com/2003/08/27/laptop-freeside-andmore.html.html" title="Older Post: New Laptop, Freeside, and more">
+                    &LeftArrow; New Laptop, Freeside, and more
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/08/02/hes-gone" title="Newer Post: He&#039;s gone!">
-                    He&#039;s gone! &RightArrow;
+                            <a href="https://www.nickmoline.com/2009/02/26/keeping-in-step-2-iphone-mac-and-google-calendar-syncing-now-better-and-cheaper.html.html" title="Newer Post: Keeping in Step 2: iPhone, Mac, and Google Calendar Syncing, now Better, and cheaper.">
+                    Keeping in Step 2: iPhone, Mac, and Google Calendar Syncing, now Better, and cheaper. &RightArrow;
                 </a>
                     </div>
     </nav>

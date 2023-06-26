@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Crack out the Resumes | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2003/07/16/resumes"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2003/07/16/resumes.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Crack out the Resumes | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2003/07/16/resumes">
+        <link rel="canonical" href="https://www.nickmoline.com/2003/07/16/resumes.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -135,14 +135,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2003/07/12/personality-disorder-test" title="Older Post: Boredom, Insane ACTD Characters, and a Personality Disorder test">
-                    &LeftArrow; Boredom, Insane ACTD Characters, and a Personality Disorder test
+                            <a href="https://www.nickmoline.com/2004/03/26/evermore.html.html" title="Older Post: Evermore">
+                    &LeftArrow; Evermore
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2003/07/18/desperation" title="Newer Post: Desperation of having to go back to TX">
-                    Desperation of having to go back to TX &RightArrow;
+                            <a href="https://www.nickmoline.com/2017/07/10/next-normal-next-perfect.html.html" title="Newer Post: Next to Normal was Next to Perfect">
+                    Next to Normal was Next to Perfect &RightArrow;
                 </a>
                     </div>
     </nav>

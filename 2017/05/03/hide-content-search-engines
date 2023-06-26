@@ -8,7 +8,7 @@
 
         <meta property="og:title" content="How To: Hide content from search engines, and why you would do it | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2017/05/03/hide-content-search-engines"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2017/05/03/hide-content-search-engines.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>How To: Hide content from search engines, and why you would do it | NickMoline.com</title>
@@ -143,14 +143,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2017/04/25/need-worry-https-everywhere" title="Older Post: What you need to worry about with HTTPS Everywhere">
-                    &LeftArrow; What you need to worry about with HTTPS Everywhere
+                            <a href="https://www.nickmoline.com/2005/01/03/visitors-from-afar.html.html" title="Older Post: Visitors from Afar">
+                    &LeftArrow; Visitors from Afar
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2017/05/22/seven-blog-posts-three-days" title="Newer Post: Seven Blog Posts in Three Days">
-                    Seven Blog Posts in Three Days &RightArrow;
+                            <a href="https://www.nickmoline.com/2007/02/16/justia-dockets.html.html" title="Newer Post: Justia Federal District Court Filings and Dockets">
+                    Justia Federal District Court Filings and Dockets &RightArrow;
                 </a>
                     </div>
     </nav>

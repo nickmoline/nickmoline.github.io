@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Google I/O Part I: Google App Engine | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2008/06/01/google-io-part-1-google-app-engine"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2008/06/01/google-io-part-1-google-app-engine.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Google I/O Part I: Google App Engine | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2008/06/01/google-io-part-1-google-app-engine">
+        <link rel="canonical" href="https://www.nickmoline.com/2008/06/01/google-io-part-1-google-app-engine.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -116,7 +116,7 @@
         >Tech</a>
     
     <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
-        <p>This week I, as well as <a href="http://www.barbara.pro">my Wife Barbara</a>, and my co worker <a href="http://www.danvuquoc.com/">Dan</a>, went to <a href="http://code.google.com/events/io/">Google I/O</a>. People who have read my blog for a while may remember that last year I attended <a href="https://www.nickmoline.com/2007/06/03/google-developer-day-2007">Google Developer Day</a> around this same time in San Jose. This year Google decided to expand from a single day to a whole two-day tech conference and move it to the Moscone Center in San Francisco.</p>
+        <p>This week I, as well as <a href="http://www.barbara.pro">my Wife Barbara</a>, and my co worker <a href="http://www.danvuquoc.com/">Dan</a>, went to <a href="http://code.google.com/events/io/">Google I/O</a>. People who have read my blog for a while may remember that last year I attended <a href="https://www.nickmoline.com/2007/06/03/google-developer-day-2007.html.html">Google Developer Day</a> around this same time in San Jose. This year Google decided to expand from a single day to a whole two-day tech conference and move it to the Moscone Center in San Francisco.</p>
 
 <!--more-->
 
@@ -162,14 +162,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2008/05/17/for-narnia-and-for-aslan" title="Older Post: For Narnia, and for Aslan!">
-                    &LeftArrow; For Narnia, and for Aslan!
+                            <a href="https://www.nickmoline.com/2020/08/21/automating-progress-bar-in-jekyll.html.html" title="Older Post: Automating the site migration progress bar in Jekyll">
+                    &LeftArrow; Automating the site migration progress bar in Jekyll
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2008/06/01/google-io-part-ii-the-opening-keynote" title="Newer Post: Google I/O Part II: The Opening Keynote">
-                    Google I/O Part II: The Opening Keynote &RightArrow;
+                            <a href="https://www.nickmoline.com/2004/08/02/hes-gone.html.html" title="Newer Post: He&#039;s gone!">
+                    He&#039;s gone! &RightArrow;
                 </a>
                     </div>
     </nav>

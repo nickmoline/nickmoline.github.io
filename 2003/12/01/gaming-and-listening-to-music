@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Gaming and listening to music | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2003/12/01/gaming-and-listening-to-music"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2003/12/01/gaming-and-listening-to-music.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Gaming and listening to music | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2003/12/01/gaming-and-listening-to-music">
+        <link rel="canonical" href="https://www.nickmoline.com/2003/12/01/gaming-and-listening-to-music.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -144,14 +144,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2003/11/25/billboards-vegetables-and-charlies-angels" title="Older Post: Billboards, Vegetables, and The Final Fantasy Equivalent of Charlie&#039;s Angels">
-                    &LeftArrow; Billboards, Vegetables, and The Final Fantasy Equivalent of Charlie&#039;s Angels
+                            <a href="https://www.nickmoline.com/2003/08/13/birthday-vacation.html.html" title="Older Post: Birthday updates">
+                    &LeftArrow; Birthday updates
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/02/06/stress" title="Newer Post: Stress">
-                    Stress &RightArrow;
+                            <a href="https://www.nickmoline.com/2004/10/30/ben-fix-legislature.html.html" title="Newer Post: On Ben’s view on how to fix the Legislature">
+                    On Ben’s view on how to fix the Legislature &RightArrow;
                 </a>
                     </div>
     </nav>

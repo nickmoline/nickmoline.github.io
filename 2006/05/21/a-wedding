@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="A Wedding | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2006/05/21/a-wedding"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2006/05/21/a-wedding.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>A Wedding | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2006/05/21/a-wedding">
+        <link rel="canonical" href="https://www.nickmoline.com/2006/05/21/a-wedding.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -153,14 +153,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2006/05/16/updating-my-map-of-where-ive-been" title="Older Post: Updating my map of where I&#039;ve been">
-                    &LeftArrow; Updating my map of where I&#039;ve been
+                            <a href="https://www.nickmoline.com/2009/05/26/ready-for-google-io-2009.html.html" title="Older Post: Ready for Google I/O 2009">
+                    &LeftArrow; Ready for Google I/O 2009
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2006/05/21/yet-another-wp-installation" title="Newer Post: Yet another WP Installation">
-                    Yet another WP Installation &RightArrow;
+                            <a href="https://www.nickmoline.com/2005/02/11/blogs-and-suffering.html.html" title="Newer Post: On Blogs and Suffering">
+                    On Blogs and Suffering &RightArrow;
                 </a>
                     </div>
     </nav>

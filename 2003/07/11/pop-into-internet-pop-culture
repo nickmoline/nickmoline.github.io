@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Pop into Internet Pop Culture | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2003/07/11/pop-into-internet-pop-culture"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2003/07/11/pop-into-internet-pop-culture.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Pop into Internet Pop Culture | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2003/07/11/pop-into-internet-pop-culture">
+        <link rel="canonical" href="https://www.nickmoline.com/2003/07/11/pop-into-internet-pop-culture.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -141,11 +141,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
+                            <a href="https://www.nickmoline.com/2005/02/11/blogs-and-suffering.html.html" title="Older Post: On Blogs and Suffering">
+                    &LeftArrow; On Blogs and Suffering
+                </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2003/07/12/personality-disorder-test" title="Newer Post: Boredom, Insane ACTD Characters, and a Personality Disorder test">
-                    Boredom, Insane ACTD Characters, and a Personality Disorder test &RightArrow;
+                            <a href="https://www.nickmoline.com/2004/03/25/microsoft-actd-phone.html.html" title="Newer Post: Microsoft, ACTD, and cell phones">
+                    Microsoft, ACTD, and cell phones &RightArrow;
                 </a>
                     </div>
     </nav>

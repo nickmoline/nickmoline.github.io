@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="A Wedding | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2006/07/19/a-wedding-2"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2006/07/19/a-wedding-2.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>A Wedding | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2006/07/19/a-wedding-2">
+        <link rel="canonical" href="https://www.nickmoline.com/2006/07/19/a-wedding-2.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -127,14 +127,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2006/06/21/testimony" title="Older Post: Testimony">
-                    &LeftArrow; Testimony
+                            <a href="https://www.nickmoline.com/2003/08/28/meetings-av-laptop.html.html" title="Older Post: Meetings, A/V and my new Laptop">
+                    &LeftArrow; Meetings, A/V and my new Laptop
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2006/08/31/nick-moline-is-on-the-air" title="Newer Post: Nick Moline is on the air">
-                    Nick Moline is on the air &RightArrow;
+                            <a href="https://www.nickmoline.com/2008/11/19/mashup-camp-7-wrapup.html.html" title="Newer Post: Mashup Camp 7 Wrapup">
+                    Mashup Camp 7 Wrapup &RightArrow;
                 </a>
                     </div>
     </nav>

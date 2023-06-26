@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="JMac Rules | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/03/21/jmac-rules"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/03/21/jmac-rules.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>JMac Rules | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/03/21/jmac-rules">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/03/21/jmac-rules.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -118,14 +118,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/03/21/communication" title="Older Post: Communication">
-                    &LeftArrow; Communication
+                            <a href="https://www.nickmoline.com/2011/08/27/pottermore-cheats-earning-more-house-points-through-failure-then-success-in-potion-making.html.html" title="Older Post: Pottermore Cheats: Earning more house points through failure then success in potion making">
+                    &LeftArrow; Pottermore Cheats: Earning more house points through failure then success in potion making
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/03/22/a-little-prayer" title="Newer Post: Say a little prayer">
-                    Say a little prayer &RightArrow;
+                            <a href="https://www.nickmoline.com/2003/08/27/laptop-freeside-andmore.html.html" title="Newer Post: New Laptop, Freeside, and more">
+                    New Laptop, Freeside, and more &RightArrow;
                 </a>
                     </div>
     </nav>

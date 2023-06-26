@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Trend Started | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2006/05/15/trend-started"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2006/05/15/trend-started.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Trend Started | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2006/05/15/trend-started">
+        <link rel="canonical" href="https://www.nickmoline.com/2006/05/15/trend-started.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -128,14 +128,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2006/05/01/missing-year" title="Older Post: 525,600 minutes, how do you measure a year">
-                    &LeftArrow; 525,600 minutes, how do you measure a year
+                            <a href="https://www.nickmoline.com/2004/03/13/disapproval.html.html" title="Older Post: Disapproval all around">
+                    &LeftArrow; Disapproval all around
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2006/05/16/image-editing-fool" title="Newer Post: Image Editing Fool">
-                    Image Editing Fool &RightArrow;
+                            <a href="https://www.nickmoline.com/2016/11/01/little-bit-structured-data-semantic-web.html.html" title="Newer Post: A little bit about Structured Data and the Semantic Web">
+                    A little bit about Structured Data and the Semantic Web &RightArrow;
                 </a>
                     </div>
     </nav>

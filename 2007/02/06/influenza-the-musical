@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Influenza, the Musical | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2007/02/06/influenza-the-musical"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2007/02/06/influenza-the-musical.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Influenza, the Musical | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2007/02/06/influenza-the-musical">
+        <link rel="canonical" href="https://www.nickmoline.com/2007/02/06/influenza-the-musical.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -138,14 +138,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2007/02/01/deathly-hallows-deathly-near" title="Older Post: Deathly Hallows Deathly Near">
-                    &LeftArrow; Deathly Hallows Deathly Near
+                            <a href="https://www.nickmoline.com/2004/03/27/great-depression.html.html" title="Older Post: The Great Depression, No not mine">
+                    &LeftArrow; The Great Depression, No not mine
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2007/02/16/justia-dockets" title="Newer Post: Justia Federal District Court Filings and Dockets">
-                    Justia Federal District Court Filings and Dockets &RightArrow;
+                            <a href="https://www.nickmoline.com/2007/01/04/justia-superstar.html.html" title="Newer Post: Justia Superstar">
+                    Justia Superstar &RightArrow;
                 </a>
                     </div>
     </nav>

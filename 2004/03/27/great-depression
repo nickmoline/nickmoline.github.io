@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="The Great Depression, No not mine | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/03/27/great-depression"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/03/27/great-depression.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>The Great Depression, No not mine | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/03/27/great-depression">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/03/27/great-depression.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -139,14 +139,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/03/26/evermore" title="Older Post: Evermore">
-                    &LeftArrow; Evermore
+                            <a href="https://www.nickmoline.com/2004/03/31/slackin-and-poetry.html.html" title="Older Post: Slackin&#039; and Poetry">
+                    &LeftArrow; Slackin&#039; and Poetry
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/03/27/jobs-and-odd-things" title="Newer Post: Jobs and Odd Tasks to do">
-                    Jobs and Odd Tasks to do &RightArrow;
+                            <a href="https://www.nickmoline.com/2007/02/06/influenza-the-musical.html.html" title="Newer Post: Influenza, the Musical">
+                    Influenza, the Musical &RightArrow;
                 </a>
                     </div>
     </nav>

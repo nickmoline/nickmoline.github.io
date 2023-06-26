@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Warning: WordPress Brute Force Attack | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2013/04/23/warning-wordpress-brute-force-attack"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2013/04/23/warning-wordpress-brute-force-attack.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Warning: WordPress Brute Force Attack | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2013/04/23/warning-wordpress-brute-force-attack">
+        <link rel="canonical" href="https://www.nickmoline.com/2013/04/23/warning-wordpress-brute-force-attack.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -111,7 +111,7 @@
         >Tech</a>
     
     <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
-        <p>After <a href="https://www.nickmoline.com/2012/11/12/losing-my-geek-cred-nick-pro-hacked" title="Losing my Geek Cred: Nick.pro hacked">my blog was hacked</a> a few months ago, I&#8217;ve been understandably more security conscious on my blog.  One of the things I&#8217;ve done is install a few security plugins (most notably <a title="Wordfence Security - WordPress Plugins" href="http://wordpress.org/extend/plugins/wordfence/" target="_blank">Wordfence Security</a>).  Wordfence is an absolutely fantastic security plugin, it monitors the files in your site to make sure that they don&#8217;t change unexpectedly, and more importantly it monitors login attempts (and other page requests on your site) for potentially harmful login attempts.</p>
+        <p>After <a href="https://www.nickmoline.com/2012/11/12/losing-my-geek-cred-nick-pro-hacked.html.html" title="Losing my Geek Cred: Nick.pro hacked">my blog was hacked</a> a few months ago, I&#8217;ve been understandably more security conscious on my blog.  One of the things I&#8217;ve done is install a few security plugins (most notably <a title="Wordfence Security - WordPress Plugins" href="http://wordpress.org/extend/plugins/wordfence/" target="_blank">Wordfence Security</a>).  Wordfence is an absolutely fantastic security plugin, it monitors the files in your site to make sure that they don&#8217;t change unexpectedly, and more importantly it monitors login attempts (and other page requests on your site) for potentially harmful login attempts.</p>
 
 <!--more-->
 
@@ -165,14 +165,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2013/04/16/looking-at-life-from-the-other-side-of-the-glass" title="Older Post: Looking at Life from the Other Side of the Glass">
-                    &LeftArrow; Looking at Life from the Other Side of the Glass
+                            <a href="https://www.nickmoline.com/2014/09/21/time-keeping-cycle.html.html" title="Older Post: The Time Keeping Cycle">
+                    &LeftArrow; The Time Keeping Cycle
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2013/07/26/one-year-post-op" title="Newer Post: One Year Post-Op">
-                    One Year Post-Op &RightArrow;
+                            <a href="https://www.nickmoline.com/2009/05/27/i-was-wrong-turns-out-chrome-extensions-arent-ready-yet.html.html" title="Newer Post: I was wrong, Turns out Chrome Extensions aren&#039;t ready yet">
+                    I was wrong, Turns out Chrome Extensions aren&#039;t ready yet &RightArrow;
                 </a>
                     </div>
     </nav>

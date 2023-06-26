@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Busy Day | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/08/17/busy-day"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/08/17/busy-day.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Busy Day | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/08/17/busy-day">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/08/17/busy-day.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -137,14 +137,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/08/17/archive-tweaks" title="Older Post: Archive Tweaks">
-                    &LeftArrow; Archive Tweaks
+                            <a href="https://www.nickmoline.com/2004/08/27/blogshares.html.html" title="Older Post: How do you measure its worth">
+                    &LeftArrow; How do you measure its worth
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/08/27/blogshares" title="Newer Post: How do you measure its worth">
-                    How do you measure its worth &RightArrow;
+                            <a href="https://www.nickmoline.com/2020/10/04/the-next-adventure.html.html" title="Newer Post: Rolling up a New Character">
+                    Rolling up a New Character &RightArrow;
                 </a>
                     </div>
     </nav>

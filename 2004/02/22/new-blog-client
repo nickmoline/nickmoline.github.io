@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="New Blog Client | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/02/22/new-blog-client"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/02/22/new-blog-client.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>New Blog Client | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/02/22/new-blog-client">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/02/22/new-blog-client.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -122,14 +122,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/02/22/a-gaggle-of-gifts" title="Older Post: A Gaggle of Gifts">
-                    &LeftArrow; A Gaggle of Gifts
+                            <a href="https://www.nickmoline.com/2004/02/22/plugins.html.html" title="Older Post: MT Plugins">
+                    &LeftArrow; MT Plugins
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/02/22/plugins" title="Newer Post: MT Plugins">
-                    MT Plugins &RightArrow;
+                            <a href="https://www.nickmoline.com/2009/11/16/mofusemobi-down-with-mysql-errors.html.html" title="Newer Post: Mofuse.mobi down with MySQL Errors">
+                    Mofuse.mobi down with MySQL Errors &RightArrow;
                 </a>
                     </div>
     </nav>

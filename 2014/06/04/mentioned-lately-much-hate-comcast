@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Have I mentioned lately how much I hate Comcast? | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2014/06/04/mentioned-lately-much-hate-comcast"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2014/06/04/mentioned-lately-much-hate-comcast.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Have I mentioned lately how much I hate Comcast? | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2014/06/04/mentioned-lately-much-hate-comcast">
+        <link rel="canonical" href="https://www.nickmoline.com/2014/06/04/mentioned-lately-much-hate-comcast.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -335,14 +335,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2014/05/20/looking-forward-third-annual-24-hour-disney-day" title="Older Post: Looking forward to the Third annual 24 hour Disney Day">
-                    &LeftArrow; Looking forward to the Third annual 24 hour Disney Day
+                            <a href="https://www.nickmoline.com/2008/11/19/mashup-camp-7-wrapup.html.html" title="Older Post: Mashup Camp 7 Wrapup">
+                    &LeftArrow; Mashup Camp 7 Wrapup
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2014/06/22/wearing-computer-mit-2-decade-dream-realized" title="Newer Post: Wearing a Computer at MIT, a Two Decade Dream Realized">
-                    Wearing a Computer at MIT, a Two Decade Dream Realized &RightArrow;
+                            <a href="https://www.nickmoline.com/2017/09/08/hurry-migrate-to-https.html" title="Newer Post: Hurry! Time Is Running Out to Migrate Your Site to HTTPS!">
+                    Hurry! Time Is Running Out to Migrate Your Site to HTTPS! &RightArrow;
                 </a>
                     </div>
     </nav>

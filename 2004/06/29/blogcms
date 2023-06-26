@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="BLOG:CMS v3.0 XE | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/06/29/blogcms"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/06/29/blogcms.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>BLOG:CMS v3.0 XE | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/06/29/blogcms">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/06/29/blogcms.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -180,14 +180,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/06/19/vbs" title="Older Post: Whew... Glad that&#039;s over">
-                    &LeftArrow; Whew... Glad that&#039;s over
+                            <a href="https://www.nickmoline.com/2009/03/29/shut-down-for-an-hour.html.html" title="Older Post: Shut down for an hour">
+                    &LeftArrow; Shut down for an hour
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/07/09/camping-on-the-rocks" title="Newer Post: Camping on the Rocks">
-                    Camping on the Rocks &RightArrow;
+                            <a href="https://www.nickmoline.com/2004/06/09/may-with-imzadi.html.html" title="Newer Post: The Vacation">
+                    The Vacation &RightArrow;
                 </a>
                     </div>
     </nav>

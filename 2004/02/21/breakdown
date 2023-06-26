@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Breakdown | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/02/21/breakdown"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/02/21/breakdown.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Breakdown | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/02/21/breakdown">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/02/21/breakdown.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -164,14 +164,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/02/06/stress" title="Older Post: Stress">
-                    &LeftArrow; Stress
+                            <a href="https://www.nickmoline.com/2003/09/11/tired-and-writing.html.html" title="Older Post: Tired and writing">
+                    &LeftArrow; Tired and writing
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/02/22/a-gaggle-of-gifts" title="Newer Post: A Gaggle of Gifts">
-                    A Gaggle of Gifts &RightArrow;
+                            <a href="https://www.nickmoline.com/2007/02/01/deathly-hallows-deathly-near.html.html" title="Newer Post: Deathly Hallows Deathly Near">
+                    Deathly Hallows Deathly Near &RightArrow;
                 </a>
                     </div>
     </nav>

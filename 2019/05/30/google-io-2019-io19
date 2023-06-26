@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="My Google I/O 2019 Experience | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2019/05/30/google-io-2019-io19"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2019/05/30/google-io-2019-io19.html.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>My Google I/O 2019 Experience | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2019/05/30/google-io-2019-io19">
+        <link rel="canonical" href="https://www.nickmoline.com/2019/05/30/google-io-2019-io19.html.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -121,7 +121,7 @@
         >Writing</a>
     
     <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
-        <p>Barbara and I attended the Google I/O 2019 developer conference earlier this month. We&#8217;ve attended the conference every year since the first in 2008. I also attended its predecessor, the original <a href="https://www.nickmoline.com/2007/06/03/google-developer-day-2007">Google Developer Day</a> the year before. This marks my 13th annual general Google Developer conference, and my 12th Google I/O specifically.</p>
+        <p>Barbara and I attended the Google I/O 2019 developer conference earlier this month. We&#8217;ve attended the conference every year since the first in 2008. I also attended its predecessor, the original <a href="https://www.nickmoline.com/2007/06/03/google-developer-day-2007.html.html">Google Developer Day</a> the year before. This marks my 13th annual general Google Developer conference, and my 12th Google I/O specifically.</p>
 
 <!--more-->
 
@@ -330,14 +330,14 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2018/02/09/amp-update" title="Older Post: AMP Update: Get Even More AMPed in 2018">
-                    &LeftArrow; AMP Update: Get Even More AMPed in 2018
+                            <a href="https://www.nickmoline.com/2008/06/19/facebook-whoops-there-goes-another-major-site.html.html" title="Older Post: Facebook - whoops there goes another major site!">
+                    &LeftArrow; Facebook - whoops there goes another major site!
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2020/07/10/personality-test" title="Newer Post: Personality Test 2020">
-                    Personality Test 2020 &RightArrow;
+                            <a href="https://www.nickmoline.com/2004/03/13/disapproval.html.html" title="Newer Post: Disapproval all around">
+                    Disapproval all around &RightArrow;
                 </a>
                     </div>
     </nav>
