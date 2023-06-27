@@ -105,12 +105,12 @@
         <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
             
             <a
-            href="/blog/categories/web/"
+            href="/blog/categories/web.html"
             title="View posts in Web"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Web</a>
             <a
-            href="/blog/categories/writing/"
+            href="/blog/categories/writing.html"
             title="View posts in Writing"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Writing</a>
@@ -193,17 +193,17 @@
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/blogging/"
+                href="/blog/tags/blogging.html"
                 title="View posts tagged with Blogging"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Blogging</a>
                     <a
-                href="/blog/tags/jekyll/"
+                href="/blog/tags/jekyll.html"
                 title="View posts tagged with Jekyll"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Jekyll</a>
                     <a
-                href="/blog/tags/coding/"
+                href="/blog/tags/coding.html"
                 title="View posts tagged with Coding"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Coding</a>

@@ -103,7 +103,7 @@
         <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
             
             <a
-            href="/blog/categories/work/"
+            href="/blog/categories/work.html"
             title="View posts in Work"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Work</a>
@@ -145,17 +145,17 @@
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/swdcma/"
+                href="/blog/tags/swdcma.html"
                 title="View posts tagged with SWDCMA"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >SWDCMA</a>
                     <a
-                href="/blog/tags/actd/"
+                href="/blog/tags/actd.html"
                 title="View posts tagged with ACTD"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >ACTD</a>
                     <a
-                href="/blog/tags/star-trek/"
+                href="/blog/tags/star-trek.html"
                 title="View posts tagged with Star Trek"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Star Trek</a>

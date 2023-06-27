@@ -105,7 +105,7 @@
         <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
             
             <a
-            href="/blog/categories/history/"
+            href="/blog/categories/history.html"
             title="View posts in History"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >History</a>
@@ -129,12 +129,12 @@
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/memes/"
+                href="/blog/tags/memes.html"
                 title="View posts tagged with Memes"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Memes</a>
                     <a
-                href="/blog/tags/internet/"
+                href="/blog/tags/internet.html"
                 title="View posts tagged with Internet"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Internet</a>

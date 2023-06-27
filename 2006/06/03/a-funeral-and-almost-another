@@ -103,12 +103,12 @@
         <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
             
             <a
-            href="/blog/categories/health/"
+            href="/blog/categories/health.html"
             title="View posts in Health"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Health</a>
             <a
-            href="/blog/categories/work/"
+            href="/blog/categories/work.html"
             title="View posts in Work"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Work</a>
@@ -126,17 +126,17 @@
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/want-a-better-website/"
+                href="/blog/tags/want-a-better-website.html"
                 title="View posts tagged with Want a Better Website"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Want a Better Website</a>
                     <a
-                href="/blog/tags/kidney-stones/"
+                href="/blog/tags/kidney-stones.html"
                 title="View posts tagged with Kidney Stones"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Kidney Stones</a>
                     <a
-                href="/blog/tags/death/"
+                href="/blog/tags/death.html"
                 title="View posts tagged with Death"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Death</a>

@@ -103,12 +103,12 @@
         <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
             
             <a
-            href="/blog/categories/tech/"
+            href="/blog/categories/tech.html"
             title="View posts in Tech"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Tech</a>
             <a
-            href="/blog/categories/news/"
+            href="/blog/categories/news.html"
             title="View posts in News"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >News</a>
@@ -151,17 +151,17 @@
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/google/"
+                href="/blog/tags/google.html"
                 title="View posts tagged with Google"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Google</a>
                     <a
-                href="/blog/tags/google-groups/"
+                href="/blog/tags/google-groups.html"
                 title="View posts tagged with Google Groups"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Google Groups</a>
                     <a
-                href="/blog/tags/gsuite/"
+                href="/blog/tags/gsuite.html"
                 title="View posts tagged with GSuite"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >GSuite</a>

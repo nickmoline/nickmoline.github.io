@@ -105,12 +105,12 @@
         <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
             
             <a
-            href="/blog/categories/events/"
+            href="/blog/categories/events.html"
             title="View posts in Events"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Events</a>
             <a
-            href="/blog/categories/tech/"
+            href="/blog/categories/tech.html"
             title="View posts in Tech"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Tech</a>
@@ -180,32 +180,32 @@ L M K<sub>1</sub> K<sub>2</sub> <em>...</em> K<sub><em>M</em></sub></p>
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/google/"
+                href="/blog/tags/google.html"
                 title="View posts tagged with Google"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Google</a>
                     <a
-                href="/blog/tags/google-code-jam/"
+                href="/blog/tags/google-code-jam.html"
                 title="View posts tagged with Google Code Jam"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Google Code Jam</a>
                     <a
-                href="/blog/tags/blunders/"
+                href="/blog/tags/blunders.html"
                 title="View posts tagged with Blunders"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Blunders</a>
                     <a
-                href="/blog/tags/coding/"
+                href="/blog/tags/coding.html"
                 title="View posts tagged with Coding"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Coding</a>
                     <a
-                href="/blog/tags/guides/"
+                href="/blog/tags/guides.html"
                 title="View posts tagged with Guides"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Guides</a>
                     <a
-                href="/blog/tags/math/"
+                href="/blog/tags/math.html"
                 title="View posts tagged with Math"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Math</a>

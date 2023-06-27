@@ -103,17 +103,17 @@
         <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
             
             <a
-            href="/blog/categories/events/"
+            href="/blog/categories/events.html"
             title="View posts in Events"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Events</a>
             <a
-            href="/blog/categories/travel/"
+            href="/blog/categories/travel.html"
             title="View posts in Travel"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Travel</a>
             <a
-            href="/blog/categories/work/"
+            href="/blog/categories/work.html"
             title="View posts in Work"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Work</a>
@@ -149,27 +149,27 @@
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/stress/"
+                href="/blog/tags/stress.html"
                 title="View posts tagged with Stress"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Stress</a>
                     <a
-                href="/blog/tags/injustice/"
+                href="/blog/tags/injustice.html"
                 title="View posts tagged with Injustice"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Injustice</a>
                     <a
-                href="/blog/tags/travel/"
+                href="/blog/tags/travel.html"
                 title="View posts tagged with Travel"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Travel</a>
                     <a
-                href="/blog/tags/ercc/"
+                href="/blog/tags/ercc.html"
                 title="View posts tagged with ERCC"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >ERCC</a>
                     <a
-                href="/blog/tags/taxes/"
+                href="/blog/tags/taxes.html"
                 title="View posts tagged with Taxes"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Taxes</a>

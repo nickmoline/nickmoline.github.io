@@ -103,7 +103,7 @@
         <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
             
             <a
-            href="/blog/categories/life/"
+            href="/blog/categories/life.html"
             title="View posts in Life"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Life</a>
@@ -171,17 +171,17 @@
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/personality-test/"
+                href="/blog/tags/personality-test.html"
                 title="View posts tagged with Personality Test"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Personality Test</a>
                     <a
-                href="/blog/tags/justia/"
+                href="/blog/tags/justia.html"
                 title="View posts tagged with Justia"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Justia</a>
                     <a
-                href="/blog/tags/team-building/"
+                href="/blog/tags/team-building.html"
                 title="View posts tagged with Team Building"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Team Building</a>

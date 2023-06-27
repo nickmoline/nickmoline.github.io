@@ -106,7 +106,7 @@
         <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
             
             <a
-            href="/blog/categories/life/"
+            href="/blog/categories/life.html"
             title="View posts in Life"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Life</a>
@@ -180,17 +180,17 @@
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/moving/"
+                href="/blog/tags/moving.html"
                 title="View posts tagged with Moving"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Moving</a>
                     <a
-                href="/blog/tags/weather/"
+                href="/blog/tags/weather.html"
                 title="View posts tagged with Weather"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Weather</a>
                     <a
-                href="/blog/tags/fire/"
+                href="/blog/tags/fire.html"
                 title="View posts tagged with Fire"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Fire</a>

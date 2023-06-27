@@ -105,12 +105,12 @@
         <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
             
             <a
-            href="/blog/categories/tech/"
+            href="/blog/categories/tech.html"
             title="View posts in Tech"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Tech</a>
             <a
-            href="/blog/categories/travel/"
+            href="/blog/categories/travel.html"
             title="View posts in Travel"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Travel</a>
@@ -157,32 +157,32 @@
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/google-glass/"
+                href="/blog/tags/google-glass.html"
                 title="View posts tagged with Google Glass"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Google Glass</a>
                     <a
-                href="/blog/tags/wearables/"
+                href="/blog/tags/wearables.html"
                 title="View posts tagged with Wearables"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Wearables</a>
                     <a
-                href="/blog/tags/mit/"
+                href="/blog/tags/mit.html"
                 title="View posts tagged with MIT"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >MIT</a>
                     <a
-                href="/blog/tags/justia/"
+                href="/blog/tags/justia.html"
                 title="View posts tagged with Justia"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Justia</a>
                     <a
-                href="/blog/tags/conference/"
+                href="/blog/tags/conference.html"
                 title="View posts tagged with Conference"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Conference</a>
                     <a
-                href="/blog/tags/calicon/"
+                href="/blog/tags/calicon.html"
                 title="View posts tagged with CALICon"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >CALICon</a>

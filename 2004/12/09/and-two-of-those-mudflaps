@@ -239,12 +239,12 @@
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/injustice/"
+                href="/blog/tags/injustice.html"
                 title="View posts tagged with Injustice"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Injustice</a>
                     <a
-                href="/blog/tags/law/"
+                href="/blog/tags/law.html"
                 title="View posts tagged with Law"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Law</a>

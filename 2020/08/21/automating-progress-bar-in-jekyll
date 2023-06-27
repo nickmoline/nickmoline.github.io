@@ -105,7 +105,7 @@
         <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
             
             <a
-            href="/blog/categories/tech/"
+            href="/blog/categories/tech.html"
             title="View posts in Tech"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Tech</a>
@@ -220,27 +220,27 @@ out of &lt;strong&gt;{{ total_post_count | floor }}&lt;/strong&gt; posts migrate
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/coding/"
+                href="/blog/tags/coding.html"
                 title="View posts tagged with Coding"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Coding</a>
                     <a
-                href="/blog/tags/jekyll/"
+                href="/blog/tags/jekyll.html"
                 title="View posts tagged with Jekyll"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Jekyll</a>
                     <a
-                href="/blog/tags/liquid/"
+                href="/blog/tags/liquid.html"
                 title="View posts tagged with Liquid"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Liquid</a>
                     <a
-                href="/blog/tags/html5/"
+                href="/blog/tags/html5.html"
                 title="View posts tagged with HTML5"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >HTML5</a>
                     <a
-                href="/blog/tags/guides/"
+                href="/blog/tags/guides.html"
                 title="View posts tagged with Guides"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Guides</a>

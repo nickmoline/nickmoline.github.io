@@ -126,17 +126,17 @@
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/games/"
+                href="/blog/tags/games.html"
                 title="View posts tagged with Games"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Games</a>
                     <a
-                href="/blog/tags/movies/"
+                href="/blog/tags/movies.html"
                 title="View posts tagged with Movies"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Movies</a>
                     <a
-                href="/blog/tags/music/"
+                href="/blog/tags/music.html"
                 title="View posts tagged with Music"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Music</a>

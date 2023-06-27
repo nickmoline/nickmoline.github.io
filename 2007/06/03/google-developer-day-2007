@@ -105,7 +105,7 @@
         <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
             
             <a
-            href="/blog/categories/events/"
+            href="/blog/categories/events.html"
             title="View posts in Events"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Events</a>
@@ -226,27 +226,27 @@
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/google/"
+                href="/blog/tags/google.html"
                 title="View posts tagged with Google"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Google</a>
                     <a
-                href="/blog/tags/google-io/"
+                href="/blog/tags/google-io.html"
                 title="View posts tagged with Google I/O"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Google I/O</a>
                     <a
-                href="/blog/tags/google-developer-day/"
+                href="/blog/tags/google-developer-day.html"
                 title="View posts tagged with Google Developer Day"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Google Developer Day</a>
                     <a
-                href="/blog/tags/conference/"
+                href="/blog/tags/conference.html"
                 title="View posts tagged with Conference"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Conference</a>
                     <a
-                href="/blog/tags/justia/"
+                href="/blog/tags/justia.html"
                 title="View posts tagged with Justia"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Justia</a>

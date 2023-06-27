@@ -105,7 +105,7 @@
         <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
             
             <a
-            href="/blog/categories/general/"
+            href="/blog/categories/general.html"
             title="View posts in General"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >General</a>
@@ -131,17 +131,17 @@
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/blogging/"
+                href="/blog/tags/blogging.html"
                 title="View posts tagged with Blogging"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Blogging</a>
                     <a
-                href="/blog/tags/mentions/"
+                href="/blog/tags/mentions.html"
                 title="View posts tagged with Mentions"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Mentions</a>
                     <a
-                href="/blog/tags/amusing/"
+                href="/blog/tags/amusing.html"
                 title="View posts tagged with Amusing"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Amusing</a>

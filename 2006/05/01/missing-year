@@ -103,17 +103,17 @@
         <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
             
             <a
-            href="/blog/categories/travel/"
+            href="/blog/categories/travel.html"
             title="View posts in Travel"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Travel</a>
             <a
-            href="/blog/categories/theatre/"
+            href="/blog/categories/theatre.html"
             title="View posts in Theatre"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Theatre</a>
             <a
-            href="/blog/categories/work/"
+            href="/blog/categories/work.html"
             title="View posts in Work"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Work</a>
@@ -191,27 +191,27 @@
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/acting/"
+                href="/blog/tags/acting.html"
                 title="View posts tagged with Acting"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Acting</a>
                     <a
-                href="/blog/tags/actd/"
+                href="/blog/tags/actd.html"
                 title="View posts tagged with ACTD"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >ACTD</a>
                     <a
-                href="/blog/tags/want-a-better-website/"
+                href="/blog/tags/want-a-better-website.html"
                 title="View posts tagged with Want a Better Website"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Want a Better Website</a>
                     <a
-                href="/blog/tags/harry-potter/"
+                href="/blog/tags/harry-potter.html"
                 title="View posts tagged with Harry Potter"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Harry Potter</a>
                     <a
-                href="/blog/tags/narnia/"
+                href="/blog/tags/narnia.html"
                 title="View posts tagged with Narnia"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Narnia</a>

@@ -105,12 +105,12 @@
         <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
             
             <a
-            href="/blog/categories/tech/"
+            href="/blog/categories/tech.html"
             title="View posts in Tech"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Tech</a>
             <a
-            href="/blog/categories/writing/"
+            href="/blog/categories/writing.html"
             title="View posts in Writing"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Writing</a>
@@ -122,22 +122,22 @@
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/gadgets/"
+                href="/blog/tags/gadgets.html"
                 title="View posts tagged with Gadgets"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Gadgets</a>
                     <a
-                href="/blog/tags/llrx/"
+                href="/blog/tags/llrx.html"
                 title="View posts tagged with LLRX"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >LLRX</a>
                     <a
-                href="/blog/tags/google/"
+                href="/blog/tags/google.html"
                 title="View posts tagged with Google"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Google</a>
                     <a
-                href="/blog/tags/android/"
+                href="/blog/tags/android.html"
                 title="View posts tagged with Android"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Android</a>

@@ -105,7 +105,7 @@
         <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
             
             <a
-            href="/blog/categories/events/"
+            href="/blog/categories/events.html"
             title="View posts in Events"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Events</a>
@@ -139,7 +139,7 @@
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/holiday/"
+                href="/blog/tags/holiday.html"
                 title="View posts tagged with Holiday"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Holiday</a>

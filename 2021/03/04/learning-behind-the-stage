@@ -106,12 +106,12 @@
         <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
             
             <a
-            href="/blog/categories/theatre/"
+            href="/blog/categories/theatre.html"
             title="View posts in Theatre"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Theatre</a>
             <a
-            href="/blog/categories/learning/"
+            href="/blog/categories/learning.html"
             title="View posts in Learning"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Learning</a>
@@ -264,17 +264,17 @@
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/sound-design/"
+                href="/blog/tags/sound-design.html"
                 title="View posts tagged with Sound Design"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Sound Design</a>
                     <a
-                href="/blog/tags/visual-effects/"
+                href="/blog/tags/visual-effects.html"
                 title="View posts tagged with Visual Effects"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Visual Effects</a>
                     <a
-                href="/blog/tags/photo-editing/"
+                href="/blog/tags/photo-editing.html"
                 title="View posts tagged with Photo Editing"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Photo Editing</a>

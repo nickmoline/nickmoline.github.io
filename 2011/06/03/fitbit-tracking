@@ -103,12 +103,12 @@
         <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
             
             <a
-            href="/blog/categories/tech/"
+            href="/blog/categories/tech.html"
             title="View posts in Tech"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Tech</a>
             <a
-            href="/blog/categories/health/"
+            href="/blog/categories/health.html"
             title="View posts in Health"
             class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
         >Health</a>
@@ -135,7 +135,7 @@ I find myself constantly looking at it to see how many steps I&#8217;ve made dur
             <div class="mb-10 pb-4">
             Tagged: 
                     <a
-                href="/blog/tags/gadgets/"
+                href="/blog/tags/gadgets.html"
                 title="View posts tagged with Gadgets"
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-3 px-1 pt-px"
             >Gadgets</a>
