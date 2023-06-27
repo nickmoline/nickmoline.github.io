@@ -82,11 +82,11 @@ return [
 
     'getPermalink' => function ($page) {
         if ($page->permalink) {
-            return preg_replace("@/?$@", ".html", $page->permalink);
+            return preg_replace("@/?$@", "", $page->permalink);
         }
         $date = $page->publishDate();
         $slug = preg_replace("@^(\d{4}-\d{2}-\d{2}-)@", "", $page->getFilename());
-        return $date->format("/Y/m/d/") . $slug . '.html';
+        return $date->format("/Y/m/d/") . $slug;
     },
 
     'postLink' => function ($page, $filename, $text = null) {

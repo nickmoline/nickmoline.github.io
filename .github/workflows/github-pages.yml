@@ -62,10 +62,10 @@ jobs:
         run: npm install
       
       - name: NPM Build
-        run: npm run prod
+        run: npm run prod --pretty=false
 
       - name: Build Jigsaw Site
-        run: ./vendor/bin/jigsaw build production
+        run: ./vendor/bin/jigsaw build production --pretty=false
       
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
