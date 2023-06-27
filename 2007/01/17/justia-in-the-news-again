@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Justia in the News Again | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2007/01/17/justia-in-the-news-again.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2007/01/17/justia-in-the-news-again.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Justia in the News Again | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2007/01/17/justia-in-the-news-again.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2007/01/17/justia-in-the-news-again.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -114,7 +114,7 @@
         >Work</a>
     
     <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
-        <p>I <a href="https://www.nickmoline.com/2006/12/19/california-here-i-come.html.html" title="Life Changes">previously mentioned</a> a project I&#8217;ve had the opportunity to work on at my new job known as <a href="http://www.blawgsearch.com/" title="Justia's BlawgSearch.com">BlawgSearch</a>, a search engine for legal blogs. Today BusinessWire contains a <a href="https://www.businesswire.com/news/home/20070117005639/en/Justia-Releases-BlawgSearch.com-Legal-Blog-Legal-Podcast">press release</a> Officially announcing BlawgSearch to the world. BlawgSearch is by far one of the most advanced bits of coding I&#8217;ve ever had the privilege of working on and I&#8217;m very pleased to have been a part of it.</p>
+        <p>I <a href="https://www.nickmoline.com/2006/12/19/california-here-i-come.html" title="Life Changes">previously mentioned</a> a project I&#8217;ve had the opportunity to work on at my new job known as <a href="http://www.blawgsearch.com/" title="Justia's BlawgSearch.com">BlawgSearch</a>, a search engine for legal blogs. Today BusinessWire contains a <a href="https://www.businesswire.com/news/home/20070117005639/en/Justia-Releases-BlawgSearch.com-Legal-Blog-Legal-Podcast">press release</a> Officially announcing BlawgSearch to the world. BlawgSearch is by far one of the most advanced bits of coding I&#8217;ve ever had the privilege of working on and I&#8217;m very pleased to have been a part of it.</p>
     </div>
 
             <div class="mb-10 pb-4">
@@ -128,13 +128,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2007/01/16/family-in-the-bay.html.html" title="Older Post: Family in the Bay">
+                            <a href="https://www.nickmoline.com/2007/01/16/family-in-the-bay.html" title="Older Post: Family in the Bay">
                     &LeftArrow; Family in the Bay
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2007/01/27/upgrades.html.html" title="Newer Post: Upgrades">
+                            <a href="https://www.nickmoline.com/2007/01/27/upgrades.html" title="Newer Post: Upgrades">
                     Upgrades &RightArrow;
                 </a>
                     </div>

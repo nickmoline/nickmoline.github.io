@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Family in the Bay | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2007/01/16/family-in-the-bay.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2007/01/16/family-in-the-bay.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Family in the Bay | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2007/01/16/family-in-the-bay.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2007/01/16/family-in-the-bay.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -120,13 +120,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2007/01/08/nick-moline-is-on-the-airagain.html.html" title="Older Post: Nick Moline is on the air...again">
+                            <a href="https://www.nickmoline.com/2007/01/08/nick-moline-is-on-the-airagain.html" title="Older Post: Nick Moline is on the air...again">
                     &LeftArrow; Nick Moline is on the air...again
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2007/01/17/justia-in-the-news-again.html.html" title="Newer Post: Justia in the News Again">
+                            <a href="https://www.nickmoline.com/2007/01/17/justia-in-the-news-again.html" title="Newer Post: Justia in the News Again">
                     Justia in the News Again &RightArrow;
                 </a>
                     </div>

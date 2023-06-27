@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Back online and battling the flu | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2003/11/22/online-with-flu.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2003/11/22/online-with-flu.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Back online and battling the flu | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2003/11/22/online-with-flu.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2003/11/22/online-with-flu.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -135,13 +135,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2003/09/23/following-fedex.html.html" title="Older Post: Following Fedex...">
+                            <a href="https://www.nickmoline.com/2003/09/23/following-fedex.html" title="Older Post: Following Fedex...">
                     &LeftArrow; Following Fedex...
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2003/11/25/billboards-vegetables-and-charlies-angels.html.html" title="Newer Post: Billboards, Vegetables, and The Final Fantasy Equivalent of Charlie&#039;s Angels">
+                            <a href="https://www.nickmoline.com/2003/11/25/billboards-vegetables-and-charlies-angels.html" title="Newer Post: Billboards, Vegetables, and The Final Fantasy Equivalent of Charlie&#039;s Angels">
                     Billboards, Vegetables, and The Final Fantasy Equivalent of Charlie&#039;s Angels &RightArrow;
                 </a>
                     </div>

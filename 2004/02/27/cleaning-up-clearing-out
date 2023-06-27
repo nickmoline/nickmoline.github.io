@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Cleaning Up and Clearing Out | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/02/27/cleaning-up-clearing-out.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/02/27/cleaning-up-clearing-out.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Cleaning Up and Clearing Out | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/02/27/cleaning-up-clearing-out.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/02/27/cleaning-up-clearing-out.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -149,13 +149,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/02/25/blog-surfing.html.html" title="Older Post: Blog Surfing">
+                            <a href="https://www.nickmoline.com/2004/02/25/blog-surfing.html" title="Older Post: Blog Surfing">
                     &LeftArrow; Blog Surfing
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/02/28/road-warrior.html.html" title="Newer Post: Road Warrior">
+                            <a href="https://www.nickmoline.com/2004/02/28/road-warrior.html" title="Newer Post: Road Warrior">
                     Road Warrior &RightArrow;
                 </a>
                     </div>

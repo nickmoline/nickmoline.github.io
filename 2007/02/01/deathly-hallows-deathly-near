@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Deathly Hallows Deathly Near | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2007/02/01/deathly-hallows-deathly-near.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2007/02/01/deathly-hallows-deathly-near.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Deathly Hallows Deathly Near | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2007/02/01/deathly-hallows-deathly-near.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2007/02/01/deathly-hallows-deathly-near.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -133,13 +133,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2007/01/27/upgrades.html.html" title="Older Post: Upgrades">
+                            <a href="https://www.nickmoline.com/2007/01/27/upgrades.html" title="Older Post: Upgrades">
                     &LeftArrow; Upgrades
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2007/02/06/influenza-the-musical.html.html" title="Newer Post: Influenza, the Musical">
+                            <a href="https://www.nickmoline.com/2007/02/06/influenza-the-musical.html" title="Newer Post: Influenza, the Musical">
                     Influenza, the Musical &RightArrow;
                 </a>
                     </div>

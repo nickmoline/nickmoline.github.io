@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="2006: A Nick Oddity | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2007/01/03/2006-a-nick-oddity.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2007/01/03/2006-a-nick-oddity.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>2006: A Nick Oddity | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2007/01/03/2006-a-nick-oddity.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2007/01/03/2006-a-nick-oddity.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -162,13 +162,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2006/12/19/california-here-i-come.html.html" title="Older Post: Life Changes">
+                            <a href="https://www.nickmoline.com/2006/12/19/california-here-i-come.html" title="Older Post: Life Changes">
                     &LeftArrow; Life Changes
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2007/01/04/justia-superstar.html.html" title="Newer Post: Justia Superstar">
+                            <a href="https://www.nickmoline.com/2007/01/04/justia-superstar.html" title="Newer Post: Justia Superstar">
                     Justia Superstar &RightArrow;
                 </a>
                     </div>

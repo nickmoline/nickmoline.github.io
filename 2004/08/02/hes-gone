@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="He&#039;s gone! | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/08/02/hes-gone.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/08/02/hes-gone.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>He&#039;s gone! | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/08/02/hes-gone.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/08/02/hes-gone.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -120,13 +120,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/07/30/tired.html.html" title="Older Post: Tired">
+                            <a href="https://www.nickmoline.com/2004/07/30/tired.html" title="Older Post: Tired">
                     &LeftArrow; Tired
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/08/10/birthday.html.html" title="Newer Post: My Birthday">
+                            <a href="https://www.nickmoline.com/2004/08/10/birthday.html" title="Newer Post: My Birthday">
                     My Birthday &RightArrow;
                 </a>
                     </div>

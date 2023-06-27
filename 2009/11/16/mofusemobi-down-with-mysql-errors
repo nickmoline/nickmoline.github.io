@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Mofuse.mobi down with MySQL Errors | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2009/11/16/mofusemobi-down-with-mysql-errors.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2009/11/16/mofusemobi-down-with-mysql-errors.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Mofuse.mobi down with MySQL Errors | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2009/11/16/mofusemobi-down-with-mysql-errors.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2009/11/16/mofusemobi-down-with-mysql-errors.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -132,13 +132,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2009/08/31/nickpro-migrated-to-drupal.html.html" title="Older Post: Nick.pro Migrated to Drupal">
+                            <a href="https://www.nickmoline.com/2009/08/31/nickpro-migrated-to-drupal.html" title="Older Post: Nick.pro Migrated to Drupal">
                     &LeftArrow; Nick.pro Migrated to Drupal
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2009/12/08/google-list-message-headers-changing-could-real-google-groups-for-domains-be-on-way.html.html" title="Newer Post: Google List Message Headers Changing - Could real Google Groups for Domains be on the way?">
+                            <a href="https://www.nickmoline.com/2009/12/08/google-list-message-headers-changing-could-real-google-groups-for-domains-be-on-way.html" title="Newer Post: Google List Message Headers Changing - Could real Google Groups for Domains be on the way?">
                     Google List Message Headers Changing - Could real Google Groups for Domains be on the way? &RightArrow;
                 </a>
                     </div>

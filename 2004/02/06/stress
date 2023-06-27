@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Stress | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/02/06/stress.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/02/06/stress.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Stress | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/02/06/stress.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/02/06/stress.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -161,13 +161,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2003/12/01/gaming-and-listening-to-music.html.html" title="Older Post: Gaming and listening to music">
+                            <a href="https://www.nickmoline.com/2003/12/01/gaming-and-listening-to-music.html" title="Older Post: Gaming and listening to music">
                     &LeftArrow; Gaming and listening to music
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/02/21/breakdown.html.html" title="Newer Post: Breakdown">
+                            <a href="https://www.nickmoline.com/2004/02/21/breakdown.html" title="Newer Post: Breakdown">
                     Breakdown &RightArrow;
                 </a>
                     </div>

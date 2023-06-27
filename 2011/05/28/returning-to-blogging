@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Returning to Blogging | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2011/05/28/returning-to-blogging.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2011/05/28/returning-to-blogging.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Returning to Blogging | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2011/05/28/returning-to-blogging.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2011/05/28/returning-to-blogging.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -155,7 +155,7 @@
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2011/05/31/migrated-back-to-wordpress.html.html" title="Newer Post: Migrated Back to WordPress">
+                            <a href="https://www.nickmoline.com/2011/05/31/migrated-back-to-wordpress.html" title="Newer Post: Migrated Back to WordPress">
                     Migrated Back to WordPress &RightArrow;
                 </a>
                     </div>

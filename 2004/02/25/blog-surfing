@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Blog Surfing | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/02/25/blog-surfing.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/02/25/blog-surfing.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Blog Surfing | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/02/25/blog-surfing.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/02/25/blog-surfing.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -120,13 +120,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/02/23/grand-theft-of-cow.html.html" title="Older Post: Grand Theft of Cow">
+                            <a href="https://www.nickmoline.com/2004/02/23/grand-theft-of-cow.html" title="Older Post: Grand Theft of Cow">
                     &LeftArrow; Grand Theft of Cow
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/02/27/cleaning-up-clearing-out.html.html" title="Newer Post: Cleaning Up and Clearing Out">
+                            <a href="https://www.nickmoline.com/2004/02/27/cleaning-up-clearing-out.html" title="Newer Post: Cleaning Up and Clearing Out">
                     Cleaning Up and Clearing Out &RightArrow;
                 </a>
                     </div>

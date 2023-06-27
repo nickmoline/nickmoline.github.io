@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Busily Updating | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/07/22/busy-updating.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/07/22/busy-updating.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Busily Updating | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/07/22/busy-updating.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/07/22/busy-updating.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -132,13 +132,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/07/21/personality-disorder-redux.html.html" title="Older Post: My Situation compared to a year ago">
+                            <a href="https://www.nickmoline.com/2004/07/21/personality-disorder-redux.html" title="Older Post: My Situation compared to a year ago">
                     &LeftArrow; My Situation compared to a year ago
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/07/24/vpn.html.html" title="Newer Post: VPNs and old bosses">
+                            <a href="https://www.nickmoline.com/2004/07/24/vpn.html" title="Newer Post: VPNs and old bosses">
                     VPNs and old bosses &RightArrow;
                 </a>
                     </div>

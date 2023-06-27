@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Seven Blog Posts in Three Days | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2017/05/22/seven-blog-posts-three-days.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2017/05/22/seven-blog-posts-three-days.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Seven Blog Posts in Three Days | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2017/05/22/seven-blog-posts-three-days.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2017/05/22/seven-blog-posts-three-days.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -116,7 +116,7 @@
         >Events</a>
     
     <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
-        <p>Last week Barbara and I attended the annual Google I/O Developer&#8217;s conference in Mountain View. &nbsp;We&#8217;ve attended every year since the <a href="https://www.nickmoline.com/2008/06/01/google-io-part-1-google-app-engine.html.html">first one</a> back in 2008 and were glad to continue the streak.</p>
+        <p>Last week Barbara and I attended the annual Google I/O Developer&#8217;s conference in Mountain View. &nbsp;We&#8217;ve attended every year since the <a href="https://www.nickmoline.com/2008/06/01/google-io-part-1-google-app-engine.html">first one</a> back in 2008 and were glad to continue the streak.</p>
 
 <!--more-->
 
@@ -186,7 +186,7 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2017/05/03/hide-content-search-engines.html.html" title="Older Post: How To: Hide content from search engines, and why you would do it">
+                            <a href="https://www.nickmoline.com/2017/05/03/hide-content-search-engines.html" title="Older Post: How To: Hide content from search engines, and why you would do it">
                     &LeftArrow; How To: Hide content from search engines, and why you would do it
                 </a>
                     </div>

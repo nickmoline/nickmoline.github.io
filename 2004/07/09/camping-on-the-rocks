@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Camping on the Rocks | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/07/09/camping-on-the-rocks.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/07/09/camping-on-the-rocks.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Camping on the Rocks | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/07/09/camping-on-the-rocks.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/07/09/camping-on-the-rocks.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -182,13 +182,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/06/29/blogcms.html.html" title="Older Post: BLOG:CMS v3.0 XE">
+                            <a href="https://www.nickmoline.com/2004/06/29/blogcms.html" title="Older Post: BLOG:CMS v3.0 XE">
                     &LeftArrow; BLOG:CMS v3.0 XE
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/07/11/blog-birthday.html.html" title="Newer Post: Bloggie BDay">
+                            <a href="https://www.nickmoline.com/2004/07/11/blog-birthday.html" title="Newer Post: Bloggie BDay">
                     Bloggie BDay &RightArrow;
                 </a>
                     </div>

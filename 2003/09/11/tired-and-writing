@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Tired and writing | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2003/09/11/tired-and-writing.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2003/09/11/tired-and-writing.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Tired and writing | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2003/09/11/tired-and-writing.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2003/09/11/tired-and-writing.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -138,13 +138,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2003/09/05/internet-fads.html.html" title="Older Post: Remembering Internet Fads">
+                            <a href="https://www.nickmoline.com/2003/09/05/internet-fads.html" title="Older Post: Remembering Internet Fads">
                     &LeftArrow; Remembering Internet Fads
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2003/09/21/conference-visits-cuba.html.html" title="Newer Post: Conference, Visits, and Cuba">
+                            <a href="https://www.nickmoline.com/2003/09/21/conference-visits-cuba.html" title="Newer Post: Conference, Visits, and Cuba">
                     Conference, Visits, and Cuba &RightArrow;
                 </a>
                     </div>

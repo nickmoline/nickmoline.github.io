@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Grand Theft of Cow | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/02/23/grand-theft-of-cow.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/02/23/grand-theft-of-cow.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Grand Theft of Cow | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/02/23/grand-theft-of-cow.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/02/23/grand-theft-of-cow.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -118,13 +118,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/02/22/plugins.html.html" title="Older Post: MT Plugins">
+                            <a href="https://www.nickmoline.com/2004/02/22/plugins.html" title="Older Post: MT Plugins">
                     &LeftArrow; MT Plugins
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/02/25/blog-surfing.html.html" title="Newer Post: Blog Surfing">
+                            <a href="https://www.nickmoline.com/2004/02/25/blog-surfing.html" title="Newer Post: Blog Surfing">
                     Blog Surfing &RightArrow;
                 </a>
                     </div>

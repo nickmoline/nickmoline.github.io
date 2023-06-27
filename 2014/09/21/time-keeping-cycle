@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="The Time Keeping Cycle | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2014/09/21/time-keeping-cycle.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2014/09/21/time-keeping-cycle.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>The Time Keeping Cycle | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2014/09/21/time-keeping-cycle.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2014/09/21/time-keeping-cycle.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -174,7 +174,7 @@
 
 <p>Because of this I&#8217;ve been following the wearables trend very closely for the last few years.  I was very tempted a few years ago to get the <a href="http://www.cnet.com/products/fossil-caller-id-wristwatch-w-bluetooth/" target="_blank" rel="noopener noreferrer">Fossil Caller ID Wristwatch</a> which was one of the early attempts at merging data from your phone to a watch, but the price was high and the feature set was minimal.  It just didn&#8217;t seem to be worth it.  So I waited.</p>
 
-<p>In 2012 2 different projects grabbed my attention.  The <a href="http://www.amazon.com/gp/product/B00BKEQBI0/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00BKEQBI0&linkCode=as2&tag=nickdotpro-20&linkId=ELSRGANHGGU27CR7" target="_blank" rel="noopener noreferrer" class="broken_link">Pebble</a> which had a <a href="https://www.kickstarter.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android" target="_blank" rel="noopener noreferrer">very successful kickstarter campaign</a> that showed there was very much interest in a fully functional smartwatch, and of course <a href="https://www.nickmoline.com/2013/04/16/looking-at-life-from-the-other-side-of-the-glass.html.html">Google Glass</a>.  Both of these projects sought to bring information closer to me, allowing me to interact with it faster and get back to my life.</p>
+<p>In 2012 2 different projects grabbed my attention.  The <a href="http://www.amazon.com/gp/product/B00BKEQBI0/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00BKEQBI0&linkCode=as2&tag=nickdotpro-20&linkId=ELSRGANHGGU27CR7" target="_blank" rel="noopener noreferrer" class="broken_link">Pebble</a> which had a <a href="https://www.kickstarter.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android" target="_blank" rel="noopener noreferrer">very successful kickstarter campaign</a> that showed there was very much interest in a fully functional smartwatch, and of course <a href="https://www.nickmoline.com/2013/04/16/looking-at-life-from-the-other-side-of-the-glass.html">Google Glass</a>.  Both of these projects sought to bring information closer to me, allowing me to interact with it faster and get back to my life.</p>
 
 <p>I have loved exploring with Google Glass, and I still wear it most of the time.  The problem with Google Glass is that due to my high prescription and Glass&#8217; notoriously bad battery life, I can&#8217;t feasibly wear glass all of the time.</p>
 
@@ -243,13 +243,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2014/06/22/wearing-computer-mit-2-decade-dream-realized.html.html" title="Older Post: Wearing a Computer at MIT, a Two Decade Dream Realized">
+                            <a href="https://www.nickmoline.com/2014/06/22/wearing-computer-mit-2-decade-dream-realized.html" title="Older Post: Wearing a Computer at MIT, a Two Decade Dream Realized">
                     &LeftArrow; Wearing a Computer at MIT, a Two Decade Dream Realized
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2016/10/04/curious-google-assistant-stacks-siri-alexa-cortana.html.html" title="Newer Post: Curious how the Google Assistant stacks up against Siri, Alexa and Cortana?  So was I">
+                            <a href="https://www.nickmoline.com/2016/10/04/curious-google-assistant-stacks-siri-alexa-cortana.html" title="Newer Post: Curious how the Google Assistant stacks up against Siri, Alexa and Cortana?  So was I">
                     Curious how the Google Assistant stacks up against Siri, Alexa and Cortana?  So was I &RightArrow;
                 </a>
                     </div>

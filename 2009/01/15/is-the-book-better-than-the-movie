@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Is the book better than the movie? | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2009/01/15/is-the-book-better-than-the-movie.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2009/01/15/is-the-book-better-than-the-movie.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Is the book better than the movie? | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2009/01/15/is-the-book-better-than-the-movie.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2009/01/15/is-the-book-better-than-the-movie.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -147,13 +147,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2008/12/11/upgrades-and-hard-work.html.html" title="Older Post: Upgrades and hard work">
+                            <a href="https://www.nickmoline.com/2008/12/11/upgrades-and-hard-work.html" title="Older Post: Upgrades and hard work">
                     &LeftArrow; Upgrades and hard work
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2009/02/04/google-chrome-extensions-coming-out-by-may.html.html" title="Newer Post: Google Chrome Extensions Coming Out by May!">
+                            <a href="https://www.nickmoline.com/2009/02/04/google-chrome-extensions-coming-out-by-may.html" title="Newer Post: Google Chrome Extensions Coming Out by May!">
                     Google Chrome Extensions Coming Out by May! &RightArrow;
                 </a>
                     </div>

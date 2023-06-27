@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Internet/Computer Classics Dieing off | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2009/04/24/internetcomputer-classics-dieing-off.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2009/04/24/internetcomputer-classics-dieing-off.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Internet/Computer Classics Dieing off | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2009/04/24/internetcomputer-classics-dieing-off.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2009/04/24/internetcomputer-classics-dieing-off.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -151,13 +151,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2009/03/30/google-tip-tracking-yourself-in-google-blogsearch.html.html" title="Older Post: Google Tip: Tracking Yourself in Google Blogsearch">
+                            <a href="https://www.nickmoline.com/2009/03/30/google-tip-tracking-yourself-in-google-blogsearch.html" title="Older Post: Google Tip: Tracking Yourself in Google Blogsearch">
                     &LeftArrow; Google Tip: Tracking Yourself in Google Blogsearch
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2009/05/26/ready-for-google-io-2009.html.html" title="Newer Post: Ready for Google I/O 2009">
+                            <a href="https://www.nickmoline.com/2009/05/26/ready-for-google-io-2009.html" title="Newer Post: Ready for Google I/O 2009">
                     Ready for Google I/O 2009 &RightArrow;
                 </a>
                     </div>

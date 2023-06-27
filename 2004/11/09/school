@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="School! | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/11/09/school.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/11/09/school.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>School! | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/11/09/school.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/11/09/school.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -158,13 +158,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/11/06/a-good-day.html.html" title="Older Post: A Good Day">
+                            <a href="https://www.nickmoline.com/2004/11/06/a-good-day.html" title="Older Post: A Good Day">
                     &LeftArrow; A Good Day
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/12/05/blog-upgrades.html.html" title="Newer Post: Blog Updated">
+                            <a href="https://www.nickmoline.com/2004/12/05/blog-upgrades.html" title="Newer Post: Blog Updated">
                     Blog Updated &RightArrow;
                 </a>
                     </div>

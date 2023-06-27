@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Justia Regulation Tracker | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2007/03/06/justia-regulation-tracker.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2007/03/06/justia-regulation-tracker.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Justia Regulation Tracker | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2007/03/06/justia-regulation-tracker.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2007/03/06/justia-regulation-tracker.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -114,7 +114,7 @@
         >News</a>
     
     <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
-        <p>Perhaps the most controversial aspect of this year&#8217;s MacWorld Conference and Expo, which my wife and I got to attend, was not the announcement of the iPhone, but the lack of the phrase &#8220;And now, one more thing&#8221; which has been Steve Jobs&#8217; catch phrase at his keynotes for quite some time now. Since Jobs didn&#8217;t use it this year, I&#8217;m going to shamelessly steal the phrase for the day and say &#8220;And Now, one more thing from Justia&#8221;. I mentioned <a href="https://www.nickmoline.com/2007/02/16/justia-dockets.html.html">previously</a>, that I was already working on the next project after Dockets and that Justia would be announcing it soon. My boss announced it today on a legal mailing list, so now I can finally talk about <a href="https://regulations.justia.com/">Justia Regulation Tracker</a> at <a href="http://www.regulationtracker.com/">RegulationTracker.com</a>!</p>
+        <p>Perhaps the most controversial aspect of this year&#8217;s MacWorld Conference and Expo, which my wife and I got to attend, was not the announcement of the iPhone, but the lack of the phrase &#8220;And now, one more thing&#8221; which has been Steve Jobs&#8217; catch phrase at his keynotes for quite some time now. Since Jobs didn&#8217;t use it this year, I&#8217;m going to shamelessly steal the phrase for the day and say &#8220;And Now, one more thing from Justia&#8221;. I mentioned <a href="https://www.nickmoline.com/2007/02/16/justia-dockets.html">previously</a>, that I was already working on the next project after Dockets and that Justia would be announcing it soon. My boss announced it today on a legal mailing list, so now I can finally talk about <a href="https://regulations.justia.com/">Justia Regulation Tracker</a> at <a href="http://www.regulationtracker.com/">RegulationTracker.com</a>!</p>
 
 <!--more-->
 
@@ -128,7 +128,7 @@
 
 <p>To find out more about Justia Regulation Tracker, check out <a href="https://lawblog.justia.com/2007/03/09/justia-regulation-tracker-beta-tracking-federal-regulations-rules-proposed-rules-and-notices/">this post</a> on Justia&#8217;s Legal Marketing Blog, or just visit <a href="https://regulations.justia.com/">RegulationTracker.com</a> and check it out for yourself.</p>
 
-<p>I&#8217;m once again really proud to have been able to be a part of such a great project and I&#8217;m looking forward to seeing how people review it. I&#8217;ve also been working hard on improving the <a href="http://dockets.justia.com/">Federal Dockets Project</a> I <a href="https://www.nickmoline.com/2007/02/16/justia-dockets.html.html">previously mentioned</a>. Now we fetch even more data then before and have found a more reliable source to update it more frequently. I enjoy going to the dockets page throughout the day just to see the number of dockets growing every single hour. We also now have more information then before, including the Cause of Action, and the Presiding and Referring Judge of the case, as well as if a jury was demanded on the case and if so, by whom. Now that this project has grown more stable, Justia has issued a <a href="https://www.businesswire.com/news/home/20070306006003/en/Justia-Launches-Free-Federal-District-Court-Filings">press release</a> to officially announce Justia Federal Court Filings &amp; Dockets.</p>
+<p>I&#8217;m once again really proud to have been able to be a part of such a great project and I&#8217;m looking forward to seeing how people review it. I&#8217;ve also been working hard on improving the <a href="http://dockets.justia.com/">Federal Dockets Project</a> I <a href="https://www.nickmoline.com/2007/02/16/justia-dockets.html">previously mentioned</a>. Now we fetch even more data then before and have found a more reliable source to update it more frequently. I enjoy going to the dockets page throughout the day just to see the number of dockets growing every single hour. We also now have more information then before, including the Cause of Action, and the Presiding and Referring Judge of the case, as well as if a jury was demanded on the case and if so, by whom. Now that this project has grown more stable, Justia has issued a <a href="https://www.businesswire.com/news/home/20070306006003/en/Justia-Launches-Free-Federal-District-Court-Filings">press release</a> to officially announce Justia Federal Court Filings &amp; Dockets.</p>
     </div>
 
             <div class="mb-10 pb-4">
@@ -142,13 +142,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2007/02/16/justia-dockets.html.html" title="Older Post: Justia Federal District Court Filings and Dockets">
+                            <a href="https://www.nickmoline.com/2007/02/16/justia-dockets.html" title="Older Post: Justia Federal District Court Filings and Dockets">
                     &LeftArrow; Justia Federal District Court Filings and Dockets
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2007/03/13/the-continuing-decline-of-viacom.html.html" title="Newer Post: The Continuing Decline of Viacom">
+                            <a href="https://www.nickmoline.com/2007/03/13/the-continuing-decline-of-viacom.html" title="Newer Post: The Continuing Decline of Viacom">
                     The Continuing Decline of Viacom &RightArrow;
                 </a>
                     </div>

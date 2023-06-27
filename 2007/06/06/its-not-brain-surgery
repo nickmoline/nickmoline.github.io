@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="It&#039;s not Brain Surgery | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2007/06/06/its-not-brain-surgery.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2007/06/06/its-not-brain-surgery.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>It&#039;s not Brain Surgery | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2007/06/06/its-not-brain-surgery.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2007/06/06/its-not-brain-surgery.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -146,13 +146,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2007/06/06/i-prefer-sir-nicholas-if-you-dont-mind.html.html" title="Older Post: I prefer &#039;Sir Nicholas&#039; if you don&#039;t mind.">
+                            <a href="https://www.nickmoline.com/2007/06/06/i-prefer-sir-nicholas-if-you-dont-mind.html" title="Older Post: I prefer &#039;Sir Nicholas&#039; if you don&#039;t mind.">
                     &LeftArrow; I prefer &#039;Sir Nicholas&#039; if you don&#039;t mind.
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2007/06/14/riding-on-air.html.html" title="Newer Post: Riding on air">
+                            <a href="https://www.nickmoline.com/2007/06/14/riding-on-air.html" title="Newer Post: Riding on air">
                     Riding on air &RightArrow;
                 </a>
                     </div>

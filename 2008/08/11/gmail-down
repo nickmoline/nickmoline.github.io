@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="GMail Down | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2008/08/11/gmail-down.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2008/08/11/gmail-down.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>GMail Down | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2008/08/11/gmail-down.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2008/08/11/gmail-down.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -140,13 +140,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2008/07/22/blogging-on-the-iphone.html.html" title="Older Post: Blogging on the iPhone">
+                            <a href="https://www.nickmoline.com/2008/07/22/blogging-on-the-iphone.html" title="Older Post: Blogging on the iPhone">
                     &LeftArrow; Blogging on the iPhone
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2008/08/19/hours-away-from-vacation.html.html" title="Newer Post: Vegas Vacation">
+                            <a href="https://www.nickmoline.com/2008/08/19/hours-away-from-vacation.html" title="Newer Post: Vegas Vacation">
                     Vegas Vacation &RightArrow;
                 </a>
                     </div>

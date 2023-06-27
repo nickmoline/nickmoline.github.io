@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Mashup Camp, Next Week | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2008/11/11/mashup-camp-next-week.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2008/11/11/mashup-camp-next-week.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Mashup Camp, Next Week | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2008/11/11/mashup-camp-next-week.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2008/11/11/mashup-camp-next-week.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -145,13 +145,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2008/10/03/lupus-awareness-month-october.html.html" title="Older Post: Lupus Awareness Month - October">
+                            <a href="https://www.nickmoline.com/2008/10/03/lupus-awareness-month-october.html" title="Older Post: Lupus Awareness Month - October">
                     &LeftArrow; Lupus Awareness Month - October
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2008/11/19/mashup-camp-7-wrapup.html.html" title="Newer Post: Mashup Camp 7 Wrapup">
+                            <a href="https://www.nickmoline.com/2008/11/19/mashup-camp-7-wrapup.html" title="Newer Post: Mashup Camp 7 Wrapup">
                     Mashup Camp 7 Wrapup &RightArrow;
                 </a>
                     </div>

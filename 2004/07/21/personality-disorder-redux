@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="My Situation compared to a year ago | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/07/21/personality-disorder-redux.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/07/21/personality-disorder-redux.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>My Situation compared to a year ago | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/07/21/personality-disorder-redux.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/07/21/personality-disorder-redux.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -109,7 +109,7 @@
         >Life</a>
     
     <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
-        <p>I was browsing through my archive, reading from back in the days that I updated this blog often and I found an entry a little over a year ago (July 12th, 2003) where <a href="https://www.nickmoline.com/2003/07/12/personality-disorder-test.html.html">I took a Personality Disorder test</a> and posted my results. The end of the results had a link to take the test so I thought it would be interesting if I took the test again to see how I grade a year later. Inside you can find results with their comparison&#8217;s to last year.</p>
+        <p>I was browsing through my archive, reading from back in the days that I updated this blog often and I found an entry a little over a year ago (July 12th, 2003) where <a href="https://www.nickmoline.com/2003/07/12/personality-disorder-test.html">I took a Personality Disorder test</a> and posted my results. The end of the results had a link to take the test so I thought it would be interesting if I took the test again to see how I grade a year later. Inside you can find results with their comparison&#8217;s to last year.</p>
 
 <!--more-->
 
@@ -237,13 +237,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/07/11/blog-birthday.html.html" title="Older Post: Bloggie BDay">
+                            <a href="https://www.nickmoline.com/2004/07/11/blog-birthday.html" title="Older Post: Bloggie BDay">
                     &LeftArrow; Bloggie BDay
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/07/22/busy-updating.html.html" title="Newer Post: Busily Updating">
+                            <a href="https://www.nickmoline.com/2004/07/22/busy-updating.html" title="Newer Post: Busily Updating">
                     Busily Updating &RightArrow;
                 </a>
                     </div>

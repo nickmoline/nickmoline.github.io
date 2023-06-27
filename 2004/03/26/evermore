@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Evermore | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/03/26/evermore.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/03/26/evermore.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Evermore | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/03/26/evermore.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/03/26/evermore.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -137,13 +137,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/03/25/microsoft-actd-phone.html.html" title="Older Post: Microsoft, ACTD, and cell phones">
+                            <a href="https://www.nickmoline.com/2004/03/25/microsoft-actd-phone.html" title="Older Post: Microsoft, ACTD, and cell phones">
                     &LeftArrow; Microsoft, ACTD, and cell phones
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/03/27/great-depression.html.html" title="Newer Post: The Great Depression, No not mine">
+                            <a href="https://www.nickmoline.com/2004/03/27/great-depression.html" title="Newer Post: The Great Depression, No not mine">
                     The Great Depression, No not mine &RightArrow;
                 </a>
                     </div>

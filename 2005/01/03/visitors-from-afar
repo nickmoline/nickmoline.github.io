@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Visitors from Afar | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2005/01/03/visitors-from-afar.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2005/01/03/visitors-from-afar.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Visitors from Afar | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2005/01/03/visitors-from-afar.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2005/01/03/visitors-from-afar.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -118,13 +118,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/12/11/still-here.html.html" title="Older Post: I&amp;#8217;m still here!">
+                            <a href="https://www.nickmoline.com/2004/12/11/still-here.html" title="Older Post: I&amp;#8217;m still here!">
                     &LeftArrow; I&amp;#8217;m still here!
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2005/01/24/drama-king.html.html" title="Newer Post: Don&#039;t be such a Drama King">
+                            <a href="https://www.nickmoline.com/2005/01/24/drama-king.html" title="Newer Post: Don&#039;t be such a Drama King">
                     Don&#039;t be such a Drama King &RightArrow;
                 </a>
                     </div>

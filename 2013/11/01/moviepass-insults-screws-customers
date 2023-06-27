@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="MoviePass Insults and screws its customers | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2013/11/01/moviepass-insults-screws-customers.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2013/11/01/moviepass-insults-screws-customers.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>MoviePass Insults and screws its customers | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2013/11/01/moviepass-insults-screws-customers.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2013/11/01/moviepass-insults-screws-customers.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -173,13 +173,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2013/07/26/one-year-post-op.html.html" title="Older Post: One Year Post-Op">
+                            <a href="https://www.nickmoline.com/2013/07/26/one-year-post-op.html" title="Older Post: One Year Post-Op">
                     &LeftArrow; One Year Post-Op
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2013/12/12/automatically-post-wordpress-blog-google-jetpack.html.html" title="Newer Post: Automatically post your WordPress blog to Google+ with Jetpack">
+                            <a href="https://www.nickmoline.com/2013/12/12/automatically-post-wordpress-blog-google-jetpack.html" title="Newer Post: Automatically post your WordPress blog to Google+ with Jetpack">
                     Automatically post your WordPress blog to Google+ with Jetpack &RightArrow;
                 </a>
                     </div>

@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Another Fantastic Google I/O | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2010/05/24/another-fantastic-google-io.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2010/05/24/another-fantastic-google-io.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Another Fantastic Google I/O | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2010/05/24/another-fantastic-google-io.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2010/05/24/another-fantastic-google-io.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -130,7 +130,7 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2010/03/20/the-biggest-decision-of-our-lives.html.html" title="Older Post: The Biggest Decision of our Lives">
+                            <a href="https://www.nickmoline.com/2010/03/20/the-biggest-decision-of-our-lives.html" title="Older Post: The Biggest Decision of our Lives">
                     &LeftArrow; The Biggest Decision of our Lives
                 </a>
                     </div>

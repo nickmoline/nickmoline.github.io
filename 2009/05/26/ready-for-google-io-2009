@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Ready for Google I/O 2009 | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2009/05/26/ready-for-google-io-2009.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2009/05/26/ready-for-google-io-2009.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Ready for Google I/O 2009 | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2009/05/26/ready-for-google-io-2009.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2009/05/26/ready-for-google-io-2009.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -116,7 +116,7 @@
         >Tech</a>
     
     <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
-        <p>My wife and are are checked into our hotel in San Francisco. Tomorrow begins <a href="http://code.google.com/io">Google I/O 2009</a> at the Moscone Center West in San Francisco. I&#8217;m quite looking forward to two days of Google Developer Goodness. I&#8217;m hoping that we&#8217;ll learn about a lot of great new updates to Google APIs and developer tools, and of course, I haven&#8217;t forgot about my prediction that <a href="https://www.nickmoline.com/2009/02/04/google-chrome-extensions-coming-out-by-may.html.html">Google Chrome will get Extensions at Google I/O</a>. I&#8217;m a little more cautious about saying that for sure, but I&#8217;m still pretty optimistic that it will happen, or at least we&#8217;ll get some sort of time table as to when we will.</p>
+        <p>My wife and are are checked into our hotel in San Francisco. Tomorrow begins <a href="http://code.google.com/io">Google I/O 2009</a> at the Moscone Center West in San Francisco. I&#8217;m quite looking forward to two days of Google Developer Goodness. I&#8217;m hoping that we&#8217;ll learn about a lot of great new updates to Google APIs and developer tools, and of course, I haven&#8217;t forgot about my prediction that <a href="https://www.nickmoline.com/2009/02/04/google-chrome-extensions-coming-out-by-may.html">Google Chrome will get Extensions at Google I/O</a>. I&#8217;m a little more cautious about saying that for sure, but I&#8217;m still pretty optimistic that it will happen, or at least we&#8217;ll get some sort of time table as to when we will.</p>
 
 <!--more-->
 
@@ -141,13 +141,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2009/04/24/internetcomputer-classics-dieing-off.html.html" title="Older Post: Internet/Computer Classics Dieing off">
+                            <a href="https://www.nickmoline.com/2009/04/24/internetcomputer-classics-dieing-off.html" title="Older Post: Internet/Computer Classics Dieing off">
                     &LeftArrow; Internet/Computer Classics Dieing off
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2009/05/27/i-was-wrong-turns-out-chrome-extensions-arent-ready-yet.html.html" title="Newer Post: I was wrong, Turns out Chrome Extensions aren&#039;t ready yet">
+                            <a href="https://www.nickmoline.com/2009/05/27/i-was-wrong-turns-out-chrome-extensions-arent-ready-yet.html" title="Newer Post: I was wrong, Turns out Chrome Extensions aren&#039;t ready yet">
                     I was wrong, Turns out Chrome Extensions aren&#039;t ready yet &RightArrow;
                 </a>
                     </div>

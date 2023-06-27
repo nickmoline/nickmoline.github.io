@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="JMac Rules | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/03/21/jmac-rules.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/03/21/jmac-rules.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>JMac Rules | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/03/21/jmac-rules.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/03/21/jmac-rules.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -118,13 +118,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/03/21/communication.html.html" title="Older Post: Communication">
+                            <a href="https://www.nickmoline.com/2004/03/21/communication.html" title="Older Post: Communication">
                     &LeftArrow; Communication
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/03/22/a-little-prayer.html.html" title="Newer Post: Say a little prayer">
+                            <a href="https://www.nickmoline.com/2004/03/22/a-little-prayer.html" title="Newer Post: Say a little prayer">
                     Say a little prayer &RightArrow;
                 </a>
                     </div>

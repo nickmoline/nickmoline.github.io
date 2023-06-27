@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Walk with me to End Lupus | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2014/04/18/walk-end-lupus.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2014/04/18/walk-end-lupus.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Walk with me to End Lupus | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2014/04/18/walk-end-lupus.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2014/04/18/walk-end-lupus.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -148,13 +148,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2013/12/12/automatically-post-wordpress-blog-google-jetpack.html.html" title="Older Post: Automatically post your WordPress blog to Google+ with Jetpack">
+                            <a href="https://www.nickmoline.com/2013/12/12/automatically-post-wordpress-blog-google-jetpack.html" title="Older Post: Automatically post your WordPress blog to Google+ with Jetpack">
                     &LeftArrow; Automatically post your WordPress blog to Google+ with Jetpack
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2014/05/20/looking-forward-third-annual-24-hour-disney-day.html.html" title="Newer Post: Looking forward to the Third annual 24 hour Disney Day">
+                            <a href="https://www.nickmoline.com/2014/05/20/looking-forward-third-annual-24-hour-disney-day.html" title="Newer Post: Looking forward to the Third annual 24 hour Disney Day">
                     Looking forward to the Third annual 24 hour Disney Day &RightArrow;
                 </a>
                     </div>

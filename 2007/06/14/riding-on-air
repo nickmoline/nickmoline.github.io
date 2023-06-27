@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Riding on air | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2007/06/14/riding-on-air.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2007/06/14/riding-on-air.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Riding on air | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2007/06/14/riding-on-air.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2007/06/14/riding-on-air.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -137,13 +137,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2007/06/06/its-not-brain-surgery.html.html" title="Older Post: It&#039;s not Brain Surgery">
+                            <a href="https://www.nickmoline.com/2007/06/06/its-not-brain-surgery.html" title="Older Post: It&#039;s not Brain Surgery">
                     &LeftArrow; It&#039;s not Brain Surgery
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2007/07/18/two-new-justia-services-thanks-google.html.html" title="Newer Post: Two new Justia Services, Thanks Google!">
+                            <a href="https://www.nickmoline.com/2007/07/18/two-new-justia-services-thanks-google.html" title="Newer Post: Two new Justia Services, Thanks Google!">
                     Two new Justia Services, Thanks Google! &RightArrow;
                 </a>
                     </div>

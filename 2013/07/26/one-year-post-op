@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="One Year Post-Op | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2013/07/26/one-year-post-op.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2013/07/26/one-year-post-op.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>One Year Post-Op | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2013/07/26/one-year-post-op.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2013/07/26/one-year-post-op.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -111,7 +111,7 @@
         >Health</a>
     
     <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
-        <p>1 Year ago today, I went to El Camino Hospital to <a href="https://www.nickmoline.com/2012/07/26/midnight-t-10-hours-go-time-stop-drinking-water.html.html" title="Midnight, T-10 hours to go, time to stop drinking water">have my Gastric Sleeve surgery</a>.  One year later I have lost 96 pounds since the Surgery, a total of 195 pounds since I started my weight loss journey.  It&#8217;s a shame I didn&#8217;t quite make it to 200 pounds total loss, but I&#8217;m very proud of my weight loss progress and I&#8217;m nowhere near done.</p>
+        <p>1 Year ago today, I went to El Camino Hospital to <a href="https://www.nickmoline.com/2012/07/26/midnight-t-10-hours-go-time-stop-drinking-water.html" title="Midnight, T-10 hours to go, time to stop drinking water">have my Gastric Sleeve surgery</a>.  One year later I have lost 96 pounds since the Surgery, a total of 195 pounds since I started my weight loss journey.  It&#8217;s a shame I didn&#8217;t quite make it to 200 pounds total loss, but I&#8217;m very proud of my weight loss progress and I&#8217;m nowhere near done.</p>
 
 <!--more-->
 
@@ -145,13 +145,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2013/04/23/warning-wordpress-brute-force-attack.html.html" title="Older Post: Warning: WordPress Brute Force Attack">
+                            <a href="https://www.nickmoline.com/2013/04/23/warning-wordpress-brute-force-attack.html" title="Older Post: Warning: WordPress Brute Force Attack">
                     &LeftArrow; Warning: WordPress Brute Force Attack
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2013/11/01/moviepass-insults-screws-customers.html.html" title="Newer Post: MoviePass Insults and screws its customers">
+                            <a href="https://www.nickmoline.com/2013/11/01/moviepass-insults-screws-customers.html" title="Newer Post: MoviePass Insults and screws its customers">
                     MoviePass Insults and screws its customers &RightArrow;
                 </a>
                     </div>

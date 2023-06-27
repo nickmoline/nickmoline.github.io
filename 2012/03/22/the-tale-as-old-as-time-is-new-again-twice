@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="The Tale as old as Time, is new again (twice) | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2012/03/22/the-tale-as-old-as-time-is-new-again-twice.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2012/03/22/the-tale-as-old-as-time-is-new-again-twice.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>The Tale as old as Time, is new again (twice) | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2012/03/22/the-tale-as-old-as-time-is-new-again-twice.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2012/03/22/the-tale-as-old-as-time-is-new-again-twice.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -149,13 +149,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2012/03/20/pubsubhubbub-headaches.html.html" title="Older Post: What&#039;s all the Hubbub about anyway?">
+                            <a href="https://www.nickmoline.com/2012/03/20/pubsubhubbub-headaches.html" title="Older Post: What&#039;s all the Hubbub about anyway?">
                     &LeftArrow; What&#039;s all the Hubbub about anyway?
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2012/03/27/google-io-sells-out-in-less-than-a-half-hour.html.html" title="Newer Post: Google I/O 2012 Sells out in less than a half hour">
+                            <a href="https://www.nickmoline.com/2012/03/27/google-io-sells-out-in-less-than-a-half-hour.html" title="Newer Post: Google I/O 2012 Sells out in less than a half hour">
                     Google I/O 2012 Sells out in less than a half hour &RightArrow;
                 </a>
                     </div>

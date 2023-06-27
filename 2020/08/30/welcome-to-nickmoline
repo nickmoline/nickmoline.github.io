@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Welcome to the new NickMoline.com | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2020/08/30/welcome-to-nickmoline.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2020/08/30/welcome-to-nickmoline.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Welcome to the new NickMoline.com | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2020/08/30/welcome-to-nickmoline.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2020/08/30/welcome-to-nickmoline.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -136,9 +136,9 @@
 
 <p>While it is possible (and in fact normal) to make AMP Equivalent versions of existing non-AMP pages for the sake of having the performance of AMP while not sacrificing the interactivity of non-AMP pages, I have long believed it is just as possible to have all of that same interactivity without sacrificing AMP, and as such I made the decision to go AMP only with my site.</p>
 
-<p>You can see evidence of this interactivity throughout this site, from things as simple as <a href="https://www.nickmoline.com/2019/05/30/google-io-2019-io19.html.html">embedded youtube videos</a>, to more complex things such as <a href="https://www.nickmoline.com/2008/08/19/hours-away-from-vacation.html.html">photo gallery sliders with lightbox popups</a> and <a href="https://www.nickmoline.com/2003/09/05/internet-fads.html.html">hovering videos that keep playing after you scroll away</a>, all without compromising AMP's various benefits.</p>
+<p>You can see evidence of this interactivity throughout this site, from things as simple as <a href="https://www.nickmoline.com/2019/05/30/google-io-2019-io19.html">embedded youtube videos</a>, to more complex things such as <a href="https://www.nickmoline.com/2008/08/19/hours-away-from-vacation.html">photo gallery sliders with lightbox popups</a> and <a href="https://www.nickmoline.com/2003/09/05/internet-fads.html">hovering videos that keep playing after you scroll away</a>, all without compromising AMP's various benefits.</p>
 
-<p>For example on pages with lots of images or embeds such as my post about <a href="https://www.nickmoline.com/2019/05/30/google-io-2019-io19.html.html">Google I/O 2019</a>, the embeds are only loaded as you scroll down the page, allowing what would normally stall rendering to be deferred until you scroll.</p>
+<p>For example on pages with lots of images or embeds such as my post about <a href="https://www.nickmoline.com/2019/05/30/google-io-2019-io19.html">Google I/O 2019</a>, the embeds are only loaded as you scroll down the page, allowing what would normally stall rendering to be deferred until you scroll.</p>
 
 <p>In time I plan to add even more interactivity into this site by implementing <a href="https://web.dev/progressive-web-apps/">Progressive Web Apps</a> using <a href="https://amp.dev/documentation/components/amp-install-serviceworker/">amp-install-serviceworker</a> to enable PWA functionality in my AMP page.  <code>amp-install-serviceworker</code> allows AMP developers to implement the more dynamic functions that typically require extensive javascript libraries without compromising AMP's requirements by installing it in the background after the content of the page has loaded.  Future loads of the site after that point will be even faster as the service worker will initiate right away and render the more dynamic content immediately upon page load.</p>
 
@@ -167,7 +167,7 @@
 
 <h3>Cleaning Up Content</h3>
 
-<p>Since I went through every post by hand, I spent time cleaning up old pages that were originally marked up in XHTML or even <a href="https://www.nickmoline.com/2004/08/17/archive-tweaks.html.html">HTML4</a>.  Some particularly bad posts include a <a href="https://www.nickmoline.com/2006/05/30/personality-test.html.html">personality test</a> I took back in 2006 which had multiple embedded tables and had Gauges made by repeating pipe symbols (<code>|</code>) to varying widths.  Without modifying the content of these posts, I took the liberty of redoing their markup using HTML 5 techniques including the same <code>&lt;progress&gt;</code> tag that I was using for the tracking gauge I had put up for tracking migration of the site.</p>
+<p>Since I went through every post by hand, I spent time cleaning up old pages that were originally marked up in XHTML or even <a href="https://www.nickmoline.com/2004/08/17/archive-tweaks.html">HTML4</a>.  Some particularly bad posts include a <a href="https://www.nickmoline.com/2006/05/30/personality-test.html">personality test</a> I took back in 2006 which had multiple embedded tables and had Gauges made by repeating pipe symbols (<code>|</code>) to varying widths.  Without modifying the content of these posts, I took the liberty of redoing their markup using HTML 5 techniques including the same <code>&lt;progress&gt;</code> tag that I was using for the tracking gauge I had put up for tracking migration of the site.</p>
 
 <p>I also have corrected numerous spelling errors and other grammatical mistakes that I found highly embarrassing, again without altering the meaning or content of the posts.</p>
 
@@ -175,7 +175,7 @@
 
 <h3>Tracking Migration</h3>
 
-<p>I've been doing this migration slowly over the last 2 weeks.  Rather than wait for it to be complete, I put it up on nickmoline.com while leaving nick.pro operational, and put a status gauge on the home page indicating how much of the site had been migrated.  To prevent having to change this over and over manually, I did some simple trickery using Jekyll collections to <a href="https://www.nickmoline.com/2020/08/21/automating-progress-bar-in-jekyll.html.html">automate the gauge during Jekyll Builds</a>.  Be sure to check out <a href="https://www.nickmoline.com/2020/08/21/automating-progress-bar-in-jekyll.html.html">the post</a> for more on how I did this as well as to see what the gauge displayed over that time.</p>
+<p>I've been doing this migration slowly over the last 2 weeks.  Rather than wait for it to be complete, I put it up on nickmoline.com while leaving nick.pro operational, and put a status gauge on the home page indicating how much of the site had been migrated.  To prevent having to change this over and over manually, I did some simple trickery using Jekyll collections to <a href="https://www.nickmoline.com/2020/08/21/automating-progress-bar-in-jekyll.html">automate the gauge during Jekyll Builds</a>.  Be sure to check out <a href="https://www.nickmoline.com/2020/08/21/automating-progress-bar-in-jekyll.html">the post</a> for more on how I did this as well as to see what the gauge displayed over that time.</p>
 
 <p>{% include migration-progress.html %}</p>
 
@@ -211,13 +211,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2020/08/21/automating-progress-bar-in-jekyll.html.html" title="Older Post: Automating the site migration progress bar in Jekyll">
+                            <a href="https://www.nickmoline.com/2020/08/21/automating-progress-bar-in-jekyll.html" title="Older Post: Automating the site migration progress bar in Jekyll">
                     &LeftArrow; Automating the site migration progress bar in Jekyll
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2020/10/04/the-next-adventure.html.html" title="Newer Post: Rolling up a New Character">
+                            <a href="https://www.nickmoline.com/2020/10/04/the-next-adventure.html" title="Newer Post: Rolling up a New Character">
                     Rolling up a New Character &RightArrow;
                 </a>
                     </div>

@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Remembering Internet Fads | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2003/09/05/internet-fads.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2003/09/05/internet-fads.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Remembering Internet Fads | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2003/09/05/internet-fads.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2003/09/05/internet-fads.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -142,13 +142,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2003/09/02/headaches-hatred-worries.html.html" title="Older Post: Headaches, Work Hatred, and worries of love">
+                            <a href="https://www.nickmoline.com/2003/09/02/headaches-hatred-worries.html" title="Older Post: Headaches, Work Hatred, and worries of love">
                     &LeftArrow; Headaches, Work Hatred, and worries of love
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2003/09/11/tired-and-writing.html.html" title="Newer Post: Tired and writing">
+                            <a href="https://www.nickmoline.com/2003/09/11/tired-and-writing.html" title="Newer Post: Tired and writing">
                     Tired and writing &RightArrow;
                 </a>
                     </div>

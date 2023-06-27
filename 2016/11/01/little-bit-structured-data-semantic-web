@@ -8,7 +8,7 @@
 
         <meta property="og:title" content="A little bit about Structured Data and the Semantic Web | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2016/11/01/little-bit-structured-data-semantic-web.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2016/11/01/little-bit-structured-data-semantic-web.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>A little bit about Structured Data and the Semantic Web | NickMoline.com</title>
@@ -138,7 +138,7 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2016/10/10/claim-harry-potter-cursed-child-anti-feminist.html.html" title="Older Post: On the claim that Harry Potter and the Cursed Child is anti-feminist">
+                            <a href="https://www.nickmoline.com/2016/10/10/claim-harry-potter-cursed-child-anti-feminist.html" title="Older Post: On the claim that Harry Potter and the Cursed Child is anti-feminist">
                     &LeftArrow; On the claim that Harry Potter and the Cursed Child is anti-feminist
                 </a>
                     </div>

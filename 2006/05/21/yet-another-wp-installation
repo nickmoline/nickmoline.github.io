@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Yet another WP Installation | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2006/05/21/yet-another-wp-installation.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2006/05/21/yet-another-wp-installation.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Yet another WP Installation | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2006/05/21/yet-another-wp-installation.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2006/05/21/yet-another-wp-installation.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -128,13 +128,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2006/05/21/a-wedding.html.html" title="Older Post: A Wedding">
+                            <a href="https://www.nickmoline.com/2006/05/21/a-wedding.html" title="Older Post: A Wedding">
                     &LeftArrow; A Wedding
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2006/05/30/personality-test.html.html" title="Newer Post: Personality Test">
+                            <a href="https://www.nickmoline.com/2006/05/30/personality-test.html" title="Newer Post: Personality Test">
                     Personality Test &RightArrow;
                 </a>
                     </div>

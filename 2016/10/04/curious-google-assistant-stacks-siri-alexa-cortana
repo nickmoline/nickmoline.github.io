@@ -8,7 +8,7 @@
 
         <meta property="og:title" content="Curious how the Google Assistant stacks up against Siri, Alexa and Cortana?  So was I | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2016/10/04/curious-google-assistant-stacks-siri-alexa-cortana.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2016/10/04/curious-google-assistant-stacks-siri-alexa-cortana.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Curious how the Google Assistant stacks up against Siri, Alexa and Cortana?  So was I | NickMoline.com</title>
@@ -180,13 +180,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2014/09/21/time-keeping-cycle.html.html" title="Older Post: The Time Keeping Cycle">
+                            <a href="https://www.nickmoline.com/2014/09/21/time-keeping-cycle.html" title="Older Post: The Time Keeping Cycle">
                     &LeftArrow; The Time Keeping Cycle
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2016/10/09/how-i-am-voting-this-election.html.html" title="Newer Post: How I am voting this election">
+                            <a href="https://www.nickmoline.com/2016/10/09/how-i-am-voting-this-election.html" title="Newer Post: How I am voting this election">
                     How I am voting this election &RightArrow;
                 </a>
                     </div>

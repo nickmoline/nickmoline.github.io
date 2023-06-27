@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Amazon down but not out | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2008/06/06/amazon-down-but-not-out.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2008/06/06/amazon-down-but-not-out.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Amazon down but not out | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2008/06/06/amazon-down-but-not-out.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2008/06/06/amazon-down-but-not-out.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -146,13 +146,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2008/06/02/nick-moline-in-pc-world.html.html" title="Older Post: Interview with Nick Moline published in PC World Magazine!">
+                            <a href="https://www.nickmoline.com/2008/06/02/nick-moline-in-pc-world.html" title="Older Post: Interview with Nick Moline published in PC World Magazine!">
                     &LeftArrow; Interview with Nick Moline published in PC World Magazine!
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2008/06/06/amazon-still-down-stocks-to.html.html" title="Newer Post: Amazon Still down, money down too">
+                            <a href="https://www.nickmoline.com/2008/06/06/amazon-still-down-stocks-to.html" title="Newer Post: Amazon Still down, money down too">
                     Amazon Still down, money down too &RightArrow;
                 </a>
                     </div>

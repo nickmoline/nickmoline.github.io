@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Web Intents are Great | Web Intents are Horrible | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2012/05/30/web-intents-atom-annoyance.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2012/05/30/web-intents-atom-annoyance.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Web Intents are Great | Web Intents are Horrible | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2012/05/30/web-intents-atom-annoyance.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2012/05/30/web-intents-atom-annoyance.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -151,13 +151,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2012/04/24/youll-neverpossibly-need-to-delete-another-message.html.html" title="Older Post: You&#039;ll &lt;del&gt;never&lt;/del&gt; &lt;ins&gt;probably&lt;/ins&gt; need to delete another message">
+                            <a href="https://www.nickmoline.com/2012/04/24/youll-neverpossibly-need-to-delete-another-message.html" title="Older Post: You&#039;ll &lt;del&gt;never&lt;/del&gt; &lt;ins&gt;probably&lt;/ins&gt; need to delete another message">
                     &LeftArrow; You&#039;ll &lt;del&gt;never&lt;/del&gt; &lt;ins&gt;probably&lt;/ins&gt; need to delete another message
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2012/06/01/weight-loss-update-and-transparency.html.html" title="Newer Post: Weight Loss Update and transparency">
+                            <a href="https://www.nickmoline.com/2012/06/01/weight-loss-update-and-transparency.html" title="Newer Post: Weight Loss Update and transparency">
                     Weight Loss Update and transparency &RightArrow;
                 </a>
                     </div>

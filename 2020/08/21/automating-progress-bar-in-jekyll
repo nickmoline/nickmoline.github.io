@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Automating the site migration progress bar in Jekyll | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2020/08/21/automating-progress-bar-in-jekyll.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2020/08/21/automating-progress-bar-in-jekyll.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Automating the site migration progress bar in Jekyll | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2020/08/21/automating-progress-bar-in-jekyll.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2020/08/21/automating-progress-bar-in-jekyll.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -254,7 +254,7 @@ out of &lt;strong&gt;{{ total_post_count | floor }}&lt;/strong&gt; posts migrate
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2020/08/30/welcome-to-nickmoline.html.html" title="Newer Post: Welcome to the new NickMoline.com">
+                            <a href="https://www.nickmoline.com/2020/08/30/welcome-to-nickmoline.html" title="Newer Post: Welcome to the new NickMoline.com">
                     Welcome to the new NickMoline.com &RightArrow;
                 </a>
                     </div>

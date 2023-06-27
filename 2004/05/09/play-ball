@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Play Ball!!!! | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/05/09/play-ball.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/05/09/play-ball.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Play Ball!!!! | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/05/09/play-ball.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/05/09/play-ball.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -144,13 +144,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/05/02/gallery.html.html" title="Older Post: New Site Area">
+                            <a href="https://www.nickmoline.com/2004/05/02/gallery.html" title="Older Post: New Site Area">
                     &LeftArrow; New Site Area
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/05/24/leavin-on-a-jet-plane.html.html" title="Newer Post: Leavin&#039; on a jet plane...">
+                            <a href="https://www.nickmoline.com/2004/05/24/leavin-on-a-jet-plane.html" title="Newer Post: Leavin&#039; on a jet plane...">
                     Leavin&#039; on a jet plane... &RightArrow;
                 </a>
                     </div>

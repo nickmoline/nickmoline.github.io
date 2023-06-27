@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Monitoring Weather Conditions | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2020/10/26/weather-tracking.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2020/10/26/weather-tracking.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Monitoring Weather Conditions | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2020/10/26/weather-tracking.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2020/10/26/weather-tracking.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -120,7 +120,7 @@
 
 <p>A couple of months ago, on a day the AQI in Sunnyvale was particularly bad (everything outside was tinted orange), I went ahead and purchased the <a href="https://ambientweather.com/amws2902.html">WS-2902C</a> along with the optional addon units for measuring the PM2.5 Air Quality (one of the main factors that the AQI is calculated from) both inside and outside my apartment.  I went with the Ambient Weather unit for a number of reasons.  Of course having those Air Quality sensors were a big part of it, but I also was interested in being able to track weather online.  The Ambient Weather unit had the extra interesting improvements of integration with both IFTTT and Google Assistant, which fits into my smarthome setup quite well.</p>
 
-<p>By the time my unit arrived however the air quality was marginally better, and more importantly it was looking more and more likely that I was going to end up moving out of the bay area (<a href="https://www.nickmoline.com/2020/10/04/the-next-adventure.html.html">I did</a>) so I didn't set it up.</p>
+<p>By the time my unit arrived however the air quality was marginally better, and more importantly it was looking more and more likely that I was going to end up moving out of the bay area (<a href="https://www.nickmoline.com/2020/10/04/the-next-adventure.html">I did</a>) so I didn't set it up.</p>
 
 <p>I haven't been in Irvine an entire month yet (heck I haven't even reached 2 weeks yet) and now there are evacuations in this very city because of wildfires down here.  At the moment my new home (shown below as the blue dot) is not yet under evacuation orders (or an evacuation warning), but the smoke is in the air and the air quality is once again bad.</p>
 
@@ -198,13 +198,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2020/10/04/the-next-adventure.html.html" title="Older Post: Rolling up a New Character">
+                            <a href="https://www.nickmoline.com/2020/10/04/the-next-adventure.html" title="Older Post: Rolling up a New Character">
                     &LeftArrow; Rolling up a New Character
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2021/03/04/learning-behind-the-stage.html.html" title="Newer Post: Growing Behind the Stage">
+                            <a href="https://www.nickmoline.com/2021/03/04/learning-behind-the-stage.html" title="Newer Post: Growing Behind the Stage">
                     Growing Behind the Stage &RightArrow;
                 </a>
                     </div>

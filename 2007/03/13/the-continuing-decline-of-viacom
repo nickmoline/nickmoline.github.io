@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="The Continuing Decline of Viacom | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2007/03/13/the-continuing-decline-of-viacom.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2007/03/13/the-continuing-decline-of-viacom.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>The Continuing Decline of Viacom | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2007/03/13/the-continuing-decline-of-viacom.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2007/03/13/the-continuing-decline-of-viacom.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -144,13 +144,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2007/03/06/justia-regulation-tracker.html.html" title="Older Post: Justia Regulation Tracker">
+                            <a href="https://www.nickmoline.com/2007/03/06/justia-regulation-tracker.html" title="Older Post: Justia Regulation Tracker">
                     &LeftArrow; Justia Regulation Tracker
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2007/03/25/tivo-making-a-come-back-watch-out-apple-tv.html.html" title="Newer Post: TiVo making a come back?  Watch out Apple TV.">
+                            <a href="https://www.nickmoline.com/2007/03/25/tivo-making-a-come-back-watch-out-apple-tv.html" title="Newer Post: TiVo making a come back?  Watch out Apple TV.">
                     TiVo making a come back?  Watch out Apple TV. &RightArrow;
                 </a>
                     </div>

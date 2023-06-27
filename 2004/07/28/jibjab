@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="JibJab | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/07/28/jibjab.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/07/28/jibjab.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>JibJab | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/07/28/jibjab.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/07/28/jibjab.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -118,13 +118,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/07/28/catch22.html.html" title="Older Post: Catch 22">
+                            <a href="https://www.nickmoline.com/2004/07/28/catch22.html" title="Older Post: Catch 22">
                     &LeftArrow; Catch 22
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/07/28/pop.html.html" title="Newer Post: Pop goes the...">
+                            <a href="https://www.nickmoline.com/2004/07/28/pop.html" title="Newer Post: Pop goes the...">
                     Pop goes the... &RightArrow;
                 </a>
                     </div>

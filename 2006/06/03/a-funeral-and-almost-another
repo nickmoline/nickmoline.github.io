@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="A Funeral (and almost another) | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2006/06/03/a-funeral-and-almost-another.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2006/06/03/a-funeral-and-almost-another.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>A Funeral (and almost another) | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2006/06/03/a-funeral-and-almost-another.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2006/06/03/a-funeral-and-almost-another.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -144,13 +144,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2006/05/30/personality-test.html.html" title="Older Post: Personality Test">
+                            <a href="https://www.nickmoline.com/2006/05/30/personality-test.html" title="Older Post: Personality Test">
                     &LeftArrow; Personality Test
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2006/06/21/testimony.html.html" title="Newer Post: Testimony">
+                            <a href="https://www.nickmoline.com/2006/06/21/testimony.html" title="Newer Post: Testimony">
                     Testimony &RightArrow;
                 </a>
                     </div>

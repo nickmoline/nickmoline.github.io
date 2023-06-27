@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Google I/O Part II: The Opening Keynote | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2008/06/01/google-io-part-ii-the-opening-keynote.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2008/06/01/google-io-part-ii-the-opening-keynote.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Google I/O Part II: The Opening Keynote | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2008/06/01/google-io-part-ii-the-opening-keynote.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2008/06/01/google-io-part-ii-the-opening-keynote.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -129,7 +129,7 @@
 <ol>
 <li><strong>Gears:</strong> They mentioned gears again, and invited up a developer from MySpace who showed off how they&#8217;ve added Gears implementation to the MySpace mail to do fast real time full text search using the local database. They also praised the developers of HTML5 for taking the power of Gears and putting it into what is an upcoming standard.</li>
 <li><strong>Android:</strong> Next Vic talked about Android, Google&#8217;s open source mobile stack, and brought up an Android developer to demo how Android works on a prototype model. I don&#8217;t do a lot of mobile development, so I won&#8217;t say much in any of my review articles about Android, however in the demo they did show one little sample of what could be done with an all-new mobile street view and a built in compass. The Android demo is at about 27 minutes into the keynote and I recommend you watch it because there is no way I can describe it that will match the impressive demo. One thing that is pretty cool about Android is that the web browser is Webkit, which is the same browser technology used on the iPhone. They showed off Google Grand Prix (the mobile version of google for the iPhone) and said that they did not have to make any changes for it to work on Android. This is pretty cool because it means if I develop a mobile app that takes advantage of iPhone capabilities, it will work just as well on Android devices, so perhaps I should start developing iPhone web apps after all.</li>
-<li><strong>App Engine:</strong> I won&#8217;t give a review of App Engine here, because I already <a href="https://www.nickmoline.com/2008/06/01/google-io-part-1-google-app-engine.html.html">Reviewed App Engine</a> in Part I of this series. The two big announcements that they made is that anybody can register an app on App Engine now (instead of the limited 10,000 user beta previously) and that they have pricing available now for the applications that go beyond the free quotas they&#8217;ve given.</li>
+<li><strong>App Engine:</strong> I won&#8217;t give a review of App Engine here, because I already <a href="https://www.nickmoline.com/2008/06/01/google-io-part-1-google-app-engine.html">Reviewed App Engine</a> in Part I of this series. The two big announcements that they made is that anybody can register an app on App Engine now (instead of the limited 10,000 user beta previously) and that they have pricing available now for the applications that go beyond the free quotas they&#8217;ve given.</li>
 <li><strong>GData APIs and AJAX APIs:</strong> Again I don&#8217;t want to review GData and AJAX APIs here because I went to a few of the sessions on this track and so I&#8217;ll review them elsewhere, plus this isn&#8217;t particularly new, as GData APIs have been out for a long time now. One thing that is really cool with the Google AJAX JavaScript API though is that they&#8217;ve added a new set of loaders in addition to their existing Google API loaders, you can now load various different versions of JQuery, Prototype, Scriptaculous, MooTools and dojo. This is pretty cool because when you develop rich applications in javascript using Google APIs, you tend to also use a javascript framework like one of the ones mentioned above. Now you can make one remote javascript load to google, and minimize the calls you have to make, very cool. It&#8217;s difficult for me to explain why this is is cool, so I won&#8217;t bother, instead, here&#8217;s another video that explains what&#8217;s great about it.</li>
 </ol>
 
@@ -164,13 +164,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2008/06/01/google-io-part-1-google-app-engine.html.html" title="Older Post: Google I/O Part I: Google App Engine">
+                            <a href="https://www.nickmoline.com/2008/06/01/google-io-part-1-google-app-engine.html" title="Older Post: Google I/O Part I: Google App Engine">
                     &LeftArrow; Google I/O Part I: Google App Engine
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2008/06/02/nick-moline-in-pc-world.html.html" title="Newer Post: Interview with Nick Moline published in PC World Magazine!">
+                            <a href="https://www.nickmoline.com/2008/06/02/nick-moline-in-pc-world.html" title="Newer Post: Interview with Nick Moline published in PC World Magazine!">
                     Interview with Nick Moline published in PC World Magazine! &RightArrow;
                 </a>
                     </div>

@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Loss of a laptop and a book | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2003/08/14/loss-of-a-laptop-and-a-book.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2003/08/14/loss-of-a-laptop-and-a-book.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Loss of a laptop and a book | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2003/08/14/loss-of-a-laptop-and-a-book.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2003/08/14/loss-of-a-laptop-and-a-book.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -133,13 +133,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2003/08/13/birthday-vacation.html.html" title="Older Post: Birthday updates">
+                            <a href="https://www.nickmoline.com/2003/08/13/birthday-vacation.html" title="Older Post: Birthday updates">
                     &LeftArrow; Birthday updates
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2003/08/17/birthday-shopping-and-play-watching.html.html" title="Newer Post: Birthday Shopping and Play watching">
+                            <a href="https://www.nickmoline.com/2003/08/17/birthday-shopping-and-play-watching.html" title="Newer Post: Birthday Shopping and Play watching">
                     Birthday Shopping and Play watching &RightArrow;
                 </a>
                     </div>

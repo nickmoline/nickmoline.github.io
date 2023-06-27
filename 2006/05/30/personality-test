@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Personality Test | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2006/05/30/personality-test.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2006/05/30/personality-test.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Personality Test | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2006/05/30/personality-test.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2006/05/30/personality-test.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -320,13 +320,13 @@ messy, depressed, introverted, feels invisible, does not make friends easily, ni
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2006/05/21/yet-another-wp-installation.html.html" title="Older Post: Yet another WP Installation">
+                            <a href="https://www.nickmoline.com/2006/05/21/yet-another-wp-installation.html" title="Older Post: Yet another WP Installation">
                     &LeftArrow; Yet another WP Installation
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2006/06/03/a-funeral-and-almost-another.html.html" title="Newer Post: A Funeral (and almost another)">
+                            <a href="https://www.nickmoline.com/2006/06/03/a-funeral-and-almost-another.html" title="Newer Post: A Funeral (and almost another)">
                     A Funeral (and almost another) &RightArrow;
                 </a>
                     </div>

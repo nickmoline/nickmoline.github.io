@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Nick Moline is on the air | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2006/08/31/nick-moline-is-on-the-air.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2006/08/31/nick-moline-is-on-the-air.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Nick Moline is on the air | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2006/08/31/nick-moline-is-on-the-air.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2006/08/31/nick-moline-is-on-the-air.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -124,13 +124,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2006/07/19/a-wedding-2.html.html" title="Older Post: A Wedding">
+                            <a href="https://www.nickmoline.com/2006/07/19/a-wedding-2.html" title="Older Post: A Wedding">
                     &LeftArrow; A Wedding
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2006/12/19/california-here-i-come.html.html" title="Newer Post: Life Changes">
+                            <a href="https://www.nickmoline.com/2006/12/19/california-here-i-come.html" title="Newer Post: Life Changes">
                     Life Changes &RightArrow;
                 </a>
                     </div>

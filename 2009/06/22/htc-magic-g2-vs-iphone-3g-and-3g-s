@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="HTC Magic (G2) vs iPhone 3G (and 3G S) | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2009/06/22/htc-magic-g2-vs-iphone-3g-and-3g-s.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2009/06/22/htc-magic-g2-vs-iphone-3g-and-3g-s.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>HTC Magic (G2) vs iPhone 3G (and 3G S) | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2009/06/22/htc-magic-g2-vs-iphone-3g-and-3g-s.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2009/06/22/htc-magic-g2-vs-iphone-3g-and-3g-s.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -145,13 +145,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2009/05/27/i-was-wrong-turns-out-chrome-extensions-arent-ready-yet.html.html" title="Older Post: I was wrong, Turns out Chrome Extensions aren&#039;t ready yet">
+                            <a href="https://www.nickmoline.com/2009/05/27/i-was-wrong-turns-out-chrome-extensions-arent-ready-yet.html" title="Older Post: I was wrong, Turns out Chrome Extensions aren&#039;t ready yet">
                     &LeftArrow; I was wrong, Turns out Chrome Extensions aren&#039;t ready yet
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2009/08/31/nickpro-migrated-to-drupal.html.html" title="Newer Post: Nick.pro Migrated to Drupal">
+                            <a href="https://www.nickmoline.com/2009/08/31/nickpro-migrated-to-drupal.html" title="Newer Post: Nick.pro Migrated to Drupal">
                     Nick.pro Migrated to Drupal &RightArrow;
                 </a>
                     </div>

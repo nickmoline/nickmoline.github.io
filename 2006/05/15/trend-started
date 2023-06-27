@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Trend Started | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2006/05/15/trend-started.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2006/05/15/trend-started.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Trend Started | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2006/05/15/trend-started.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2006/05/15/trend-started.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -128,13 +128,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2006/05/01/missing-year.html.html" title="Older Post: 525,600 minutes, how do you measure a year">
+                            <a href="https://www.nickmoline.com/2006/05/01/missing-year.html" title="Older Post: 525,600 minutes, how do you measure a year">
                     &LeftArrow; 525,600 minutes, how do you measure a year
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2006/05/16/image-editing-fool.html.html" title="Newer Post: Image Editing Fool">
+                            <a href="https://www.nickmoline.com/2006/05/16/image-editing-fool.html" title="Newer Post: Image Editing Fool">
                     Image Editing Fool &RightArrow;
                 </a>
                     </div>

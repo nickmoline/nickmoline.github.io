@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Busy | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/07/30/busy.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/07/30/busy.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Busy | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/07/30/busy.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/07/30/busy.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -104,7 +104,7 @@
             
         
     <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
-        <p>Following my <a href="https://www.nickmoline.com/2004/07/30/tired.html.html">Restless night&#8217;s sleep</a> I had a rather busy day. I received calls for support from the SWDCMA, from ERCC, and from FTMC. FTMC I handled over the phone, SWDCMA I started to handle remotely, but in the process of trying to fix their problem I had to upgrade the firmware on their router, which of course resulted in resetting the router&#8217;s settings to factory conditions. So I had to bum a ride from one of David&#8217;s friends to get over to the SWDCMA office and set the router back up.</p>
+        <p>Following my <a href="https://www.nickmoline.com/2004/07/30/tired.html">Restless night&#8217;s sleep</a> I had a rather busy day. I received calls for support from the SWDCMA, from ERCC, and from FTMC. FTMC I handled over the phone, SWDCMA I started to handle remotely, but in the process of trying to fix their problem I had to upgrade the firmware on their router, which of course resulted in resetting the router&#8217;s settings to factory conditions. So I had to bum a ride from one of David&#8217;s friends to get over to the SWDCMA office and set the router back up.</p>
 
 <!--more-->
 
@@ -123,13 +123,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/07/28/pop.html.html" title="Older Post: Pop goes the...">
+                            <a href="https://www.nickmoline.com/2004/07/28/pop.html" title="Older Post: Pop goes the...">
                     &LeftArrow; Pop goes the...
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/07/30/tired.html.html" title="Newer Post: Tired">
+                            <a href="https://www.nickmoline.com/2004/07/30/tired.html" title="Newer Post: Tired">
                     Tired &RightArrow;
                 </a>
                     </div>

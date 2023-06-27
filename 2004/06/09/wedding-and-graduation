@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="A Wedding, a Graduation, and other stories. | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/06/09/wedding-and-graduation.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/06/09/wedding-and-graduation.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>A Wedding, a Graduation, and other stories. | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/06/09/wedding-and-graduation.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/06/09/wedding-and-graduation.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -144,13 +144,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/06/09/may-with-imzadi.html.html" title="Older Post: The Vacation">
+                            <a href="https://www.nickmoline.com/2004/06/09/may-with-imzadi.html" title="Older Post: The Vacation">
                     &LeftArrow; The Vacation
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/06/19/vbs.html.html" title="Newer Post: Whew... Glad that&#039;s over">
+                            <a href="https://www.nickmoline.com/2004/06/19/vbs.html" title="Newer Post: Whew... Glad that&#039;s over">
                     Whew... Glad that&#039;s over &RightArrow;
                 </a>
                     </div>

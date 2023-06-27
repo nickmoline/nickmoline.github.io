@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Updated map | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/04/11/updated-map.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/04/11/updated-map.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Updated map | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/04/11/updated-map.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/04/11/updated-map.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -126,13 +126,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/04/04/dead-phone.html.html" title="Older Post: Dead Phone">
+                            <a href="https://www.nickmoline.com/2004/04/04/dead-phone.html" title="Older Post: Dead Phone">
                     &LeftArrow; Dead Phone
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/04/22/server-woes.html.html" title="Newer Post: Server woes">
+                            <a href="https://www.nickmoline.com/2004/04/22/server-woes.html" title="Newer Post: Server woes">
                     Server woes &RightArrow;
                 </a>
                     </div>

@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="For Narnia, and for Aslan! | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2008/05/17/for-narnia-and-for-aslan.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2008/05/17/for-narnia-and-for-aslan.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>For Narnia, and for Aslan! | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2008/05/17/for-narnia-and-for-aslan.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2008/05/17/for-narnia-and-for-aslan.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -130,13 +130,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2008/04/04/april-fools-the-finger.html.html" title="Older Post: 7-11 Gave me the Finger - and other stories...">
+                            <a href="https://www.nickmoline.com/2008/04/04/april-fools-the-finger.html" title="Older Post: 7-11 Gave me the Finger - and other stories...">
                     &LeftArrow; 7-11 Gave me the Finger - and other stories...
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2008/06/01/google-io-part-1-google-app-engine.html.html" title="Newer Post: Google I/O Part I: Google App Engine">
+                            <a href="https://www.nickmoline.com/2008/06/01/google-io-part-1-google-app-engine.html" title="Newer Post: Google I/O Part I: Google App Engine">
                     Google I/O Part I: Google App Engine &RightArrow;
                 </a>
                     </div>

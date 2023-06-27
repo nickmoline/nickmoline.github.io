@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Image Editing Fool | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2006/05/16/image-editing-fool.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2006/05/16/image-editing-fool.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Image Editing Fool | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2006/05/16/image-editing-fool.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2006/05/16/image-editing-fool.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -138,13 +138,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2006/05/15/trend-started.html.html" title="Older Post: Trend Started">
+                            <a href="https://www.nickmoline.com/2006/05/15/trend-started.html" title="Older Post: Trend Started">
                     &LeftArrow; Trend Started
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2006/05/16/updating-my-map-of-where-ive-been.html.html" title="Newer Post: Updating my map of where I&#039;ve been">
+                            <a href="https://www.nickmoline.com/2006/05/16/updating-my-map-of-where-ive-been.html" title="Newer Post: Updating my map of where I&#039;ve been">
                     Updating my map of where I&#039;ve been &RightArrow;
                 </a>
                     </div>

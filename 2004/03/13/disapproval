@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Disapproval all around | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2004/03/13/disapproval.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2004/03/13/disapproval.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Disapproval all around | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2004/03/13/disapproval.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2004/03/13/disapproval.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -122,13 +122,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2004/03/02/has-beens-and-wannabies.html.html" title="Older Post: Has Beens and Wannabies">
+                            <a href="https://www.nickmoline.com/2004/03/02/has-beens-and-wannabies.html" title="Older Post: Has Beens and Wannabies">
                     &LeftArrow; Has Beens and Wannabies
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2004/03/21/communication.html.html" title="Newer Post: Communication">
+                            <a href="https://www.nickmoline.com/2004/03/21/communication.html" title="Newer Post: Communication">
                     Communication &RightArrow;
                 </a>
                     </div>

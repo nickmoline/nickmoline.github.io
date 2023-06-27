@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Upgrades and hard work | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2008/12/11/upgrades-and-hard-work.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2008/12/11/upgrades-and-hard-work.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Upgrades and hard work | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2008/12/11/upgrades-and-hard-work.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2008/12/11/upgrades-and-hard-work.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -138,13 +138,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2008/11/19/mashup-camp-7-wrapup.html.html" title="Older Post: Mashup Camp 7 Wrapup">
+                            <a href="https://www.nickmoline.com/2008/11/19/mashup-camp-7-wrapup.html" title="Older Post: Mashup Camp 7 Wrapup">
                     &LeftArrow; Mashup Camp 7 Wrapup
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2009/01/15/is-the-book-better-than-the-movie.html.html" title="Newer Post: Is the book better than the movie?">
+                            <a href="https://www.nickmoline.com/2009/01/15/is-the-book-better-than-the-movie.html" title="Newer Post: Is the book better than the movie?">
                     Is the book better than the movie? &RightArrow;
                 </a>
                     </div>

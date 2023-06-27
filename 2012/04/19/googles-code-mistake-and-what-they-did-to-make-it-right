@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Google&#039;s Code Mistake, and what they did to make it right | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2012/04/19/googles-code-mistake-and-what-they-did-to-make-it-right.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2012/04/19/googles-code-mistake-and-what-they-did-to-make-it-right.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Google&#039;s Code Mistake, and what they did to make it right | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2012/04/19/googles-code-mistake-and-what-they-did-to-make-it-right.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2012/04/19/googles-code-mistake-and-what-they-did-to-make-it-right.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -116,7 +116,7 @@
         >Tech</a>
     
     <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
-        <p>This morning Google <a href="http://googledevelopers.blogspot.com/2012/04/code-jams-sprint-to-google-io.html" target="_blank">opened up a programming competition</a> using the same system as Google Code Jam (they called it the Google Code Jam Sprint to I/O) to win the right to buy 1 of 100 tickets to Google I/O.  Normal Registration for the conference closed <a href="https://www.nickmoline.com/2012/03/27/google-io-sells-out-in-less-than-a-half-hour.html.html" title="Google I/O 2012 Sells out in less than a half hour">20 minutes after it opened</a> back on March 27th due to the incredible demand, so naturally those developers who couldn&#8217;t get in before were excited and ready to battle for the chance to buy a ticket.</p>
+        <p>This morning Google <a href="http://googledevelopers.blogspot.com/2012/04/code-jams-sprint-to-google-io.html" target="_blank">opened up a programming competition</a> using the same system as Google Code Jam (they called it the Google Code Jam Sprint to I/O) to win the right to buy 1 of 100 tickets to Google I/O.  Normal Registration for the conference closed <a href="https://www.nickmoline.com/2012/03/27/google-io-sells-out-in-less-than-a-half-hour.html" title="Google I/O 2012 Sells out in less than a half hour">20 minutes after it opened</a> back on March 27th due to the incredible demand, so naturally those developers who couldn&#8217;t get in before were excited and ready to battle for the chance to buy a ticket.</p>
 
 <!--more-->
 
@@ -168,7 +168,7 @@ L M K<sub>1</sub> K<sub>2</sub> <em>...</em> K<sub><em>M</em></sub></p>
   <p>We&#8217;ve made a mistake in problem A. The correct output is 0, but it is being judged as wrong because 4 of our problem writers have independently made the same bug in their solutions. We would like to apologize for the confusion this has caused. We will send an email to all participants shortly, announcing our plan to resolve this issue in the least unfair manner possible. We take a lot of precautions to prevent mistakes like this, but we have messed up this time</p>
 </blockquote>
 
-<p>Now I did not enter this competition (I did the coding example just for the brain exercise, but I did not submit it) because I am <a href="https://www.nickmoline.com/2012/03/13/google-io-2012-here-i-come.html.html" title="Google I/O 2012 Here I come">already registered for Google I/O</a> and didn&#8217;t need the additional ticket for myself, but some of my coworkers did enter the competition, and they received an email a little while ago which included the following:</p>
+<p>Now I did not enter this competition (I did the coding example just for the brain exercise, but I did not submit it) because I am <a href="https://www.nickmoline.com/2012/03/13/google-io-2012-here-i-come.html" title="Google I/O 2012 Here I come">already registered for Google I/O</a> and didn&#8217;t need the additional ticket for myself, but some of my coworkers did enter the competition, and they received an email a little while ago which included the following:</p>
 
 <blockquote>
   <p>As you know, we intended to provide an opportunity to buy Google I/O tickets to the top 100 scorers. <strong>In light of our mistake, we&#8217;ve decided instead to offer this opportunity to all participants who have submitted any solution to either of the two problems</strong>. Please watch your inbox for a registration code coming shortly.</p>
@@ -213,13 +213,13 @@ L M K<sub>1</sub> K<sub>2</sub> <em>...</em> K<sub><em>M</em></sub></p>
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2012/03/27/perhaps-it-isnt-april-fools-day-after-all-pottermore-shop-now-open.html.html" title="Older Post: Perhaps it isn&#039;t April Fools day after all!  Pottermore Shop now open">
+                            <a href="https://www.nickmoline.com/2012/03/27/perhaps-it-isnt-april-fools-day-after-all-pottermore-shop-now-open.html" title="Older Post: Perhaps it isn&#039;t April Fools day after all!  Pottermore Shop now open">
                     &LeftArrow; Perhaps it isn&#039;t April Fools day after all!  Pottermore Shop now open
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2012/04/24/youll-neverpossibly-need-to-delete-another-message.html.html" title="Newer Post: You&#039;ll &lt;del&gt;never&lt;/del&gt; &lt;ins&gt;probably&lt;/ins&gt; need to delete another message">
+                            <a href="https://www.nickmoline.com/2012/04/24/youll-neverpossibly-need-to-delete-another-message.html" title="Newer Post: You&#039;ll &lt;del&gt;never&lt;/del&gt; &lt;ins&gt;probably&lt;/ins&gt; need to delete another message">
                     You&#039;ll &lt;del&gt;never&lt;/del&gt; &lt;ins&gt;probably&lt;/ins&gt; need to delete another message &RightArrow;
                 </a>
                     </div>

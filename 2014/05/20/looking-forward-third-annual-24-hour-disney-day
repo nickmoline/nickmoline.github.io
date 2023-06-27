@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Looking forward to the Third annual 24 hour Disney Day | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2014/05/20/looking-forward-third-annual-24-hour-disney-day.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2014/05/20/looking-forward-third-annual-24-hour-disney-day.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Looking forward to the Third annual 24 hour Disney Day | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2014/05/20/looking-forward-third-annual-24-hour-disney-day.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2014/05/20/looking-forward-third-annual-24-hour-disney-day.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -144,13 +144,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2014/04/18/walk-end-lupus.html.html" title="Older Post: Walk with me to End Lupus">
+                            <a href="https://www.nickmoline.com/2014/04/18/walk-end-lupus.html" title="Older Post: Walk with me to End Lupus">
                     &LeftArrow; Walk with me to End Lupus
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2014/06/04/mentioned-lately-much-hate-comcast.html.html" title="Newer Post: Have I mentioned lately how much I hate Comcast?">
+                            <a href="https://www.nickmoline.com/2014/06/04/mentioned-lately-much-hate-comcast.html" title="Newer Post: Have I mentioned lately how much I hate Comcast?">
                     Have I mentioned lately how much I hate Comcast? &RightArrow;
                 </a>
                     </div>

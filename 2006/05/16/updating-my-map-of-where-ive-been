@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="Updating my map of where I&#039;ve been | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2006/05/16/updating-my-map-of-where-ive-been.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2006/05/16/updating-my-map-of-where-ive-been.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>Updating my map of where I&#039;ve been | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2006/05/16/updating-my-map-of-where-ive-been.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2006/05/16/updating-my-map-of-where-ive-been.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -131,13 +131,13 @@
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2006/05/16/image-editing-fool.html.html" title="Older Post: Image Editing Fool">
+                            <a href="https://www.nickmoline.com/2006/05/16/image-editing-fool.html" title="Older Post: Image Editing Fool">
                     &LeftArrow; Image Editing Fool
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2006/05/21/a-wedding.html.html" title="Newer Post: A Wedding">
+                            <a href="https://www.nickmoline.com/2006/05/21/a-wedding.html" title="Newer Post: A Wedding">
                     A Wedding &RightArrow;
                 </a>
                     </div>

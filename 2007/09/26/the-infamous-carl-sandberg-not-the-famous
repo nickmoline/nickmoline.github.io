@@ -8,14 +8,14 @@
 
         <meta property="og:title" content="The infamous Carl Sandberg, not the famous. | NickMoline.com"/>
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nickmoline.com/2007/09/26/the-infamous-carl-sandberg-not-the-famous.html.html"/>
+        <meta property="og:url" content="https://www.nickmoline.com/2007/09/26/the-infamous-carl-sandberg-not-the-famous.html"/>
         <meta property="og:description" content="The Personal website of Nick Moline" />
 
         <title>The infamous Carl Sandberg, not the famous. | NickMoline.com</title>
 
         <link rel="home" href="https://www.nickmoline.com">
         <link rel="icon" href="/favicon.ico">
-        <link rel="canonical" href="https://www.nickmoline.com/2007/09/26/the-infamous-carl-sandberg-not-the-famous.html.html">
+        <link rel="canonical" href="https://www.nickmoline.com/2007/09/26/the-infamous-carl-sandberg-not-the-famous.html">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="NickMoline.com Atom Feed">
 
                     <!-- Insert analytics code here -->
@@ -189,13 +189,13 @@ On the right hand side of the group page, I noticed that the first &#8220;Relate
     
     <nav class="flex justify-between text-sm md:text-base">
         <div>
-                            <a href="https://www.nickmoline.com/2007/08/24/justia-dockets-upgraded-and-interview.html.html" title="Older Post: Justia Dockets Upgraded and Interview">
+                            <a href="https://www.nickmoline.com/2007/08/24/justia-dockets-upgraded-and-interview.html" title="Older Post: Justia Dockets Upgraded and Interview">
                     &LeftArrow; Justia Dockets Upgraded and Interview
                 </a>
                     </div>
 
         <div>
-                            <a href="https://www.nickmoline.com/2007/11/11/nickpro-finally-in-control.html.html" title="Newer Post: Nick.Pro Finally in control">
+                            <a href="https://www.nickmoline.com/2007/11/11/nickpro-finally-in-control.html" title="Newer Post: Nick.Pro Finally in control">
                     Nick.Pro Finally in control &RightArrow;
                 </a>
                     </div>
