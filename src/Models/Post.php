@@ -14,7 +14,7 @@ class Post extends CollectionItem
     public function getPermalink(): string
     {
         if ($this->permalink) {
-            return preg_replace("@/?$@", "", $this->permalink);
+            return preg_replace("@/$@", "", $this->permalink);
         }
         $date = $this->publishDate();
         $slug = preg_replace("@^(\d{4}-\d{2}-\d{2}-)@", "", $this->getFilename());
@@ -24,9 +24,9 @@ class Post extends CollectionItem
     public function getPath($key = null): string
     {
         if ($key) {
-            return preg_replace("@/?$@", "", parent::getPath($key));
+            return preg_replace("@/$@", "", parent::getPath($key));
         }
-        return preg_replace("@/?$@", "", $this->getPermalink());
+        return preg_replace("@/$@", "", $this->getPermalink());
     }
 
     public function categoryCollection(): Collection
@@ -45,7 +45,7 @@ class Post extends CollectionItem
                 'slug' => $slug,
                 'filename' => $filename,
                 'full_path' => $fullPath,
-                'path' => "/blog/categories/{$slug}/"
+                'path' => "/blog/categories/{$slug}.html"
             ];
         }
         return $data;
@@ -67,7 +67,7 @@ class Post extends CollectionItem
                 'slug' => $slug,
                 'filename' => $filename,
                 'full_path' => $fullPath,
-                'path' => "/blog/tags/{$slug}/"
+                'path' => "/blog/tags/{$slug}.html"
             ];
         }
         return $data;
